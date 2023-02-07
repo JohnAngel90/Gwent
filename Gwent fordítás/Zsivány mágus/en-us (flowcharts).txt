@@ -1,0 +1,423 @@
+﻿adventure.chapter1_flowchart_event10_beggar.dialogstory.0;Ahogy a városka fôutcáján sétálsz, egy, az út szélén kuporgó kéregetô lehajtja a fejét, és felfordított kalapját nyújtja feléd. „Volna némi apród?” – kérdezi halkan. – „Napok óta nem ettünk.”
+adventure.chapter1_flowchart_event10_beggar.dialogstory.1;Figyelemre sem méltatod a csupa kosz koldust és a kutyáját. Csak csöndben néznek utánad, ahogy tovább haladsz elôttük.
+adventure.chapter1_flowchart_event5_ambush.dialogstory.1;N/A
+adventure.chapter1_flowchart_event5_ambush.dialogstory.2;N/A
+adventure.flowchart_event1_stonealtar.dialogstory.4;Az oltár elôtt, a sárban térdelsz, és lehajtott fejjel elmélkedsz. Bár nem vagy az az ájtatos fajta, hogy finoman fogalmazzunk, ezért pihenésre és az eddig megtett utad fölötti merengésre használod ki e röpke idôt. És ettôl menten jobban érzed magad.
+adventure.flowchart_event1_stonealtar.dialogstory.5;Bár kételkedsz benne, de úgy érzed, mintha mégis lenne valami földöntúli ebben az oltárban. Elôveszel az iszákodból egy guriga sajtot, és az oltárkôre helyezed.\n\nHirtelen szél kerekedik, sötét fellegek gyülekeznek az égen, mennydörgés morajlik, majd villámok kezdenek cikázni a távolban.\n\n„Hmm,” – gondolod magadban, – „ez vagy egy hátborzongató egybeesés volt csupán, vagy mégis lehet valami az ôsi, pogány rituálékban.” Az istenek – vagy más, láthatatlan entitások – végre a kegyükbe fogadnak…
+adventure.flowchart_event1_stonealtar.dialogstory.6;Vállat vonsz, aztán egy kis szütyôben szárított gyümölcsöket helyezel a simára kopott kô mellé. Mégis, mi baj lehet belôle? Amúgy is marad még bôséges ellátmányod az útra.\n\nEltelik egy perc. Aztán még egy, majd egy újabb. De nem történik semmi. Vagyis pontosabban: a semmi történik. Ha lakja is bármiféle isten eme elhagyatott földet, annak kegyét bizonyára nem lehet elnyerni egy marék szárított fügével.\n\nLegközelebb talán valamilyen jobb áldozat megfelelôbb lesz…
+adventure.flowchart_event1_stonealtar.singlechoicemenu.2;[Felajánlást teszel] <color=#B95D5D>Veszítesz 5 Energiát</color>.
+adventure.flowchart_event1_stonealtar.singlechoicemenu.3;[Imádkozol] <color=#64DC64>Szerzel {EnergyRestorationModification_30} Energiát</color>.
+adventure.flowchart_event10_blizzard.dialogstory.0;A szél felerôsödik, maga elôtt porhóból álló szônyegeket terít szét, mielôtt viharrá teljesedne. A kezeddel véded arcodat a hó állhatatos rohamai, a förgetegben elôbb keringôt lejtô, majd rád zúduló jégkristályok ellen.
+adventure.flowchart_event10_blizzard.dialogstory.1;Jobb belátásod ellenére tovább menetelsz az egyre csak örvénylô hófüggönybe. Bizonyára hamarosan csillapodik ez a vihar…
+adventure.flowchart_event10_blizzard.dialogstory.2;Rendületlenül vonszolod maga elôre a hóban és fagyban, mert egyre biztosabb vagy abban, hogy a vihar hamarosan alábbhagy…
+adventure.flowchart_event10_blizzard.dialogstory.3;Amilyen gyorsan rákezdett, olyan hirtelen marad abba a hóvihar. De korántsem múlik el nyomtalanul.
+adventure.flowchart_event10_blizzard.dialogstory.4;Valami csoda folytán sikerül rálelned egy kisebb üregre a sziklák között, amiben meghúzhatod magad, amíg a hóvihar elül.
+adventure.flowchart_event10_blizzard.seteventtitle.0;Hóvihar
+adventure.flowchart_event10_blizzard.singlechoicemenu.0;[Tovább  haladsz]<color=#B95D5D>Kapsz</color> 1 {Wound} kártyát.
+adventure.flowchart_event10_blizzard.singlechoicemenu.1;[Fedezéket keresel] <color=#B95D5D>Veszítesz 15 Energiát</color>.
+adventure.flowchart_event10_blizzard.singlechoicemenu.2;[Fedezéket keresel] <color=#B95D5D>Veszítesz 10 Energiát</color>.
+adventure.flowchart_event10_blizzard.singlechoicemenu.3;[Fedezéket keresel] <color=#B95D5D>Veszítesz 5 Energiát</color>.
+adventure.flowchart_event11_cartographer.dialogstory.0;Egy vándortérképésszel találkozol, aki épp geográfiai adatokat gyûjt a régióról készülô térképéhez.\n\nMert rendkívül büszke a munkájára, felajánlja, hogy megmutatja neked az eddig elkészült mûvét.
+adventure.flowchart_event11_cartographer.dialogstory.1;Habár eléggé ismered már ezt a vidéket, mégis úgy gondolod, nem árthat, ha belepillantasz a kartográfus térképébe. Csak a biztonság kedvéért.
+adventure.flowchart_event11_cartographer.dialogstory.2;Szerencsére jól ismered már ezeket a földeket. Egy más ember szemszögébôl készített rajz csak összezavarna. Udvariasan elutasítod az ajánlatát, aztán magára hagyod a munkájával.
+adventure.flowchart_event11_cartographer.dialogstory.3;Újfent belebotlasz az utazó kartográfusba, aki még mindig az e vidékrôl készülô térképéhez gyûjti a geográfiai adatokat.\n\nNémi udvariaskodás után újfent felajánlja, hogy bepillantást enged a készülô – a legutóbbi találkozásotok óta pedig még több részlettel kiegészülô – mûvébe.
+adventure.flowchart_event11_cartographer.dialogstory.4;Tanulmányozod a térképet, és az új ismereteid tükrében tervezed meg további utadat.
+adventure.flowchart_event11_cartographer.seteventtitle.0;A kartográfus
+adventure.flowchart_event11_cartographer.singlechoicemenu.0;[Megtekintés]
+adventure.flowchart_event11_cartographer.singlechoicemenu.1;[Út választása] Átváltoztatja a következô csomópontot egy véletlenszerûre.
+adventure.flowchart_event11_cartographer.singlechoicemenu.3;[Út választása] Átváltoztatja a következô csomópontot erre: {RandomNode}.
+adventure.flowchart_event11_cartographer.singlechoicemenu.5;[Út választása] Átváltoztatja a következô csomópontot egy véletlenszerûre.
+adventure.flowchart_event12_wishingwell.dialogstory.0;Egy kis városka fôterén egy régmúlt idôkben épített, gyönyörû faragványokkal ékített kívánságkútra lelsz. A kút alján, a víz felszíne alatt, érméket és csecsebecséket látsz megcsillanni.
+adventure.flowchart_event12_wishingwell.dialogstory.1;Ez ugyan egy igazán szép kút, de az ilyen dolgok ritkán mágikusak. Felsóhajtasz, miközben arra gondolsz, hány ember vesztegette a pénzét olyan kívánságra, ami soha nem fog teljesülni. Aztán elsétálsz a kúttól.
+adventure.flowchart_event12_wishingwell.dialogstory.2;Egy petákot áldozol – pontosabban: herdálsz el – csekély felajánlás gyanánt.\n\n<color=#B95D5D>Veszítesz 10 Energiát</color>.
+adventure.flowchart_event12_wishingwell.dialogstory.3;Nem gondolod, hogy lesz bármi következménye, mégis úgy határozol, tiszteletben tartod a hagyományt. Miközben kívánsz, egy felajánlást hajítasz a kút vizébe.
+adventure.flowchart_event12_wishingwell.dialogstory.4;„Ha kíván valamit az ember, akkor már csinálja rendesen” – gondolod magadban. Nagy értékû érmét veszel elô, aztán a kútba dobod, és miközben az a vízbe csobban, elsuttogod a kívánságodat.\n\n<color=#64DC64>Szerzel {EnergyRestorationModification_25} Energiát</color>.
+adventure.flowchart_event12_wishingwell.dialogstory.5;Ha valaki azt akarja, hogy a kívánsága teljesüljön, ne fukarkodjon a felajánlással. Legalábbis így szólnak a mesék. „A lényeg az áldozathozatalban rejlik” – mormolod magad elé, közben pedig egy felbecsülhetetlen értékû felajánlást hajítasz a kút mélyébe és elmondod a kívánságodat.\n\n„A lényeg az áldozathozatalban rejlik” – ismétled önmagad, csak önnön magad megnyugtatása végett...\n\n<color=#64DC64>Szerzel {EnergyRestorationModification_50} Energiát</color>.
+adventure.flowchart_event12_wishingwell.dialogstory.6;Valami megmagyarázhatatlan sugallat arra ösztökél, hogy elôvedd az Arany Nekkert, és azt ajánld fel áldozat gyanánt. Valahogy ez érzôdik… a helyesnek…\n\nA kútba dobod a páratlan szobrocskát, aztán kívánsz.\n\n<color=#64DC64>Szerzel {EnergyRestorationModification_100} Energiát</color>.
+adventure.flowchart_event12_wishingwell.dialogstory.7;Egy, a kút alján pihenô, különös áldozati ajándékra leszel figyelmes. „Ki lehetett az a bolond, aki ezt feláldozta?” – gondolod magadban. Rövid töprengés után áthajolsz a káván, és kiveszed a kincset a vízbôl.
+adventure.flowchart_event12_wishingwell.seteventtitle.0;A kívánságkút
+adventure.flowchart_event12_wishingwell.singlechoicemenu.0;[Kívánsz egyet] <color=#B95D5D>Távolíts el</color> a paklidból 1 kártyát.
+adventure.flowchart_event12_wishingwell.singlechoicemenu.1;[Lenyúlsz érte] <color=#64DC64>Megkapod</color> ezt:\n{Temp+Upgrade}
+adventure.flowchart_event13_marketplace.dialogstory.0;A hét legforgalmasabb napján érkezel a városba. Az utakat vásárosok standjai szegélyezik, és árusok hirdetik nagy hangon portékáikat vagy alkudoznak a vevôikkel.
+adventure.flowchart_event13_marketplace.dialogstory.1;Soha nem mondasz le a lehetôségrôl, hogy feltöltsd a készleteidet. Átböngészed a kínálatot, majd beszerzed mindazt, amire az elôtted álló úton szükséged lehet.
+adventure.flowchart_event13_marketplace.dialogstory.2;Bár bölcsebb volna feltölteni a készleteidet, a piacon óriási a sokadalom. S mert nyomaszt a tömeg, úgy döntesz, inkább továbbállsz.\n\nAhogy nekiindulnál, egy gyanús kinézetû alak lép oda hozzád, hogy megvásárlásra kínálja néhány „különleges” áruját.
+adventure.flowchart_event13_marketplace.dialogstory.3;Mert nincs nála semmi számodra érdekes, elutasítod, aztán távozol a piactérrôl.
+adventure.flowchart_event13_marketplace.dialogstory.4;„Miért is ne?” – mondod huncut mosollyal az arcodon. A tapasztalat arra tanított, hogy a legérdekesebb dolgokra a leghomályosabb helyzetekben találhat rá az ember.\n\nAz alak egy sötét sikátorba vezet, ahol már várnak az üzlettársai a legkülönlegesebb kinézetû és formájú árucikkek társaságában.
+adventure.flowchart_event13_marketplace.dialogstory.5;„Uraim, öröm volt önökkel üzletelni” – mondod, és mielôtt távoznál, biccentesz egyet feléjük.\n\n„Részünkrôl az öröm, barátunk, részünkrôl az öröm” – felelik szinte egyszerre, miközben mohóságtól ragyogó tekintettel számolják megszerzett érméiket.
+adventure.flowchart_event13_marketplace.seteventtitle.0;Piacnap
+adventure.flowchart_event13_marketplace.singlechoicemenu.0;[Vásárolsz] Válassz 1 kártyát a 10 közül, és add a paklidhoz!
+adventure.flowchart_event13_marketplace.singlechoicemenu.1;[Távozol]
+adventure.flowchart_event13_marketplace.singlechoicemenu.2;[Elfogadod] <color=#B95D5D>Veszítesz 10 Energiát</color>.
+adventure.flowchart_event13_marketplace.singlechoicemenu.3;[Elutasítod]
+adventure.flowchart_event13_marketplace.singlechoicemenu.4;[Vásárolsz] Válassz 1 kártyát a 10 közül, és add a paklidhoz!
+adventure.flowchart_event14_poweroverwhelming.dialogstory.0;Egy instabil erôhelyre lelsz. Az állapotát figyelembe véve kockázatos volna meríteni belôle… De talán ha a {Pendant} lenne az, amit hordozó gyanánt használnál…
+adventure.flowchart_event14_poweroverwhelming.dialogstory.1;Egy instabil erôhelyre lelsz. Az állapotát figyelembe véve kockázatos volna meríteni belôle…
+adventure.flowchart_event14_poweroverwhelming.dialogstory.2;Energiát merítesz az erôhelybôl, és a medálban tárolod el azt.
+adventure.flowchart_event14_poweroverwhelming.dialogstory.3;Mert biztosnak érzed magad abban, hogy képes vagy a káosz megzabolázására, úgy döntesz, merítesz az erôhelybôl.\n\nEnergia önti el a tested, keresztül áramlik az izmaidon és beleszivárog a lelkedbe. Fáj, de nagyon jó érzés is egyben. Elpusztíthatatlannak érzed magad! Egy élô istennek!\n\nAztán a földre roskadsz, és úgy vonaglasz a fájdalomtól, mint soha korábban.
+adventure.flowchart_event14_poweroverwhelming.dialogstory.4;Túlságosan is tisztában vagy az ismeretlenben rejlô veszélyekkel. Úgy határozol, nem éri meg a kockázatot, és az erôhelyet hátrahagyva folytatod utadat.
+adventure.flowchart_event14_poweroverwhelming.seteventtitle.0;Instabil erôhely
+adventure.flowchart_event14_poweroverwhelming.singlechoicemenu.0;[Merítesz] <color=#64DC64>Szerzel {EnergyRestorationModification_1} - {EnergyRestorationModification_100} Energiát</color>.
+adventure.flowchart_event14_poweroverwhelming.singlechoicemenu.1;[Merítesz] <color=#64DC64>Szerzel {EnergyRestorationModification_1} - {EnergyRestorationModification_100} Energiát</color>. <color=#B95D5D>Kapsz</color> 2 {Injure} kártyát.
+adventure.flowchart_event15_gambler.dialogstory.0;Egy fogadóban szállsz meg éjszakára, és miután elköltöd a vacsorádat, egy helyi hazardôr invitál meg az asztalához kockázni.
+adventure.flowchart_event15_gambler.dialogstory.1;Mert nem vagy kockáztatós hangulatban, visszautasítod a meghívását, és aludni térsz a szobádba.
+adventure.flowchart_event15_gambler.dialogstory.10;A szerencsét hozónak gondolt mozdulatoddal rázod össze a kockákat, majd gurítasz…\n\nÉs nyersz!
+adventure.flowchart_event15_gambler.dialogstory.2;Szeretsz kockázni. Hogyan utasíthatnád hát vissza?\n\nMegteszed a tétedet, aztán dobsz a kockákkal…\n\nNyersz!
+adventure.flowchart_event15_gambler.dialogstory.3;Szeretsz kockázni. Hogyan utasíthatnád hát vissza?\n\nMegteszed a tétedet, aztán dobsz a kockákkal…\n\nÉs… veszítesz.
+adventure.flowchart_event15_gambler.dialogstory.4;A hazardôr, miközben a fejét ingatja, bosszúsan mormog. „Újra! Dupla vagy semmi!”
+adventure.flowchart_event15_gambler.dialogstory.5;„Haha! Így kell ezt csinálni!” – rikkantja a hazardôr, és magabiztos vigyor terül szét a képén.\n\nFújtatsz egyet és utánasuttogod: „Pff! Így kell ezt csinálni.” Aztán kifizeted és távozol, mielôtt még jobban megkopasztana a fickó.
+adventure.flowchart_event15_gambler.dialogstory.6;Mert mindig tudod, mikor kell abbahagyni, felmarkolod a nyereményedet és távozol.
+adventure.flowchart_event15_gambler.dialogstory.7;A hazardôr öklével az asztallapba bokszol. „Legyenek átkozottak az istenek! Fene a szerencsédbe! Újra!”
+adventure.flowchart_event15_gambler.dialogstory.8;„A szerencse telibetúrt nagyasszonya rád mosolygott! Ha!” – vakkantja a hazardôr. – „Fogd a nyereményedet és húzz el! A francba!”
+adventure.flowchart_event15_gambler.dialogstory.9;„Így kell ezt csinálni, Uraim” – mondod magabiztos mosollyal, aztán dobsz a kockákkal…\n\nA kockák pattognak, gurulnak, keresztül az asztal lapján, és… \n\nNyersz!
+adventure.flowchart_event15_gambler.seteventtitle.0;A szerencsejátékos
+adventure.flowchart_event15_gambler.singlechoicemenu.0;[Dobsz] <color=#B95D5D>Veszítesz 10 Energiát</color> vagy <color=#64DC64>szerzel {EnergyRestorationModification_20} Energiát</color>.
+adventure.flowchart_event15_gambler.singlechoicemenu.1;[Visszautasítod]
+adventure.flowchart_event15_gambler.singlechoicemenu.2;[Dobsz] <color=#B95D5D>Veszítesz 20 Energiát</color> vagy <color=#64DC64>szerzel {EnergyRestorationModification_40} Energiát</color>.
+adventure.flowchart_event15_gambler.singlechoicemenu.3;[Dobsz] <color=#B95D5D>Veszítesz 40 Energiát</color> vagy <color=#64DC64>szerzel {EnergyRestorationModification_80} Energiát</color>.
+adventure.flowchart_event16_ransackedcaravan.dialogstory.0;Egy csetepaté vagy félresiklott rajtaütés színhelyére érkezel: szétroncsolódott szekerek, holttestek és pocsékba ment áruk hevernek mindenfelé a földön. Talán érdemes lehet átkutatni a helyszínt.
+adventure.flowchart_event16_ransackedcaravan.dialogstory.1;Ahogy átforgatod a maradványokat, az egyik kereskedô holtteste alatt valami értékesre lelsz. Olybá tûnik, mintha az élete árán is rejteni próbálta volna a támadói elôl.
+adventure.flowchart_event16_ransackedcaravan.dialogstory.2;Csak a tekinteteddel pásztázod át a roncsokat. Nem gondolod, hogy maradt volna bármiféle érték, ami menthetô lenne. Ráadásul ez egy csapda is lehet. Úgy határozol, jobb elkerülni az efféle kockázatokat, ezért inkább elhagyod a helyet.
+adventure.flowchart_event16_ransackedcaravan.seteventtitle.0;Kifosztott karaván
+adventure.flowchart_event16_ransackedcaravan.singlechoicemenu.0;[Átkutatod a helyszínt] <color=#64DC64>Megkapod</color> ezt:\n{Treasure}.
+adventure.flowchart_event17_ancientwriting.dialogstory.0;Már rég rád esteledik, amikor a telihold fényében fürdô, szokatlan elf építmények romjaira bukkansz. Különös, halványan izzó szimbólumokat fedezel fel számos falmaradványon és oszlopon.\n\nMindig is szerettél az ôsi szkriptúrák megfejtésével bíbelôdni, ezért úgy döntesz, elidôzöl itt és próbálod megérteni a rejtélyes vésetek jelentését.
+adventure.flowchart_event17_ancientwriting.dialogstory.1;Elméd lázasan dolgozik az ôsi szövegek megfejtésén.\n\nÚgy tûnik, kérdések sorozatát látod.\n\nElôfordulhat, hogy tévedsz, de úgy gondolod, hogy az elsô kérdésre a válasz:
+adventure.flowchart_event17_ancientwriting.dialogstory.10;Már rég rád esteledik, amikor a telihold fényében fürdô, szokatlan elf építmények romjaira bukkansz. Különös, halványan izzó szimbólumokat fedezel fel számos falmaradványon és oszlopon.\n\nAhogy közelítesz a különös vésetek felé, {Eye} zümmögni és fényleni kezd. Úgy döntesz, hogy használod a relikviát, és jobbra-balra kezdesz pásztázni vele magad elôtt.
+adventure.flowchart_event17_ancientwriting.dialogstory.2;Megdörzsölöd az állad és felvonod a szemöldöködet. Általában ezt szoktad, amikor gondolkozol.\n\nBár nem vagy teljességgel biztos a következtetésed helyességében, de meglehetôs nagy bizonyossággal feltételezed, hogy ezúttal ez a válasz:
+adventure.flowchart_event17_ancientwriting.dialogstory.3;Elég hosszan merengtél a szimbólumok jelentésén ahhoz, hogy nagy bátorsággal ki merd jelenteni: érted az írást.\n\nMég egyszer átfuttatod a tekintetedet a teljes szövegen, aztán döntesz a választ illetôen:
+adventure.flowchart_event17_ancientwriting.dialogstory.4;Vársz egy pillanatig, ám semmi sem történik. „Bizonyára elkopott a vésetek egy része” – gondolod magadban. Úgy döntesz, nem vesztegeted tovább az idôdet, és inkább továbbállsz.
+adventure.flowchart_event17_ancientwriting.dialogstory.5;Egy illúzió alkotta fal enyészik semmivé. Mögüle nappali fényesség ragyog elô.
+adventure.flowchart_event17_ancientwriting.dialogstory.6;A ragyogás csábítóan csalogató, ezért felé nyúlsz a kezeddel. Erre a fény kialszik, még mielôtt megérinthetnéd.
+adventure.flowchart_event17_ancientwriting.dialogstory.7;A ragyogás csábítóan csalogató, ezért felé nyúlsz a kezeddel. Amint megérinted, a fény tovatûnik, és csak kellemesen bizsergetô meleg marad utána az ujjbegyeiden.
+adventure.flowchart_event17_ancientwriting.dialogstory.8;A ragyogás csábítóan csalogató, ezért felé nyúlsz a kezeddel. Ahogy megérinted, felizzik, aztán beléd áramlik. Egy pillanatra égetô érzés jár át legbelül, de a fájdalom gyorsan egy kellemesen sugárzó, az egész testedet átható melegségnek adja át a helyét.
+adventure.flowchart_event17_ancientwriting.dialogstory.9;Habár nem egészen érted, mi is történt, úgy gondolod, hogy jobb, ha nem idôzöl itt tovább.
+adventure.flowchart_event17_ancientwriting.seteventtitle.0;Ôsi írás
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.0;[Erô]
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.1;[Tudás]
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.2;[Rend]
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.3;[Káosz]
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.4;[Élet]
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.5;[Halál]
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.6;[Megérinted] <color=#64DC64>Fejlessz fel</color> egy egységet 2 ponttal!
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.7;[Megérinted] <color=#64DC64>Fejlessz fel</color> egy egységet 5 ponttal!
+adventure.flowchart_event17_ancientwriting.singlechoicemenu.8;[Megérinted] <color=#64DC64>Felfejlesztesz</color> minden egységet a paklidban 1 ponttal.
+adventure.flowchart_event18_avalanche.dialogstory.0;Egy szurdokban haladsz éppen, amikor egy fehér sárkány suhan el fölötted, majd megtelepszik az egyik jég födte csúcson a magasban. Széttárja a szárnyait, elüvölti magát, majd felröppen, és csapkodni kezd hatalmas szárnyaival.\n\nA csodálatos teremtmény alatti oromról rögvest megindul a hó, és lavinává válva, hamar alaktalan fehér masszaként zúdul alá a hegyoldalon. Csupán néhány perc alatt jégbôl, hóból és sziklákból álló, a szurdok tetejéig tornyosuló torlasz zárja el elôtted a völgyet.
+adventure.flowchart_event18_avalanche.dialogstory.1;„Kis kellemetlenség csupán” – sóhajtod. Ám mert egy mágus vagy, számodra ez nem probléma.\n\nAz ôselemi síkok egyikérôl merítve energiát telekinetikus erôddel emeled arrébb a torlasz egy jégbôl, hóból és kövekbôl álló nagyobb szeletét. Hamarosan csinos kis ösvényt vágsz magadnak az omladékon keresztül.
+adventure.flowchart_event18_avalanche.dialogstory.2;Latolgatod a lehetôségeidet, majd arra jutsz, jobb lesz, ha visszafordulsz és inkább egy másik utat keresel.
+adventure.flowchart_event18_avalanche.seteventtitle.0;Lavina
+adventure.flowchart_event18_avalanche.singlechoicemenu.0;[Eltávolítod a törmeléket] <color=#B95D5D>Veszítesz 25 Energiát</color>.
+adventure.flowchart_event18_avalanche.singlechoicemenu.1;[Visszafordulsz]
+adventure.flowchart_event18_bridgetroll.dialogstory.0;Egy hídhoz érkezel, amit egy hevenyészett dárdát markoló hegyi troll ôriz. Amint észrevesz, elállja az utadat.\n\n„Kell fizetni meg trollt” – követeli. – „Kell fizetni meg trollt, hogy átkel!”
+adventure.flowchart_event18_bridgetroll.dialogstory.1;Sóhajtasz egyet. „Itt a fizetséged, troll.”\n\nTüstént félreáll és utadra enged.
+adventure.flowchart_event18_bridgetroll.seteventtitle.0;Hídvám
+adventure.flowchart_event18_bridgetroll.singlechoicemenu.0;[Fizetsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt:\n{Card1}.
+adventure.flowchart_event18_bridgetroll.singlechoicemenu.1;[Fizetsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt:\n{Card2}.
+adventure.flowchart_event18_bridgetroll.singlechoicemenu.2;[Fizetsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt:\n{Card3}.
+adventure.flowchart_event19_fightclub.dialogstory.0;A város sikátorait róván egyszer csak ôrjöngô tömeg hangjára leszel figyelmes. Kíváncsivá tesz, miért e lárma, ezért az irányába indulsz. A hangok egy istállóhoz vezetnek, ahol kisebb tömeg ujjong, amint két meztelen felsôtestû alak puszta kézzel püföli egymást véres péppé.\n\n„Ez meg mi?” – kérdeznéd, ám a porondmester beléd fojtja a szót.\n\n„Csak semmi kérdezôsködés!”\n\nVállat vonsz – „Így is jó.” – , aztán maradsz, hogy megnézd a következô összecsapást.
+adventure.flowchart_event19_fightclub.dialogstory.1;Ahogy az elôzô vesztes ernyedt testét levonszolják a küzdôtérrôl, a porondmester elkiáltja magát: „Ki lesz a következô gyôztes?! A bajnok, Koszoka? Vagy bátor kihívója? Tegyék meg tétjeiket!”
+adventure.flowchart_event19_fightclub.dialogstory.2;A küzdelem brutális volt. Bôr hasadt, csontok törtek, fogak hullottak. Ám, mindenki legnagyobb meglepetésére, a kihívó gyôzedelmeskedett!
+adventure.flowchart_event19_fightclub.dialogstory.3;Úgy tûnik, jó szemed van a harci készségek felismeréséhez. Bezsebeled a nyereményed, biccentesz a porondmester felé, és távozol.
+adventure.flowchart_event19_fightclub.dialogstory.4;A küzdelem brutális volt. Bôr hasadt, csontok törtek, fogak hullottak. De senki nem lepôdött meg azon, hogy a Koszokának nevezett figura gyôzött.
+adventure.flowchart_event19_fightclub.dialogstory.6;Szentségelsz egyet, miközben a korlát deszkájára csapsz. „Fene vinné el!”\n\nBár nagyon szeretnéd visszanyerni a pénzedet, a józanabbik feled azt diktálja, hogy sétálj el.
+adventure.flowchart_event19_fightclub.seteventtitle.0;Harcosok klubja
+adventure.flowchart_event19_fightclub.singlechoicemenu.0;[Kihívó] 30% esély, hogy <color=#64DC64>felfejleszt</color> egy egységet 10 ponttal.
+adventure.flowchart_event19_fightclub.singlechoicemenu.2;[Bajnok] 70% esély, hogy <color=#64DC64>felfejleszt</color> egy egységet 3 ponttal.
+adventure.flowchart_event2_ruins.dialogstory.1;„Nincs most idô a kitérôkre” – mondod magadnak. Hátat fordítasz a romoknak meg a mágikus energiának, és inkább folytatod utadat.
+adventure.flowchart_event2_ruins.dialogstory.2;Hosszas keresgélés után egy rejtett teremre bukkansz az erôd mélyén, és megleled a mágikus energia forrását.\n\n<color=#64DC64>Megkapod ezt:</color> {Treasure}.
+adventure.flowchart_event2_ruins.dialogstory.3;Régi folyosók nyújtózkodnak az erôd mélye felé, össze-vissza tekeregve, gyakran egymást is keresztezve, sötétségbôl és törmelékekbôl emelt hatalmas labirintust alkotva. Habár még mindig érzed a mágikus energiát, nem leled a forrását. Folytatod a kutatást, vagy inkább feladod?
+adventure.flowchart_event2_ruins.dialogstory.4;Túl sokáig tart ez a keresgélés. Ráadásul vannak fontosabb dolgaid is ennél: szörnyeket kell ölnöd, kísérleti példányokat kell felboncolnod…\n\nÚgy döntesz, nem vesztegeted tovább az idôdet, és távozol.
+adventure.flowchart_event2_ruins.dialogstory.7;Épp egy ôsi erôd mellett visz az utad, amikor mágikus energia halvány sugárzását érzékeled az építmény málladozó falai közül. A {Compass} zümmögve hirtelen életre kel. A mutatója egyszer-kétszer kileng, aztán megállapodik, egyenest a romokra mutatva. Érdemes lenne talán kivizsgálni a dolgot?
+adventure.flowchart_event2_ruins.singlechoicemenu.0;[Kivizsgálod] <color=#B95D5D>Veszítesz 5 Energiát</color>.\n{Chances}% az esélye, hogy <color=#64DC64>Kincsre lelsz</color>.
+adventure.flowchart_event20_hiddencache.dialogstory.0;Egy különösen viharos napon egy hegytetô közelében lévô barlangban húzod meg magad. Meglepetésedre nem te vagy az egyetlen haszonélvezôje e menedéknek: mintha valaki áruk tárolására használná, ugyanis – feltehetôen lopott – hordók és ládák állnak rendezett sorokban a barlang falai mentén.\n\nEz kíváncsivá tesz, ezért belenézel a tárolókba, és egy bizonyos tárgyon meg is akad a szemed…
+adventure.flowchart_event20_hiddencache.dialogstory.1;„Ki mit talál, azé” – mondod fennhangon, aztán vigyorogva magadhoz veszed a kincset. Csakhogy...\n\nEZ EGY CSAPDA!\n\nEgy hegyes karókkal preparált farönk válik el a mennyezettôl és lendül feléd nagy sebességgel…
+adventure.flowchart_event20_hiddencache.dialogstory.2;Nem lehetsz benne száz százalékig biztos, hogy ez lopott áru, és te nem vagy tolvaj. Úgy határozol, hogy nem nyúlsz semmihez, csak kivárod a vihar végét, és továbbállsz.
+adventure.flowchart_event20_hiddencache.dialogstory.3;Villámgyorsan magad elé emeled a kezeidet és varázslatot idézel, az arcodtól csupán pár arasznyira állítva meg ezzel a kihegyezett karókat.\n\nEz közel volt…
+adventure.flowchart_event20_hiddencache.dialogstory.4;A tested elôbb reagál, mint az elméd. Ösztönösen fordulsz, és a földre veted magad. De nem elég gyorsan. Ahogy a rönk elhúz fölötted, a karók végigszántanak a hátadon. Ugyan a sérülésed nem halálos, ám ezek a sebek jó ideig fájni fognak.
+adventure.flowchart_event20_hiddencache.seteventtitle.0;Rejtett készletek
+adventure.flowchart_event20_hiddencache.singlechoicemenu.0;[Lenyúlsz valamit] <color=#64DC64>Megkapod</color> ezt:\n{Treasure}.
+adventure.flowchart_event20_hiddencache.singlechoicemenu.1;[Hárítod] <color=#B95D5D>Veszítesz 25 Energiát</color>.
+adventure.flowchart_event20_hiddencache.singlechoicemenu.2;[Védekezel] <color=#B95D5D>Kapsz</color> 2 {Wound} kártyát.
+adventure.flowchart_event20_theforge.dialogstory.0;A hegyek közt jártadban megállsz egy törp félreesô mûhelyénél. Habár nem rajong a cseverészésért, meg amúgy a társaságért sem, ám mert jó üzletre van kilátás, felajánlja a szolgálatait – a megfelelô javadalmazásért cserébe, persze...
+adventure.flowchart_event21_dream.dialogstory.0;Lassan nyitod ki elnehezült szemhéjaidat. Korom feketeség vesz körül. Álom ez talán?\n\nValahonnan a sötétség mélyébôl egy áttetszô és különös testû, ragyogó alak tûnik elô. Egészen közel siklik hozzád, aztán mérhetetlen hatalmat kínál neked, segítségképpen a küldetésedhez. Ám ennek a hatalomnak, természetesen, meg kell fizetned az árát…
+adventure.flowchart_event21_dream.dialogstory.1;Rád vigyorog. „Mit kívánsz?”
+adventure.flowchart_event21_dream.dialogstory.2;„Milyen kár” – gurgulázza a különös figura, s szavait visszhangozza a sötét.\n\nMosolyog és csettint az ujjaival.\n\nHideg verítékben úszva eszmélsz, és nem bírod felidézni az imént látott álmot.
+adventure.flowchart_event21_dream.dialogstory.3;„Ahogy kívánod” – zengi a különös figura, s szavait visszhangozza a sötét.\n\nMosolyog és csettint az ujjaival.\n\nHideg verítékben úszva eszmélsz, és nem bírod felidézni az imént látott álmot.
+adventure.flowchart_event21_dream.seteventtitle.0;Az álom
+adventure.flowchart_event21_dream.singlechoicemenu.0;[Elfogadod]
+adventure.flowchart_event21_dream.singlechoicemenu.1;[Elutasítod]
+adventure.flowchart_event21_dream.singlechoicemenu.2;[Tudást] <color=#64DC64>Teljesen feltölti az Energiádat</color>. <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {OwnedTreasure}.
+adventure.flowchart_event21_dream.singlechoicemenu.3;[Erôt] <color=#64DC64>Felfejleszt</color> a paklidban minden egységet 1 ponttal.\n<color=#B95D5D>Elveszted az összes Energiádat</color>.
+adventure.flowchart_event21_dream.singlechoicemenu.4;[Gazdagságot] <color=#64DC64>Megkapod</color> ezeket: {treasure1} és {treasure2}.\n<color=#B95D5D>Gyengít</color> a paklidban minden egységet 1 ponttal.
+adventure.flowchart_event22_healer.dialogstory.0;Rozoga kunyhó áll a kihalt országút mellett. Egy vén javasasszony üldögél a tornácán, és téged bámul. Rád mosolyog, aztán felajánlja, hogy kigyógyít bármilyen nyavalyádból.
+adventure.flowchart_event22_healer.dialogstory.1;Elmélázni sincs idôd, és a javasasszony már el is készíti a különleges kotyvalékát. Az iszap-szerû anyagnak kesernyés az íze, de miután elfogyasztod, kellemes melegség önti el a testedet.
+adventure.flowchart_event22_healer.dialogstory.2;Megköszönöd a vajákosnak a segítségét, néhány érmét nyújtasz át neki, aztán újult erôvel vágsz neki az útnak.
+adventure.flowchart_event22_healer.dialogstory.3;Mert nem tartasz igényt a segítségére, csak udvariasan biccentesz egyet felé, aztán folytatod tovább utadat.
+adventure.flowchart_event22_healer.seteventtitle.0;Herbalista
+adventure.flowchart_event22_healer.singlechoicemenu.0;[Elfogadod] <color=#64DC64>Elveszi</color> a paklidból az összes {Wound} és {Curse} kártyádat.\n<color=#B95D5D>Veszítesz 15 Energiát</color>.
+adventure.flowchart_event23_oldgrave.dialogstory.0;Egy sûrû bozótoson átkelvén ôsi mauzóleumra bukkansz. Leereszkedsz a kriptába, ahol egy félelmetes kinézetû harcos alakmását veszed ki a kôszarkofág fedelén látható faragványból. Egykoron egy hôs volt ez az ember. Mára még az emléke is tovatûnt.
+adventure.flowchart_event23_oldgrave.dialogstory.1;Kincsek sorjáznak a kripta falai mentén. Pillanatnyi gondolkodás után arra jutsz, hogy mert a holtaknak amúgy sincs szükségük efféle csecsebecsékre, te nagyobb hasznukat látod.
+adventure.flowchart_event23_oldgrave.dialogstory.2;Tisztelettel adózol az elfeledett harcos emléke elôtt, aztán távozol.
+adventure.flowchart_event23_oldgrave.dialogstory.3;Eszedbe jut, hogy a tarisznyádban ott lapul a {Book}. Elôveszed, és határozott hangon kántálni kezded az egyik, általad már korábban bejelölt varázsigét.\n\nAmint az ige utolsó szavát is kimondod, a könyv lángba borul, és pillanatok alatt porrá ég a kezedben.\n\nAztán felpillantasz és látod, hogy sikerült a rituálé… \n\n<color=#64DC64>Megkapod</color> ezt: {Warrior}.\n\nA {Book} végleg <color=#B95D5D>elvész</color>.
+adventure.flowchart_event23_oldgrave.seteventtitle.0;Régi sír
+adventure.flowchart_event23_oldgrave.singlechoicemenu.0;[Kifosztod] <color=#64DC64>Megkapod</color> ezt: {Treasure}.\n<color=#B95D5D>Kapod</color> ezt: {Curse}.
+adventure.flowchart_event23_oldgrave.singlechoicemenu.1;[Rituálét hajtasz végre]
+adventure.flowchart_event24_dwarventrader.dialogstory.0;Épp egy nagyobb dombra hágsz fel, amikor egy törp vándorkereskedô észrevesz. Tüstént elindul feléd, s már jó elôre, szinte kiáltva kérdi:\n\n„Nincs-é nálad valami ritkaság, amit elcserélnél? Mondjuk egy {Dwarven_Treasure}? Akár hiszed, akár nem, évtizedek óta próbálok ráakadni egyre! Nem lennék fukar…”
+adventure.flowchart_event24_dwarventrader.dialogstory.1;Fogja az átnyújtott kincset, és tüzetes vizsgálatnak veti alá.\n\n„Nos,… ezért cserébe egész nagy választékból tudok ajánlani neked.”
+adventure.flowchart_event24_dwarventrader.dialogstory.2;Mosolyogsz. „Talán legközelebb, kereskedô uram.”\n\nA törp válogatott trágárságokat mormog a bajsza alatt távoztában.
+adventure.flowchart_event24_dwarventrader.dialogstory.3;„Igazán öröm volt üzletelni veled!”\n\nA törp összepakolja a málháját, felkerekedik, és hamarosan eltûnik a domb íve mögött.
+adventure.flowchart_event24_dwarventrader.dialogstory.4;„A szájbatúrt mindenségit! Tényleg van nálad egy!”\n\nNyomban kiteríti elôtted a portékáit: „Válassz valamit! Bármit, ami csak megtetszik!” 
+adventure.flowchart_event24_dwarventrader.dialogstory.6;„Drágaságom. Az én drágaságom! Oly rég, de oly nagyon rég kerestelek már!”\n\nA törp le sem tudja venni a szemét a szerzeményérôl, távoztában még szökell is egyet!
+adventure.flowchart_event24_dwarventrader.seteventtitle.0;Törp kereskedô
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.0;[Kereskedsz] Elcserélsz egy Kincset egy másikra.
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.1;[Távozol]
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.2;[Kereskedsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {Card1}.\n<color=#64DC64>Megkapod</color> ezt: {Treasure1}.
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.3;[Kereskedsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {Card2}.\n<color=#64DC64>Megkapod</color> ezt: {Treasure2}.
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.4;[Kereskedsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {Card3}.\n<color=#64DC64>Megkapod</color> ezt: {Treasure3}.
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.5;[Kereskedsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {Dwarven_Treasure}.\n<color=#64DC64>Megkapod</color> ezeket: {Treasure1} és {Treasure2}.
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.6;[Kereskedsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {Dwarven_Treasure}.\n<color=#64DC64>Megkapod</color> ezeket: {Treasure3} és {Treasure4}.
+adventure.flowchart_event24_dwarventrader.singlechoicemenu.7;[Kereskedsz] <color=#B95D5D>Eltávolítja</color> a paklidból ezt: {Dwarven_Treasure}.\n<color=#64DC64>Megkapod</color> ezeket: {Treasure5} és {Treasure6}.
+adventure.flowchart_event25_trickster.dialogstory.0;Egy szilván ücsörög az út szélén egy kövön, és azt firtatja, volna-e kedved egy játékhoz.\n\n„Felteszek neked egy kérdést, afféle találós fajtát, és ha helyesen felelsz, neked adom ezt: {Treasure1}. Ám ha rossz választ adsz,... nekem kell adnod az iszákodból ezt: {Treasure2}. Nos? Mit mondasz, mágus?”
+adventure.flowchart_event25_trickster.dialogstory.1;„Teringettét! Jó a válasz. Pedig egy pillanatra azt hittem, megfogtalak ezzel. Ahogy ígértem, a kincsed...”\n\n<color=#64DC64>Megkapod</color> ezt: {Treasure1}.
+adventure.flowchart_event25_trickster.dialogstory.2;„Téves! Haha! Én nyertem! Most pedig elveszem, ami megillet. Köszönetem!”\n\n<color=#B95D5D>Elveszíted</color> ezt: {Treasure2}.
+adventure.flowchart_event25_trickster.dialogstory.3;Nincs idôd ostoba kis játékokra. „Nem ma, szilván. Nem ma.” 
+adventure.flowchart_event25_trickster.dialogstory.5;A szilván somolyog. „Kitûnô!”\n\n<i>{Card1.Fluff}</i>\n\n„Ki vagyok én?”
+adventure.flowchart_event25_trickster.seteventtitle.0;A szélhámos
+adventure.flowchart_event25_trickster.singlechoicemenu.0;[Ezt feleled] {Card1.Name}
+adventure.flowchart_event25_trickster.singlechoicemenu.1;[Ezt feleled] {Card2.Name}
+adventure.flowchart_event25_trickster.singlechoicemenu.2;[Ezt feleled] {Card3.Name}
+adventure.flowchart_event25_trickster.singlechoicemenu.3;[Játszol]
+adventure.flowchart_event25_trickster.singlechoicemenu.4;[Távozol]
+adventure.flowchart_event3_mysteriousspring.dialogstory.3;Úgy érzed, mintha kiszipolyoznák belôled az energiát, mégsem tudod abbahagyni az ivást. Képtelen vagy megállni.\n\n<color=#64DC64>Megkapod</color> ezt: {GainedCard}.
+adventure.flowchart_event3_mysteriousspring.dialogstory.4;Még többet kortyolsz a forrás vizébôl. Egyre csak nyeled és nyeled, míg végül elájulsz.\n\nMikor magadhoz térsz, különösen elszántnak érzed magad.\n\n<color=#64DC64>Megkapod</color> ezt: {GainedCard}.
+adventure.flowchart_event3_mysteriousspring.dialogstory.6;Nem kis erôfeszítésedbe telik minden akaraterôdet összeszedni, hogy abba tudd hagyni az ivást. „Ennyi elég is volt belôled, rejtélyes, mágikus víz” – jelented ki hangosan. Majd hátra sem nézve igyekszel minél messzebbre kerülni a forrástól, mielôtt még újra rád törhetne a szomjúság.
+adventure.flowchart_event3_springofyouth.seteventtitle.0;Rejtélyes forrás
+adventure.flowchart_event3_springofyouth.singlechoicemenu.0;[Iszol] <color=#64DC64>Átváltoztat</color> egy kártyát.
+adventure.flowchart_event3_springofyouth.singlechoicemenu.2;[Megállsz] <color=#B95D5D>Veszítesz 5 Energiát</color>.
+adventure.flowchart_event3_springofyouth.singlechoicemenu.3;[Megállsz] <color=#B95D5D>Veszítesz 10 Energiát</color>.
+adventure.flowchart_event3_stonealtar.dialogstory.0;Egy oltárra bukkansz, amelynek moha borította kôlapján körös-körül rejtelmes rúnák sorjáznak. A szentélyt áldozati ajándékok – gyümölcsök és virágok – halmai lepik, amiket feltehetôleg a helyiek hagytak ott, hogy elnyerjék az isteneik jóindulatát. Úgy tûnik, megszentelt földön jársz…
+adventure.flowchart_event3_stonealtar.dialogstory.3;Megvizsgálod az oltár lábánál hagyott ajándékokat. A legtöbbjük ehetô. Micsoda pazarlás…\n\nSajnálnád, ha odarohadna az étel, ezért felmarkolod a még frissnek látszó gyümölcsöket, és a tarisznyádba tömöd ôket. Az isteneknél te bizonyára nagyobb hasznukat veszed majd.
+adventure.flowchart_event3_stonealtar.seteventtitle.0;A kôoltár
+adventure.flowchart_event3_stonealtar.singlechoicemenu.0;[Imádkozol] <color=#64DC64>Szerzel {EnergyRestorationModification_20} Energiát</color>.
+adventure.flowchart_event3_stonealtar.singlechoicemenu.1;[Lopsz] <color=#64DC64>Szerzel {EnergyRestorationModification_50} Energiát</color>.\n<color=#B95D5D>Kapod</color> ezt: {Curse}.
+adventure.flowchart_event4_beggar.dialogstory.1;„Köszönöm, jó uram! Hálásan köszönöm!” – A szemei ragyognak az örömtôl, ahogy egy nagy marék aprót hajítasz a kalapjába. Majd, miután megsimogatod a kutyát, folytatod utadat.
+adventure.flowchart_event4_beggar.seteventtitle.0;A koldus
+adventure.flowchart_event4_beggar.singlechoicemenu.0;[Adakozol] <color=#B95D5D>Eltávolít</color> a paklidból egy kártyát.
+adventure.flowchart_event5_tavern.dialogstory.7;Akaratlanul is meghallod két, elkeseredettnek tûnô fiatalember – a felszerelésükbôl ítélve két kincsvadász – beszélgetését, amint épp egy általuk megtalált elf romról pusmognak.\n\n„…A rajzolatok miatt csak körbe-körbe járunk. Én mondom, valamiféle illúzió munkál ott. Tudom. A hegyesfülûek mindig a bolondját járatják velünk.” – így az egyik.\n\n„Akkor majd megtaláljuk a módját, hogy megtörjük a varázst…” – nyugtatgatja a másik.\n\nMáris a elfek mágiaelméletein jár az agyad, és észre sem veszed, hogy az ételed már egy ideje elôtted gôzölög.
+adventure.flowchart_event5_tavern.gossip.10;Egy földmûves beszéde egyre zavarosabbá válik, amint eszméletlen társának rangsorolja a kedvenc zöldségeit:\n\n„Kerékrépa,… ööö,… paszternák,… paradicsom...”\n\nA társa erre felhorkan: „Még mindig nem zôccség!” – Aztán visszazuhan alkoholtól mámoros álmába.\n\n„Hagyma … káposzta … borsó, … ööö, … kerékrépa! … Ööö ...”\n\nA szûnni nem akaró litániát hallva az életkedved is elmegy. Még mielôtt megzápulna a te agyad is, elfordulsz, hogy ne halld tovább. Hamarosan kihozzák az ételedet, amiben – szerencsére, – egy szem zöldség sincsen.
+adventure.flowchart_event5_tavern.gossip.2;Ha akarnád, sem tudnád nem meghallani, amint egy részeg paraszt a jószerencséjével kérkedik.\n\n„A kívánságkút újfent kegyes vót hozzám! Alig két hódtôttével ennek elôtte, hogy beledobtam a nászszalagomat, erre az egész gyümôcsösöm virágba borút megin’. A gombának meg semmi nyoma. Egy hóddal ezelôtt meg az asszony aranyos Melitele szobrocskáját hajítám bele, erre most az összes tehenem vemhes. Tegnap íjjel aztán az anyja nyakékét dobtam bele, hát, ki nem találnátok, mi történt: a vén szipirtyó faképnél hagyott. Haha! Áldás szállt reám!”\n\nSóhajtasz egyet. Azon tûnôdsz, hogy vajon érdemes-e mindenkit megmenteni.
+adventure.flowchart_event5_tavern.gossip.3;Az ajtó kivágódik, és azt látod, hogy három, Aretuza tradicionális azúr-lila egyenruhájába öltözött lány nyomul be rajta. A két szélen érkezô vonszolja a középsôt, aki eszméletlennek tûnik, és úgy fest, mintha villám csapott volna belé.\n\n„Mondtam, hogy nem kellene tapogatni azt a követ. Az erôhelyek mérhetetlen mennyiségû energiával telítettek.” – kárálja egyikük.\n\nMiközben leültetik ájult társukat az egyik bokszba, a szemed megakad a nyakában logó medálon: ami rezeg és fényesen ragyog, mintha valamiféle bebörtönzött energia próbálna kétségbeesetten kitörni belôle.\n\nA következô órában csak kristály nyakbavalók és zabkásák között csaponganak a gondolataid.
+adventure.flowchart_event5_tavern.gossip.4;Az egyik közeli asztalnál egy számodra ismeretlen istenség elaggott és sápadt papnôjére leszel figyelmes, aki már jó ideje, síri csöndben üldögél ott. A nô elkapja a pillantásodat, felkel, és megindul feléd, majd amikor odaér hozzád, a füledhez hajol, és megszólal rekedt hangján:\n\n„Tudom, ki vagy, Alzur. Halálból teremtenél életet? Talán sikerülhet. Ám elôbb azt kell megtanulnod, hogyan hozhatod létre a haláltalant. Kutasd fel a halottidézô fóliánsát, majd vidd el azt egy hatalmas harcos sírjához. Ott próbára teheted magadat.”\n\nAzután távozik, és magadra hagy a nekromancia körül forgó gondolataiddal.
+adventure.flowchart_event5_tavern.gossip.5;Egy ember ücsörög egy sámlin, a kandalló közelében, és üres tekintettel mered a lángokba, miközben önmagában hablatyol valamit. Egy kis idô után elfog a kíváncsiság, ezért felállsz az ételed mellôl, és elindulsz felé…\n\nAhogy közeledsz hozzá, egy vértôl koszló rongybabát veszel észre a kezében. A férfi kisvártatva rád emeli a tekintetét – szemei könnytôl fátyolosak, az ajka megállás nélkül remeg.\n\n„Elragadták tôlem. A veszett fenevadak. Azok az ocsmány bestiák! Elrabolták a kislányomat, az én… szép… kislányomat. Ôk… Ó, istenek…!” – A szavai kivehetetlen jajveszékeléssé olvadnak egybe.\n\nÚgy érzed, jobb, ha magára hagyod, ezért inkább visszatérsz az asztalodhoz. Az éjszaka hátralevô részén a gondolataid minduntalan visszatérnek a szörnyekre, és arra, hogy miképp lehetne végleg megszabadulni tôlük.
+adventure.flowchart_event5_tavern.gossip.6;Nagy csattanástól kísérve nyílik a fogadó ajtaja, és baljóslatú szélroham ront be rajta. A teremre nyomban csend borul, és mindenki a padlódeszkákon ritmikusan csörrenô páncélcsizmák gazdájára, egy, a fuvallat nyomában érkezô Káptalan Hírnökre függeszti a tekintetét. A hírnök hóna alatt jókora papírköteg.\n\nTekintetével pásztázza a teret, de mert az egyik legtávolabbi sötét sarokba vetted be magadat, elkerülöd a figyelmét. Aztán az egyik legközelebbi, a kerengôt alátámasztó oszlophoz lép, és a te fizimiskádhoz hasonlatos arcot ábrázoló, „KERESTETIK!” feliratú felhívást szegez a fához.\n\nMiután a hírnök távozik, a fogadós odabattyog az oszlophoz, letépi a papírost, és biccent egyet feléd. Elmosolyodsz. Úgy tûnik, a környéken nem szerzett magának sok barátot a Káptalan. Rendelsz egy kancsóval a fogadós legjobb lôréjébôl, aztán próbálod kiélvezni az este még hátralévô részét.
+adventure.flowchart_event5_tavern.gossip.7;Hallgatózási kísérletedet egy önjelölt trubadúr és meglehetôsen törött lantja szakítják félbe, ahogy a flótás fellép az egyik asztalra és hangszere megmaradt húrjai közé csap. Amint megköszörüli torkát a nyivákolás elôtt, az egyik vendég felismeri hatalmas, szôkés bajsza által uralt fizimiskáját, és nyomban egy söröskorsót hajít a dalnok felé. Erre kisebb zavargás tör ki.\n\nMiután a lantos nyakába kapja a lábát, és – kisebb tömeggel a nyomában – megfutamodik, újra nyugalom ereszkedik a tavernára, így immár békében el tudod költeni az estebédedet.
+adventure.flowchart_event5_tavern.gossip.8;Lármás törpök ordibálnak trágárságokat az egyik közeli asztalnál, miközben kártyalapok csattannak az asztaluk lapján. Kíváncsi vagy a játszma alakulására, ezért odasétálsz, és néhány kör erejéig figyeled a játékukat.\n\nDe mert mintha teljesen értelmetlennek tûnô szabályok szerint játszanának, fejcsóválva kotródsz el onnan. „Túl bonyolult” – dünnyögöd, – „sosem tudnám megtanulni. De a kártyák azért szépen illusztráltak…”\n\nLátod, hogy a fogadós kiviszi a tál birkapörköltet és a kását az asztalodhoz, ezért inkább visszabaktatsz.
+adventure.flowchart_event5_tavern.gossip.9;Egy felfuvalkodott kereskedô és a kísérôi vihorásznak és sutyorognak olyan tervekrôl, amiktôl kis híján elmegy az étvágyad.\n\n„Vajon lehet igazság abban, hogy aki kíváncsi, hamar megöregszik, vénember?” – kérdezi a slepp egyik kapatos tagja, aki a hallgatózáson kap.\n\nElfordulsz, aztán rendelsz még egy italt, hogy legyen mivel leöblíteni a vacsorádat, de még mielôtt egyiket is, másikat is befejeznéd, inkább visszatérsz a szobádba.
+adventure.flowchart_event6_ruins.dialogstory.0;Épp egy ôsi erôsség mellett visz az utad, amikor mágikus energia halvány sugárzását érzékeled az építmény málladozó falai közül. Érdemes lenne talán kivizsgálni a dolgot?
+adventure.flowchart_event6_ruins.seteventtitle.0;Romok
+adventure.flowchart_event6_wintersolstice.dialogstory.0;Helyiek gyûltek egybe, hogy megünnepeljenek... valamit. Egyesek az örömtûz körül ülnek és történeteket osztanak meg egymással, míg mások zenélnek és közben táncolnak.\n\nA lángok közelében telepszel le, és valaki azonnal megkínál egy tál sûrû, még bugyborgó levessel.
+adventure.flowchart_event6_wintersolstice.dialogstory.1;Elveszed a tálkát és biccentesz. Sosem utasítottad vissza mások vendégszeretetét, legfôképp akkor nem, amikor annyi szem szegezôdött rád, mint most.\n\nA tálkában lötykölôdô folyadékra bámulsz – sötét felszínén a csillagos ég tükörképe táncol. Most már mindenki téged bámul nagy, könnyben ázó szemekkel, miközben a szádhoz emeled az edényt, hogy kortyolj egyet…
+adventure.flowchart_event6_wintersolstice.dialogstory.2;Megköszönöd az idegen kedvességét, ám a tapasztalat és a kor arra tanítottak, óvakodj, ha idegenek ingyen étellel kínálnak. Különösen, ha az az étel a bugyborgó fajtából való.\n\nAmint elutasítod az ételt, a hangulat rögtön megváltozik. A zene elhallgat, az emberek mozdulatlanná dermednek és kísérteties csöndben bámulnak téged. Csak a tûz ropog tovább. Kínos mosolyt villantasz rájuk, aztán kijelented, hogy amúgy épp valahol máshol kellene lenned, aztán sietve távozol.
+adventure.flowchart_event6_wintersolstice.dialogstory.3;Ahogy legurítod, érzed, hogy a folyadékén túl valami másféle, de leginkább megnyugtató melegség is elönti a tested. Hirtelen ólomsúlyúnak érzed a szemhéjaidat, aztán a világ sötétségbe borul…\n\nFüstölögve parázsló szénkupac mellett ébredsz másnap reggel. És sehol egy teremtett lélek.
+adventure.flowchart_event6_wintersolstice.seteventtitle.0;Ünnep az örömtûz körül
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.0;[Elfogadod]
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.1;[Elutasítod]
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.2;[Iszol] <color=#64DC64>Felfejleszt</color> egy egységet 3 ponttal.
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.3;[Iszol] <color=#B95D5D>Eltávolít</color> a paklidból egy kártyát.
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.4;[Iszol] <color=#64DC64>Duplikál</color> egy kártyát.
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.5;[Iszol] <color=#64DC64>Átváltoztat</color> egy kártyát.
+adventure.flowchart_event6_wintersolstice.singlechoicemenu.6;[Iszol] <color=#64DC64>Szerzel {EnergyRestorationModification_20} Energiát</color>.
+adventure.flowchart_event7_avalanche.dialogstory.3;Most pont kapóra jön az {Girdle}! Felövezed magad, és rögtön érzed, hogy szétárad benned a többlet erô. Aztán nekimész a görgetegnek! Viszonylag könnyedén átverekeded magadat a sziklákon, a szikla keménységûre tömörödött hó- és jégtömbökön, míg végül a szurdok túlvégén lyukadsz ki. Innen már könnyedén folytatod utadat.
+adventure.flowchart_event7_avalanche.singlechoicemenu.2;[Erônek erejével!]
+adventure.flowchart_event8_springofyouth.dialogstory.0;Rejtett kis csermelyként, csobogva tör elô a víz egy öreg fa göcsörtös gyökerei közül. Mikor megpillantod a kis tavacskává összegyûlô vizet, a szád és a torkod tüstént kiszárad, és rájössz, hogy igazából szomjazol.\n\nBár a forrás meglehetôsen szomjoltónak tûnik, úgy érzed, mintha valamiféle mágikus aura lengné körül a vizét. Ennek ellenére megkockáztatod, hogy iszol belôle?
+adventure.flowchart_event8_springofyouth.dialogstory.1;Kelyhet formálsz a tenyeredbôl és iszol. Rendkívül finom az íze. Még soha nem ittál ilyen finom vizet. Habár úgy érzed, hogy már sikerült oltanod a szomjadat, mégis többet kívánsz belôle. Muszáj még innod...\n\n<color=#64DC64>Megkapod</color> ezt: {GainedCard}.
+adventure.flowchart_event8_springofyouth.dialogstory.2;Valahogy nem akaródzik innod a különös forrás vizébôl, ezért inkább úgy határozol, hogy folytatod utadat.
+adventure.flowchart_event8_theforge.dialogstory.1;Sikerül jutányos árban kiegyeznetek. Csinos erszénnyi érmét hajítasz a markába.\n\nKedvtelve nézed, ahogy a törp dolgozik – valamiért mindig örömet okoz, ha egy valóban hozzáértô iparost a választott mesterségében ténykedni látsz.\n\n„Ez volna minden?” – kérdi kis idô elteltével a törp.
+adventure.flowchart_event8_theforge.dialogstory.2;Mert nem tartasz igényt a szolgálataira, elköszönsz és távozol.
+adventure.flowchart_event8_theforge.dialogstory.3;Elégedett vagy a munkájával, ezért hálásan megköszönöd a törpnek, majd magára hagyod a munkájával.
+adventure.flowchart_event8_theforge.seteventtitle.0;A kovácsmûhely
+adventure.flowchart_event8_theforge.singlechoicemenu.0;[Felszerelés fejlesztése] <color=#64DC64>Felfejleszt</color> egy egységet 2 ponttal.\n<color=#B95D5D>Veszítesz {Cost} Energiát.</color>
+adventure.flowchart_event8_theforge.singlechoicemenu.1;[Elég]
+adventure.flowchart_event9_merchantinneed.dialogstory.4;A varázserôdhöz folyamodsz, hogy kihúzd a szekeret a sárlébôl és biztonsággal visszaemeld az útra.\n\nA kereskedô többször is a levegôbe szökken örömében, és nem gyôzi dicsérni rátermettségedet.\n\nA segítségedért cserébe hálából neked adja a birtokában lévô legértékesebb tárgyat.
+adventure.flowchart_event9_merchantinneed.singlechoicemenu.2;[Elveszed] <color=#64DC64>Megkapod</color> ezt:\n{Treasure}.
+adventure.flowchart_event9_merchantinneed.singlechoicemenu.3;[Elfogadod az ajándékot] <color=#64DC64>Megkapod</color> ezt:\n{Card2}.
+adventure.flowchart_event9_merchantinneed.singlechoicemenu.4;[Elfogadod az ajándékot] <color=#64DC64>Megkapod</color> ezt:\n{Card3}.
+adventure.flowchart_event9_tavern.dialogstory.0;Egy hosszú, utazással töltött nap után úgy határozol, hogy megszállsz az út menti fogadóban. Már kintrôl látod, hogy a beltér a kandalló tüzének hívogató fényében úszik, ráadásul a többi utazó barátságos csevegése is hívogatóan hat.\n\nAhogy belépsz, a vendégek egyként fordulnak feléd, és pompázatos öltözéked láttán egyként némulnak el – végtére is, nem minden nap esik meg, hogy mágus sétál be egy útszéli kis csárdába.
+adventure.flowchart_event9_tavern.dialogstory.1;Mert ma már nincs erôd a társas érintkezéshez, úgy döntesz, nem vegyülsz a többi vendéggel, kiváltképp nem a helyi csôcselékkel. Ezért a nagyterem egyik sarkában álló üres bokszba veszed be magad, és ételt rendelsz.\n\nMíg az étek érkezésére vársz, – bár akaratlanul, de mégis – elcsípsz néhány szaftos pletykát a megállás nélkül fecsegô kuncsaftoktól.
+adventure.flowchart_event9_tavern.dialogstory.2;Egyetértesz – tudomásod szerint egy italtól még senkinek nem esett baja –, és maradsz egy utolsó körre. Aztán még egyre, majd még egyre, egészen addig, amíg már korsókat borogatsz és együtt nótázol a vendégsereggel, meg jártadban-keltedben ülôalkalmatosságokon bukdácsolsz át mámoros kábulatodban.\n\nMikor következô reggel magadhoz térsz, a fejed úgy lüktet, mintha száz meg száz apró faltörô kos próbálna kitörni belôle. Felnyögsz. Bizony, hibáztál…\n\n<color=#B95D5D>Kapod</color> ezt: {Wound}.
+adventure.flowchart_event9_tavern.dialogstory.3;Hosszú idôt töltöttél egymagadban az úton, és nem lenne ellenedre egy kis cimboraság. Ezért – a jelenlévôk legnagyobb örömére – fizetsz egy kört, és iszol a sorstársaiddal.\n\nAmikor aztán elérkezettnek látod az idôt, hogy visszavonulót fújj, újdonsült barátaid próbálnak maradásra bírni, hogy igyál velük még egy utolsót. „Még egyet, no!” – nógatnak. – „Mégis, mi baj lehet egyetlen itókából?”
+adventure.flowchart_event9_tavern.dialogstory.4;Az újonnan szerzett barátaid legnagyobb bánatára kijelented, hogy pihenésre van szükséged, majd aludni térsz a hálóhelyiségek egyikébe.
+adventure.flowchart_event9_tavern.dialogstory.5;Egyetértesz – tudomásod szerint egy italtól még senkinek nem esett baja –, és maradsz egy utolsó körre. Aztán még egyre, majd még egyre, egészen addig, amíg már korsókat borogatsz és együtt danászol a vendégsereggel, meg jártadban-keltedben ülôalkalmatosságokon bukdácsolsz át mámoros kábulatodban.\n\nAmikor másnap reggel felébredsz, meglepôen frissnek érzed magad: mintha az éjjel egy csepp alkoholt sem fogyasztottál volna. „Ez különös” – csodálkozol el a dolgon, tekintve, hogy valójában milyen becsülettel felöntöttél a garatra.
+adventure.flowchart_event9_tavern.seteventtitle.0;A fogadó
+adventure.flowchart_event9_tavern.singlechoicemenu.0;[Pihensz] <color=#64DC64>Szerzel {EnergyRestorationModification_20} Energiát</color>.
+adventure.flowchart_event9_tavern.singlechoicemenu.1;[Fizetsz egy kört] <color=#64DC64>Felfejlesztesz</color> egy egységet 2 ponttal.
+adventure.flowchart_event9_tavern.singlechoicemenu.2;[Maradsz még] <color=#64DC64>Felfejlesztesz</color> egy egységet 2 ponttal.\n50% esély a <color=#B95D5D>másnaposságra</color>.
+adventure.flowchart_event9_tavern.singlechoicemenu.3;[Távozol]
+adventure.flowchart_event9_travellingmerchant.dialogstory.0;Jó ötletnek tûnt lerövidíteni az utat, ezért letértél az országútról. Rövidesen egy kereskedôbe botlasz, akinek – szerencsétlenségére – ugyanez az ötlete támadt.\n\nMegrakott szekere belesüllyedt a posványba, és az árus most karjaival hevesen integet és kiabálva esdekel segítségért bárkinek, aki hallótávolságon belül kerül.
+adventure.flowchart_event9_travellingmerchant.dialogstory.1;A varázserôdhöz folyamodsz, hogy kihúzd a szekeret a sárlébôl és biztonsággal visszaemeld az útra. Azonban a manôver kapkodósra sikerül, s néhány áru megsérül.\n\n„Oda se neki” – mondja a kereskedô, aki már annak is örül, hogy a szekerét egy darabban visszakapta. A segítségedért cserébe hálából megengedi, hogy válassz valamit a portékái közül.
+adventure.flowchart_event9_travellingmerchant.dialogstory.2;„Esélytelen” – gondolod magadban. – „Ma nem, cimbora.”\n\nAz ordítozó kereskedôre több figyelmet nem vesztegetve folytatod utadat célod felé, az erdôn át.
+adventure.flowchart_event9_travellingmerchant.dialogstory.3;A kereskedô még egyszer köszönetet mond, aztán visszakanyarodik az országút felé.
+adventure.flowchart_event9_travellingmerchant.seteventtitle.0;Kereskedô a bajban
+adventure.flowchart_event9_travellingmerchant.singlechoicemenu.0;[Segítesz] <color=#B95D5D>Veszítesz 10 Energiát</color>.
+adventure.flowchart_event9_travellingmerchant.singlechoicemenu.1;[Elfogadod az ajándékot] <color=#64DC64>Megkapod</color> ezt:\n{Card1}.
+adventure.flowchart_fallback.dialogstory.0;N/A
+adventure.flowchart_fallback.dialogstory.1;N/A
+adventure.flowchart_fallback.dialogstory.2;N/A
+adventure.flowchart_fallback.seteventtitle.0;N/A
+adventure.flowchart_fallback.singlechoicemenu.0;N/A
+adventure.flowchart_fallback.singlechoicemenu.1;N/A
+adventure.flowchart_leave;[Távozol]
+adventure.tutorial_boss.showtutorialimagepopup.0;N/A
+adventure.tutorial_event.dialogstory.0;N/A
+adventure.tutorial_event.dialogstory.1;N/A
+adventure.tutorial_event.dialogstory.2;N/A
+adventure.tutorial_event.singlechoicemenu.0;N/A
+adventure.tutorial_event.singlechoicemenu.1;N/A
+adventure.tutorial_firstbattle.showtutorialimagepopup.0;A csaták körökre osztottak – a játékos körönként egy kártyát játszhat ki a kezébôl.\n\n<b>A folytatáshoz játssz ki egy kártyát!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.02;"A csaták körökre osztottak – a játékos körönként egy kártyát játszhat ki a kezébôl.\n\nKártya kijátszásához jelöld ki azt, nyomj <sprite=""[SWITCH]"" name=""A"">-t, aztán helyezd le <sprite=""[SWITCH]"" name=""A"">-val a harctérre.\n\n<b>A folytatáshoz játssz ki egy kártyát!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.1;A köröd befejezésére egy kártya kijátszása után van legkorábban lehetôséged.\n\n<b>Kattints az Érmédre a köröd befejezéséhez!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.11;A köröd befejezésére egy kártya kijátszása után van legkorábban lehetôséged.\n\n<b>Érintsd meg az Érmét a köröd befejezéséhez!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.12;"A köröd befejezésére egy kártya kijátszása után van legkorábban lehetôséged.\n\n<b>Nyomd le az <sprite=""[SWITCH]"" name=""Y"">-t a köröd befejezéséhez!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.2;Minden játékos körönként egy kártyalapot húz. A sarokban látható számláló jelzi, hogy még hány lap húzására van lehetôség.\n\n<b>Játssz ki egy kártyát a folytatáshoz!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.33;A csata akkor ér véget, ha mindkét játékos passzolt, vagy elfogynak a kijátszható lapok. Amennyiben nem marad több kártya a kezükben, és nem áll rendelkezésükre további akció sem, úgy kénytelenek passzolni.\n\n<b>A folytatáshoz játssz ki egy kártyát!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.34;A gyôzelemhez több ponttal kell rendelkezned, mint az ellenfeled.\n\n<b>Játssz ki egy kártyát a folytatáshoz!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.4;"Körönként egyszer Energiát is elkölthetsz <sprite=""PopupIcons"" name=""symbol_energy""> egy Varázsige kijátszására. Az elônyöd biztosításához megfontoltan élj a Varázsigéiddel.\n\n<b>Kattints Alzurra egy Varázslat kijátszásához!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.41;"Körönként egyszer Energiát is elkölthetsz <sprite=""PopupIcons"" name=""symbol_energy""> egy Varázsige kijátszására. Az elônyöd biztosításához megfontoltan élj a Varázsigéiddel.\n\n<b>Koppints duplán Alzuron egy Varázslat kijátszásához!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.42;"Körönként egyszer Energiát is elkölthetsz <sprite=""PopupIcons"" name=""symbol_energy""> egy Varázsige kijátszására. Az elônyöd biztosításához megfontoltan élj a Varázsigéiddel.\n\n<b>Válaszd Alzurt és nyomj <sprite=""[SWITCH]"" name=""A"">-t egy Varázslat kijátszásához!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.5;"A Parancs <sprite=""PopupIcons"" name=""Order""> képesség a kártyák kijátszásán felül érvényesíthetô.\n\n<b>Kattints a kártyára a Parancs képesség aktiválásához!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.51;"A Parancs <sprite=""PopupIcons"" name=""Order""> képesség a kártyák kijátszásán felül érvényesíthetô.\n\n<b>Koppints duplán a kártyán a Parancs képesség aktiválásához!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.52;"A Parancs <sprite=""PopupIcons"" name=""Order""> képesség a kártyák kijátszásán felül érvényesíthetô.\n\n<b>Válaszd ki a kártyát, és nyomj <sprite=""[SWITCH]"" name=""A"">-t a Parancs képesség aktiválásához!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.6;Ez az utolsó köröd – tégy róla, hogy elegendô pontod gyûljön össze a gyôzelemhez! Ne feledkezz meg a Varázslataidról sem!\n\n<b>A folytatáshoz játssz ki egy kártyát!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.69;N/A
+adventure.tutorial_firstbattle.showtutorialimagepopup.7;Jobb egérgomb kattintásra a kártyákról további, részletesebb információkat kaphatsz.\n\n<b>Játssz ki egy kártyát a folytatáshoz!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.71;A kártyákon történô hosszú érintéssel azokról további, részletesebb információkat kaphatsz.\n\n<b>Játssz ki egy kártyát a folytatáshoz!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.72;"Egy kártyát kiválasztva és a <sprite=""[SWITCH]"" name=""Rtrigger"">-t megnyomva további, részletesebb információkat kaphatsz.\n\n<b>Játssz ki egy kártyát a folytatáshoz!</b>"
+adventure.tutorial_firstbattle.showtutorialimagepopup.8;Miután mindent megcselekedtél a pontszámod növeléséért, passzolhatsz.\n\n<b>Tartsd lenyomva az Érmét a passzoláshoz!</b>
+adventure.tutorial_firstbattle.showtutorialimagepopup.9;Üdvözlünk a GWENT: Zsivány mágus oktatómódjában!\n\nEhelyütt ismerkedhetsz meg a játék mechanikáival.
+adventure.tutorial_mulliganbattles.showtutorialimagepopup.0;Minden egyes csata elején lehetôséged nyílik bizonyos számú kezedben tartott kártya cseréjére a paklidból húzott, véletlenszerûen választott lapokra.\n\n<b>Amennyiben készen állsz, fejezd be az Újrahúzást!</b>
+adventure.tutorial_mulliganbattles.showtutorialimagepopup.2;Most már ismered a csaták alapvetéseit. Mostantól csak magadra számíthatsz. Járj szerencsével!\n\n<b>A folytatáshoz játssz ki egy kártyát!</b>
+adventure.tutorialbattle_1.showtutorialimagepopup.0;N/A
+adventure.tutorialbattle_1.showtutorialimagepopup.1;N/A
+adventure.tutorialbattle_1.showtutorialimagepopup.2;N/A
+adventure.tutorialbattle_1.showtutorialimagepopup.3;N/A
+flowchartversioned_dialogue_alzur_1;Nem ellenfelek nekünk. Én szétzilálom ôket! Te fedezz, Lilly!
+flowchartversioned_dialogue_alzur_10;Gyógyító balzsamom vagy, Lilly.
+flowchartversioned_dialogue_alzur_100;Melyik arrogáns boszorkánymester volt az, aki elôszólított a mélybôl?
+flowchartversioned_dialogue_alzur_101;A tûz, mely százszor fényesebben ég, kimondottan rövid életû.
+flowchartversioned_dialogue_alzur_102;Ó, a rémálmok, melyeket táplálnál, te ocsmány teremtmény!
+flowchartversioned_dialogue_alzur_103;Lássuk, milyen fából faragtak, gyönyörûségem!
+flowchartversioned_dialogue_alzur_11;Kisebb kudarc csupán.
+flowchartversioned_dialogue_alzur_12;Elôbb együnk! Üres hassal nem tudok gondolkodni.
+flowchartversioned_dialogue_alzur_13;Ez... egy tanulságos élmény volt.
+flowchartversioned_dialogue_alzur_14;Legközelebb én fogom móresre tanítani ôt.
+flowchartversioned_dialogue_alzur_15;Megvannak a hozzávalók. Most már csak egy üstöt kell kerítenünk.
+flowchartversioned_dialogue_alzur_16;Mégis, mi másra gondolhattam volna?
+flowchartversioned_dialogue_alzur_17;Drága Lilly-m... Csak egy üres héj vagyok nélküled...
+flowchartversioned_dialogue_alzur_18;A közös emlékeink, a közös célunk... ez minden, ami maradt nekem.
+flowchartversioned_dialogue_alzur_19;Nem foglak ismét cserben hagyni! Megvalósítom az elképzelésedet, bármi is legyen az ára!
+flowchartversioned_dialogue_alzur_2;A jégsárkány épp visszatért a völgybe – valószínûleg ételt hozott a kicsinyeinek.
+flowchartversioned_dialogue_alzur_20;Az élete, a szerelmünk... Mind hiábavalóvá válik, ha most feladom.
+flowchartversioned_dialogue_alzur_21;…
+flowchartversioned_dialogue_alzur_22;Ez semmi. Semmi!
+flowchartversioned_dialogue_alzur_23;Amíg csak dobban a szívem, tovább fogom csinálni!
+flowchartversioned_dialogue_alzur_24;Minden kudarc táplálja a kemencét. Minden hiba csak felszítja a lángot.
+flowchartversioned_dialogue_alzur_25;Megverve, de nem megtörve.
+flowchartversioned_dialogue_alzur_26;El fog jönni a nap, Lilly! El fog jönni az a nap!
+flowchartversioned_dialogue_alzur_27;Ezek a bolondok a Káptalanból örömmel látnák a bukásomat. Nem adom meg nekik ezt az élvezetet!
+flowchartversioned_dialogue_alzur_28;Na, még egyszer, az áttörésért!
+flowchartversioned_dialogue_alzur_29;Egy jobb terv kell. Csak várjátok ki a végét!
+flowchartversioned_dialogue_alzur_3;Egy tiszta mutagénre van szükségünk. Hányszor buktunk már el a gyenge összetevôk miatt?
+flowchartversioned_dialogue_alzur_30;Büszke vagy magadra, te pimasz gazember? Ne menj sehova! Még visszatérek!
+flowchartversioned_dialogue_alzur_31;Ezt mind a semmiért? Ó, Lilly! Hogy lehettem ilyen vak?
+flowchartversioned_dialogue_alzur_32;Kicsikarom belôlük a válaszokat.
+flowchartversioned_dialogue_alzur_33;Édes Lilly-m... Örülök, hogy neked ezt már nem kell látnod.
+flowchartversioned_dialogue_alzur_34;Türelem. Türelem.
+flowchartversioned_dialogue_alzur_35;Nem létezik erôfeszítés hiba és elégedetlenség nélkül.
+flowchartversioned_dialogue_alzur_36;Hátra kell lépni egyet, és lendületet venni. Mint a faltörô kossal.
+flowchartversioned_dialogue_alzur_37;Ô volt az erôm, a józan értelmem. Nélküle csak egy tévelygô bolond vagyok.
+flowchartversioned_dialogue_alzur_38;Egyszerûen nem koncentráltam.
+flowchartversioned_dialogue_alzur_39;Próbáljunk meg egy másik formulát! Talán... háromszög a háromszögön belül.
+flowchartversioned_dialogue_alzur_4;Ne agyald túl, drágám!
+flowchartversioned_dialogue_alzur_40;Ha minden ostoba akadály után kapnék egy orent, már gazdagabb lennék, mint Ofir királya.
+flowchartversioned_dialogue_alzur_41;Nos, ha ez egyszerû lenne, már megtette volna valaki más elôttem.
+flowchartversioned_dialogue_alzur_42;Az összpontosítás hiánya. Ez minden.
+flowchartversioned_dialogue_alzur_43;Romlás itatja át e földet. Közel a bestia. Érzem rothadt leheletét.
+flowchartversioned_dialogue_alzur_44;Egy tökéletes minta – de még nem végeztem.
+flowchartversioned_dialogue_alzur_45;Már csak egy mutagénre van szükségem!
+flowchartversioned_dialogue_alzur_46;A föld felperzselve, a szél hamuval teli. A pokolfajzat közel van.
+flowchartversioned_dialogue_alzur_47;Te... te a szívemet tépted ki, bestia. Ezért ezer év sem lenne elég a megbüntetésedre. De megteszem, ami tôlem telik.
+flowchartversioned_dialogue_alzur_48;A legnagyobb hibám. De ma semmissé tétetik.
+flowchartversioned_dialogue_alzur_49;A tükörbôl rám visszatekintô férfi örökké gyûlölni fog, ha ezt nem viszem véghez.
+flowchartversioned_dialogue_alzur_5;Az ezen kövek alatti ércerekben áramló energia egészen az Együttállásig eredeztethetô vissza.
+flowchartversioned_dialogue_alzur_50;Lilly, vezesd a kezemet!
+flowchartversioned_dialogue_alzur_51;Nem nyugszom, amíg lélegzel!
+flowchartversioned_dialogue_alzur_52;Te megtanítottad nekem, mi az a gyász. Én megtanítom neked, mi a borzalom.
+flowchartversioned_dialogue_alzur_53;Megalázva a saját, korcs teremtményem által. Ez nem járja.
+flowchartversioned_dialogue_alzur_54;Újra és újra meg kell élnem ezt a kudarcot?
+flowchartversioned_dialogue_alzur_55;Amikor szembenézek azzal a förtelemmel, téged látlak meghalni, Lilly. És ez megbénít...
+flowchartversioned_dialogue_alzur_56;Legközelebb apró darabokra szaggatom. A villámokra esküszöm.
+flowchartversioned_dialogue_alzur_57;„Egy rakás mutálódott hús járt túl az eszén.” – Nem és nem! Nem így fognak emlékezni rám!
+flowchartversioned_dialogue_alzur_58;Én teremtettelek téged, alávaló teremtmény. Én is foglak elpusztítani – ebben biztos lehetsz.
+flowchartversioned_dialogue_alzur_59;Vége van, Lilly. A kutatás befejezôdött, az álmod valósággá vált.
+flowchartversioned_dialogue_alzur_6;Úgy tûnik, közeledünk a sárkány fészkéhez.
+flowchartversioned_dialogue_alzur_60;De az ár, amit fizettünk érte... Ha ezt tudtam volna elôre,... nem vagyok benne biztos, hogy vállaltam volna ezt a terhet.
+flowchartversioned_dialogue_alzur_61;Úgy érzem, valami rajtunk túlmutató dologba kezdtünk. Az örökségünk alapjainak letételébe.
+flowchartversioned_dialogue_alzur_62;Ott motoszkál bennem a gondolat, hogy… mi lesz, ha ez kikerül a kezeim közül.
+flowchartversioned_dialogue_alzur_63;És ez a gondolat... megrémít.
+flowchartversioned_dialogue_alzur_64;Takarodj innen, Káptalan férge! Térj vissza szûklátókörû gazdáidhoz! Engem nem kötnek az esztelen elôírásaik!
+flowchartversioned_dialogue_alzur_65;És mondd meg Stammelfordnak, hogy megcsókolhatja a seggem!
+flowchartversioned_dialogue_alzur_66;A mennyekre! Ez a nô oly könyörtelen, mint egy felbôszült darázs.
+flowchartversioned_dialogue_alzur_67;Az értelemnek és a fizikumnak kéz a kézben kellene járniuk. Az izom agy nélkül a kudarc biztos receptje.
+flowchartversioned_dialogue_alzur_68;Újra és újra kísért a saját hibám. Méltó vezeklés számomra.
+flowchartversioned_dialogue_alzur_69;Egy napon ezt végleg semmissé teszem majd. Megígérem neked, Lilly.
+flowchartversioned_dialogue_alzur_7;Szerencsések? Az a korcs teremtény a szerencsés. De már nem sokáig.
+flowchartversioned_dialogue_alzur_70;Keress munkát magadnak, söpredék!
+flowchartversioned_dialogue_alzur_71;És esetleg fürödj is meg!
+flowchartversioned_dialogue_alzur_72;Ahogy mondani szokták: a jobbik gyôzedelmeskedik. Ennek ellenére bátor próbálkozás ez a részérôl.
+flowchartversioned_dialogue_alzur_73;Ez történik, amikor kölyökkutyákat hozol egy kutyaviadalra.
+flowchartversioned_dialogue_alzur_74;Nagy kihívás... Majdnem felér az övcsatomig.
+flowchartversioned_dialogue_alzur_75;Egy rég elillant életerô szûnni nem akaró lenyomata.
+flowchartversioned_dialogue_alzur_76;Annyi tudás és hév veszett kárba. Bárcsak azelôtt találkoztunk volna, mielôtt elment a józan esze!
+flowchartversioned_dialogue_alzur_77;Értelemmel bíró lényeket úgy tartani, mintha csak marhák volnának... Ocsmányság.
+flowchartversioned_dialogue_alzur_78;Nini, egy kés. Ejha! Hát mi vagyok én? Egy vekni kenyér, talán?
+flowchartversioned_dialogue_alzur_79;Fáj látni egy céltudatos embert, akit eltorzított és megrontott az általa választott út. Lefogadom, a saját bukását sem látta.
+flowchartversioned_dialogue_alzur_8;Ki kell egyenlítenünk a számlát!
+flowchartversioned_dialogue_alzur_80;Ezek a rúnák... Bármennyire is sötétek, az okkult tudás egy érdekfeszítô ágának igéi. Ám a felsôbb mûvészetek egyikével sem említhetô egy lapon.
+flowchartversioned_dialogue_alzur_81;Minél nagyobbak, annál nagyobbat is buknak.
+flowchartversioned_dialogue_alzur_82;A gyantája biztos erôteljes mágiával van átitatni. Hasznos összetevô, semmi kétség.
+flowchartversioned_dialogue_alzur_83;A nekromancia tiltott mûvészet. És jó okkal.
+flowchartversioned_dialogue_alzur_84;A Káptalan legtöbb parancsolata egyszerûen ostobaság... De azért akad köztük egy-két bölcs is.
+flowchartversioned_dialogue_alzur_85;És most a vallási fanatikusok módszereit alkalmazzák. Vajon süllyedhet-e a Káptalan még ennél is mélyebbre?
+flowchartversioned_dialogue_alzur_86;Bizonyára nem tart túl sokra engem a Káptalan.
+flowchartversioned_dialogue_alzur_87;Hogy ezt a... ezt a patkányfogó bohócot küldték értem. Ez sértô.
+flowchartversioned_dialogue_alzur_88;A Káptalan tucatszámra béreli fel ezeket a bolondokat talán? Bár, az igazat megvallva, az ügynökeik egyre jobbak.
+flowchartversioned_dialogue_alzur_89;Harcban nézni szemközt egy vérrokonnal és túlélni, hogy aztán elmesélhesd a történetet... A képességeim ékes bizonysága. És a szerencsémé, ha ôszinte akarok lenni.
+flowchartversioned_dialogue_alzur_9;A büszkeségemen kívül?
+flowchartversioned_dialogue_alzur_90;Az oroszlánfejû pók kész gyönyörûség ahhoz a nyomorult szörnyûséghez képest, amit ez az ôrült imádott. Nem is akarom tudni, mi volt az a valami.
+flowchartversioned_dialogue_alzur_91;Igazán bámulatos teremtmény. Amikor befejezem a mestermûvemet, lehet, beszerzek egy ilyet. Tanulmányozni az... egyedi képességeit.
+flowchartversioned_dialogue_alzur_92;Mily egyszerû állat. A könyörtelen szellemében mégis volt valami nemesség. Ez csodálatra méltó.
+flowchartversioned_dialogue_alzur_93;A gyenge elmék összeomlanak, ha megérinti ôket a mágia. Szegény, szerencsétlen ember. Nem hagyhatom, hogy a jajgatása megingassa eltökéltségemet!
+flowchartversioned_dialogue_alzur_94;A szánalmas mágiád csak arra elég, hogy lefekvéskor a gyerekeket riogasd vele. Nyugodj elfeledve, boszorka!
+flowchartversioned_dialogue_alzur_95;Na, EZ ám a természet ereje! Ahogy a metszéspont hatalmából merített,… Játszi könnyedséggel!
+flowchartversioned_dialogue_alzur_96;Zabolázatlan, ôsi, nyers mágia! Bár lenne rá még egy tartalék életem, hogy tanulmányozzam!
+flowchartversioned_dialogue_alzur_97;Azt hiszem, a haladás áldozatokat követel. Úgy tûnik, néha a csizmádat is fel kell hozzá áldoznod. Meg a köpenyedet. És a nadrágodat is.
+flowchartversioned_dialogue_alzur_98;Villámokkal és jéggel fogunk harcolni, és olyan lesz, mintha eljött volna a világ vége!
+flowchartversioned_dialogue_alzur_99;Lenyûgözô teremtmény.
+flowchartversioned_dialogue_lilly_1;Csapda! Éreztem, hogy ez az út nem biztonságos!
+flowchartversioned_dialogue_lilly_10;Megsérült valamid?
+flowchartversioned_dialogue_lilly_11;Nem gondoltam volna, hogy bármi is csorbát ejthet a büszkeségeden.
+flowchartversioned_dialogue_lilly_12;Legközelebb felkészültebbek leszünk.
+flowchartversioned_dialogue_lilly_13;Akkor hát, vissza a tervezôasztalhoz!
+flowchartversioned_dialogue_lilly_14;Tanulópénz, valóban.
+flowchartversioned_dialogue_lilly_15;Úgy érted, emberi alanyok.
+flowchartversioned_dialogue_lilly_16;Néha egészen megrémítesz.
+flowchartversioned_dialogue_lilly_17;Higgadj le, drágám! Egy nap majd látni fogják, hogy igazunk volt. Ezért nem vehetjük le soha szemünket a célról.
+flowchartversioned_dialogue_lilly_18;Ne légy ilyen szigorú vele, szerelmem! Lehet, csak durva nevelésben részesült.
+flowchartversioned_dialogue_lilly_19;Hagyj minket békén te... te tolvaj!
+flowchartversioned_dialogue_lilly_2;Kisütött a nap, mégis olyan hideg a levegô.
+flowchartversioned_dialogue_lilly_20;Valóban az. Szívesebben örökíteném meg a szépségét, mintsem megölném.
+flowchartversioned_dialogue_lilly_3;Egy gyermekeirôl gondoskodó anya nehezen nevezhetô szörnyetegnek, nem igaz?
+flowchartversioned_dialogue_lilly_4;Tudom, de... amikor már túl régóta kergetsz egy álmot, könnyû megfeledkezni az alapelvrôl, ami a kezdetektôl vezérelt minket.
+flowchartversioned_dialogue_lilly_5;Látod, hogy remeg a medálom? Ennek ellenére nem volt egy szörny sem a kô közelében.
+flowchartversioned_dialogue_lilly_6;Havazik? Hümm!
+flowchartversioned_dialogue_lilly_7;A csúcs közelében durva hóviharra van kilátásunk, remélem készen állunk rá.
+flowchartversioned_dialogue_lilly_8;Szerencsések vagyunk, hogy egy darabban megúsztuk.
+flowchartversioned_dialogue_lilly_9;Tanulnunk kell ebbôl a leckébôl.
