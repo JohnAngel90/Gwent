@@ -956,7 +956,7 @@
 200038_tooltip;<keyword=deathwish>Halálvágy</keyword>: <keyword=summon>Megidézi</keyword> ezen egység összes példányát a paklidból erre a sorra.
 200039_fluff;Amíg mi kitartunk, egy ember sem taposhatja Dol Blathanna mezőit.
 200039_name;Dol Blathannai őrszem
-200039_tooltip;<keyword=melee>Közelharci</keyword>: Amikor egy ellenséges egység mozog, okozz neki {Damage} pont sebzést!\n<keyword=ranged>Távolsági</keyword>: Amikor egy szövetséges egység mozog, erősítsd meg {Boost} ponttal!
+200039_tooltip;<keyword=melee>Közelharci</keyword>: Amikor egy ellenséges egység mozog, okozz neki {Damage} pont sebzést!\n<keyword=ranged>Távolsági</keyword>: Amikor egy szövetséges egység mozog, erősítsd azt {Boost} ponttal!
 200040_fluff;Óh, jól megnevettetsz, nordling! Minek neked az a fattyúkard? El sem bírod, nemhogy kibelezzél vele engem.
 200040_name;An Craite kétkezes kardos
 200040_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz magának.\nAmikor egy ellenséges egység sebzést szenved el, {Heal} ponttal <keyword=heal>Gyógyítja</keyword> magát.
@@ -2875,8 +2875,8 @@
 202553_name;Összejátszás
 202553_tooltip;Ha irányítasz egységet a következő bandákból:\nVakszemek - Megnövel minden más hatást eggyel.\nKoronaszakítók - Erősíti a leggyengébb szövetséges egységet {Boost} ponttal.\nMókamesterek - {Damage} pont sebzést okoz a legerősebb ellenséges egységnek.\nTűztestvér - <keyword=spawn>Teremt</keyword> {Counter} <b>Tűztestvér fanatikust</b> egy véletlenszerű sorodra.\nKöpönyegforgatók - {Coins} <keyword=coin>Érmét</keyword> kapsz.
 202554_fluff;Több zarándok megfordul itt, mint az Örök Tűz templomában.
-202554_name;Egy éjszaka a Golgotavirágában
-202554_tooltip;<keyword=doomed>Kárhozott</keyword>.\nSzcenárió: Előrehaladást érsz el, ha Vakszemek kártyát játszol ki.\nPrológus: <keyword=spawn>Teremt</keyword> egy <b>Ravasz csábítót</b> erre a sorra.\n1. fejezet: <keyword=spawn>Teremt</keyword> egy <b>Golgotavirág őszibarackjait</b> erre a sorra.\n2. fejezet: Kapsz {Coins} <keyword=coin>Érmét</keyword>.
+202554_name;Egy éjszaka a Vágyvirágban
+202554_tooltip;<keyword=doomed>Kárhozott</keyword>.\nSzcenárió: Előrehaladást érsz el, ha Vakszemek kártyát játszol ki.\nPrológus: <keyword=spawn>Teremt</keyword> egy <b>Ravasz csábítót</b> erre a sorra.\n1. fejezet: <keyword=spawn>Teremt</keyword> egy <b>Vágyvirág őszibarackjait</b> erre a sorra.\n2. fejezet: Kapsz {Coins} <keyword=coin>Érmét</keyword>.
 202555_fluff;Egy szakértő feneketlen zsebekkel, és olyan fekete lélekkel, mint a szurok.
 202555_name;Saul de Navarette
 202555_tooltip;<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: A köröd végén {Boost} ponttal erősíti magát.\n<keyword=hoard>Halmozás</keyword>: {Hoard2-B.P.BB_Hoard}: A köröd végén, helyette {Boost2} ponttal erősíti magát.\n<keyword=hoard>Halmozás</keyword>: {Hoard3-B.P.BB_Hoard}: A köröd végén, helyette {Boost3} ponttal erősíti magát.
@@ -2893,7 +2893,7 @@
 202560_name;Pénzügyi specialista
 202560_tooltip;<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: Mozgass egy egységet a másik sorra!
 202561_fluff;Összezavarnak, összetörik a szívedet, és kiürítik az erszényedet.
-202561_name;Golgotavirág őszibarackjai
+202561_name;Vágyvirág őszibarackjai
 202561_tooltip;<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: A köröd végén {Boost} ponttal erősíti magát.
 202562_fluff;Zerrikániában a feltámadás szimbólumának tekintik. De ahhoz, hogy újra meg tudj születni, előbb meg kell halnod.
 202562_name;Szkarabeusz
@@ -3902,7 +3902,7 @@
 203114_tooltip;Amikor egy szövetséges egységet célzol speciális kártyával, biztosíts neki <keyword=vitality>Vitalitást</keyword>, melynek mértéke azonos a speciális kártya ellátási költségével!\nAmikor egy ellenséges egységet célzol speciális kártyával, okozz neki <keyword=bleeding>Vérzést</keyword>, melynek mértéke azonos a speciális kártya ellátási költségével!
 203115_fluff;Igen, Óriásölőnek hívnak, és nem azért, mert egy óriási nagy rohadék vagyok, te kis szaros!
 203115_name;Óriásölő
-203115_tooltip;<keyword=deploy>Lehelyezés</keyword>: Válassz egy ellenséges egységet! Ha annak alapereje nagyobb, mint az Óriásölő ereje, {Armor} <keyword=armor>Páncélt</keyword> kapsz.\n<keyword=barricade>Barikád</keyword>: {Damage} pont sebzést okoz a köröd végén a kiválasztott egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: Kap <keyword=resilient>Rugalmasságot</keyword>.
+203115_tooltip;<keyword=deploy>Lehelyezés</keyword>: Válassz egy ellenséges egységet! Ha annak alapereje nagyobb, mint az <b>Óriásölő</b> alapereje, {Armor} <keyword=armor>Páncélt</keyword> kapsz.\n<keyword=barricade>Barikád</keyword>: {Damage} pont sebzést okoz a köröd végén a kiválasztott egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=resilient>Rugalmasságot</keyword> kap.
 203116_fluff;Az alkímiai eszköz képes tárolni a lemészárolt lények esszenciáját. Átformálja az energiát mutagénné.\n\nPrimitív a jelenlegi formájában, a készülék általában véletlenszerű eredményeket produkál, ami rendkívül nehézkessé teszi a kísérletek megismétlését.
 203116_name;Mutagén generátor
 203116_tooltip;Amikor kijátszol egy egységet a <keyword=melee>Közelharci</keyword> sorodra, {Boost} ponttal erősít {MaxTargets} azonos ellátási költségű, véletlenszerű egységet a csatatered oldalán.\nAmikor kijátszol egy egységet a <keyword=ranged>Távolsági</keyword> sorodra, {Boost} ponttal erősít {MaxTargets} azonos ellátási költségű véletlenszerű egységet a paklidban.
@@ -4252,7 +4252,7 @@ card_category_35;Heymaey klán
 card_category_36;Gyorsreagálású
 card_category_37;Driád
 card_category_38;Speciális
-card_category_39;elf
+card_category_39;Elf
 card_category_4;Lyriai
 card_category_40;Nekrofág
 card_category_41;Gépezet

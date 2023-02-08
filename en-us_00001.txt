@@ -1714,7 +1714,7 @@ achievement_900718_title;Szerető anya avatár
 achievement_900719_title;Tiltott szerelem kártya hátlap
 achievement_90072_desc;Nyerj 10 játékot páncél öltözetben!
 achievement_90072_title;Páncél, ellenőrizve!
-achievement_900720_title;Her Royal Huntress kinézet
+achievement_900720_title;Vadász őfelsége kinézet
 achievement_900721_title;Öleléskirálynő avatár
 achievement_90073_desc;Nyerj 20 játékot páncél öltözetben!
 achievement_90073_title;Sisak, ellenőrizve!
@@ -2889,7 +2889,7 @@ challenge_faction_2_leader_2_match_2;Honor Guard
 challenge_faction_2_leader_2_match_2_desc;To say Bran’s personal guard was loyal is like saying winter in the isles tends to be rather chilly, or its seas grow a bit choppy during storms. The Skellige maidens who served as his protectors defended their king fiercely, fighting through any injury short of death itself…and sometimes, through that as well.
 challenge_faction_2_leader_2_match_2_strategy;The Arakász királynő tries to amass a mighty army. Try to disrupt this strategy or focus on building up your own strength.
 challenge_faction_2_leader_2_match_2_strategy_2;Use Bran to send cards to the graveyard, then Resurrect them when the time is ripe.
-challenge_faction_2_leader_2_match_3;Immortal Islanders
+challenge_faction_2_leader_2_match_3;Halhatatlan Islanders
 challenge_faction_2_leader_2_match_3_desc;King Bran’s enemies would swear they crossed swords with warriors they had killed personally during earlier battles - not just once, but two times or more. Most think this foolish superstition, the wild tales of scarred soldiers, nothing more… But those who know Skellige well give such stories much credence. In the isles, death is not permanent.
 challenge_faction_2_leader_2_match_3_strategy;Watch out for Henselt - he can bring many units onto the board in one move.
 challenge_faction_2_leader_2_match_3_strategy_2;Use Bran to send cards to the graveyard, then Resurrect them when the time is ripe.
@@ -6712,7 +6712,7 @@ shop_data_category_titles_title;Profil titulusok
 shop_data_category_trinkets_title;Bundles
 shop_data_cc_keg_desc;Once opened, this non-alap szett keg will grant you 5 cards from the Bíbor Átok expansion, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_cc_keg_title;Bíbor Átok hordó
-shop_data_celebration_2022_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x25\n\n<sprite="PopupIcons" name="Powder"> 1500 Meteorite Powder\n\n<sprite="PopupIcons" name="Avatar"> Festive Effigy Avatar\n\n<sprite="PopupIcons" name="Title"> "Gifting Spirit" title \n\n Celebrate Yule's Season with Premium Cards but do not forget about spirit of the Yule!
+shop_data_celebration_2022_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x25\n\n<sprite="PopupIcons" name="Powder"> 1500 Meteorite Powder\n\n<sprite="PopupIcons" name="Avatar"> Festive Effigy Avatar\n\n<sprite="PopupIcons" name="Title"> "Gifting Spirit" title \n\n Celebrate Yule's Season with Premium Cards but do not forget about spirit of the Yule!
 shop_data_celebration_2022_pack_title;Yule's Celebration 2022 Pack
 shop_data_celebration_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x25\n\n<sprite="PopupIcons" name="Avatar"> Yule Harpy Avatar \n\n<sprite="PopupIcons" name="Title"> "Yule szelleme" title \n\n<sprite="PopupIcons" name="Powder"> 1500 meteoritpor\n\n Celebrate Yule's Season with Premium Cards but do not forget about spirit of the Yule!
 shop_data_celebration_pack_title;Yule's Celebration csomag
@@ -6780,7 +6780,7 @@ shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card">Magic Lamp Prem
 shop_data_ep4_caravan_pack_title;Caravan Raid csomag
 shop_data_ep4_premium_keg_desc;Available for a limited time only, Ofir kereskedői prémium hordók are a means of bolstering your GWENT card collection with additional animated cards from the Ofir kereskedői expansion.\n\nHa kinyitod, ez a hordó will grant you 5 Premium cards from the Ofir kereskedői expansion, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_ep4_premium_keg_title;Ofir kereskedői prémium hordó
-shop_data_ep5_combo_preorder_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 prémium Tükörmester kegs\n\n<sprite="PopupIcons" name="Keg"> 10 Tükörmester hordó\n\n<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm skin — equippable immediately after purchase\n\n<sprite="PopupIcons" name="CardBack"> Tükörmester evolving cardback - equippable immediately after purchase!\n\n<sprite="PopupIcons" name="Title"> Bonus title: Immortal — equippable immediately after purchase!\n\nThe Tükörmester's most masterful offer! Get both pre-order packs together in one go, plus a bonus title to boot! Note: sacrificing one's soul not required for purchase!\n\nNote: Kegs will be ready to open once the Tükörmester kiegészítő releases on June 30th, 2020.
+shop_data_ep5_combo_preorder_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 prémium Tükörmester kegs\n\n<sprite="PopupIcons" name="Keg"> 10 Tükörmester hordó\n\n<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm skin — equippable immediately after purchase\n\n<sprite="PopupIcons" name="CardBack"> Tükörmester evolving cardback - equippable immediately after purchase!\n\n<sprite="PopupIcons" name="Title"> Bonus title: Halhatatlan — equippable immediately after purchase!\n\nThe Tükörmester's most masterful offer! Get both pre-order packs together in one go, plus a bonus title to boot! Note: sacrificing one's soul not required for purchase!\n\nNote: Kegs will be ready to open once the Tükörmester kiegészítő releases on June 30th, 2020.
 shop_data_ep5_combo_preorder_title;Tükörmester Pre-order Combo
 shop_data_ep5_intrigue_pack_desc;Wield the most precious cards of the Tükörmester kiegészítő and watch them evolve during battle, changing their abilities and growing ever stronger!\n\nThis pack contains 6 Premium Cards (one for each faction):\n\n<sprite="PopupIcons" name="Card"> Auberon King (Szörnyek)\n\n<sprite="PopupIcons" name="Card"> Jaques Miraculous Child (Szindikátus)\n\n<sprite="PopupIcons" name="Card"> Harald an Craite (Skellige)\n\n<sprite="PopupIcons" name="Card"> Bitorló Officer (Nilfgaard)\n\n<sprite="PopupIcons" name="Card"> Eithne Young Queen (Mókusok)\n\n<sprite="PopupIcons" name="Card"> Viraxas Prince (Északi Királyságok)
 shop_data_ep5_intrigue_pack_title;Intrigue csomag
@@ -6924,8 +6924,8 @@ shop_data_ice_pack_open3_desc;<sprite="PopupIcons" name="Border"> Animated Ice B
 shop_data_ice_pack_open3_title;Jeges csomag
 shop_data_invaders_bundle_desc;<sprite="PopupIcons" name="Avatar"> Menno Coehoorn avatár\n\n<sprite="PopupIcons" name="Board"> Aedirn Board\n\n<sprite="PopupIcons" name="Skin"> Emhyr kinézet - The White Flame\n\nThis bundle allows you to obtain ornaments first introduced with the Homecoming.
 shop_data_invaders_bundle_title;Invaders Bundle
-shop_data_iris&olgierd_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg\n\n<sprite="PopupIcons" name="Card"> Iris: Shade\n\n<sprite="PopupIcons" name="Card"> Olgierd: Immortal\n\n<sprite="PopupIcons" name="Title"> "Álmodozó" Title\n\nTo have and to hold, till immortality do us part...
-shop_data_iris&olgierd_event_pack_title;Iris & Olgierd Pack
+shop_data_iris&olgierd_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó\n\n<sprite="PopupIcons" name="Card"> Iris: Árnyék\n\n<sprite="PopupIcons" name="Card"> Olgierd: Halhatatlan\n\n<sprite="PopupIcons" name="Title"> "Álmodozó" titulus\n\nTo have and to hold, till immortality do us part...
+shop_data_iris&olgierd_event_pack_title;Iris és Olgierd csomag
 shop_data_kaleidoscope_bundle_desc;<sprite="PopupIcons" name="Skin"> Láthatatlan Ős Dark Blood kinézet\n\n <sprite="PopupIcons" name="CardBack"> Alternative Crimson Curse kártya hátlap\n\n<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\n<sprite="PopupIcons" name="CardBack"> Undying Fire kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Zerrikanian Radovid kinézet\n\n<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\n<sprite="PopupIcons" name="CardBack"> Merchants of Ofir kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Wraith skin\n\nReinforce your ornaments collection with these rare items! Returning to the store and available for a limited-time!
 shop_data_kaleidoscope_bundle_title;Kaleidoscope Bundle
 shop_data_katakan_sketch_bundle_desc;<sprite="PopupIcons" name="Avatar"> Katakán vázlata avatár\n\n<sprite="PopupIcons" name="CardBack"> Katakan's Anatomy kártya hátlap\n\n<sprite="PopupIcons" name="Title"> "Monster Researcher" Title\n\nKnown as embodiment of human fear, these deadly monsters lurk in the dark. Watch out for moving shadows, maybe there's one waiting to attack right behind you!
@@ -6941,19 +6941,19 @@ shop_data_kolgrim_bundle_title;Kolgrim Bundle
 shop_data_legendary_foltest_skin_desc;<sprite="PopupIcons" name="Skin"> Hadvezér kinézet\n\nMeet the decisive and hot-headed legendary king of Temeria, who inspires both fear and respect. Have him by your side during battles and may the victory be yours.
 shop_data_legendary_foltest_skin_title;Hadvezér kinézet
 shop_data_love_event_calanthe&eist_desc;<sprite="PopupIcons" name="Border"> Öleléskirály keret\n\n<sprite="PopupIcons" name="Avatar"> Öleléskirálynő avatár\n\n<sprite="PopupIcons" name="Title"> "Öleléskirály" titulus\n\n<sprite="PopupIcons" name="Title"> "Öleléskirálynő" titulus\n\nChildhood dreams tend be forsaken as we grow older, but they always find their way back to us when we fall in love.
-shop_data_love_event_calanthe&eist_title;Calanthe & Eist Bundle
+shop_data_love_event_calanthe&eist_title;Calanthe és Eist Bundle
 shop_data_love_event_forbidden_love_desc;<sprite="PopupIcons" name="CardBack"> Tiltott szerelem kártya hátlap\n\nThe allure of love out of reach is greater than even that of destiny.
 shop_data_love_event_forbidden_love_title;Tiltott szerelem Bundle
 shop_data_love_event_fruit_of_love_cardback_desc;<sprite="PopupIcons" name="CardBack"> Szerelem gyümölcse kártya hátlap\n\nSing a song to the little cub, that she might one day carry it with her across the world.
 shop_data_love_event_fruit_of_love_cardback_title;Szerelem gyümölcse kártya hátlap
-shop_data_love_event_her_royal_huntress_skin_desc;<sprite="PopupIcons" name="Skin"> Her Royal Huntress kinézet\n\nShow your falcon care and respect, and it will bring you the juiciest of mice.
-shop_data_love_event_her_royal_huntress_skin_title;Her Royal Huntress kinézet
-shop_data_love_event_pavetta&duny_desc;<sprite="PopupIcons" name="Avatar"> Loving mother Avatar\n\n<sprite="PopupIcons" name="Avatar"> Duny Avatar\n\n<sprite="PopupIcons" name="Title"> "Szerető szülő" Title\n\nBehold: the child-surprise! The one who lifts curses and brings joy to jaded hearts.
-shop_data_love_event_pavetta&duny_title;Pavetta & Duny Bundle
-shop_data_love_event_pavetta&urcheon_desc;<sprite="PopupIcons" name="Avatar"> Pavetta Avatar\n\n<sprite="PopupIcons" name="Avatar"> Urcheon of Erlenwald Avatar\n\n<sprite="PopupIcons" name="Title"> "Romantikus költő" Title\n\nTurn a blind eye to the afflictions of the past,\nAnd together build a nest out of a love that lasts.
-shop_data_love_event_pavetta&urcheon_title;Pavetta & Urcheon Bundle
-shop_data_love_event_philippa&dijkstra_desc;<sprite="PopupIcons" name="Border"> Big Spoon Border\n\n<sprite="PopupIcons" name="Avatar"> Small Spoon Avatar\n\n<sprite="PopupIcons" name="Title"> "Big Spoon" Title\n\n<sprite="PopupIcons" name="Title"> "Small Spoon" Title\n\nLust for power begins, as usual, with lust.
-shop_data_love_event_philippa&dijkstra_title;Philippa & Dijkstra Bundle
+shop_data_love_event_her_royal_huntress_skin_desc;<sprite="PopupIcons" name="Skin"> Vadász őfelsége kinézet\n\nShow your falcon care and respect, and it will bring you the juiciest of mice.
+shop_data_love_event_her_royal_huntress_skin_title;Vadász őfelsége kinézet
+shop_data_love_event_pavetta&duny_desc;<sprite="PopupIcons" name="Avatar"> Szerető anya avatár\n\n<sprite="PopupIcons" name="Avatar"> Duny avatár\n\n<sprite="PopupIcons" name="Title"> "Szerető szülő" titulus\n\nBehold: the child-surprise! The one who lifts curses and brings joy to jaded hearts.
+shop_data_love_event_pavetta&duny_title;Pavetta és Duny Bundle
+shop_data_love_event_pavetta&urcheon_desc;<sprite="PopupIcons" name="Avatar"> Pavetta avatár\n\n<sprite="PopupIcons" name="Avatar"> Erlenwald Süne avatár\n\n<sprite="PopupIcons" name="Title"> "Romantikus költő" titulus\n\nTurn a blind eye to the afflictions of the past,\nAnd together build a nest out of a love that lasts.
+shop_data_love_event_pavetta&urcheon_title;Pavetta és Urcheon Bundle
+shop_data_love_event_philippa&dijkstra_desc;<sprite="PopupIcons" name="Border"> Nagykanál keret\n\n<sprite="PopupIcons" name="Avatar"> Kiskanál avatár\n\n<sprite="PopupIcons" name="Title"> "Nagykanál" titulus\n\n<sprite="PopupIcons" name="Title"> "Kiskanál" titulus\n\nLust for power begins, as usual, with lust.
+shop_data_love_event_philippa&dijkstra_title;Philippa és Dijkstra Bundle
 shop_data_love_season_bundle_desc;<sprite="PopupIcons" name="CardBack"> Love kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> 3 seasonal avatars: Priscilla Avatar, Kökörcsin Avatar, Succubus Avatar\n\n<sprite="PopupIcons" name="Border"> 4 seasonal borders: Secret Admirer Border, Sweet Talker Border, Casanova Border, Crimson Avenger Border\n\n<sprite="PopupIcons" name="Title"> Bonus title: True Romantic\n\nThis special bundle contains díszítéseket obtainable in GWENT during the A szerelem szezonja, along with a special bonus item!
 shop_data_love_season_bundle_title;A szerelem szezonja Bundle
 shop_data_lunar_board_desc_sale;<sprite="PopupIcons" name="Board"> Lunar Board\n\nA new battleground for a New Lunar Year! Make it a celebration you — and your opponents — will never forget.\nThis Board will be up for -30% off during the Holdújév sales.
@@ -6976,7 +6976,7 @@ shop_data_masters_cardback_pack_desc;<sprite="PopupIcons" name="CardBack"> Maste
 shop_data_masters_cardback_pack_title;Masters kártya hátlap 2022
 shop_data_masters_cardback_season2_desc;<sprite="PopupIcons" name="CardBack">World Masters Season 2 kártya hátlap\n\nCelebrate GWENT Masters Season 2 with this special kártya hátlap connected to all four elements from previous Opens.
 shop_data_masters_cardback_season2_title;World Masters Season 2 kártya hátlap
-shop_data_masters_pack_2022_desc;<sprite="PopupIcons" name="PremiumKeg">25 Ultimate Premium Kegs\n<sprite="PopupIcons" name="Powder">500 Meteorite Powder\n<sprite="PopupIcons" name="Trinket">Shupe's E-Sports fan scarf\n<sprite="PopupIcons" name="Avatar"> E-Sport fan Avatar\n<sprite="PopupIcons" name="Title"> "E-Sport fan" Title\n\nExpand, strengthen, and upgrade your collection with new ornaments and a shipment of Meteorite Powder. \nPurchasing this product helps support GWENT esports; 50% of the proceeds from this bundle will directly boost the prize pool for GWENT Masters, which takes place in December 2022!
+shop_data_masters_pack_2022_desc;<sprite="PopupIcons" name="PremiumKeg">25 Alap prémium hordó\n<sprite="PopupIcons" name="Powder">500 Meteorite Powder\n<sprite="PopupIcons" name="Trinket">Shupe's E-Sports fan scarf\n<sprite="PopupIcons" name="Avatar"> E-Sport fan Avatar\n<sprite="PopupIcons" name="Title"> "E-Sport fan" Title\n\nExpand, strengthen, and upgrade your collection with new ornaments and a shipment of Meteorite Powder. \nPurchasing this product helps support GWENT esports; 50% of the proceeds from this bundle will directly boost the prize pool for GWENT Masters, which takes place in December 2022!
 shop_data_masters_pack_title;Mesterek csomag
 shop_data_mega_pack_1_ep7_title;Once upon a Pyre - Combo csomag
 shop_data_mega_pack_2_ep7_title;7.2 - Combo csomag
@@ -7006,7 +7006,7 @@ shop_data_monster_keg_7_title;Szörny hordó x7
 shop_data_monster_keg_7_title_gaea;Hulladék x18, Szörny hordó x7
 shop_data_monster_keg_desc;Ha kinyitod, ez a hordó will grant you 5 Monster cards from any set, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_monster_keg_title;Szörny hordó
-shop_data_monsters_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Szörnyek hordó.\n\n<sprite="PopupIcons" name="Card">Auberon King card.\n\n<sprite="PopupIcons" name="Border">Szörnyek Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szörnyek cards, as well as a select Szörnyek gold card and a unique faction border.
+shop_data_monsters_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Szörnyek hordó.\n\n<sprite="PopupIcons" name="Card">Auberon, a király kártya.\n\n<sprite="PopupIcons" name="Border">Szörnyek keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szörnyek cards, as well as a select Szörnyek gold card and a unique faction border.
 shop_data_ms_bundle_desc;<sprite="PopupIcons" name="Avatar"> Grave Hag Avatar\n\n<sprite="PopupIcons" name="Title"> "Szörnyvadász" Title\n\nLet the hunt begin!\n\n Celebrate the launch of The Witcher: Szörnyvadász with us and enjoy your free goodies!
 shop_data_ms_bundle_title;Szörnyvadász Bundle
 shop_data_myrgtabrakke_bundle_desc;<sprite="PopupIcons" name="Avatar"> Myrgtabrakke Avatar\n\n<sprite="PopupIcons" name="Border"> Hatchling Border\n\n<sprite="PopupIcons" name="Title"> "Green Dragon" Title\n\nMyrgtabrakke, the famous survivor of a legendary dragon hunt, is making a return!\n\nThis Bundle was first introduced during the Season of the Draconid in the A vérpatkány éve.
@@ -7017,7 +7017,7 @@ shop_data_neutral_keg_desc;Ha kinyitod, ez a hordó ad neked 5 Semleges kártyá
 shop_data_neutral_keg_title;Semleges hordó
 shop_data_night_bundle_desc;<sprite="PopupIcons" name="Board"> In the Night-light Board\n\n<sprite="PopupIcons" name="Coin"> Night Coin\n\nPurchasing this product helps support GWENT esports; 50% of the proceeds from this bundle will directly boost the prize pool for GWENT Masters!
 shop_data_night_bundle_title;Éjszakai Bundle
-shop_data_nilfgaard_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Nilfgaard hordó.\n\n<sprite="PopupIcons" name="Card">Bitorló Officer card.\n\n<sprite="PopupIcons" name="Border">Nilfgaard Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Nilfgaard cards, as well as a select Nilfgaard gold card and a unique faction border.
+shop_data_nilfgaard_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Nilfgaard hordó.\n\n<sprite="PopupIcons" name="Card">Bitorló, a tiszt kártya.\n\n<sprite="PopupIcons" name="Border">Nilfgaard keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Nilfgaard cards, as well as a select Nilfgaard gold card and a unique faction border.
 shop_data_nilfgaard_keg_15_title;Nilfgaard hordó x15
 shop_data_nilfgaard_keg_15_title_gaea;Hulladék x28, Nilfgaard hordó x15
 shop_data_nilfgaard_keg_2_title;Nilfgaard hordó x2
@@ -7044,7 +7044,7 @@ shop_data_northern_keg_7_title;Északi Királyságok hordó x7
 shop_data_northern_keg_7_title_gaea;Hulladék x18, Északi Királyságok hordó x7
 shop_data_northern_keg_desc;Ha kinyitod, ez a hordó will grant you 5 Északi Királyságok cards from any set, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_northern_keg_title;Északi Királyságok hordó
-shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Északi Királyságok hordó.\n\n<sprite="PopupIcons" name="Card">Viraxas Prince card.\n\n<sprite="PopupIcons" name="Border">Északi Királyságok Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Északi Királyságok cards, as well as a select Északi Királyságok gold card and a unique faction border.
+shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Északi Királyságok hordó.\n\n<sprite="PopupIcons" name="Card">Viraxas herceg kártya.\n\n<sprite="PopupIcons" name="Border">Északi Királyságok keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Északi Királyságok cards, as well as a select Északi Királyságok gold card and a unique faction border.
 shop_data_now_available_ promo_desc;Már elérhető!
 shop_data_origins_desc;Több száz évvel azelőtt játszódik, hogy Geralt és a többi vaják a Kontinenset járták volna volna. A Zsivány mágus az első egyjátékos kiegészítő a GWENT: A vaják kártyajátékhoz. Kombinálja a legjobb elemeit a roguelike típusú, pakliépítő, és stratégiai játékoknak, a GWENT egyedi kártya csatáival.
 shop_data_origins_title;Alap kiadás
@@ -7052,15 +7052,15 @@ shop_data_originsdeluxe_desc;Több száz évvel azelőtt játszódik, hogy Geral
 shop_data_originsdeluxe_title;Deluxe kiadás
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Green Cricket skin (Szörnyek)\n\n<sprite="PopupIcons" name="Board"> Forgotten board\n\nNature has taken over! Ain't it pretty?\n\nThis Bundle was introduced to support GWENT Open 2 during the A vérpatkány éve.
 shop_data_overgrown_bundle_title;Overgrown Bundle (GWENT Open 2)
-shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Passiflora border\n\n<sprite="PopupIcons" name="Avatar"> Amrynn avatar\n\n<sprite="PopupIcons" name="Avatar"> Narcissa avatar\n\n<sprite="PopupIcons" name="Avatar"> Viola avatar\n\n<sprite="PopupIcons" name="Title"> “Passiflora Champion” Title\n\nCome indulge in what Novigrad is most well known for! And no, we don't mean commerce or witch hunts.
-shop_data_passiflora_bundle_title;Passiflora Bundle
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Vágyvirág keret\n\n<sprite="PopupIcons" name="Avatar"> Amrynn avatár\n\n<sprite="PopupIcons" name="Avatar"> Narcissa avatár\n\n<sprite="PopupIcons" name="Avatar"> Viola avatár\n\n<sprite="PopupIcons" name="Title"> “Vágyvirág bajnok” titulus\n\nCome indulge in what Novigrad is most well known for! And no, we don't mean commerce or witch hunts.
+shop_data_passiflora_bundle_title;Vágyvirág Bundle
 shop_data_power_blend_bundle_desc;<sprite="PopupIcons" name="CardBack"> Jester kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm kinézet\n\n<sprite="PopupIcons" name="CardBack"> Sinister Tree cardbacks\n\n<sprite="PopupIcons" name="Board"> Once Upon a Pyre játéktábla\n\n<sprite="PopupIcons" name="Coin"> Pyre Coin\n\n<sprite="PopupIcons" name="Skin"> Octavia Hale kinézet\n\n<sprite="PopupIcons" name="CardBack"> Way of the Witcher Expansion, All Faction kártya hátlaps\n\nRise to fame and power with this powerful bundle!
 shop_data_power_blend_bundle_title;Power Blend Bundle
 shop_data_premium_cc_keg_desc;Ha kinyitod, ez a hordó will grant you 5 <b>Premium</b> cards from the Bíbor Átok expansion, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_premium_cc_keg_title;Premium Bíbor Átok hordó
 shop_data_premium_keg_desc;Ha kinyitod, ez a hordó garantáltad ad neked 5 <b>Prémium</b> kártyát az alap szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_premium_keg_title;Prémium alap szett hordó
-shop_data_prosperity_pack_ 2023_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 Ultimate Premium Kegs\n\n<sprite="PopupIcons" name="Powder"> 900 Meteorite Powder\n\nA measured dose of immeasurable fortune.\n\nHappy Lunar New year!
+shop_data_prosperity_pack_ 2023_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 Alap prémium hordó\n\n<sprite="PopupIcons" name="Powder"> 900 Meteorite Powder\n\nA measured dose of immeasurable fortune.\n\nHappy Lunar New year!
 shop_data_prosperity_pack_2021_desc;<sprite="PopupIcons" name="PremiumKeg">25 Alap prémium hordó\n\n<sprite="PopupIcons" name="Powder">400 meteoritpor\n\n<sprite="PopupIcons" name="Card"> Snowdrop Legendás Card\n\n<sprite="PopupIcons" name="Avatar"> Ox Avatar\n\n<sprite="PopupIcons" name="Border"> Lunar Shop Border\n\n<sprite="PopupIcons" name="Title"> "Lunar" Title\n\nExpand, strengthen, and upgrade your collection with new díszítéseket, a powerful legendary card, and a shipment of meteoritpor. Happy Lunar New year!
 shop_data_prosperity_pack_2022_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 Alap prémium hordó\n\n<sprite="PopupIcons" name="Powder"> 500 meteoritpor\n\n<sprite="PopupIcons" name="Avatar"> Arany tigris Avatar\n\n<sprite="PopupIcons" name="Title"> "Arany tigris" Title\n\nExpand, strengthen, and upgrade your collection with new díszítéseket and a shipment of meteoritpor. Happy Lunar New year!
 shop_data_prosperity_pack_title;Prosperity csomag
@@ -7078,7 +7078,7 @@ shop_data_saovine_gameboard_desc;<sprite="PopupIcons" name="Board"> Saovine ját
 shop_data_saovine_gameboard_title;Saovine játéktábla
 shop_data_school_of_griffin_bundle_desc;<sprite="PopupIcons" name="Avatar"> George of Kagen Avatar\n\n<sprite="PopupIcons" name="Border"> Főgriff Border\n\n<sprite="PopupIcons" name="Title"> "of Kagen" Title\n\nThis bundle contains díszítéseket first introduced as unlockable items during the A Griffek szezonja in the A Vadkan éve - along with a new special bonus item!
 shop_data_school_of_griffin_bundle_title;School of the Griffin Bundle
-shop_data_scoiatael_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Mókusok hordó.\n\n<sprite="PopupIcons" name="Card">Eithné Young Queen card.\n\n<sprite="PopupIcons" name="Border">Mókusok Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Mókusok cards, as well as a select Mókusok gold card and a unique faction border.
+shop_data_scoiatael_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Mókusok hordó.\n\n<sprite="PopupIcons" name="Card">Eithné: A fiatal királynő kártya.\n\n<sprite="PopupIcons" name="Border">Mókusok keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Mókusok cards, as well as a select Mókusok gold card and a unique faction border.
 shop_data_scoiatael_keg_15_title;Mókusok hordó x15
 shop_data_scoiatael_keg_15_title_gaea;Hulladék x28, Mókusok hordó x15
 shop_data_scoiatael_keg_2_title;Mókusok hordó x2
@@ -7101,34 +7101,34 @@ shop_data_shupe_bat_wings_desc;<sprite="PopupIcons" name="Trinket"> Shupe Bat Wi
 shop_data_shupe_borders_bundle_desc;Shupe and you adventure be going! Show everyone where you went on your day off with the Shupe Borders Bundle. The bundle’s content includes:\n\n <sprite="PopupIcons" name="Title"> 1 Shupe Title: "The Adventurer"\n\n <sprite="PopupIcons" name="Avatar"> 1 Shupe avatar: Shupe!\n\n <sprite="PopupIcons" name="Border"> 3 Shupe borders: Knight, Hunter and Mage
 shop_data_shupe_borders_bundle_title;Shupe’s Bundle of Shinies
 shop_data_shupe_challenge_bundle_desc;<sprite="PopupIcons" name="Border"> Tavaszi lovag Border\n\n <sprite="PopupIcons" name="Title"> Tavaszi lovag Title\n\n <sprite="PopupIcons" name="Avatar"> Shupe Avatar\n\nAdventure calls, farewell Spring and welcome Summer! \nAnswer the call by getting this special bundle from Shupe!
-shop_data_shupe_event_booster_pack_desc;Bad day, uman? No sad face. When Shupe sad, Shupe give Shupe a present. You do same. See dis? Dis my trolley. All best presents "ere. You just pick. Get happy? Keep picking more!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="PowderNeg"> 30 Meteorite Powder\n\n<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x1\n\n<sprite="PopupIcons" name="ScrapsNeg"> 40 Scraps\n\n<sprite="PopupIcons" name="Ore"> 50 Ore.
+shop_data_shupe_event_booster_pack_desc;Bad day, uman? No sad face. When Shupe sad, Shupe give Shupe a present. You do same. See dis? Dis my trolley. All best presents "ere. You just pick. Get happy? Keep picking more!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="PowderNeg"> 30 Meteorite Powder\n\n<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x1\n\n<sprite="PopupIcons" name="ScrapsNeg"> 40 Scraps\n\n<sprite="PopupIcons" name="Ore"> 50 Ore.
 shop_data_shupe_event_booster_pack_title;Jó ajándékok csomag
-shop_data_shupe_event_economy_pack_desc;Psst! You! Uman! C'mere. See kegs? Good price. Very affordable. No? You wait. Shupe cut you special deal. What inside? Shupe no say. You buy first, like it? Can get also more! Give it a smash-smash!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Keg"> Alap hordó x1.
+shop_data_shupe_event_economy_pack_desc;Psst! You! Uman! C'mere. See kegs? Good price. Very affordable. No? You wait. Shupe cut you special deal. What inside? Shupe no say. You buy first, like it? Can get also more! Give it a smash-smash!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Keg"> Alap hordó x1.
 shop_data_shupe_event_economy_pack_title;Zúzni való hordók
-shop_data_shupe_event_pack_1_desc;Shupe love run shop. Smashing-trashing barrels goodest fun! On days off, Shupe routine got. Wake up before sun, do back stretchy-stretch, then hairy stick grab and scraps color color! Tis good for stress reduce. Shupe wise, Shupe know smash-life balance important!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Card"> Shupe's Day off Card\n\n<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x1\n\n<sprite="PopupIcons" name="Avatar"> Trolololo Avatar\n\n<sprite="PopupIcons" name="Title"> "Vándorló" titulus.
+shop_data_shupe_event_pack_1_desc;Shupe love run shop. Smashing-trashing barrels goodest fun! On days off, Shupe routine got. Wake up before sun, do back stretchy-stretch, then hairy stick grab and scraps color color! Tis good for stress reduce. Shupe wise, Shupe know smash-life balance important!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Card"> Shupe's Day off Card\n\n<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x1\n\n<sprite="PopupIcons" name="Avatar"> Trolololo Avatar\n\n<sprite="PopupIcons" name="Title"> "Vándorló" titulus.
 shop_data_shupe_event_pack_1_title;Shupe szabadnapja csomag
-shop_data_shupe_event_pack_2_desc;Shupe go hit caves with snow troll buddy. He good buddy. We make rock band. He all night sing. Shupe drum. Babes dance! They smoking hot. Shupe like one, but she with friend. Snow troll take friend for a spin. He best wing troll.\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Card"> Ice-Troll Card\n\n<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x1\n\n<sprite="PopupIcons" name="Avatar"> Ice-Troll Avatar\n\n<sprite="PopupIcons" name="Title"> "Legjobb tesó" titulus.
+shop_data_shupe_event_pack_2_desc;Shupe go hit caves with snow troll buddy. He good buddy. We make rock band. He all night sing. Shupe drum. Babes dance! They smoking hot. Shupe like one, but she with friend. Snow troll take friend for a spin. He best wing troll.\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Card"> Ice-Troll Card\n\n<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x1\n\n<sprite="PopupIcons" name="Avatar"> Ice-Troll Avatar\n\n<sprite="PopupIcons" name="Title"> "Legjobb tesó" titulus.
 shop_data_shupe_event_pack_2_title;Legjobb tesó csomag
-shop_data_shupe_event_pack_3_desc;When Shupe small Shupe's mama work very hard. Bridge over river care take. So Shupe with Auntie stay lots of days. Auntie make yummy-yum elf and onion soup. Yummiest! Why Auntie's soup so good? Because of special ingredient, very, very secret" Want know? It love! "and healthy elves, of course. Sick elves for stomach bad. Uman remember this when uman make own elf soup, okay?\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Card"> She-Troll Card\n\n<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x1\n\n<sprite="PopupIcons" name="Avatar"> She-Troll Avatar\n\n<sprite="PopupIcons" name="Title"> "Nehéz ételek evője" titulus.
+shop_data_shupe_event_pack_3_desc;When Shupe small Shupe's mama work very hard. Bridge over river care take. So Shupe with Auntie stay lots of days. Auntie make yummy-yum elf and onion soup. Yummiest! Why Auntie's soup so good? Because of special ingredient, very, very secret" Want know? It love! "and healthy elves, of course. Sick elves for stomach bad. Uman remember this when uman make own elf soup, okay?\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Card"> She-Troll Card\n\n<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x1\n\n<sprite="PopupIcons" name="Avatar"> She-Troll Avatar\n\n<sprite="PopupIcons" name="Title"> "Nehéz ételek evője" titulus.
 shop_data_shupe_event_pack_3_title;Leveses csomag
-shop_data_shupe_event_set_1_desc;Shupe walk in forest, Shupe see scary many-leggy monsters! Shupe jump and go: aaaah! Ground shaky-shake much! Many-leggy monsters run away. And Shupe remember mama say: Shupe scared, yes, but many-leggy monster scared more! So Shupe make friends instead!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Avatar"> Arachas Avatar\n\n<sprite="PopupIcons" name="Avatar"> Hym Avatar\n\n<sprite="PopupIcons" name="Avatar"> Barbegazi Avatar\n\n<sprite="PopupIcons" name="Border"> Beehive Border\n\n<sprite="PopupIcons" name="Border"> Skeletal Grip keret.
+shop_data_shupe_event_set_1_desc;Shupe walk in forest, Shupe see scary many-leggy monsters! Shupe jump and go: aaaah! Ground shaky-shake much! Many-leggy monsters run away. And Shupe remember mama say: Shupe scared, yes, but many-leggy monster scared more! So Shupe make friends instead!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Avatar"> Arachas Avatar\n\n<sprite="PopupIcons" name="Avatar"> Hym Avatar\n\n<sprite="PopupIcons" name="Avatar"> Barbegazi Avatar\n\n<sprite="PopupIcons" name="Border"> Beehive Border\n\n<sprite="PopupIcons" name="Border"> Skeletal Grip keret.
 shop_data_shupe_event_set_1_title;Feary Friends Bundle
-shop_data_shupe_event_set_2_desc;Shupe big and strong! Cutsy friends small and so-so soft. Shupe want soft friends protect from bad umans and ungry monsters. Shupe take them on his journey and pet them all day! Shupe veeery very gentle with softy friends! Shupe love them!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Avatar"> Koala Avatar\n\n<sprite="PopupIcons" name="Avatar"> Cat Avatar\n\n<sprite="PopupIcons" name="Avatar"> Manticore Avatar\n\n<sprite="PopupIcons" name="Border"> Koala keret.
+shop_data_shupe_event_set_2_desc;Shupe big and strong! Cutsy friends small and so-so soft. Shupe want soft friends protect from bad umans and ungry monsters. Shupe take them on his journey and pet them all day! Shupe veeery very gentle with softy friends! Shupe love them!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Avatar"> Koala Avatar\n\n<sprite="PopupIcons" name="Avatar"> Cat Avatar\n\n<sprite="PopupIcons" name="Avatar"> Manticore Avatar\n\n<sprite="PopupIcons" name="Border"> Koala keret.
 shop_data_shupe_event_set_2_title;Furry Friends Bundle
-shop_data_shupe_event_set_3_desc;Shupe see uman sell pictures. Other umans no want buy not one. Say pictures ugly. Shupe look and go "śhahaha!"ť so hard his stomach ache get! Shupe like silly pictures much. Shupe know market bad for small business. Shupe's business big so Shupe help. Buy all pictures. Uman happy, Shupe happy! Shupe only hope ache in stomach go away soon...\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Avatar"> Triss drawn by Beggar Avatar\n\n<sprite="PopupIcons" name="Avatar"> Ciri drawn by Beggar Avatar\n\n<sprite="PopupIcons" name="Avatar"> Vesemir drawn by Beggar Avatar.
+shop_data_shupe_event_set_3_desc;Shupe see uman sell pictures. Other umans no want buy not one. Say pictures ugly. Shupe look and go "śhahaha!"ť so hard his stomach ache get! Shupe like silly pictures much. Shupe know market bad for small business. Shupe's business big so Shupe help. Buy all pictures. Uman happy, Shupe happy! Shupe only hope ache in stomach go away soon...\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Avatar"> Triss drawn by Beggar Avatar\n\n<sprite="PopupIcons" name="Avatar"> Ciri drawn by Beggar Avatar\n\n<sprite="PopupIcons" name="Avatar"> Vesemir drawn by Beggar Avatar.
 shop_data_shupe_event_set_3_title;Silly Pictures Bundle
-shop_data_shupe_event_set_4_desc;Uman see picture? It bestest in Shupe's collection. It show Gerard, man-witch. Gerard wham-bang-smash all monsters like Shupe smash barrels! Hehehe. And Gerard love gwentycards! Buy many kegsies from Shupe. Very perfect customer!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Avatar"> Geralt drawn by Beggar Avatar.
+shop_data_shupe_event_set_4_desc;Uman see picture? It bestest in Shupe's collection. It show Gerard, man-witch. Gerard wham-bang-smash all monsters like Shupe smash barrels! Hehehe. And Gerard love gwentycards! Buy many kegsies from Shupe. Very perfect customer!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Avatar"> Geralt drawn by Beggar Avatar.
 shop_data_shupe_event_set_4_title;Kedvenc emberi avatár
-shop_data_shupe_event_set_5_desc;Shupe tired much go in cave nap. But Shupe look and no believe his eyes. Everywhere sparkly rocks! Sparkly rocks beauty" beautifulest! Shupe want have lots and lots and lots so Shupe no sleepy-sleep. Collect sparkly rocksies only! Uman want something from Shupe, uman give sparkly rocks now!\n\nShupe give uman:\n\n<sprite="PopupIcons" name="CardBack"> Shiny Rocks Seeker kártya hátlap.
+shop_data_shupe_event_set_5_desc;Shupe tired much go in cave nap. But Shupe look and no believe his eyes. Everywhere sparkly rocks! Sparkly rocks beauty" beautifulest! Shupe want have lots and lots and lots so Shupe no sleepy-sleep. Collect sparkly rocksies only! Uman want something from Shupe, uman give sparkly rocks now!\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="CardBack"> Shiny Rocks Seeker kártya hátlap.
 shop_data_shupe_event_set_5_title;Shiny Rocks Seeker kártya hátlap
-shop_data_shupe_event_set_6_desc;Shupe hear some uman next to river help beg. Shupe think umans goody customers, Shupe will help give. Guess! Some yucky-yuck monsters attack uman! Shupe toss many many barrels. SMASH SMASH SMASH! Hehe. Monsters leave uman alone. Uman happy give Shupe pointy ironstick! Stick is no sparkly rocks but stick shiny too.\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Trinket"> Lovagi páncél szett.
+shop_data_shupe_event_set_6_desc;Shupe hear some uman next to river help beg. Shupe think umans goody customers, Shupe will help give. Guess! Some yucky-yuck monsters attack uman! Shupe toss many many barrels. SMASH SMASH SMASH! Hehe. Monsters leave uman alone. Uman happy give Shupe pointy ironstick! Stick is no sparkly rocks but stick shiny too.\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Trinket"> Lovagi páncél szett.
 shop_data_shupe_event_set_6_title;Shupe Fight'er?
-shop_data_shupe_event_set_7_desc;Shupe listen singy-song 'bout jousters and knighters. Now Shupe wanna be knighter! Yesterday Shupe eat one knighter for dinner, so Shupe have all knighty bits! Knighty stick, knighty hat, knighty pants... But hat broken. Always fall from head. Shupe wonder why stupid knighter wear broken hat.\n\nShupe give uman:\n\n<sprite="PopupIcons" name="Trinket"> Fényes sisak.
+shop_data_shupe_event_set_7_desc;Shupe listen singy-song 'bout jousters and knighters. Now Shupe wanna be knighter! Yesterday Shupe eat one knighter for dinner, so Shupe have all knighty bits! Knighty stick, knighty hat, knighty pants... But hat broken. Always fall from head. Shupe wonder why stupid knighter wear broken hat.\n\nShupe ezt adja az embernek:\n\n<sprite="PopupIcons" name="Trinket"> Fényes sisak.
 shop_data_shupe_event_set_7_title;Fényes sisak
 shop_data_shupe_fan_desc;<sprite="PopupIcons" name="Avatar"> Bunny Shupe Avatar\n\n<sprite="PopupIcons" name="Avatar"> Pumpkin Head Avatar\n\nTrinkets usable with Shupe kinézet:\n<sprite="PopupIcons" name="Trinket"> Bag with Presents\n\n<sprite="PopupIcons" name="Trinket"> Bat Wings\n\n<sprite="PopupIcons" name="Trinket"> Festive Antlers\n\n<sprite="PopupIcons" name="Trinket"> Shupe's Bunny Ears\n\n<sprite="PopupIcons" name="Trinket"> Pumpkin Head\n\n <sprite="PopupIcons" name="Trinket"> Small Wings\n\n<sprite="PopupIcons" name="Trinket"> Shupe szerelem páncélja\n\n<sprite="PopupIcons" name="Trinket"> Four-Leaf Hat\n\nAfter all, there's only one unique troll, who loves a good ol"onion soup and colorful scraps of paper over rocks!
 shop_data_shupe_fan_title;Shupe's Utlimate Fan
 shop_data_shupe_ghost_skin_desc_sale;<sprite="PopupIcons" name="Skin"> Trancsír szelleme kinézet (Szindikátus) \n\nTo fight Szörnyek (or other factions of GWENT for that matter!), sometimes you need to become a monster yourself! Come back from the dead and fight eternal battles in the name of the Szindikátus as this ghastly version of Trancsír!\n\nTrancsír szelleme kinézet will be up for -30% sale during the Saovine Event!
-shop_data_shupe_love_aura_desc;<sprite="PopupIcons" name="Trinket"> Love Aura\n\nWhat are this flying around Shupe? Oooh! Does it meaning Shupe in love?
+shop_data_shupe_love_aura_desc;<sprite="PopupIcons" name="Trinket"> Szerelem aura\n\nMik ezek, amik repkednek Shupe körül? Óh! Ez azt jelenti, hogy Shupe szerelmes?
 shop_data_shupe_love_aura_title;Szerelem aura
 shop_data_shupe_masters_scarf_trinket_desc;<sprite="PopupIcons" name="Trinket"> E-Sports fan scarf\n\nShupe granny always tell: staying warm! Especially when support uman in winter sport.
 shop_data_shupe_masters_scarf_trinket_title;E-Sports fan scarf
@@ -7136,14 +7136,14 @@ shop_data_shupe_pumpkin_bundle_desc;"<sprite="PopupIcons" name="Skin"> Shupe ski
 shop_data_shupe_pumpkin_bundle_title;Shupe's Saovine Bundle
 shop_data_shupe_pumpkin_trinket_desc;<sprite="PopupIcons" name="Trinket"> Pumpkin Head (usable with the Shupe neutral skin) \n\n<sprite="PopupIcons" name="Avatar"> Pumpkin Head avatar \n\n<sprite="PopupIcons" name="Title"> "Pumpkin Head" title \n\nIn battle, it's important not to lose your head. Shupe gets it! That's why he always carries a spare. A pumpkin one, sure, but in these spooooky times it might just be the secret weapon you need!
 shop_data_shupe_pumpkin_trinket_title;Shupe's Pumpkin Head
-shop_data_shupe_red_roses_aura_desc;<sprite="PopupIcons" name="Trinket"> Red Roses Aura\n\nOooh, pretty rosies! Can't wait to arranging!
+shop_data_shupe_red_roses_aura_desc;<sprite="PopupIcons" name="Trinket"> Vörös rózsa aura\n\nOooh, pretty rosies! Can't wait to arranging!
 shop_data_shupe_red_roses_aura_title;Vörös rózsa aura
 shop_data_shupe_saovine_bundle_desc_sale;<sprite="PopupIcons" name="Avatar"> Nekker avatar \n\n<sprite="PopupIcons" name="Border"> Saovine gonosza keret \n\n<sprite="PopupIcons" name="Title"> "Gonosz" titulus \n\nFeel like you're being watched? Maybe it's an odd nekker hiding behind a rock or tree, watching, waiting... Better keep an eye on it with this devilishly creepy avatar and wicked — literally! — border and title.\n\nThis bundle will be up for -30% sale during the Saovine Event!
-shop_data_sigi&philippa_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg\n\n<sprite="PopupIcons" name="Card"> Sigi Reuven: Lángész\n\n<sprite="PopupIcons" name="Avatar"> Philippa Avatar\n\n<sprite="PopupIcons" name="Title"> "Lángész" titulus\n\nForever on eachother's minds, through every scheme and affair.
-shop_data_sigi&philippa_event_pack_title;Sigi & Philippa Pack
+shop_data_sigi&philippa_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó\n\n<sprite="PopupIcons" name="Card"> Sigi Reuven: Lángész\n\n<sprite="PopupIcons" name="Avatar"> Philippa avatár\n\n<sprite="PopupIcons" name="Title"> "Lángész" titulus\n\nForever on eachother's minds, through every scheme and affair.
+shop_data_sigi&philippa_event_pack_title;Sigi és Philippa csomag
 shop_data_skald_bundle_desc;<sprite="PopupIcons" name="Avatar"> Skald Avatar\n\n<sprite="PopupIcons" name="Border"> Tavern Border\n\n<sprite="PopupIcons" name="Title"> "Renowned Skald" Title\n\nCelebrate Midsummer! Relive the heroic deeds of the legendary jarls and the misfortunes of their enemies!\n\nThis bundle was first introduced during summer festival in 2020.
 shop_data_skald_bundle_title;Skald Bundle
-shop_data_skellige_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Skellige hordó.\n\n<sprite="PopupIcons" name="Card">Harald an Craite card.\n\n<sprite="PopupIcons" name="Border">Skellige Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Skellige cards, as well as a select Skellige gold card and a unique faction border.
+shop_data_skellige_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Skellige hordó.\n\n<sprite="PopupIcons" name="Card">Harald an Craite kártya.\n\n<sprite="PopupIcons" name="Border">Skellige keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Skellige cards, as well as a select Skellige gold card and a unique faction border.
 shop_data_skellige_keg_15_title;Skellige hordó x15
 shop_data_skellige_keg_15_title_gaea;Hulladék x28, Skellige hordó x15
 shop_data_skellige_keg_2_title;Skellige hordó x2
@@ -7156,8 +7156,8 @@ shop_data_skellige_keg_7_title;Skellige hordó x7
 shop_data_skellige_keg_7_title_gaea;Hulladék x18, Skellige hordó x7
 shop_data_skellige_keg_desc;Ha kinyitod, ez a hordó will grant you 5 Skellige cards from any set, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_skellige_keg_title;Skellige hordó
-shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> Love Goddess Skin\n\nMake flowers blossom and hearts swell in the presence of Dana Méadbh, mother of love and life.
-shop_data_skin_dana_love_title;Love Goddess kinézet
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> Szerelemistennő kinézet\n\nMake flowers blossom and hearts swell in the presence of Dana Méadbh, mother of love and life.
+shop_data_skin_dana_love_title;Szerelemistennő kinézet
 shop_data_special_premium_keg_desc;Only available for purchase with scraps. Once opened, this special keg will grant you 5 <b>Premium</b> cards from any set, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_special_premium_keg_title;Special Premium hordó
 shop_data_spring_bundle_open2_desc;<sprite="PopupIcons" name="Board"> Tavaszi játéktábla\n\n<sprite="PopupIcons" name="CardBack"> Spring kártya hátlap\n\nPurchasing this product helps to support GWENT esports; 30% of proceeds from the pack will directly boost the prize pool for the GWENT Masters, which takes place in December 2021!
@@ -7178,7 +7178,7 @@ shop_data_summer_pack_open_desc;<sprite="PopupIcons" name="Coin"> Nyári érme\n
 shop_data_summer_pack_open_title;Summer csomag (OPEN 3)
 shop_data_svalblod_bear_skin_desc;<sprite="PopupIcons" name="Skin"> Svalblod Bear kinézet\n\nEmbody the savagery of Svalblod, whose unrivalled fury makes the lives of his foes unbearable.
 shop_data_svalblod_bear_skin_title;Svalblod Bear kinézet
-shop_data_syndicate_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Szindikátus hordó.\n\n<sprite="PopupIcons" name="Card">Jacques Miraculous Child card.\n\n<sprite="PopupIcons" name="Border">Szindikátus Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szindikátus cards, as well as a select Szindikátus gold card and a unique faction border.
+shop_data_syndicate_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Szindikátus hordó.\n\n<sprite="PopupIcons" name="Card">Jacques, a csodálatos gyermek kártya.\n\n<sprite="PopupIcons" name="Border">Szindikátus keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szindikátus cards, as well as a select Szindikátus gold card and a unique faction border.
 shop_data_syndicate_keg_15_title;Szindikátus hordó x15
 shop_data_syndicate_keg_15_title_gaea;Hulladék x28, Szindikátus hordó x15
 shop_data_syndicate_keg_2_title;Szindikátus hordó x2
@@ -7197,18 +7197,18 @@ shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Tigris játéktá
 shop_data_tiger_bundle_title;Tiger Bundle
 shop_data_time_of_day_bundle_desc;<sprite="PopupIcons" name="CardBack"> "Napszakok" kártya hátlap\n\n<sprite="PopupIcons" name="Title"> "Korán kelő" titulus\n\n<sprite="PopupIcons" name="Title"> "Éjjeli bagoly" titulus\n\nPurchasing this product helps to support GWENT esports; 50% of the proceeds from this bundle will directly boost the prize pool for the GWENT Masters, which takes place in December 2022!
 shop_data_time_of_day_bundle_title;Napszakok Bundle
-shop_data_triss&geralt_bundle_desc;<sprite="PopupIcons" name="CardBack"> Triss & Geralt kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Nature Border\n\n<sprite="PopupIcons" name="Avatar"> Elbűvölt Triss avatár\n\n<sprite="PopupIcons" name="Avatar"> Elbűvölt Geralt avatár\n\n<sprite="PopupIcons" name="Title"> "Elbűvölt" titulus\n\nUnder a spell, potion, or in the spur of a romantic moment? Does it even matter?
-shop_data_triss&geralt_bundle_title;Triss & Geralt Bundle
+shop_data_triss&geralt_bundle_desc;<sprite="PopupIcons" name="CardBack"> Triss és Geralt kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Természet keret\n\n<sprite="PopupIcons" name="Avatar"> Elbűvölt Triss avatár\n\n<sprite="PopupIcons" name="Avatar"> Elbűvölt Geralt avatár\n\n<sprite="PopupIcons" name="Title"> "Elbűvölt" titulus\n\nUnder a spell, potion, or in the spur of a romantic moment? Does it even matter?
+shop_data_triss&geralt_bundle_title;Triss és Geralt Bundle
 shop_data_ultimate_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x1\n\n<sprite="PopupIcons" name="Card"> x1 prémium legendás kártya (chose 1 out of 3 cards)\n\nGrow and expand your deck by purchasing the alap csomag!
-shop_data_ultimate_pack_game_awards_2022_desc;<sprite="PopupIcons" name="Keg"> Ultimate Keg x1\n\n<sprite="PopupIcons" name="PremiumCard"> Geralt: Yrden\n\nGrow and expand your collection! Defeat your enemies with the help of the Premium version of Geralt: Yrden, as well as additional cards from the ultimate keg. Thank you for watching The Game Awards 2022!
+shop_data_ultimate_pack_game_awards_2022_desc;<sprite="PopupIcons" name="Keg"> Alap hordó x1\n\n<sprite="PopupIcons" name="PremiumCard"> Geralt: Yrden\n\nGrow and expand your collection! Defeat your enemies with the help of the Premium version of Geralt: Yrden, as well as additional cards from the ultimate keg. Thank you for watching The Game Awards 2022!
 shop_data_ultimate_pack_title;Alap csomag
 shop_data_ultimate_premium_keg_title;Alap prémium hordó
 shop_data_ultimate_premium_kegs_1_title;Alap prémium hordó x1
 shop_data_ultimate_premium_kegs_1_title_gaea;Hulladék x8, alap prémium hordó x1
 shop_data_ultimate_premium_kegs_desc;Az alap prémium hordó vásárlásával gyorsan bővítheted a gyűjteményedet. Ezek az egyedi hordók az összes létező GWENT kártya készletéből tartalmaznak prémium kártyákat.\n\nAmikor kinyitod, minden hordóban garantáltan lesz 5 véletlenszerű prémium kártya, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 alap hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Bíbor Átok hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Novigrad hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Ofir kereskedői hordó\n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.\n
-shop_data_urcheon_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg\n\n<sprite="PopupIcons" name="Card"> Urcheon of Erlenwald\n\n<sprite="PopupIcons" name="Title"> "Of Erlenwald" Title\n\nSuffer the bristles and mockeries of fate, as you battle your way towards true love's kiss
-shop_data_urcheon_event_pack_title;Urcheon of Erlenwald Pack
+shop_data_urcheon_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó\n\n<sprite="PopupIcons" name="Card"> Erlenwald Süne\n\n<sprite="PopupIcons" name="Title"> "Erlenwaldi" titulus\n\nSuffer the bristles and mockeries of fate, as you battle your way towards true love's kiss
+shop_data_urcheon_event_pack_title;Erlenwald Süne csomag
 shop_data_usurper_emperor_skin_desc;<sprite="PopupIcons" name="Skin"> Császár kinézet\n\nDesperate times call for desperate measures. Take matters into your own hands and claim your place on the throne with this imperial skin for Usurper.
 shop_data_usurper_emperor_skin_title;Császár kinézet
 shop_data_viper_bundle_desc;<sprite="PopupIcons" name="Avatar"> Serrit Avatar\n\n<sprite="PopupIcons" name="Border"> Kígyóbűvölő Border\n\n<sprite="PopupIcons" name="Title"> "The Viper" Title\n\nThis bundle allows you to obtain díszítéseket first introduced as unlockable items during the A viperák szezonja in the A Vadkan éve.
@@ -7230,8 +7230,8 @@ shop_data_wolf_season_bundle_desc;<sprite="PopupIcons" name="CardBack"> Wolf ká
 shop_data_wolf_season_bundle_title;Season of The Wolf Bundle
 shop_data_yaruga_bridge_bundle_title;Híd a Yarugán játéktábla
 shop_data_yaruga_bridge_desc;<sprite="PopupIcons" name="Board"> Híd a Jarugán játéktábla\n\nReturn to the famous bridge on the Yaruga, where Meve királynő of Lyria and Rívia heroically battled against Nilfgaardian forces, and where Geralt became known as one "śof Rívia"ť. Remastered from its original debut in Thronebreaker, this magnificent game board can now be yours in GWENT to wage all new battles on\n\nComplete contracts to unlock additional díszítések: title, avatar, cardback!
-shop_data_yenn&geralt_bundle_desc;<sprite="PopupIcons" name="CardBack"> Yennefer & Geralt kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Winged Border\n\n<sprite="PopupIcons" name="Avatar"> Yennefer in love Avatar\n\n<sprite="PopupIcons" name="Avatar"> Geralt in love Avatar\n\n<sprite="PopupIcons" name="Title"> "Elrendeltetett" titulus\n\nDestined to a mutual struggle with a mutual destiny.
-shop_data_yenn&geralt_bundle_title;Yennefer & Geralt Bundle
+shop_data_yenn&geralt_bundle_desc;<sprite="PopupIcons" name="CardBack"> Yennefer és Geralt kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Szárnyas keret\n\n<sprite="PopupIcons" name="Avatar"> Szerelmes Yennefer avatár\n\n<sprite="PopupIcons" name="Avatar"> Szerelmes Geralt avatár\n\n<sprite="PopupIcons" name="Title"> "Elrendeltetett" titulus\n\nDestined to a mutual struggle with a mutual destiny.
+shop_data_yenn&geralt_bundle_title;Yennefer és Geralt Bundle
 shop_data_zerrikanian_bear_desc;From the faraway lands of Zerrikania comes a traveler bearing gifts to celebrate the Summer Festival. \n\n\nHe comes bearing the cuddliest gift of all; an exotic beast from his homeland transformed into a friendly plushie.
 shop_data_zerrikanian_bear_title;Zerrikanian Bear
 shop_data_zoltan_bundle_desc;<sprite="PopupIcons" name="Avatar"> Zoltan and Duda Avatar\n\n<sprite="PopupIcons" name="Border"> Zoltan's Warhammer Border\n\n<sprite="PopupIcons" name="Title"> "Zoltan's companion" Title\n\nThis bundle was first introduced during the Season of the Mahakam as part of the famous Zoltán Chivay company.
@@ -7289,14 +7289,14 @@ shop_error_google_play_connect_desc;Could not connect to Google Play Store. Kér
 shop_error_google_play_generic_desc;Failed to initialise the shop. Kérjük próbálja meg később!
 shop_error_google_play_update_desc;Please install and update Google Play Services to the latest version.
 shop_esports;Support GWENT Esport
-shop_faction_pack_combo_desc;<sprite="PopupIcons" name="Keg">60 x Faction Kegs (10 x Keg for each Factionl)\n\n<sprite="PopupIcons" name="CardBack">6 x Metallic kártya hátlap - one for each faction\n\n<sprite="PopupIcons" name="Card">Jacques Miraculous Child card\n<sprite="PopupIcons" name="Card">Harald an Craite card\n<sprite="PopupIcons" name="Card">Eithné Young Queen card\n<sprite="PopupIcons" name="Card">Viraxas Prince card\n<sprite="PopupIcons" name="Card">Bitorló Officer card\n<sprite="PopupIcons" name="Card">Auberon King card\n\n<sprite="PopupIcons" name="Border">6 x Faction border\n\n<sprite="PopupIcons" name="Title"> "Versatile" title\n\n This pack comes with 60 kegs, features 6 evolving legendary cards,6 faction borders, 6 faction cardbacks and a unique title.
+shop_faction_pack_combo_desc;<sprite="PopupIcons" name="Keg">60 x Faction Kegs (10 x Keg for each Factionl)\n\n<sprite="PopupIcons" name="CardBack">6 x Metallic kártya hátlap - one for each faction\n\n<sprite="PopupIcons" name="Card">Jacques, a csodálatos gyermek kártya\n<sprite="PopupIcons" name="Card">Harald an Craite card\n<sprite="PopupIcons" name="Card">Eithné: A fiatal királynő kártya\n<sprite="PopupIcons" name="Card">Viraxas herceg kártya\n<sprite="PopupIcons" name="Card">Bitorló, a tiszt kártya\n<sprite="PopupIcons" name="Card">Auberon, a király kártya\n\n<sprite="PopupIcons" name="Border">6 x Faction border\n\n<sprite="PopupIcons" name="Title"> "Versatile" title\n\n This pack comes with 60 kegs, features 6 evolving legendary cards,6 faction borders, 6 faction cardbacks and a unique title.
 shop_faction_pack_combo_title;Versatile Bundle
-shop_faction_pack_monsters_desc;<sprite="PopupIcons" name="Keg">5 x Szörnyek hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Monster kártya hátlap\n\n<sprite="PopupIcons" name="Card">Auberon King card\n\n<sprite="PopupIcons" name="Border">Szörnyek border\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szörnyek cards, as well as a select Szörnyek gold card, unique faction border and faction specific cardback.
-shop_faction_pack_nilfgaard_desc;<sprite="PopupIcons" name="Keg">5 x Nilfgaard hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Nilfgaard kártya hátlap\n\n<sprite="PopupIcons" name="Card">Bitorló Officer card\n\n<sprite="PopupIcons" name="Border">Nilfgaard border\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Nilfgaard cards, as well as a select Nilfgaard gold card, a unique faction border and faction specific cardback.
-shop_faction_pack_northern_desc;<sprite="PopupIcons" name="Keg">5 x Északi Királyságok hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Északi Királyságok kártya hátlap\n\n<sprite="PopupIcons" name="Card">Viraxas Prince card\n\n<sprite="PopupIcons" name="Border">Északi Királyságok border\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Északi Királyságok cards, as well as a select Északi Királyságok gold card, a unique faction border and faction specific cardback.
-shop_faction_pack_scoia_desc;<sprite="PopupIcons" name="Keg">5 x Mókusok hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Mókusok kártya hátlap\n\n<sprite="PopupIcons" name="Card">Eithné Young Queen card\n\n<sprite="PopupIcons" name="Border">Mókusok border\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Mókusok cards, as well as a select Mókusok gold card, a unique faction border and faction specific cardback.
-shop_faction_pack_skellige_desc;<sprite="PopupIcons" name="Keg">5 x Skellige hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Skellige kártya hátlap\n\n<sprite="PopupIcons" name="Card">Harald an Craite\n\n<sprite="PopupIcons" name="Border">Skellige border\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Skellige cards, as well as a select Skellige gold card, a unique faction border and faction specific cardback.
-shop_faction_pack_syndicate_desc;<sprite="PopupIcons" name="Keg">5 x Szindikátus hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Szindikátus kártya hátlap\n\n<sprite="PopupIcons" name="Card">Jacques Miraculous Child card\n\n<sprite="PopupIcons" name="Border">Szindikátus border\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szindikátus cards, as well as a select Szindikátus gold card, a unique faction border and faction specific cardback.
+shop_faction_pack_monsters_desc;<sprite="PopupIcons" name="Keg">5 x Szörnyek hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Monster kártya hátlap\n\n<sprite="PopupIcons" name="Card">Auberon, a király kártya\n\n<sprite="PopupIcons" name="Border">Szörnyek keret\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szörnyek cards, as well as a select Szörnyek gold card, unique faction border and faction specific cardback.
+shop_faction_pack_nilfgaard_desc;<sprite="PopupIcons" name="Keg">5 x Nilfgaard hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Nilfgaard kártya hátlap\n\n<sprite="PopupIcons" name="Card">Bitorló, a tiszt kártya\n\n<sprite="PopupIcons" name="Border">Nilfgaard keret\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Nilfgaard cards, as well as a select Nilfgaard gold card, a unique faction border and faction specific cardback.
+shop_faction_pack_northern_desc;<sprite="PopupIcons" name="Keg">5 x Északi Királyságok hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Északi Királyságok kártya hátlap\n\n<sprite="PopupIcons" name="Card">Viraxas herceg kártya\n\n<sprite="PopupIcons" name="Border">Északi Királyságok keret\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Északi Királyságok cards, as well as a select Északi Királyságok gold card, a unique faction border and faction specific cardback.
+shop_faction_pack_scoia_desc;<sprite="PopupIcons" name="Keg">5 x Mókusok hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Mókusok kártya hátlap\n\n<sprite="PopupIcons" name="Card">Eithné: A fiatal királynő kártya\n\n<sprite="PopupIcons" name="Border">Mókusok keret\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Mókusok cards, as well as a select Mókusok gold card, a unique faction border and faction specific cardback.
+shop_faction_pack_skellige_desc;<sprite="PopupIcons" name="Keg">5 x Skellige hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Skellige kártya hátlap\n\n<sprite="PopupIcons" name="Card">Harald an Craite\n\n<sprite="PopupIcons" name="Border">Skellige keret\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Skellige cards, as well as a select Skellige gold card, a unique faction border and faction specific cardback.
+shop_faction_pack_syndicate_desc;<sprite="PopupIcons" name="Keg">5 x Szindikátus hordó\n\n<sprite="PopupIcons" name="CardBack">Metallic Szindikátus kártya hátlap\n\n<sprite="PopupIcons" name="Card">Jacques, a csodálatos gyermek kártya\n\n<sprite="PopupIcons" name="Border">Szindikátus keret\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szindikátus cards, as well as a select Szindikátus gold card, a unique faction border and faction specific cardback.
 shop_fortunate_bundle_desc;<sprite="PopupIcons" name="Coin"> Szerencse érme\n\n<sprite="PopupIcons" name="Title"> "Fortunate" Title\n\nBoost your luck with this coin.
 shop_free_product;Free
 shop_generation_gap_pack_desc;People need their sorrows like ships need their ballast! Bleed and make'em bleed harder!\n\nGet 2 new Skellige Legendás cards, King Bran and Cerys: Fearless, as well as 6 other premium cards supporting Skellige archetype.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">1 King Bran Premium Card\n<sprite="PopupIcons" name="Card">1 Cerys: Fearless Premium Card\n<sprite="PopupIcons" name="Card">1 Skjordal Drummond Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">1 Harald Houndsnout Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">2 An Craite Raiders Premium Cards (Ritka)\n<sprite="PopupIcons" name="Card">2 Svalblod Priest Premium Cards (Ritka)
@@ -7307,9 +7307,9 @@ shop_great_oak_year_bundle_desc;<sprite="PopupIcons" name="Avatar">Evil Familiar
 shop_great_oak_year_bundle_title;A hatalmas tölgy Bundle
 shop_ida_emean_bundle_desc;<sprite="PopupIcons" name="Avatar">Ida Emean Avatar\n\n<sprite="PopupIcons" name="Border">Elven Portal Border\n\n<sprite="PopupIcons" name="Title">"Aen Saevherne" Title\n\nThis bundle allows you to obtain díszítéseket first introduced as unlockable items during the Az elfek szezonja in the A vérpatkány éve.
 shop_ida_emean_bundle_title;Ida Emean's Bundle
-shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack"> Tragikus szerelem kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> Iris von Everec Avatar\n\n<sprite="PopupIcons" name="Avatar"> Olgierd Avatar\n\n<sprite="PopupIcons" name="Border"> Easel Border\n\n<sprite="PopupIcons" name="Title"> "Összetört szívű" titulus\n\nLove is patient, love is kind, but sometimes it's also tragic and causing broken hearts.\nThis bundle contains díszítéseket first introduced as unlockable items during the szerelem esemény in the A hatalmas tölgy éve.
-shop_iris&olgierd_event_desc;<sprite="PopupIcons" name="CardBack"> Tragikus szerelem kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Easel Border\n\n<sprite="PopupIcons" name="Avatar"> Iris von Everec Avatar\n\n<sprite="PopupIcons" name="Avatar"> Olgierd Avatar\n\n<sprite="PopupIcons" name="Title"> "Összetört szívű" titulus\n\nThe greatest inspiration is often found in the most tragic tales.
-shop_iris&olgierd_title;Iris"& Olgierd's Bundle
+shop_iris&olgierd_desc;<sprite="PopupIcons" name="CardBack"> Tragikus szerelem kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> Iris von Everec avatár\n\n<sprite="PopupIcons" name="Avatar"> Olgierd avatár\n\n<sprite="PopupIcons" name="Border"> Festőállvány keret\n\n<sprite="PopupIcons" name="Title"> "Összetört szívű" titulus\n\nLove is patient, love is kind, but sometimes it's also tragic and causing broken hearts.\nThis bundle contains díszítéseket first introduced as unlockable items during the szerelem esemény in the A hatalmas tölgy éve.
+shop_iris&olgierd_event_desc;<sprite="PopupIcons" name="CardBack"> Tragikus szerelem kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Festőállvány keret\n\n<sprite="PopupIcons" name="Avatar"> Iris von Everec avatár\n\n<sprite="PopupIcons" name="Avatar"> Olgierd avatár\n\n<sprite="PopupIcons" name="Title"> "Összetört szívű" titulus\n\nThe greatest inspiration is often found in the most tragic tales.
+shop_iris&olgierd_title;Iris" és Olgierd Bundle
 shop_ivo_bundle_desc;<sprite="PopupIcons" name="Avatar"> Ivo of Belhaven Avatar\n\n<sprite="PopupIcons" name="Border"> Bear Guardian Border\n\n<sprite="PopupIcons" name="Title"> "of Belhaven" Title\n\nShow your affinity for the School of the Bear! This bundle contains díszítéseket first introduced as unlockable items during the Season of Bear in the A vérpatkány éve.
 shop_ivo_bundle_title;Ivo's Bundle
 shop_keg_category_all;Minden kártya
@@ -7331,11 +7331,11 @@ shop_leaders_skellige_title;Skirmish csomag
 shop_leaders_syndicate_desc;Time to have a bloody good fun!\n\nGet 2 new Szindikátus Legendás cards, Kurafi Kölyök and Trancsír, as well as 6 other cards synergizing with them.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">Trancsír card \n<sprite="PopupIcons" name="Card">Kurafi Kölyök card \n<sprite="PopupIcons" name="Card">Sir Skewertooth card \n<sprite="PopupIcons" name="Card">Whoreson's Freak Show card \n<sprite="PopupIcons" name="Card">Bloody Good Friends card x2 \n<sprite="PopupIcons" name="Card">Smuggle card x2
 shop_leaders_syndicate_title;Thugs csomag
 shop_love_cardback_desc;Fall in love!\n\nThis cardback was first introduced as an unlockable item during the A szerelem szezonja in the A Vadkan éve.
-shop_love_cardback_title;Love kártya hátlap
+shop_love_cardback_title;Szerelem kártya hátlap
 shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Szerelem fesztivál játéktábla\n\nCelebrate the Festival of Love with the swindlers and cut-throats of Novigrad!
 shop_love_festival_gameboard_title;Szerelem fesztivál játéktábla
-shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Border"> Lubberkin Border\n\n<sprite="PopupIcons" name="Avatar"> Lubberkin Avatar\n\n<sprite="PopupIcons" name="Title"> "Lubberkin" Title\n\nGive it a name and a home, and treat it like you would your living child. In the end, your love for it will be warmly rewarded.
-shop_lubberkin_bundle_title;Lubberkin Bundle
+shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Border"> Fráterka keret\n\n<sprite="PopupIcons" name="Avatar"> Fráterka avatár\n\n<sprite="PopupIcons" name="Title"> "Fráterka" titulus\n\nGive it a name and a home, and treat it like you would your living child. In the end, your love for it will be warmly rewarded.
+shop_lubberkin_bundle_title;Fráterka Bundle
 shop_lucky_bundle_desc;<sprite="PopupIcons" name="Coin"> Szerencse érme\n\n<sprite="PopupIcons" name="Title"> "The Lucky One" Title\n\nBoost your luck with this coin.
 shop_lucky_bundle_title;Lucky Bundle
 shop_lunar_cardback_desc;Take part in Holdújév Celebrations!\n\n Celebrate Year of the Ox!
@@ -7354,9 +7354,9 @@ shop_packs_category_2;Kezdőcsomagok
 shop_popular;Popular Items
 shop_powder_section_description;Meteoritpor lets you transmute cards you own into premium versions, which include animations and other enhanced effects.
 shop_powder_section_title;Meteoritpor
-shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> Utazótársak kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> Touring Kökörcsin Avatar\n\n<sprite="PopupIcons" name="Avatar"> Touring Priscilla Avatar\n\n<sprite="PopupIcons" name="Border"> Touring Stage Border\n\n<sprite="PopupIcons" name="Title"> "Vándorköltő" titulus\n\nLove can come in many forms, including touring partners.\nThis bundle contains díszítéseket first introduced as unlockable items during the szerelem esemény in the A hatalmas tölgy éve.
-shop_priscilla&dandelion_event_desc;<sprite="PopupIcons" name="CardBack"> Utazótársak kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Touring Stage Border\n\n<sprite="PopupIcons" name="Avatar"> Touring Dandelion Avatar\n\n<sprite="PopupIcons" name="Avatar"> Touring Priscilla Avatar\n\n<sprite="PopupIcons" name="Title"> "Vándorköltő" titulus\n\nLove comes in various forms, such as sonata, or medley.
-shop_priscilla&dandelion_title;Priscilla's & Kökörcsin's Bundle
+shop_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> Utazótársak kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> Vándorló Kökörcsin avatár\n\n<sprite="PopupIcons" name="Avatar"> Vándorló Priscilla avatár\n\n<sprite="PopupIcons" name="Border"> Színpad keret\n\n<sprite="PopupIcons" name="Title"> "Vándorköltő" titulus\n\nLove can come in many forms, including touring partners.\nThis bundle contains díszítéseket first introduced as unlockable items during the szerelem esemény in the A hatalmas tölgy éve.
+shop_priscilla&dandelion_event_desc;<sprite="PopupIcons" name="CardBack"> Utazótársak kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Színpad keret\n\n<sprite="PopupIcons" name="Avatar"> Vándorló Kökörcsin avatár\n\n<sprite="PopupIcons" name="Avatar"> Vándorló Priscilla avatár\n\n<sprite="PopupIcons" name="Title"> "Vándorköltő" titulus\n\nLove comes in various forms, such as sonata, or medley.
+shop_priscilla&dandelion_title;Priscilla és Kökörcsin Bundle
 shop_product_timer_label;Eddig elérhető:
 shop_questionable_morality_pack_desc;Hold out baits to entice the enemy. Feign disorder, and crush them.\n\nGet 2 new Szindikátus Legendás cards, Koldusok királya and Cyrus Engelkind Hemmelfart, as well as 6 other cards supporting Szindikátus archetype.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">1 Koldusok királya Premium Card\n<sprite="PopupIcons" name="Card">1 Cyrus Engelkind Hemmelfart Premium Card\n<sprite="PopupIcons" name="Card">1 Adriano the Mink Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">1 Lieutenant von Herst Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">2 Salamandra Mage Premium Cards (Ritka)\n<sprite="PopupIcons" name="Card">2 Cleric of the Flaming Rose Premium Cards (Ritka)
 shop_questionable_morality_pack_title;Questionable Morality csomag
@@ -8582,7 +8582,7 @@ vanity_avatar_48208_title;Alp avatár
 vanity_avatar_48209_title;Trancsír szelleme avatár
 vanity_avatar_48210_title;Láthatatlan Ős avatár
 vanity_avatar_48212_title;Auberon avatár
-vanity_avatar_48213_title;Lubberkin avatár
+vanity_avatar_48213_title;Fráterka avatár
 vanity_avatar_48214_title;Vérvöröske avatár
 vanity_avatar_48215_title;Fagyos Gudrun avatár
 vanity_avatar_48216_title;Snowdal avatár
@@ -8789,11 +8789,11 @@ vanity_avatar_48425_title;Dagon avatár
 vanity_avatar_48426_title;Főisten avatár
 vanity_avatar_48427_title;Svalblod medve avatár
 vanity_avatar_48429_title;Pavetta avatár
-vanity_avatar_48430_title;Urcheon of Erlenwald avatár
-vanity_avatar_48431_title;Loving mother avatár
+vanity_avatar_48430_title;Erlenwald Süne avatár
+vanity_avatar_48431_title;Szerető anya avatár
 vanity_avatar_48432_title;Duny avatár
-vanity_avatar_48433_title;Yennefer in love avatár
-vanity_avatar_48434_title;Geralt in love avatár
+vanity_avatar_48433_title;Szerelmes Yennefer avatár
+vanity_avatar_48434_title;Szerelmes Geralt avatár
 vanity_avatar_48435_title;Elbűvölt Triss avatár
 vanity_avatar_48436_title;Elbűvölt Geralt avatár
 vanity_body_80284_title;Ember fekete köpeny
@@ -9012,7 +9012,7 @@ vanity_border_38109_title;Fiolák keret
 vanity_border_38110_title;Tűzportál keret
 vanity_border_38111_title;Dol Dhu Lokke keret
 vanity_border_38112_title;Farkasfalka keret
-vanity_border_38113_title;Lubberkin keret
+vanity_border_38113_title;Fráterka keret
 vanity_border_38114_title;Ünnepi ostrom keret
 vanity_border_38115_title;Ünnepi bűn keret
 vanity_border_38116_title;Ünnepi hátba szúrás keret
@@ -9444,10 +9444,10 @@ vanity_h03_border_description;Reward for finishing Midwinter Hunt Challenges in 
 vanity_h03_border_title;Újjászületett keret
 vanity_h03_title;Újjászületett
 vanity_h03_title_description;Reward for finishing Midwinter Hunt Challenges in Alapértelmezett mód.
-vanity_h04_border_description;Reward for finishing the Passiflora Tournament Challenges in Expert Mode.
-vanity_h04_border_title;Passiflora Champion keret
-vanity_h04_title;Passiflora Champion
-vanity_h04_title_description;Reward for finishing the Passiflora Tournament Challenges in Expert Mode.
+vanity_h04_border_description;Reward for finishing the vágyvirág Tournament Challenges in Expert Mode.
+vanity_h04_border_title;Vágyvirág bajnok keret
+vanity_h04_title;Vágyvirág bajnok
+vanity_h04_title_description;Reward for finishing the vágyvirág Tournament Challenges in Expert Mode.
 vanity_head_80294_title;Emiel Regis (Ember)
 vanity_head_80295_title;Lidérc (Ember)
 vanity_head_80296_title;Félvér (Ember)
@@ -10439,7 +10439,7 @@ vanity_title_28141_title;Hidegvérű
 vanity_title_28142_title;Északi harcos
 vanity_title_28143_title;Vérfagyasztó rajtaütő
 vanity_title_28144_title;Szunnyadó gonosz
-vanity_title_28146_title;Lubberkin
+vanity_title_28146_title;Fráterka
 vanity_title_28147_title;Holdbéli
 vanity_title_28148_title;Rangidős
 vanity_title_28149_title;Alfa
