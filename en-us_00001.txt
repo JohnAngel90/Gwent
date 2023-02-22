@@ -2351,7 +2351,7 @@ arena_card_set_offensive_bleeding;Vérzés
 arena_card_set_offensive_bounty;Vérdíj
 arena_card_set_offensive_control;Irányítás
 arena_card_set_offensive_generic;Támadás
-arena_card_set_offensive_lock;Zárás
+arena_card_set_offensive_lock;Zárolás
 arena_card_set_offensive_poison;Méreg
 arena_card_set_offensive_weather;Időjárás
 arena_card_set_offensive_weather_rain;Időjárás - Eső
@@ -2365,7 +2365,7 @@ arena_card_set_special_organic;Szervesek
 arena_card_set_special_raid;Rajtaütés
 arena_card_set_special_tactics;Taktika
 arena_card_set_special_warfare;Hadviselés
-arena_card_set_thinning_archespore;Szúrcsohó Trió
+arena_card_set_thinning_archespore;Szúrcsohók
 arena_card_set_thinning_bluestripes;Kékszalagosok
 arena_card_set_thinning_brokilonsentinel;Brokiloni őrszemek
 arena_card_set_thinning_casinobouncers;Kaszinó kidobók
@@ -2555,7 +2555,7 @@ arenav2_rewards_timeout_title;Jutalom megjelenítési hiba
 arenav2_show_deck_tooltip;Pakli mutatása
 arenav2_summary_newdraft;Új draft
 arenav2_summary_rewards;Jutalmaid:
-arenav2_summary_title;A ciklus teljesül
+arenav2_summary_title;A ciklus véget ért
 arenav2_summary_wins;Győzelmek
 arenav2_ticket_entry_desc;Használd a jegyedet a belépéshez!
 arenav2_ticket_purchase_pay_now;Fizess!
@@ -3497,7 +3497,7 @@ game_mode_seasonal_didnt_sign_up_desc;A játék elején átváltoztatja minden k
 game_mode_seasonal_didnt_sign_up_title;Én nem erre jelentkeztem
 game_mode_seasonal_draconid_title;A csata heve
 game_mode_seasonal_dryad_title;A mérleg nyelve
-game_mode_seasonal_elf_title;Hopponmaradva
+game_mode_seasonal_elf_title;Hoppon maradva
 game_mode_seasonal_even_fight_desc;A játék elején növeli az alaperejét minden egységnek a pakliban 14-gyel, mínusz az ellátási költségük.
 game_mode_seasonal_even_fight_title;Kiegyenlített harc
 game_mode_seasonal_february_title;Februári szezon
@@ -3630,7 +3630,7 @@ gwent_message_player_scoia_chose_you;You decided to let opponent go first
 gwent_message_player_scoia_ignore;You decided to save Mókusok faction képesség for later
 gwent_message_player_scoia_ignore_round_result;You decided not to use Mókusok faction képesség.
 gwent_message_round_bottom_won_main;Blue takes the round
-gwent_message_round_draw_main;Round ended in a tie
+gwent_message_round_draw_main;Döntetlen forduló
 gwent_message_round_draw_sub;Placeholder
 gwent_message_round_lost_main;Elvesztetted a fordulót!
 gwent_message_round_lost_nilfgaard_main;Faction Ability
@@ -4425,7 +4425,7 @@ interface_mainmenu_deckselector_invalid_provisioning;Provision Cap exceeded
 interface_mainmenu_equip_board_btn;ALKALMAZ
 interface_mainmenu_equip_leader_skin_btn;ALKALMAZ
 interface_mainmenu_equipped;Alkalmazva
-interface_mainmenu_in_reward_book_ftux;Unlockable once the Jutalmak Könyve tutorial is finished.
+interface_mainmenu_in_reward_book_ftux;Feloldásra került, amint a Jutalmak Könyve oktatást befejezted.
 interface_mainmenu_preorder;Pre-order Now
 interface_mainmenu_previous_button;Előző
 interface_mainmenu_unlock_in_achievements;Unlock in Szerződések
@@ -4889,9 +4889,9 @@ network_game_state_overquota_local;Your client was sending too much data. You ha
 network_game_state_overquota_opponent;Your opponent's client was sending too much data. They have been forced to forfeit.
 network_game_state_overquota_title;Packet Error
 network_game_state_overquota_top;Red player's client was sending too much data. They have been forced to forfeit.
-network_game_state_server_error;A problem with the servers forced the game to end prematurely.
-network_game_state_server_error_title;Server Error
-network_game_unauthorized_action_header;Game Cannot Be Continued
+network_game_state_server_error;A szerverrel való probléma miatt a játék idő előtt végetért.
+network_game_state_server_error_title;Szerver hiba
+network_game_unauthorized_action_header;A játék nem folytatható
 network_game_unauthorized_action_message_both;Both clients tried to execute an unauthorized action. Ending the game.
 network_game_unauthorized_action_message_bottom;Blue player's client tried to execute an unauthorized action. Ending the game.
 network_game_unauthorized_action_message_local;The local client tried to execute an unauthorized action. Ending the game.
@@ -4928,9 +4928,9 @@ notification_ftux_3;Finish the 2nd match out of 3 in Standard mode.
 notification_ftux_4;Finish the 3rd match in Standard mode.
 notification_ftux_three_matches;Complete 3 Alapértelmezett mód matches.
 notification_gift_received;Player {0} sent you a gift!
-notification_love_event_daily_quest_reward;You've got <sprite="PopupIcons" name="Chocolate">{0} for completing a napi küldetés. You can use it to unlock rewards in the Jutalmak Könyve.
-notification_love_event_login_reward;You've got <sprite="PopupIcons" name="Chocolate">{0} for coming today. You can use it to unlock rewards in the Jutalmak Könyve.
-notification_love_event_match_reward;You've got <sprite="PopupIcons" name="Chocolate">{0} for winning the last match. You can use it to unlock rewards in the Jutalmak Könyve.
+notification_love_event_daily_quest_reward;Szereztél <sprite="PopupIcons" name="Chocolate">{0} a napi küldetés teljesítéséért. Használhatod őket jutalmak feloldására a Jutalmak Könyvében.
+notification_love_event_login_reward;Szereztél <sprite="PopupIcons" name="Chocolate">{0} hogy ma is beléptél. Használhatod őket jutalmak feloldására a Jutalmak Könyvében.
+notification_love_event_match_reward;Szereztél <sprite="PopupIcons" name="Chocolate">{0} az utolsó megnyert csatádért. Használhatod őket jutalmak feloldására a Jutalmak Könyvében.
 notification_mill_card_from_starter_set;Unable to mill card from the starter set.
 notification_mill_levelnotreached;You must be level {0} to mill cards!
 notification_mill_nocopies;You don't have any copies of this card to mill!
@@ -4969,14 +4969,14 @@ obb_state_paused_sdcard_unavailable;Download paused because the external storage
 obb_state_paused_wifi_disabled;Download paused because wifi is disabled
 obb_state_paused_wifi_unavailable;Download paused because wifi is unavailable
 obb_state_unknown;Kezdés...
-obb_state_unpacking;Unpacking files. Kérjük várjon...
+obb_state_unpacking;Fájlok kicsomagolása. Kérjük várjon...
 obb_time_remaining;Maradék idő: {0}
 obb_time_remaining_notification;{0} maradt
 oda_big_update_message;Please bear with us while the game is updating! This big download is required to make all future updates substantially smaller.
 odr_download_initial_error_desc;Failed to download the update. Check your internet connection and if you have sufficient storage space, and try again.
 odr_download_uber_desc;Do you want to download the 4K textures pack? The download size is {0} MB. Wi-Fi connection is recommended.
 odr_download_uber_error_desc;Failed to download the 4K textures pack. Check your internet connection and if you have sufficient storage space, and try again.
-odr_remove_uber_desc;Do you want to remove the 4K textures pack?
+odr_remove_uber_desc;El akarod távolítani a 4K textúra csomagot?
 odr_update_initial_desc;You need to download the update to proceed. The update size is {0} MB. Wi-Fi connection is recommended. Do you want to start the download?
 odr_update_uber_desc;Update for the 4K textures pack is available. The download size is {0} MB. Wi-Fi connection is recommended. Do you want to download it now? You can do that later in the settings panel.
 open_keg_prompt;Következő hordó kinyitása
@@ -5030,13 +5030,13 @@ overlay_disabled;Enable GOG Overlay to buy from the Shop!
 panel_card_choice_number_description;[{0} of {1}]
 panel_cash_expire_desc;The currencies shown below will expire soon
 panel_cash_expire_has_expired;Currency expired
-panel_cash_expire_time_format;{0}d {1}h {2}m
-panel_cash_expire_timer;Time Remaining
+panel_cash_expire_time_format;{0}n {1}ó {2}p
+panel_cash_expire_timer;Maradék idő
 panel_cash_expire_title;Expiring Currency
-panel_choice_enemy_description;Choose a card to keep.
-panel_choice_player_description;Choose a card to keep.
+panel_choice_enemy_description;Válassz egy megtartani kívánt kártyát!
+panel_choice_player_description;Válassz egy megtartani kívánt kártyát!
 panel_collection_changefaction_title;KIVÁLASZT
-panel_collection_emptygrid;<b><color=white>No cards match the current filter settings.</color=white></b>\n\nTry disabling some of the filters or switch the current faction.
+panel_collection_emptygrid;<b><color=white>Egy kártya sem felel meg az aktuális szűrő beállításainak.</color=white></b>\n\nPróbálj kikapcsolni pár szűrőt, vagy válts az adott frakcióra!
 panel_collection_filter_name;FILTER OPTIONS
 panel_collection_filterstatus_label;FILTERING ENABLED
 panel_collection_mill_spares_label;SPARE CARDS:
@@ -5046,12 +5046,12 @@ panel_collection_title;<b>Collection</b>
 panel_currency_keg;Hordók
 panel_currency_reward;{0} x {1}
 panel_db_info_gold_cards;ARANY KÁRTYÁK
-panel_db_info_silver_cards;SILVER CARDS
-panel_db_info_total_cards;TOTAL CARDS
+panel_db_info_silver_cards;EZÜST KÁRTYÁK
+panel_db_info_total_cards;ÖSSZ. KÁRTYA
 panel_deck_enemy_name;ELLENFÉL PAKLIJA
 panel_deck_name;PAKLI
 panel_deckbuilder_deck_limit_error_desc;You have reached the limit of {0} allowed decks in collection. You need to remove an existing deck before being able to create a new one.
-panel_deckbuilder_deck_limit_error_name;Deck limit reached
+panel_deckbuilder_deck_limit_error_name;Pakli limit elérve
 panel_deckbuilder_remove_error_desc;There was an issue during deck removal. Please try relaunching the Pakliépítő and try again.
 panel_deckbuilder_remove_error_name;Error: Couldn't remove deck
 panel_deckcreate_faction_description;Válassz egy frakciót az újonnan létrehozandó paklihoz!
@@ -5100,7 +5100,7 @@ panel_matchmaking_title_ranked;MATCHMAKING: RANKED MATCH
 panel_mulligan_description;Choose a card to redraw. [{0} of {1}]
 panel_mulligan_name;KÁRTYÁK ÚJRAHÚZÁSA
 panel_player_info_guest;Not logged in
-panel_rewards_good_game;<b><#FFFFFF>GOOD GAME!</color></b> THANKS TO YOUR OPPONENT <b><#FFFFFF>{0}</color></b> YOU'VE RECEIVED AN ADDITIONAL REWARD! {1} x {2}
+panel_rewards_good_game;<b><#FFFFFF>JÓ JÁTÉK!</color></b> AZ ELLENFELEDNEK HÁLA <b><#FFFFFF>{0}</color></b> TOVÁBBI JUTALMAT KAPTÁL! {1} x {2}
 panel_rewards_level_up;SZINTLÉPÉS!
 panel_rewards_lvl;SZINT
 panel_rewards_no_rewards;Nincs jutalom
@@ -5393,7 +5393,7 @@ popup_mill_spares_failure_title;MILL SPARE CARDS FAILURE
 popup_mill_spares_success_desc;You have milled <b>{0}</b> spare card(s). You received <color=#b0f5ab><b>+{1}</b></color> scraps and <color=#b0f5ab><b>+{2}</b></color> meteorite powder.
 popup_mill_spares_success_title;MILL SPARE CARDS SUCCESS
 popup_milled_spare_cards_dont_show;Rendben, ne mutasd újra!
-popup_milled_spare_cards_title;Your spare cards have been milled
+popup_milled_spare_cards_title;A felesleges kártyáid be lettek darálva
 popup_milling_failure_desc;Hiba: {0}.
 popup_milling_failure_title;SIKERTELEN BEDARÁLÁS
 popup_milling_success_desc;You have milled a '<b>{0}</b>"card!\nYou received <b>+{1}</b> scraps.
@@ -5481,11 +5481,11 @@ rarity_rare;Ritka
 rating;Ranking points
 rb_ftux_hint_done;Gratulálunk! You've finished your first reward tree. You can now visit other pages and begin your journey.
 rb_ftux_hint_firstquestclaimed;All quests, including ones from the Jutalmak Könyve, can be tracked in the Quest Panel.
-rb_ftux_hint_rewardbookopened;Welcome to the Jutalmak Könyve! Choose a faction tree to get started.
+rb_ftux_hint_rewardbookopened;Üdvözlünk a Jutalmak Könyvében! Válassz egy frakció fát a kezdéshez!
 rb_ftux_hint_treeentered;Each tree has a sequence of rewards, unlocked with keys that can be earned from playing the game. Claim one now.
 rb_ftux_notification_button;View
 rb_ftux_notification_locked_tabs;The other Jutalmak Könyve tabs will unlock after the completion of at least one tree
-rb_ftux_notification_open_book;There's something new in the Jutalmak Könyve
+rb_ftux_notification_open_book;Van valami újdonság a Jutalmak Könyvében
 rb_ftux_notification_open_quest;You've accepted a New Quest
 read_eula_button;Üzletszabályzat megtekintése
 reconnecting;Újracsatlakozás…
@@ -5550,7 +5550,7 @@ reward_earned;JUTALOM MEGSZEREZVE
 reward_leader_card;Leader Card
 reward_notification_generic;You have been granted {0} {1}
 reward_point_currency;Jutalompont
-reward_points_reward_desc;You've received reward points! You can use them in the Jutalmak Könyve.
+reward_points_reward_desc;Jutalompontokat szereztél! Felhasználhatod őket a Jutalmak Könyvében.
 reward_popup_achievement_next_button;Következő
 reward_preview_daily;NAPI
 reward_preview_endofseason;SEASON END
@@ -9433,12 +9433,12 @@ vanity_gameboard_50062_title;Utóbuli játéktábla
 vanity_gameboard_50063_title;Főisten pince játéktábla
 vanity_gameboard_default_title;Alapértelmezett frakció játéktábla
 vanity_h01_border_description;Reward for completing Mahakam Ale Festival Challenges in Expert Mode.
-vanity_h01_border_title;Accomplished Drinker keret
-vanity_h01_title;Accomplished Drinker
+vanity_h01_border_title;Rutinos alkoholista keret
+vanity_h01_title;Rutinos alkoholista
 vanity_h01_title_description;Reward for completing Mahakam Ale Festival Challenges in Expert Mode.
 vanity_h02_border_description;Reward for completing Saovine - Holiday of the Dead Challenges in Expert Mode.
-vanity_h02_border_title;Higher Vampire keret
-vanity_h02_title;Higher Vampire
+vanity_h02_border_title;Felsőbb vámpír keret
+vanity_h02_title;Felsőbb vámpír
 vanity_h02_title_description;Reward for completing Saovine - Holiday of the Dead Challenges in Expert Mode.
 vanity_h03_border_description;Reward for finishing Midwinter Hunt Challenges in Alapértelmezett mód.
 vanity_h03_border_title;Újjászületett keret
@@ -10296,7 +10296,7 @@ vanity_title_25030_title;Vágyvirág bajnok
 vanity_title_25100;Öreg Hűséges
 vanity_title_26005_title;Martalóc
 vanity_title_28000;Tükörmester
-vanity_title_28000_description;Reward for completing an Arena run with 9 victories.
+vanity_title_28000_description;Jutalom, amiért teljesítetted az Arénát 9 győzelemmel.
 vanity_title_28001;Polihisztor
 vanity_title_28002;Gladiátor
 vanity_title_28003;Sziklaszilárd
