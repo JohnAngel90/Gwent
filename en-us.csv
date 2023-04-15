@@ -4147,10 +4147,10 @@
 203210_tooltip;<keyword=echo>Visszhang</keyword>.\nJátssz ki egy olyan kártyát az ellenfeled paklijából, melynek ellátási költsége {MaxTarget}, vagy kevesebb és nem tartozik a kezdő paklijába! Erősítsd {Boost} ponttal minden fel nem használt ellátási pont után!
 203211_fluff;Miután jogos földterületét megtagadta tőle nagybátyja a herceg, Sándor elhatározta, hogy saját hercegséget épít az alapoktól kezdve, kezdve azzal a területtel, amely a Birodalmi Katonai Hírszerzés alantas, alacsonyabb szintű műveleteinek birodalma volt, amelyet csak a bolondok és az őrültek használtak...
 203211_name;Sandor de Baccalà
-203211_tooltip;<keyword=deploy>Lehelyezés</keyword>: Shuffle a card from your deck into your opponent's deck.\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> a Drone at the bottom of your opponent's deck and set its power to the difference between the number of cards in the players' decks.\nWhenever a card enters or leaves your opponent's deck, boost self by {Boost}.
-203212_fluff;Destroying the supplies was merely a convienient side effect of the main goal: make them believe the food from their allies is tainted, and leave them with a choice: Nilfgaard or famine.
+203211_tooltip;<keyword=deploy>Lehelyezés</keyword>: Keverj bele egy kártyát a paklidból az ellenfeled paklijába!\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> az ellenfeled paklijának aljára és annak az erejét a két játékos paklija méretének különbözetére állítja.\nAmikor egy kártya hozzáadódik, vagy kikerül az ellenfél paklijából, erősíti magát {Boost} ponttal.
+203212_fluff;Az ellátmány megsemmisítése csak a fő cél mellékhatása volt: elhitetni velük, hogy a szövetségesektől érkező élelmiszer megfertőzödött, és olyan helyzetbe hozni őket, hogy választás elé kerüljenek: Nilfgaard vagy éhínség.
 203212_name;Contaminator
-203212_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=banish>Banish</keyword> an enemy unit with 3 or less power, then, if it wasn't a Token, <keyword=spawn>Teremt</keyword> its base copy at the bottom of your opponent's deck.
+203212_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=banish>Száműz</keyword> egy 3, vagy kisebb erejű ellenséges egységet, majd, ha az nem Token volt, <keyword=spawn>Teremti</keyword> annak alap másolatát az ellenfeled paklijának az aljára.
 203213_fluff;Voted least likely to live to old age by the other chemists in the academy. And that was really saying something.
 203213_name;Toxicologist
 203213_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}", then, if it wasn't a Token, <keyword=spawn>Teremt</keyword> its copy at the bottom your opponent's deck.
