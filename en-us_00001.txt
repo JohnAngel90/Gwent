@@ -215,7 +215,7 @@ achievement_10576_title;Vérfoltos
 achievement_10577_title;Véráztatott
 achievement_10578_title;Bíbor vérfürdő
 achievement_10579_title;Kerek pajzs
-achievement_10580_title;Futőpajzs
+achievement_10580_title;Fűtőpajzs
 achievement_10581_title;Nagy pajzs
 achievement_10582_title;Hordozható fedezék
 achievement_10583_title;Csepp a tengerben
