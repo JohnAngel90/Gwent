@@ -4142,69 +4142,69 @@
 203209_fluff;Vissza, pogány! Nem baltázom el másodjára.
 203209_name;Szent Gergely: Mártír
 203209_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=insanity>Elmebaj</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Sebezz egy ellenséges egységet annyival, ahány Tűztestvér kártya van ezen a soron!\n<keyword=fee>Tiszteletdíj</keyword> {Fee}: Sebezz egy ellenséges egységet ennyivel: {Damage}!\n<keyword=berserk>Dühöngő</keyword> {Berserk}: Erősíti az összes Tűztestvér egységedet {Boost} ponttal és sebezd az összes ellenséges egységet ennyivel: {Damage2}, majd megsemmisíti magát.
-203210_fluff;Steady, steady, just a little lower... There we go. That thing ate the Captain's helmet. We'll need to get it back.
-203210_name;Abduction
-203210_tooltip;<keyword=echo>Echo</keyword>.\nPlay a unit that isn't from your opponent's starting deck from their deck with a provision cost of {MaxTarget} or less. Boost it by {Boost} for each provision below the limit.
-203211_fluff;Having been denied a rightful tract of land by his duke of an uncle, Sandor set out to build his own duchy from the ground up, starting with the realm of seedy, bottom-shelf operations within the Imperial Military Intelligence best suited for fools and madmen...
+203210_fluff;Lassan, lassan, csak egy kicsit lentebb... meg is van. Ez a valami ette meg a kapitány sisakját. Vissza kell szereznünk!
+203210_name;Rablógazdálkodás
+203210_tooltip;<keyword=echo>Visszhang</keyword>.\nJátssz ki egy olyan kártyát az ellenfeled paklijából, melynek ellátási költsége {MaxTarget}, vagy kevesebb és nem tartozik a kezdő paklijába! Erősítsd {Boost} ponttal minden fel nem használt ellátási pont után!
+203211_fluff;Miután jogos földterületét megtagadta tőle nagybátyja a herceg, Sándor elhatározta, hogy saját hercegséget épít az alapoktól kezdve, kezdve azzal a területtel, amely a Birodalmi Katonai Hírszerzés alantas, alacsonyabb szintű műveleteinek birodalma volt, amelyet csak a bolondok és az őrültek használtak...
 203211_name;Sandor de Baccalà
-203211_tooltip;<keyword=deploy>Deploy</keyword>: Shuffle a card from your deck into your opponent's deck.\n<keyword=order>Order</keyword>: <keyword=spawn>Spawn</keyword> a Drone at the bottom of your opponent's deck and set its power to the difference between the number of cards in the players' decks.\nWhenever a card enters or leaves your opponent's deck, boost self by {Boost}.
+203211_tooltip;<keyword=deploy>Lehelyezés</keyword>: Shuffle a card from your deck into your opponent's deck.\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> a Drone at the bottom of your opponent's deck and set its power to the difference between the number of cards in the players' decks.\nWhenever a card enters or leaves your opponent's deck, boost self by {Boost}.
 203212_fluff;Destroying the supplies was merely a convienient side effect of the main goal: make them believe the food from their allies is tainted, and leave them with a choice: Nilfgaard or famine.
 203212_name;Contaminator
-203212_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=banish>Banish</keyword> an enemy unit with 3 or less power, then, if it wasn't a Token, <keyword=spawn>Spawn</keyword> its base copy at the bottom of your opponent's deck.
+203212_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=banish>Banish</keyword> an enemy unit with 3 or less power, then, if it wasn't a Token, <keyword=spawn>Teremt</keyword> its base copy at the bottom of your opponent's deck.
 203213_fluff;Voted least likely to live to old age by the other chemists in the academy. And that was really saying something.
 203213_name;Toxicologist
-203213_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}", then, if it wasn't a Token, <keyword=spawn>Spawn</keyword> its copy at the bottom your opponent's deck.
+203213_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}", then, if it wasn't a Token, <keyword=spawn>Teremt</keyword> its copy at the bottom your opponent's deck.
 203214_fluff;Once released, there's no un-releasing it.
 203214_name;Kraken
-203214_tooltip;<keyword=disloyal>Disloyal</keyword>.\n<keyword=deploy>Deploy</keyword>: Move {MaxTargets} enemy units to this row, damage them by {Damage} and <keyword=spawn>Spawn</keyword> <keyword=storm>Storm</keyword> for {Counter} turns on this row.\n<keyword=deathwish>Deathwish</keyword>: <keyword=summon>Summon</keyword> self to the opposite row and boost self by the number of unique allied Beasts.
+203214_tooltip;<keyword=disloyal>Disloyal</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Move {MaxTargets} enemy units to this row, damage them by {Damage} and <keyword=spawn>Teremt</keyword> <keyword=storm>Storm</keyword> for {Counter} turns on this row.\n<keyword=deathwish>Deathwish</keyword>: <keyword=summon>Summon</keyword> self to the opposite row and boost self by the number of unique allied Beasts.
 203215_fluff;Tis a malevolent spirit! 'Tis animated seaweed! Nay, ye hallucinatin' dolts, 'tis clearly a horse!
 203215_name;Kelpie
-203215_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> <keyword=rain>Rain</keyword> on an enemy row for {Counter} turns. This value is increased by {Counter2} for each {MaxTargets} Beasts in your starting deck.\nWhenever an enemy unit takes damage from <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, boost a random unboosted allied Beast by {Boost}.
+203215_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> <keyword=rain>Rain</keyword> on an enemy row for {Counter} turns. This value is increased by {Counter2} for each {MaxTargets} Beasts in your starting deck.\nWhenever an enemy unit takes damage from <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, boost a random unboosted allied Beast by {Boost}.
 203216_fluff;Hire a dragonslayer? For some oversized eel? Ha! Mainlander nonsense!
 203216_name;Sea Serpent
-203216_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by {0+B.P.BB_RainStormThisRound} and damage an enemy unit by 3.\nIncrease the boost by {Boost} for each opponent turn in which <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> triggered this round.
+203216_tooltip;<keyword=deploy>Lehelyezés</keyword>: Boost self by {0+B.P.BB_RainStormThisRound} and damage an enemy unit by 3.\nIncrease the boost by {Boost} for each opponent turn in which <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> triggered this round.
 203217_fluff;The good news is, you'll never actually encounter one outside of your deepest, darkest nightmares.
 203217_name;Anglerfish
 203217_tooltip;At the end of your turn, if there is <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> on both enemy rows, <keyword=summon>Summon</keyword> self from your deck to your <keyword=ranged>Ranged</keyword> row.\nAt the end of your turn, if neither enemy row has <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, move self to the bottom of your deck.
 203218_fluff;Months spent foolproofing this operation, only to find I should have hired better listeners... My mother must be laughing somewhere.
 203218_name;Telianyn aep Collen
-203218_tooltip;<keyword=deploy>Deploy</keyword>: Shuffle an allied unit with a provision cost of {Provisions} or less to your deck, then play the top Elf with a <keyword=deploy>Deploy</keyword> ability from your deck. \n<keyword=order>Order</keyword>: <keyword=spawn>Spawn</keyword> and play Backup Plan. If this unit is Prepared, <keyword=infused>Infuse</keyword> self with "{InjectableAbility}" instead.
+203218_tooltip;<keyword=deploy>Lehelyezés</keyword>: Shuffle an allied unit with a provision cost of {Provisions} or less to your deck, then play the top Elf with a <keyword=deploy>Lehelyezés</keyword> ability from your deck. \n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> and play Backup Plan. If this unit is Prepared, <keyword=infused>Infuse</keyword> self with "{InjectableAbility}" instead.
 203219_fluff;Plan's simple: same as last time, but better.
 203219_name;The Heist
-203219_tooltip;<keyword=echo>Echo</keyword>.\n<keyword=spawn>Spawn</keyword> {MaxTargets} Cargos on an allied row.
+203219_tooltip;<keyword=echo>Visszhang</keyword>.\n<keyword=spawn>Teremt</keyword> {MaxTargets} Cargos on an allied row.
 203220_fluff;If we can't rob them in the streets, we fight them in the woods!
 203220_name;Backup Plan
-203220_tooltip;Damage the last unit played by your opponent by {Damage} and <keyword=create>Create</keyword> a bronze Elf with a <keyword=deploy>Deploy</keyword> ability that was not in your starting deck.
+203220_tooltip;Damage the last unit played by your opponent by {Damage} and <keyword=create>Create</keyword> a bronze Elf with a <keyword=deploy>Lehelyezés</keyword> ability that was not in your starting deck.
 203221_fluff;Living among humans for so many years had revealed some unique vulnerabilities to the Scoia'tael. For one, apparently not all dh'oine recognize sarcasm...
 203221_name;Trickster
-203221_tooltip;<keyword=deploy>Deploy</keyword>: Move the last played enemy unit to another row and <keyword=infused>Infuse</keyword> it with "{InjectableAbility}".
+203221_tooltip;<keyword=deploy>Lehelyezés</keyword>: Move the last played enemy unit to another row and <keyword=infused>Infuse</keyword> it with "{InjectableAbility}".
 203222_fluff;Checkmate... your majesty.
 203222_name;Sigismund Dijkstra
-203222_tooltip;<keyword=order>Order</keyword>: Play a boosted unit from your deck.\nWhile in deck, whenever this unit receives a boost from other abilities, boost self by the same amount.
+203222_tooltip;<keyword=order>Parancs</keyword>: Play a boosted unit from your deck.\nWhile in deck, whenever this unit receives a boost from other abilities, boost self by the same amount.
 203223_fluff;It's not exactly a holiday, no, but there is plenty of singing, if that's what you're into.
 203223_name;Drakenborg
-203223_tooltip;<keyword=resilient>Resilience</keyword>.\n<keyword=deploy>Deploy</keyword>: <keyword=summon>Summon</keyword> a unit from your deck to this row, <keyword=lock>Lock</keyword> it and remove its boost.\n<keyword=order>Order</keyword>: Boost an allied unit by {Boost}. Increase this value by the amount of boost that was removed.
+203223_tooltip;<keyword=resilient>Resilience</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=summon>Summon</keyword> a unit from your deck to this row, <keyword=lock>Lock</keyword> it and remove its boost.\n<keyword=order>Parancs</keyword>: Boost an allied unit by {Boost}. Increase this value by the amount of boost that was removed.
 203224_fluff;They say the aristocracy can sniff out a commoner among them. However, liberal application of alcohol and perfume can throw off the scent for long enough to strike up a conversation or two. Perhaps even gain their trust.
 203224_name;Redanian Secret Service
-203224_tooltip;<keyword=zeal>Zeal</keyword>. <keyword=order>Order</keyword>: <keyword=purify>Purify</keyword> an allied unit.\nIf you do not control Redanian Secret Service, when an allied unit gains a status, <keyword=summon>Summon</keyword> self from your deck to its row.
+203224_tooltip;<keyword=zeal>Zeal</keyword>. <keyword=order>Parancs</keyword>: <keyword=purify>Purify</keyword> an allied unit.\nIf you do not control Redanian Secret Service, when an allied unit gains a status, <keyword=summon>Summon</keyword> self from your deck to its row.
 203225_fluff;Eight-time champion of solo hide-and-seek.
 203225_name;Redanian Agent
-203225_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=order>Order</keyword>: Boost a unit in your deck by {Boost}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}
+203225_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=order>Parancs</keyword>: Boost a unit in your deck by {Boost}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}
 203226_fluff;A thousand mindless horrors, all racing toward you in perfect accord, relentless, ravenous.
 203226_name;Hive Mind
-203226_tooltip;Choose {MaxTargets} different bronze Kikimore units.\nWhile in your graveyard, the first time you <keyword=spawn>Spawn</keyword> a Drone on the battlefield each allied turn, transform it into the next chosen Kikimore unit.
+203226_tooltip;Choose {MaxTargets} different bronze Kikimore units.\nWhile in your graveyard, the first time you <keyword=spawn>Teremt</keyword> a Drone on the battlefield each allied turn, transform it into the next chosen Kikimore unit.
 203227_fluff;Bugspray doesn't always mean what you think it means.
 203227_name;Acid Spit
 203227_tooltip;<keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}".
 203228_fluff;Peek-a-boo, it's after you!
 203228_name;Kikimore Stalker
-203228_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=zeal>Zeal</keyword>. <keyword=order>Order</keyword> (<keyword=predator>Predator</keyword>): Damage an enemy unit by {Damage} or <keyword=consume>Consume</keyword> an allied Drone.\n<keyword=charge>Charge</keyword>: {Charge}\nWhenever you <keyword=spawn>Spawn</keyword> one or more Insectoids, gain a <keyword=charge>Charge</keyword>.
+203228_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=zeal>Zeal</keyword>. <keyword=order>Parancs</keyword> (<keyword=predator>Predator</keyword>): Damage an enemy unit by {Damage} or <keyword=consume>Consume</keyword> an allied Drone.\n<keyword=charge>Charge</keyword>: {Charge}\nWhenever you <keyword=spawn>Teremt</keyword> one or more Insectoids, gain a <keyword=charge>Charge</keyword>.
 203229_fluff;As a general rule, the more brightly colored the egg, the less you'll want to fry it.
 203229_name;Kikimore Hatchling
-203229_tooltip;<keyword=order>Order</keyword>: Remove {Boost} boost from self, then <keyword=spawn>Spawn</keyword> a Drone on this row.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}\nWhenever you play an Organic card, boost self by {Boost2}.
+203229_tooltip;<keyword=order>Parancs</keyword>: Remove {Boost} boost from self, then <keyword=spawn>Teremt</keyword> a Drone on this row.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}\nWhenever you play an Organic card, boost self by {Boost2}.
 203230_fluff;He would have done anything for love, but a fireworks display never quite felt this warranted.
 203230_name;Casimir Bassi
-203230_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=deploy>Deploy</keyword>: Spend all your <keyword=coin>Coins</keyword>, then boost self by the number of <keyword=coin>Coins</keyword> spent.\nOnce per turn, when you reach {Coins} <keyword=coin>Coins</keyword>, <keyword=spawn>Spawn</keyword> Explosives on this row.
+203230_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Spend all your <keyword=coin>Coins</keyword>, then boost self by the number of <keyword=coin>Coins</keyword> spent.\nOnce per turn, when you reach {Coins} <keyword=coin>Coins</keyword>, <keyword=spawn>Teremt</keyword> Explosives on this row.
 203231_fluff;One somersault into a crossbow shot, aimed with the feet, through a pigeon, mid-flight, blindfolded—and suddenly nothing's impossible.
 203231_name;Eveline Gallo
 203231_tooltip;At the end of your turn, if you have {Coins2} <keyword=coin>Coins</keyword>, gain {Coins} <keyword=coin>Coins</keyword>.
