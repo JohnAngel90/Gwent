@@ -215,7 +215,7 @@ achievement_10576_title;Vérfoltos
 achievement_10577_title;Véráztatott
 achievement_10578_title;Bíbor vérfürdő
 achievement_10579_title;Kerek pajzs
-achievement_10580_title;Futőpajzs
+achievement_10580_title;Fűtőpajzs
 achievement_10581_title;Nagy pajzs
 achievement_10582_title;Hordozható fedezék
 achievement_10583_title;Csepp a tengerben
@@ -1453,7 +1453,7 @@ achievement_80131_title;Ysgith
 achievement_80132_title;Öreghit
 achievement_80133_title;Köztesgázló
 achievement_80134_title;Eskalott-tó
-achievement_80135_title;A jó boszorkány
+achievement_80135_title;A jó bozsorkány
 achievement_80136_title;Hűség és becsület
 achievement_80137_title;Igyál és táncolj az ásás után!
 achievement_80138_title;Ez így nem helyes!
@@ -1797,7 +1797,7 @@ achievement_90103_title;Hozzáértő versenyző
 achievement_90104_desc;Játssz 40 játékot Yennefer harci mágus öltözetében!
 achievement_90104_title;Csatatér kovácsolta
 achievement_90106_desc;Játssz 1 játékot Yennefer könnyű páncél öltözetében!
-achievement_90106_title;Szokatlan jel
+achievement_90106_title;Szoktatlan jel
 achievement_90107_desc;Játssz 5 játékot Yennefer könnyű páncél öltözetében!
 achievement_90107_title;Valami más
 achievement_90108_desc;Játssz 10 játékot Yennefer könnyű páncél öltözetében!
@@ -1853,7 +1853,7 @@ achievement_90136_title;Hozzávalók begyűjtése
 achievement_90137_desc;Játssz 10 játékot Triss orvosi köpenyében!
 achievement_90137_title;Fiola megtisztítása
 achievement_90138_desc;Játssz 20 játékot Triss orvosi köpenyében!
-achievement_90138_title;Gyógynövények összekeverése
+achievement_90138_title;Gyógynyövények összekeverése
 achievement_90139_desc;Játssz 40 játékot Triss orvosi köpenyében!
 achievement_90139_title;Főzet elkészítése
 achievement_90141_desc;Játssz 1 játékot Triss királygyilkos öltözetében!
@@ -2283,7 +2283,7 @@ achievement_points;Pontszám: {0}
 achievement_thronebreaker_chest_unlock_desc;Feloldva egy adott láda kinyitásával a Trónbitorlóban.
 achievements_all;Összes
 achievements_almost_completed;Majdnem teljesítve
-achievements_claim;Megszerzett:
+achievements_claim;Szegszerzett:
 achievements_reward;Jutalom:
 achievements_summary;Összegzés
 achievements_track;Követés
@@ -2292,7 +2292,7 @@ achievements_unclaimed;Nem megszerzett
 active_leader_mill_warning;Nem zúzhatod be az éppen pakliban lévő vezetőt!
 advance_loading_screen_hint_1;Ha a forduló elején felhúzott kártyákkal túllépnéd a kézlimited, az extra kártyák második esélyt (újrahúzást) generálnak neked.
 advance_loading_screen_hint_10;A képességek balról jobbra kerülnek végrehajtásra, előbb a közelharciak, majd a távolságiak.
-advance_loading_screen_hint_11;A kártyák Lehelyezés képessége végrehajtásra kerül, még mielőtt más kártyák passzív képességei hatnának rá.
+advance_loading_screen_hint_11;A kártyák Lehelyezés képessége végrehájtásra kerül, még mielőtt más kártyák passzív képességei hatnának rá.
 advance_loading_screen_hint_12;Amikor passzolsz az ellenfeled után, a kör végi képességeid még működésbe fognak lépni.
 advance_loading_screen_hint_13;Amikor te vagy a második aki passzol, a forduló automatikusan véget fog érni.
 advance_loading_screen_hint_14;Amikor eljő a fehér fagy.... ne egyél a sárga hóból!
@@ -2332,7 +2332,7 @@ advance_loading_screen_hint_44;Az utazás során a 100. szint feletti szintlép�
 advance_loading_screen_hint_5;A nilfgaardiaiak tudják, hogyan fordítsák a saját erősségeidet ellened!
 advance_loading_screen_hint_6;Skellige harcosai előnyt kovácsolnak mind saját, mind ellenfelük sérülésiből!
 advance_loading_screen_hint_7;Vigyázz a Mókusok csapdáival és rajtaütés taktikájukkal!
-advance_loading_screen_hint_8;A Szindikátus a sötét üzelmeihez a saját speciális érméit használja.
+advance_loading_screen_hint_8;A Szindikátus a sötét űzelmeihez a saját speciális érméit használja.
 advance_loading_screen_hint_9;A Szindikátus érméit bármelyik frakció gyűjtheti.
 age_restriction_description;A felhasználói fiókodban megadott életkor nem felel meg a játék használatához!
 age_restriction_title;Hozzáférés korlátozva!
@@ -2483,7 +2483,7 @@ arena_event_desc_scoia;Ősi fajok háborúja\n\nAz emberek megjelenése előtt a
 arena_event_desc_silver;Az ezüst nyomvonal\n\nSzámos hős várja az esélyét a dicsőség megszerzésére. Most eljött az idejük! Csak ezüst kártyák használhatóak ezen kihívás alatt!
 arena_event_desc_skellige;Klán viadal\n\nA skelligeiek harciassága legendás. Csak Skellige kártyái használhatóak ezen kihívás alatt!
 arena_event_desc_swap;Váltány\n\nFordítsd az ellenfeled erejét az előnyödre! Ebben a kihívásban játssz az ellenfeled paklijával a sajátod helyett!
-arena_event_desc_syndicate;Szindikátus!\n\nGaunter kedveli a kétes alakokat, a szervezetbűnözést és a csínytevéseket. Ebben a kihívásban a kártyakészlet a Szindikátus frakció kártyáira korlátozódik.
+arena_event_desc_syndicate;Szindikátus!\n\nGaunter kedveli a kétes alakokat, a szervezett bunözést és a csínytevéseket. Ebben a kihívásban a kártyakészlet a Szindikátus frakció kártyáira korlátozódik.
 arena_event_desc_viper;Vipera szezon\n\nEbben a módban szezonális mérkőzéseket játszhatsz az általános pakliépítés szabályai nélkül.
 arena_event_four_kind;Négy egyforma\n\nA közönséges csőcselék betört az arénába! Ebben a kihívásban csak a 4 ellátási költségű kártyák játszanak.
 arena_event_mode_classic_title;ALAPÉRTELMEZETT
@@ -2750,7 +2750,7 @@ beginner_loading_screen_hint_3;Ne felejtsd el használni a vezetődet!
 beginner_loading_screen_hint_4;Miután használtál egy Parancs képességet, már nem passzolhatod a kört!
 beginner_loading_screen_hint_5;Ne fektess be túl sokat a korai fordulókban!
 beginner_loading_screen_hint_6;Tartsd szemmel a kártyáid számát, a kártyaelőny gyakran győzelemhez vezet!
-beginner_loading_screen_hint_7;A szörnyek a rajzásra támaszkodnak, és bekebelezik egymást.
+beginner_loading_screen_hint_7;A szörnyek a rajzásra táálarcodnak, és bekebelezik egymást.
 beginner_loading_screen_hint_8;Az Északi Királyságok könnyedén túlnőnek az ellenfelükön, ha nem tartják őket ellenőrzés alatt.
 beginner_loading_screen_hint_9;A nilfgaardiaiak tudják, hogyan fordítsák a saját erősségeidet ellened!
 best_offer;LEGJOBB AJÁNLAT
@@ -3448,7 +3448,7 @@ friend_match_error_header;Egy váratlan hiba történt
 friend_match_error_subheader;Kérjük próbálja meg később
 friend_match_incoming_notification_action_play;Elfogad
 friend_match_incoming_notification_text;{0} meghívott téged egy barátságos mérkőzésre
-friend_match_invite_already_cancelled;A meghívásodat elutasították
+friend_match_invite_already_cancelled;A meghívásodat elutasítoták
 friend_match_invite_creation_failure;Meghívás létrehozása sikertelen
 friend_match_invite_from_launch_failure;Barátságos mérkőzés kezdése sikertelen
 friend_match_invite_not_found;A meghívás már nem él
