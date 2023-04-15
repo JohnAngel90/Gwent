@@ -3563,7 +3563,7 @@ game_mode_seasonal_more_provision_title;A türelem erény!
 game_mode_seasonal_november_title;Novemberi szezon
 game_mode_seasonal_october_title;Októberi szezon
 game_mode_seasonal_poor_man_gwent_desc;A játék elején átváltoztat minden arany kártyát a paklidban egy véletlenszerű bronzra a frakciódnak megfelelően.
-game_mode_seasonal_poor_man_gwent_title;Szegény emberber Gwentje
+game_mode_seasonal_poor_man_gwent_title;Szegény ember Gwentje
 game_mode_seasonal_rogue_mage_desc;Mindkét játékos egy koronával kezd. A játék elején, száműzd az 5 legolcsóbb kártyádat a paklidból!\nA köröd végén húzz egy kártyát!
 game_mode_seasonal_rogue_mage_title;Zsivány Mágus
 game_mode_seasonal_september_title;Szeptemberi szezon

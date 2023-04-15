@@ -62,7 +62,7 @@
 112112_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Játssz ki egy műalkotást a paklidból!
 112113_fluff;Egy jó varázslónőnek tudnia kell, hogy mikor használjon jeget… és mikor tüzet!
 112113_name;Yennefer: Elemek varázslója
-112113_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz a legerősebb ellenséges egységeknek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+112113_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz a legerősebb ellenséges egységeknek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 112201_fluff;A Váltányt, számos más neve mellett hívják még: utánzó, duplázó, bosszantgató… vagy doppler néven.
 112201_name;Dudu
 112201_tooltip;<keyword=deploy>Lehelyezés</keyword>: Átalakítja magát egy ellenséges egység alap másolatává.
@@ -146,7 +146,7 @@
 113205_tooltip;{Damage} pont sebzést okoz egy egységnek és <keyword=veil>Lepel</keyword> kerül rá.
 113206_fluff;Tedd Deireadh, a Végső Kor. A világ megsemmisül a Fehér Fagy által.
 113206_name;Hóvihar
-113206_tooltip;Megsemmisíti a leggyengébb egységeidet.\n<keyword=initiative>Kezdeményezés</keyword>: Megsemmisíti a leggyengébb egységeket.
+113206_tooltip;Megsemmisíti a leggyengébb egységet.\n<keyword=initiative>Kezdeményezés</keyword>: Helyette megsemmisíti az összes leggyengébb egységet.
 113207_fluff;Plusz egy a morálra, mínusz egy a hallásra.
 113207_name;Parancsnoki kürt
 113207_tooltip;{Boost} ponttal erősíti {maxtargets} szomszédos egységedet. Erősít egy bronz egységet további {Boost2} ponttal minden szomszédos arany egység után.
@@ -218,22 +218,22 @@
 122103_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): Kijátszik egy Hadviselés kártyát a paklidból.
 122105_fluff;Tényleg azt hitted, hogy lóvá tehetsz azzal a mesével, amit most húztál ki a valagadból?
 122105_name;Zsíros zsebek
-122105_tooltip;<keyword=order>Parancs</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz. <keyword=charge>Töltet</keyword>: {Charges}\nAmikor Gaztett kártyát játszol ki, kapsz {Coins2} <keyword=coin>Érmét</keyword>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+122105_tooltip;<keyword=order>Parancs</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.\n<keyword=charge>Töltet</keyword>: {Charges}\nAmikor Gaztett kártyát játszol ki, kapsz {Coins2} <keyword=coin>Érmét</keyword>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 122106_fluff;Medikus vagyok. Úgy teszek, mintha tudnám mit csinálok, amikor felírok valamit.
 122106_name;Shani
-122106_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=summon>Megidéz</keyword> egy bronz Ember egységet a temetődből erre a sorra, és <keyword=doomed>Kárhozottá</keyword> teszi.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+122106_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=summon>Megidéz</keyword> egy bronz Ember egységet a temetődből erre a sorra, és <keyword=doomed>Kárhozottá</keyword> teszi.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 122107_fluff;Szás úr… a nyílvesszőink, ezeknek… ezeknek szárnyaik vannak!
 122107_name;Triss: Pillangók
 122107_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Keverj vissza egy kártyát a kezedből a paklidba, majd húzd fel egy választott egységedet, és erősítsd azt {Boost} ponttal!
 122108_fluff;Ha ma kell meghalnom, kívánom, hogy szétzúzva lássam annak okát.
 122108_name;Keira Metz
-122108_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=vitality>Vitalitást</keyword> ad a szomszédos egységeknek annyi körre, amennyi azok alapereje.
+122108_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=vitality>Vitalitást</keyword> ad a szomszédos egységeknek annyi körre, amennyi azok alapereje.
 122201_fluff;Kökörcsin, te cinikus vagy, egy kéjenc, hazug, valamint a legjobb barátom.
 122201_name;Kökörcsin
 122201_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy egységedet a paklidban.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.\n<keyword=inspired>Inspirált</keyword>: A köröd végén, {Boost2} ponttal erősíti a paklid legfelső egységét.
 122202_fluff;Képzeld el Kökörcsint női ruhában, és egy átfogó képet kapsz a lányról!
 122202_name;Priscilla
-122202_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {boost} ponttal <keyword=heal>Gyógyít</keyword> egy szövetséges egységet, és alaphelyzetbe állítja a <keyword=cooldown>Lehiggadását</keyword>.\n<keyword=inspired>Inspirált</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet és alaphelyzetbe állítja a <keyword=cooldown>Lehiggadását</keyword>.
+122202_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {boost} ponttal <keyword=heal>Gyógyít</keyword> egy szövetséges egységet, és alaphelyzetbe állítja a <keyword=cooldown>Lehiggadását</keyword>.\n<keyword=inspired>Inspirált</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet és alaphelyzetbe állítja a <keyword=cooldown>Lehiggadását</keyword>.
 122203_fluff;Kopj le! Nem vagyunk mind széptevők. Némelyikünknek van esze…
 122203_name;Thaler
 122203_tooltip;<keyword=formation>Formáció</keyword>.\n<keyword=order>Parancs</keyword>: Ha egyik fél sem passzolt, és az ellenfeled keze nincs tele, mindkét játékos húzhat egy kártyát.
@@ -248,7 +248,7 @@
 122206_tooltip;<keyword=disloyal>Áruló</keyword>.\n<keyword=deathwish>Halálvágy</keyword>: {Damage} pont sebzést okoz mindet egységnek ezen a soron.
 122207_fluff;Egyszer kiokádtattam egy rabbal a saját beleit… Óh, régi szép idők!
 122207_name;Dethmold
-122207_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti minden szövetséges Mágus egységedet.
+122207_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Boost} ponttal erősíti minden szövetséges Mágus egységedet.
 122208_fluff;Aranyból készült vértet visel. Persze, hogy egy gyökér.
 122208_name;Stennis herceg
 122208_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Boost} ponttal erősíti egy szövetséges egységedet.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): {Boost2} ponttal erősíti {MaxTargets} szövetséges egységedet.
@@ -260,16 +260,16 @@
 122210_tooltip;<keyword=deploy>Lehelyezés</keyword>: Visszakeverhetsz egy bronzt, nem semleges egységet - és annak minden másolatát - a temetődből a paklidba.
 122211_fluff;Engem csak az érdekel, hogy mi a jó Aretuzának és a diákjaimnak.
 122211_name;Margarita Laux-Antille
-122211_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet.
+122211_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet.
 122212_fluff;Kevesen tudnak többet a gyógyításról, mint Nenneke.
 122212_name;Nenneke
-122212_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Boost} ponttal erősíti egy egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}.
+122212_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Boost} ponttal erősíti egy egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}.
 122213_fluff;Az ivászat Odrin nélkül olyan, mint az evezés lapát nélkül.
 122213_name;Odrin
 122213_tooltip;Odrin a <keyword=crew>Legénység</keyword> egyik tagja.
 122214_fluff;Előre, ti anyaszomorítók! Előre, vagy a nilfgaardiakkal való találkozás lesz a legkisebb gondotok!
 122214_name;Kaedweni őrmester
-122214_tooltip;<keyword=formation>Formáció</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet. <keyword=charge>Töltet</keyword>: {Charges}
+122214_tooltip;<keyword=formation>Formáció</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}
 122216_fluff;Mindenki kereskedni akar Novigradban, ez tiszta sor. Feltételek kötnek Fejszével, vagy búcsút inthetnek a térdüknek.
 122216_name;Carlo Varese
 122216_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek minden kártyáért, ami a kezedben van.
@@ -335,13 +335,13 @@
 13_tooltip_ia;Amikor az ellenfeled <keyword=coin>Érmét</keyword> kap, {Damage} ponttal sebzi magát
 131101_fluff;Legyen egy kis méltóságod! Tudod, mi lesz ennek a vége.
 131101_name;Természetes páncél
-131101_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet. Ha az egy nem Semleges egység, <keyword=veil>Lepel</keyword> is kerül rá. <keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+131101_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet. Ha az egy nem Semleges egység, <keyword=veil>Lepel</keyword> is kerül rá.\n<keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 131102_fluff;A festészetnek érzelmeket kellene továbbítania, nem szavakat.
 131102_name;Ge'els
 131102_tooltip;<keyword=deploy>Lehelyezés</keyword>: Kijátszik egy Vad Hajsza speciális kártyát a paklidból.\n<keyword=devotion>Áhítat</keyword>: Bármilyen Vad Hajsza kártyát kijátszhatsz a paklidból.
 132101_fluff;Néhányan nem ismerik el a vereséget, még a síron túl is küzdenek.
 132101_name;Draug
-132101_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: A képességük megváltoztatása nélkül, <b>Kaedweni visszatérővé</b> alakít minden Ember egységet egy szövetséges sorban.
+132101_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: A képességük megváltoztatása nélkül, <b>Kaedweni visszatérővé</b> alakít minden Embert egy szövetséges sorban.
 132102_fluff;Azzal hencegett, hogy egy fegyver sem tudja átütni a páncélját. És igaza is volt, még meg nem halt.
 132102_name;Imlerith haragja
 132102_tooltip;A legerősebb egységed erejének mértékével sebez egy ellenséges egységet.\nHa volt azon a soron <keyword=frost>Fagy</keyword>, helyette megsemmisíti azt.
@@ -383,7 +383,7 @@
 132206_tooltip;<keyword=deploy>Lehelyezés</keyword>: {B.P.BB_CronesPlayed*Damage+Damage} sebzést okoz egy ellenséges egységnek. Növeli a sebzést {Damage} ponttal minden eddig kijátszott Fúria után.
 132207_fluff;Majd szépen felszeletelünk, fiúcska. Pompás kis húsleves lesz belőled.
 132207_name;Kotyvasz
-132207_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=charge>Töltet</keyword>: {B.P.BB_CronesPlayed+MaxTargets}.\nNöveli a <keyword=charge>Töltetek</keyword> számát ennyivel, amikor Fúriát játszol ki: {MaxTargets}.
+132207_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=charge>Töltet</keyword>: {B.P.BB_CronesPlayed+MaxTargets}.\nNöveli a <keyword=charge>Töltetek</keyword> számát ennyivel, amikor Fúriát játszol ki: {MaxTargets}.
 132208_fluff;Érzem a fájdalmadat. Látom a félelmedet.
 132208_name;Szöveny
 132208_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít egy szövetséges egységet {B.P.BB_CronesPlayed*Boost+Boost} ponttal. Növeli ezt az erősítést {Boost} ponttal, amikor Fúriát játszol ki.
@@ -392,7 +392,7 @@
 132209_tooltip;<keyword=deathwish>Halálvágy</keyword>: Megsemmisíti a leggyengébb ellenséget.
 132210_fluff;Nem bírod a meleget? Akkor esélyed sincs.
 132210_name;Hatalmas Ifrit
-132210_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Sebez minden ellenséges egységet a szemközti sorban {Damage} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+132210_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Sebez minden ellenséges egységet a szemközti sorban {Damage} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 132211_fluff;Legyenek óvatosak, uraim, nekkerek ólálkodnak a híd alatt!
 132211_name;Nekker harcos
 132211_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha ezen kártya nem idézi elő egyik egységed <keyword=thrive>Boldogulás</keyword> képességét sem, sebzi magát {Damage} ponttal és <keyword=infused>Felruházza</keyword> magát ezzel: {InjectableAbility}
@@ -449,7 +449,7 @@
 132309_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=dominance>Dominancia</keyword>: <keyword=frost>Fagyot</keyword> is <keyword=spawn>Teremt</keyword> {MaxTargets} körre a választott egység sorára.
 132310_fluff;Elsőnek a bölény szarvak a sisakok tetején fogják meg a figyelmet, aztán a közöttük lévő taréj, majd végül a koponyaszerű maszk a sisakrostélyaik alatt.
 132310_name;Vad Hajsza lovas
-132310_tooltip;<keyword=deploy>Lehelyezés</keyword>, <keyword=dominance>Dominancia</keyword>: <keyword=summon>Megidézi</keyword> minden másolatát ennek az egységnek a paklidból erre a sorra.
+132310_tooltip;<keyword=deploy>Lehelyezés</keyword> <keyword=dominance>Dominancia</keyword>: <keyword=summon>Megidézi</keyword> minden másolatát ennek az egységnek a paklidból erre a sorra.
 132312_fluff;Az életüket féltve, Hengfors lakosa vastag falakkal vették körbe magukat. Sok jó dolgot tettek...
 132312_name;Támadó ragadozó
 132312_tooltip;Mindkét játékos megsemmisíti a leggyengébb egységét.
@@ -551,7 +551,7 @@
 142209_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha már irányítasz {Counter}, vagy több Driádot, kapsz <keyword=zeal>Hévet</keyword>.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.
 142210_fluff;Utállak, dh'oine. Mind egyformák vagytok.
 142210_name;Malena
-142210_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Mozgass egy egységet a másik sorra!\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+142210_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Mozgass egy egységet a másik sorra!\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 142211_fluff;Jobb állva halni meg, mint behajlított térden élni.
 142211_name;Aelirenn
 142211_tooltip;Ha a köröd végén {MaxTargets}, vagy több elfet irányítasz, <keyword=summon>Megidézi</keyword> ezt az egységet a paklidból a <keyword=melee>Közelharci</keyword> sorodra.
@@ -599,7 +599,7 @@
 142311_tooltip;<keyword=deploy>Lehelyezés</keyword>: Sebzi magát {Damage} ponttal minden nem Törp egységért a kezedben.
 142312_fluff;Elf, törp, nincs különbség... addig, amíg van pénzük.
 142312_name;Havekár kereskedő
-142312_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősít egy a kezedben lévő szövetséges egységet. Ha az az egység már erősítve volt, helyette {Boost2} ponttal erősíti.
+142312_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősít egy a kezedben lévő egységet. Ha az az egység már erősítve volt, helyette {Boost2} ponttal erősíti.
 142313_fluff;Az akarja mondani, hogy az elf nő harc közben elkezdett táncolni? Elvesztette az eszét, tizedes?!
 142313_name;Elf fegyvertáncos
 142313_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage2} pont sebzést okoz egy ellenséges egységnek. Ha az <b>Elf fegyvertáncos</b> már erősítve van, helyette {Damage} pont sebzést okoz az ellenségnek.
@@ -620,7 +620,7 @@
 142401_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy alap másolatot ebből az egységből a másik sorodra.\n<keyword=order>Parancs</keyword>: Átalakít egy szövetséges elfet <b>Elf mesterlövésszé</b>.
 143201_fluff;Véres váltságdíjat követeltek a földtől, miközben erővel elveszitek a javait. Nekünk virágzott a méretes gyümölcseivel, és bőven ellátott minket szeretetével, mert mi is szerettük.
 143201_name;Kígyó csapda
-143201_tooltip;<keyword=ambush>Cselvetés</keyword>: Miután az ellenfél kijátszik egy speciális kártyát, semmisítsd meg a legerősebb ellenséges egységet!\n<keyword=spring>Rugó</keyword>: Semmisítsd meg a leggyengébb ellenséges egységet!
+143201_tooltip;<keyword=ambush>Cselvetés</keyword>: Amikor az ellenfél kijátszik egy speciális kártyát, semmisítsd meg a legerősebb ellenséges egységet!\n<keyword=spring>Rugó</keyword>: Semmisítsd meg a leggyengébb ellenséges egységet!
 143301_fluff;Óvatosan…! Még egy lépés, és olvadt üveg lesz belőled.
 143301_name;Gyújtócsapda
 143301_tooltip;<keyword=Spring>Rugó</keyword>: {damage2} pont sebzést okoz egy egységnek.\n<keyword=ambush>Cselvetés</keyword>: {damage} pont sebzést okoz a következő ellenségnek, amit az ellenfeled kijátszik a sorára.
@@ -644,7 +644,7 @@
 152106_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): Sebez egy ellenséges egységet a sebzett ellenséges egységek számának kétszeresével.
 152107_fluff;A valódi neve Astrid Lyttneyd Ásgeirrfinnbjornsdottir, de ezt nem szokták erőltetni.
 152107_name;Coral
-152107_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Húzol egy kártyát, majd <keyword=discard>Eldobsz</keyword> egyet.\nAmikor <keyword=discard>Eldobsz</keyword> egy kártyát, {Damage} pont sebzést okoz egy véletlenszerű ellenséges egységnek.
+152107_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Húzol egy kártyát, majd <keyword=discard>Eldobsz</keyword> egyet.\nAmikor <keyword=discard>Eldobsz</keyword> egy kártyát, {Damage} pont sebzést okoz egy véletlenszerű ellenséges egységnek.
 152109_fluff;Csupán meg kell említeni a hajó nevét a nilfgaardiaknak, és egyből tele lesz a gatyájuk tőle.
 152109_name;A Tenger Vadkanja
 152109_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {damage} pont sebzést okoz minden sérült ellenséges egységnek, majd {damage} pont sebzést okoz minden ellenséges egységnek.
@@ -656,7 +656,7 @@
 152202_tooltip;{Damage+B.P.BB_Raid} pont sebzést okoz egy egységnek.\n<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: Megsemmisíti az egységet.
 152203_fluff;Amikor a parancs azt mondja, „élve, vagy halva,” a legtöbb fejvadász csak megölne. Én nem. Elkapnálak, majd lógnál. És csiklandoznám a talpadat a maradék időben.
 152203_name;Djenge Frett
-152203_tooltip;<keyword=deploy>Lehelyezés</keyword>, <keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: <keyword=lock>Zárol</keyword> egy ellenséges egységet.
+152203_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}): <keyword=lock>Zárol</keyword> egy ellenséges egységet.
 152204_fluff;Összegyűjtöttem az összes jarlt egy helyre. Most te következel.
 152204_name;Donar an Hindar
 152204_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: {Damage2} pont sebzést okoz egy ellenséges egységnek.
@@ -677,7 +677,7 @@
 152209_tooltip;Ha ez az egység a temetődbe kerül a forduló során, <keyword=summon>Idézd</keyword> a <keyword=melee>Közelharci</keyword> sorodra, majd tedd <keyword=doomed>Kárhozottá</keyword>!
 152210_fluff;„Idomítani”? Nos, a skelligeiek lehet, hogy képeznek ki medvéket, de ez a példány nem úgy néz ki, mint amelyiket meg lehetne szelídíteni.
 152210_name;Kegyetlen medve
-152210_tooltip;<keyword=Deploy>Lehelyezés</keyword>: {Charges2} <keyword=charge>Töltetet</keyword> kap minden, a temetődben lévő <b>Kegyetlen medve</b> lap után.\n<keyword=zeal>Hév</keyword>, <keyword=order>Parancs</keyword>: {bleed} <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.
+152210_tooltip;<keyword=Deploy>Lehelyezés</keyword>: {Charges2} <keyword=charge>Töltetet</keyword> kap minden, a temetődben lévő <b>Kegyetlen medve</b> lap után.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {bleed} <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.
 152211_fluff;Hullj térdre, és esdekelj Modron Freyanak megbocsátásárt!
 152211_name;Sigrdrifa szertartása
 152211_tooltip;<keyword=summon>Megidéz</keyword> egy nem Semleges egységet a temetődből a szövetséges sorodra, majd <keyword=doomed>Kárhozottá</keyword> teszi.
@@ -686,7 +686,7 @@
 152213_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát az utolsó nem Semleges egységed alaperejével, amely ebben a fordulóban került a temetődbe.
 152214_fluff;Az Istenek szóltak: áldozatot követelnek.
 152214_name;Udalryk an Brokvar
-152214_tooltip;<keyword=deploy>Lehelyezés</keyword>, <keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: <keyword=zeal>Hévet</keyword> kap.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek. <keyword=charge>Töltet</keyword>: {Charges}.
+152214_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}): <keyword=zeal>Hévet</keyword> kap.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek. <keyword=charge>Töltet</keyword>: {Charges}.
 152301_fluff;Az egy kétkezes fejsze lenne? Úgy látszik, ezt senki nem mondta neki.
 152301_name;Svalblod pusztító
 152301_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: <keyword=bleeding>Vérzést</keyword> is okoz az ellenségnek, {Bleed} körre.
@@ -707,13 +707,13 @@
 152306_tooltip;<keyword=Deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=Bloodthirst>Vérszomj</keyword> {Bloodthirst}: Helyette {damage2} pont sebzést okoz neki.
 152307_fluff;A királynő védve van a legkeményebb, és legádázabb Pajzsleányokkal, amit Skellige valaha is látott.
 152307_name;Drummond királynői testőrség
-152307_tooltip;<keyword=order>Parancs</keyword>, <keyword=berserk>Dühöngő</keyword> {Berserk}: <keyword=spawn>Teremt</keyword> egy alap másolatot magából és <keyword=summon>Megidézi</keyword> a saját sorába.
+152307_tooltip;<keyword=order>Parancs</keyword> (<keyword=berserk>Dühöngő</keyword> {Berserk}): <keyword=spawn>Teremt</keyword> egy alap másolatot magából és <keyword=summon>Megidézi</keyword> erre a sorra.
 152308_fluff;A Heymaey klán tettei a történelem részei lesznek.
 152308_name;Heymaey költő
 152308_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Húzz egy lapot, majd <keyword=discard>Dobj el</keyword> egyet!
 152309_fluff;Megszökni előlük? Skellige vizein? Sok szerencsét!
 152309_name;Dimun könnyű hosszúhajó
-152309_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage} pont sebzést okoz magának és egy ellenséges egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+152309_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage} pont sebzést okoz magának és egy ellenséges egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 152310_fluff;Modron Freya, az Ősanya, a Szeretet Istennője, a szépségesség és a nagylelkűség.
 152310_name;Freya áldása
 152310_tooltip;Kijátszik egy bronz nem Semleges egységet a temetődből és <keyword=doomed>Kárhozottá</keyword> teszi.
@@ -794,7 +794,7 @@
 162202_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): Visszakever az ellenfeled temetőjéből egy kártyát a paklijába.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Visszakever a temetődből egy kártyát a paklidba.
 162203_fluff;Cynthia képességei halálosak lehetnek. Rövid pórázon kell őt tartani!
 162203_name;Cynthia
-162203_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=spawn>Teremt</keyword> Egy <b>Az őrző</b> kártyát, és az ellenfél paklijának tetejére teszi.
+162203_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=spawn>Teremt</keyword> Egy <b>Az őrző</b> kártyát az ellenfél paklijának tetejére.
 162204_fluff;Ezek nem egy „Excellenciás,” kezei, hanem egy földművesé. Szóval beszéljünk, mint paraszt a paraszttal!
 162204_name;Peter Saar Gwynleve
 162204_tooltip;<keyword=deploy>Lehelyezés</keyword>: Alaphelyzetbe állít egy egységet.
@@ -809,7 +809,7 @@
 162207_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Megsemmisít egy <keyword=lock>Zárolt</keyword> ellenséges egységet.
 162208_fluff;Lethónak van egy terve… mi baj lehet?
 162208_name;Auckes
-162208_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet.\nHa <b>Serrit</b> a kezedben van, <keyword=lock>Zárolja</keyword> azon egység összes másolatát az ellenfeled térfelén.
+162208_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet. Ha <b>Serrit</b> a kezedben van, helyette <keyword=lock>Zárolja</keyword> azon egység összes másolatát az ellenfeled térfelén.
 162209_fluff;Tesszük, amit tennünk kell. Nem szégyenkezem miatta.
 162209_name;Serrit
 162209_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek. Ha <b>Auckes</b> a kezedben van, helyette {Damage2} pont sebzést okoz az ellenséges egységnek.
@@ -848,7 +848,7 @@
 162307_tooltip;<keyword=deploy>Lehelyezés</keyword>: sebez minden <keyword=spying>Kémkedő</keyword> egységet a szemközti soron {Damage} ponttal.
 162308_fluff;A császár fanatikus testőrei a végsőkig harcolnak.
 162308_name;Császári kényszerítő
-162308_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek. <keyword=charge>Töltet</keyword>: {Charges}.\n<keyword=deathblow>Halálos csapás</keyword>: {Armor} <keyword=armor>Páncélt</keyword> kap.\nAmikor az ellenséges egység kap <keyword=spying>Kémkedést</keyword>, kapsz {Charges2} <keyword=charge>Töltetet</keyword>.
+162308_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.\n<keyword=deathblow>Halálos csapás</keyword>: {Armor} <keyword=armor>Páncélt</keyword> kap.\nAmikor az ellenséges egység kap <keyword=spying>Kémkedést</keyword>, kapsz {Charges2} <keyword=charge>Töltetet</keyword>.
 162309_fluff;A császár majd rendre tanítja Északot.
 162309_name;Nauzikaa őrmester
 162309_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha az ellenfeled már nyert egy fordulót ebben a játékban, <keyword=spawn>Teremt</keyword> és kijátszik egy <b>harci felkészültség</b> kártyát.
@@ -923,13 +923,13 @@
 200020_tooltip;Játssz ki egy bronz egységet a temetődből és tedd <keyword=doomed>Kárhozottá</keyword>!
 200022_fluff;Számtalan más valóság létezik a mi világunkon kívül. A megfelelő tudással, egyesek kapcsolatba léphetnek velük, és olyan létformákat idézhetnek meg, amit az ember felfogni sem képes.
 200022_name;Idéző kör
-200022_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Nézd át a paklidban lévő egységeket fentről lefelé, majd válassz egy egységet a paklidból, és állítsd a Számlálót azon egység ellátási költségére!\nA köröd vége előtt távolíts el egy számlátót minden szomszédos egység után!\nAmikor a Számláló eléri a {Counter} értéket, <keyword=summon>Megidézi</keyword> a választott egységet a paklidból erre a sorra, és megsemmisíti magát.
+200022_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Nézd át a paklidban lévő egységeket fentről lefelé, majd válassz egy egységet a paklidból, és állítsd a Számlálót azon egység ellátási költségére!\nA köröd vége előtt távolíts el egy számlátót minden szomszédos egység után! Amikor a Számláló eléri a {Counter} értéket, <keyword=summon>Megidézi</keyword> a választott egységet a paklidból erre a sorra, és megsemmisíti magát.
 200023_fluff;„Ha az anyag szemmel érintkezik, öblítsd ki azonnal hideg vízzel, majd kezdd el írni a végrendeletedet!”
 200023_name;Arakász méreg
-200023_tooltip;{Damage} pont sebzést okoz egy egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: {Damage} pont sebzést okoz a szomszédos egységeknek.
+200023_tooltip;{Damage} pont sebzést okoz egy egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: Még {Damage} pont sebzést is okoz a szomszédos egységeknek.
 200026_fluff;Évszázadokon keresztül, Avallac'h próbálta újraalkotni az Ősi Vér génállományát egészen a kezdetekig. Mégis, az elf gyerekek, akiket nevelt, csak szikrák voltak Lara lángjához képest.
 200026_name;Vad Hajsza navigátor
-200026_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít egy szövetséges egységet annak a szemközti során lévő <keyword=frost>Fagy</keyword> hatóerejével.\n<keyword=dominance>Dominancia</keyword>: Helyette egy szövetséges egységet erősít a <keyword=frost>Fagy</keyword> teljes hatóidejével.
+200026_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít egy szövetséges egységet annak a szemközti során lévő <keyword=frost>Fagy</keyword> hatóerejével.\n<keyword=dominance>Dominancia</keyword>: Helyette egy szövetséges egységet erősít az ellenfél oldalán lévő <keyword=frost>Fagy</keyword> teljes hatóidejével.
 200028_fluff;Vért Svalblodért! koponyákat a trónjához!
 200028_name;Vabjorn
 200028_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): Játssz ki egy Rajtaütés kártyát a paklidból!
@@ -968,7 +968,7 @@
 200042_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=vitality>Vitalitást</keyword> kap egy szövetséges egység <keyword=armor>Páncél</keyword> értékével azonos mértékben.\n<keyword=barricade>Barikád</keyword>: Helyette erősíti magát ezzel a pontértékkel.
 200043_fluff;Egykoron a Tordarroch klán büszke jarlja, mára egy motyogós őrült.
 200043_name;Harald Houndsnout
-200043_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> {MaxTargets} <b>Harald cimborája</b> kártyát és <keyword=summon>Megidézi</keyword> őket a másik szövetséges sorodba.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy szövetséges egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+200043_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> {MaxTargets} <b>Harald cimborája</b> kártyát és <keyword=summon>Megidézi</keyword> őket a másik sorodba.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy szövetséges egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 200044_fluff;Tudom, hogy a császár védi minden területét, de a helyőrség ebben a letarolt pusztaságban olyan, mint Sírbanyán az erényöv.
 200044_name;Magne hadosztály
 200044_tooltip;<keyword=deploy>Lehelyezés</keyword>: Játssz ki egy Taktika kártyát a kezedből, majd húzz egy kártyát!
@@ -989,10 +989,10 @@
 200052_tooltip;<keyword=deathwish>Halálvágy</keyword>: Az ellenfeled <keyword=summon>Megidézi</keyword> a legerősebb egységét a paklijából a szemközti sorra.
 200053_fluff;Az aprócska figura pulzálva és vibrálva, villámgyorsan növekedett, úgy változtatta szerkezetét és formáját, mintha csak a padlón végigkúszó füstgomolyag volna. A kristályokból áradó fény keresztülhatolt a füstön; mozgás és szilárduló matéria sejlett fel a fénysugarakban. Egy perc, és a mágikus kör centrumában emberalak jelent meg hirtelen.
 200053_name;Varázstárgy tömörítés
-200053_tooltip;Alaphelyzetbe állítja egy egység erejét, majd <keyword=lock>Zárolja</keyword> azt.
+200053_tooltip;<keyword=lock>Zárol</keyword> egy egységet és alaphelyzetbe állítja az erejét.
 200055_fluff;Senki, még a felsőbb vámpírok sem tudják pontosan, hogy milyen idős valójában a Láthatatlan Ős. Csak azt tudják, hogy soha, semmi körülmény között nem szegülnek ellen az akaratának.
 200055_name;Fehér Fagy
-200055_tooltip;<keyword=order>Parancs</keyword>: Átmozgat egy ellenséges egységet a másik sorba, majd <keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> a sorára, {counter} körre. <keyword=charge>Töltet</keyword>: {charge}\nAmikor Vad Hajsza egységet játszol ki, erősítsd meg azt {boost} ponttal, ha van <keyword=frost>Fagy</keyword> a szemközti sorban!\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200055_tooltip;<keyword=order>Parancs</keyword>: Átmozgat egy ellenséges egységet a másik sorba, majd <keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> a sorára, {counter} körre.\n<keyword=charge>Töltet</keyword>: {charge}\nAmikor Vad Hajsza egységet játszol ki, erősítsd meg azt {boost} ponttal, ha van <keyword=frost>Fagy</keyword> a szemközti sorban!\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200056_fluff;Hallottál már az „aguaráról”? Gondolj rá úgy, mint a farkasember ellentétére, egy szörny, ami fel tud venni emberi alakot.
 200056_name;Rókanő: Valódi forma
 200056_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=create>Létrehoz</keyword> és kijátszik egy speciális kártyát bármelyik frakcióból.
@@ -1037,7 +1037,7 @@
 200091_tooltip;<keyword=timer>Időzítő</keyword> {Counter} (<keyword=ranged>Távolsági</keyword>): Mindkét játékos húz egy egységet a paklijából, és annak erejét {Power}-es értékre állítja.
 200098_fluff;Nappal Vizima városának őrparancsnoka, éjszaka az elnyomottak védelmezője és irgalmat nem ismerő bosszúállója.
 200098_name;Vincent Meis
-200098_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Egy nem erősített ellenséges egység erejét {Power} értékre állítja.
+200098_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Egy nem erősített ellenséges egység erejét {Power} értékre állítja.
 200102_fluff;Az istenek beszélnek hozzám! Hallom a suttogásukat az árnyékokból!
 200102_name;Furdalók
 200102_tooltip;<keyword=deploy>Lehelyezés</keyword>: Cseréld meg ezen egység erejét egy sebzett egység erejével!
@@ -1079,7 +1079,7 @@
 200139_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, {Bleed} körre.
 200144_fluff;Ne érj hozzá! Ne nézz a szemébe! ami azt illeti… ne is menj a közelébe!
 200144_name;Tuirseach medvemester
-200144_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=vitality>Vitalitást</keyword> ad egy szövetséges Bestia egységnek, {Vitality} körre.\n<keyword=bonded>Kötelék</keyword>: Erősítsd azt helyette {Boost} ponttal!
+200144_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát az egyedi szövetséges Bestiák számával. \n<keyword=order>Parancs</keyword>: Sebzi magát a saját erősítésével, majd a sebzés mértékével azonos számú ellenséges egységet sebez {Damage} ponttal.
 200145_fluff;A tenger a miénk! Mindennel egyetemben, ami lebeg, úszik, vagy hajózik rajta!
 200145_name;Dimun kalóz
 200145_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Eltávolít {Armor} <keyword=armor>Páncélt</keyword> egy szövetséges egységről és erősíti magát ezzel az ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.\nAmikor Hajó kártyát játszol ki, csökkentsd {Cooldown2} ponttal a <keyword=cooldown>Lehiggadás</keyword> értékét!
@@ -1100,13 +1100,13 @@
 200159_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Mardroeme gomba</b> kártyát.\nAmikor Alkímia kártyát játszol ki, {boost} ponttal <keyword=heal>Gyógyít</keyword> egy véletlenszerű szövetséges egységet.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200160_fluff;A nilfgaardiak úgy nevezik 'im Tirth ys Muire, A Tenger Vadkanja. Ezzel szokták ijesztgetni a gyerekeiket.
 200160_name;Rohamozás
-200160_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charge}.\nAmikor egy ellenséges egység sebzést szerez, {Armor} <keyword=armor>Páncélt</keyword> ad minden Kalóz és Hajó kártyának a kezedben.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200160_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charge}\nAmikor egy ellenséges egység sebzést szerez, {Armor} <keyword=armor>Páncélt</keyword> ad minden Kalóz és Hajó kártyának a kezedben.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200161_fluff;Senki sem tudja, hogy honnan kapta ezt a becenevet, senki sem merte megkérdezni.
 200161_name;Vakmerő Szélroham
 200161_tooltip;<keyword=order>Parancs</keyword>: Szétoszt {Damage} pont sebzést véletlenszerűen az összes ellenséges egység között, figyelmen kívül hagyva azok <keyword=armor>Páncél</keyword> értékét.\n<keyword=charge>Töltet</keyword>: {charge}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200162_fluff;Nem hívnak türelmesnek. Arra figyelj, hogy ne hívjanak fejetlennek!
 200162_name;Bebörtönzés
-200162_tooltip;<keyword=order>Parancs</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet és {damage} pont sebzést okoz neki. <keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200162_tooltip;<keyword=order>Parancs</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet és {damage} pont sebzést okoz neki.\n<keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200163_fluff;A nyár napsugara, miközben megcsillan a nyugodt Alba vizén, ezt jelenti nekem Nilfgaard.
 200163_name;Birodalmi formáció
 200163_tooltip;<keyword=order>Parancs</keyword>: Erősít {MaxTargets} szövetséges egységet {Boost} ponttal és megcseréli a helyüket, majd ad {Armor} <keyword=armor>Páncélt</keyword> a Katona célpontoknak.\n<keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
@@ -1115,16 +1115,16 @@
 200164_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Morvran Voorhist</b>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200165_fluff;Ahhoz, hogy békében éljünk, előbb gyilkolnunk kell! Ez az emberi elnyomás kegyetlen befejezése.
 200165_name;Természet ajándéka
-200165_tooltip;<keyword=symbiosis>Szimbiózis</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=vitality>Vitalitást</keyword> biztosít egy szövetséges egységnek {Vitality} körre. <keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200165_tooltip;<keyword=symbiosis>Szimbiózis</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=vitality>Vitalitást</keyword> biztosít egy szövetséges egységnek {Vitality} körre.\n<keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200166_fluff;A driád királynő szeme olyan, mint az olvadt ezüst, a szíve pedig mint a kovácsolt acél.
 200166_name;Precíz csapás
-200166_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek. <keyword=charge>Töltet</keyword>: {Charges}\nMiután az összes <keyword=charge>Töltet</keyword> felhasználásra került, <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Brokiloni őrszemet</b>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200166_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}\nMiután az összes <keyword=charge>Töltet</keyword> felhasználásra került, <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Brokiloni őrszemet</b>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200167_fluff;Az a reszkető szamár? Azt sem tudod, hogy élő-e, vagy ki van tömve!
 200167_name;Gerilla taktika
-200167_tooltip;<keyword=order>Parancs</keyword>: Átmozgat egy egységet a másik sorra. Ha az egy ellenség, {Damage} pont sebzést okoz neki. Ha az egy szövetséges, {Boost} ponttal erősíti azt. <keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200167_tooltip;<keyword=order>Parancs</keyword>: Átmozgat egy egységet a másik sorra. Ha az egy ellenség, {Damage} pont sebzést okoz neki. Ha az egy szövetséges, {Boost} ponttal erősíti azt.\n<keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200168_fluff;Nincs szükség tanácsadókra, meg az ő terveikre. A bizalmam a katonáim pengéiben van.
 200168_name;Inspirált hév
-200168_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősít egy nem Semleges egységet, majd <keyword=zeal>Hévet</keyword> ad neki. <keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+200168_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősít egy nem Semleges egységet, majd <keyword=zeal>Hévet</keyword> ad neki.\n<keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 200170_fluff;Henselt király nem úgy nézett ki, mint egy tolvaj, de minden tisztelettel, valójában az volt.
 200170_name;Mozgósítás
 200170_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy alap másolatot egy szövetséges bronz Katona kártyáról és {boost} ponttal erősíti mindkét egységet.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
@@ -1172,7 +1172,7 @@
 200233_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek minden szomszédos Bestia után.
 200234_fluff;Háborús veterán vagyok! Meg tudnál szánni egy koronával?
 200234_name;Szegény nyamvadt gyalogság
-200234_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Nyamvadt bal szárny</b> és egy <b>Nyamvadt jobb szárny</b> kártyát az egység két oldalára.\n<keyword=bonded>Kötelék</keyword>: {Boost} ponttal erősíti magát.
+200234_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Nyamvadt bal szárny</b> és egy <b>Nyamvadt jobb szárny</b> kártyát az egység két oldalára.\n<keyword=bonded>Kötelék</keyword>:Ezen felül {Boost} ponttal erősíti magát.
 200235_fluff;Menj, és tanítsd meg a nagymamádat tojást szopni!
 200235_name;Lambert: Kardmester
 200235_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzés okoz egy ellenséges egységnek és annak minden példányának.
@@ -1181,7 +1181,7 @@
 200236_tooltip;<keyword=melee>Közelharci</keyword>: A köröd végén erősíti magát 1 ponttal.
 200237_fluff;A szörnyek megölése nem olyan dolog, amit félvállról lehet venni. Cirinek ezt meg kell értenie, ha egy lesz közülünk!
 200237_name;Vesemir: Mentor
-200237_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősít minden általad irányított vajákot.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Erősíti a kezedben és a paklidban lévő vajákokat is.
+200237_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősít minden általad irányított vajákot.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Erősíti a kezedben és a paklidban lévő összes vajákokat is.
 200293_fluff;„Jegyezd meg, amit mondok! Ha nem kelsz fel a hátsódról, jönnek az emberek, és ellopják a némbereinket!”
 200293_name;Törp agitátor
 200293_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Armor} <keyword=armor>Páncélt</keyword> ad {MaxTargets} Törpnek a kezedben.\nAmikor kijátszol egy Törpöt, {Armor2} <keyword=armor>Páncélt</keyword> ad neki.
@@ -1229,10 +1229,10 @@
 200529_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti magát.\nAmikor Katonát játszol ki, <keyword=summon>Megidézi</keyword> ezt azt egységet a temetődből egy véletlenszerű sorodra.
 200530_fluff;Ennek a sörnek biztos zöldnek kell lennie…?
 200530_name;Romlott sör
-200530_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.
+200530_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.
 200532_fluff;Boros, a legendás Fuchs klán alapítója meghalt, miután túlzásba vitte az ivászatot. Elájult, miközben elérte az arany gyűrűjét, ami beleesett egy patakba.
 200532_name;Ősök söre
-200532_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy egységedet.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+200532_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy egységedet.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 200534_fluff;Az elfek és a hagymaleves kedvelője.
 200534_name;Vergeni trollné
 200534_tooltip;<keyword=melee>Közelharci</keyword>: Amikor egy egység megsemmisül a köröd alatt, {boost} ponttal erősíti magát.
@@ -1292,7 +1292,7 @@
 201595_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet és <keyword=shield>Pajzsot</keyword> ad neki.\n<keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 201597_fluff;Eist azért jött Cintrába, hogy segítse Crach an Craite-et megnyerni Pavetta hercegnő kezét, helyette Eist megnyerte magának a királynő szívét.
 201597_name;A tenger dühe
-201597_tooltip;<keyword=order>Parancs</keyword>: <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword> az ellenség sorára, {Counter} körre, valamint egy <b>Fülrepesztő szirént</b> a szemközti sorra. <keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+201597_tooltip;<keyword=order>Parancs</keyword>: <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword> az ellenség sorára, {Counter} körre, valamint egy <b>Fülrepesztő szirént</b> a szemközti sorra.\n<keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 201598_fluff;Néha a legegyszerűbb tárgy rejti magában a legnagyobb hatalmat.
 201598_name;Csonttalizmán
 201598_tooltip;Erősít minden szövetséges egységet {Boost} ponttal.
@@ -1304,7 +1304,7 @@
 201600_tooltip;<keyword=immune>Immunitás</keyword>.
 201601_fluff;A legjobb, ha nem kerülsz Yennefer útjába. Főleg akkor, ha siet.
 201601_name;Yennefer idézése
-201601_tooltip;Helyezz egy ellenséges egységet a paklid tetejére!
+201601_tooltip;Mozgass egy ellenséges egységet a paklid tetejére!
 201603_fluff;Miért visel ezt a szerzetes szegecselt kesztyűket…?
 201603_name;Letho: Királygyilkos
 201603_tooltip;<keyword=deploy>Lehelyezés</keyword>: Átalakul egy csatatéren lévő egységgé anélkül, hogy megváltoztatná saját erejét.
@@ -1370,7 +1370,7 @@
 201628_tooltip;{Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Kaedweni visszatérőt</b> és <keyword=summon>Megidézi</keyword> azt egy véletlenszerű sorodra.
 201630_fluff;Sabrina átka senkit sem kímél, még a saját kolléganőit sem.
 201630_name;Átkozott varázslónő
-201630_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Megsemmisíti egy egység <keyword=shield>Pajzsát</keyword>, majd erősíti magát {Boost} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+201630_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Eltávolítja egy egység <keyword=shield>Pajzsát</keyword>, majd erősíti magát {Boost} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 201631_fluff;Az emberek megvetik a Váltányokat. A kivégzés nem elég kielégítő számukra, ezért ha elkapnak egyet, azt kikötözik egy cölöphöz, jól befedik sárral, majd megsütik tűzön.
 201631_name;Váltány
 201631_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): Válassz egy egységet a kezedből, majd erősítd azon kezedben lévő egységek számával, melyeknek azonos az elsődleges kategóriájuk.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Erősíti magát {Boost} ponttal minden, a kezedben lévő egyedi elsődleges kategóriájú egységed után.
@@ -1403,7 +1403,7 @@
 201644_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal <keyword=heal>Gyógyít</keyword> egy szövetséges egységet.\n<keyword=charge>Töltet</keyword>: {Charges}.\n{Charges2} <keyword=charge>Töltetet</keyword> kap, amikor egy mellette lévő egység sebzést szenved.
 201645_fluff;Ha ez leterít, nem kelsz fel többé.
 201645_name;Karócsapda
-201645_tooltip;<keyword=spring>Rugó</keyword>: Sebez minden egységet a soron {damage2} ponttal.\n<keyword=ambush>Cselvetés</keyword>, (<keyword=timer>Időzítő</keyword> {counter}): Sebez minden egységet azon a soron, ahol a legtöbb ellenséges egység található {damage} ponttal.
+201645_tooltip;<keyword=spring>Rugó</keyword>: Sebez minden egységet a soron {damage2} ponttal.\n<keyword=ambush>Cselvetés</keyword> (<keyword=timer>Időzítő</keyword> {counter}): Sebez minden egységet azon a soron, ahol a legtöbb ellenséges egység található {damage} ponttal.
 201646_fluff;Bármi is okozta ez a tébolyt, rémisztőnek kellett lennie!
 201646_name;Derran
 201646_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Sebzi magát hárommal, majd átrak a paklidból egy kártyát a temetődbe.
@@ -1442,7 +1442,7 @@
 201664_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Aktiválja a kör végi képességét {MaxTargets} szövetséges bronz Katonának.
 201676_fluff;Senki sem csempészett annyi ételt a Kék-hegység elfjeinek, mint Gale. Zsákszámra vitte nekik a répát, és legfőképpen a hagymát.
 201676_name;Pavko Gale
-201676_tooltip;<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage} pont sebzést okoz egy egységnek. <keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nHa csak nem Semleges egységeket irányítasz, helyette {Damage2} pont sebzést okoz egy egységnek.
+201676_tooltip;<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage} pont sebzést okoz egy egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nHa csak nem Semleges egységeket irányítasz, helyette {Damage2} pont sebzést okoz egy egységnek.
 201696_fluff;Vonszoljátok a seggeteket! Ez egy szántó csapda!
 201696_name;Paulie Dahlberg
 201696_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgass egy egységet a másik sorra!\n<keyword=order>Parancs</keyword>: Adj egy szövetséges egységnek 2 <keyword=armor>Páncélt</keyword>!
@@ -1499,7 +1499,7 @@
 201734_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisít egy ellenséges műalkotást.
 201735_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
 201735_name;Shupe: Vadász
-201735_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisít egy véletlenszerű ellenséget.
+201735_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisít egy véletlenszerű ellenséges egységet.
 201736_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
 201736_name;Shupe: Vadász
 201736_tooltip;<keyword=deploy>Lehelyezés</keyword>: Egy véletlenszerű hatást <keyword=spawn>Teremt</keyword> egy ellenséges sorra, {counter} körre.
@@ -1523,7 +1523,7 @@
 201742_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.
 201743_fluff;A gyerekei örökölték a szépségét.
 201743_name;Arakász falka
-201743_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> egy sorodra. <keyword=charge>Töltet</keyword>: {Charges}.\nAmikor kijátszol egy Szerves kártyát, <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> egy véletlenszerű sorodra.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját. 
+201743_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> egy sorodra.\n<keyword=charge>Töltet</keyword>: {Charges}.\nAmikor kijátszol egy Szerves kártyát, <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> egy véletlenszerű sorodra.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját. 
 201744_fluff;A szél szárnyán jut el az egész kontinensre. Ahol feltűnik, őrület és métely üti fel a fejét.
 201744_name;Spórák
 201744_tooltip;Alaphelyzetbe állítja egy egység erejét.
@@ -1592,7 +1592,7 @@
 202098_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha van Sárkány a kezedben, <keyword=zeal>Hévet</keyword> kap.\n<keyword=order>Parancs</keyword>: Megsemmisít egy {Power}, vagy nagyobb erejű ellenséges egységet.
 202099_fluff;Csak nem az, aki Spalla Bitangjait vezeti? Az, akik az Ebek hercegének is neveznek?
 202099_name;Gascon
-202099_tooltip;Amikor a kézben, pakliban, vagy a csatatéren van és kijátszol egy második másolatot egy <keyword=bonded>Kötelék</keyword> képességű egységből a mérkőzés alatt, erősíti magát {Power} ponttal.
+202099_tooltip;Amíg a kézben, pakliban, vagy a csatatéren van és kijátszol egy második másolatot egy <keyword=bonded>Kötelék</keyword> képességű egységből a mérkőzés alatt, erősíti magát {Power} ponttal.
 202100_fluff;A fiúhoz nem illik a korona viselése. Nincs benne elegendő szellemiség, sem virtus. Én tudom, te is tudod… csak ő nem tudja.
 202100_name;Villem herceg
 202100_tooltip;<keyword=disloyal>Áruló</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Kijátszik egy véletlenszerű, arany kártyát a paklidból.
@@ -1637,7 +1637,7 @@
 202113_tooltip;<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy egységnek.\n<keyword=inspired>Inspirált</keyword>: Helyette {Damage2} pontot sebez.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 202114_fluff;Mi volt előbb, a tyúk, vagy a tojás? Ha figyelembe vesszük, hogy a talányban ez egy főnix, a kérdés már értelmét is vesztette.
 202114_name;Főnix fióka
-202114_tooltip;<keyword=doomed>Kárhozott</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Átváltozik, és <b>Főnix</b> lesz belőle.
+202114_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Átváltozik, és <b>Főnix</b> lesz belőle.
 202115_fluff;A király egyszer elküldött egy küldöttet Eldainhez… a határozott tanácsom ellenére. Másnap megtalálták a küldöttet, a szemeit kivájták, a fehér zászlójának a nyelét pedig ledugták a torkán.
 202115_name;Mesterlövész les
 202115_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Elf mesterlövészt</b> egy sorodra.\n<keyword=charge>Töltet</keyword>: {Charges}\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
@@ -1646,7 +1646,7 @@
 202116_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősít egy szövetséges egységet.\nHa ez aktiválja a szövetséges egység <keyword=grace>Kegyelem</keyword> képességét, frissíti a <keyword=order>Parancs</keyword> képességét és {Boost2} ponttal csökkenti az erősítés mértékét.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202117_fluff;A freskók a sírbolt falain lefestették Angren ingoványait és a bestiákat, amik bennük ólálkodtak. Két szó volt felírva a legnagyobb rémséghez: Gvaern Ichaer – a Véres Úrnő.
 202117_name;Ysgith gyümölcsei
-202117_tooltip;<keyword=order>Parancs</keyword>: Egy <b>Gernichora gyümölcsét</b> <keyword=spawn>Teremt</keyword> egy sorodra.\nA köröd kezdetén, állítsd alaphelyzetbe ezt a képességet, ha nem irányítasz Gyümölcsöt.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+202117_tooltip;<keyword=order>Parancs</keyword>: Egy <b>Gernichora gyümölcsét</b> <keyword=spawn>Teremt</keyword> egy sorodra.\nA köröd kezdetén, állítsd alaphelyzetbe ezt a képességet, ha nem irányítasz <b>Gernichora gyümölcsét</b>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202118_fluff;Az én hazámban, egy civilizált világban, a parancsnok vezeti az embereit. Ő nem rohamoz és ütlegel, mint egy veszett kopó.
 202118_name;Leigázás
 202118_tooltip;<keyword=order>Parancs</keyword>: <keyword=seize>Elfog</keyword> egy ellenséges egységet, melynek ereje {Power}, vagy kevesebb.\nEz az érték növekszik {Counter2} ponttal minden {Counter} Taktika kártya után, ami a kezdő paklidban található.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
@@ -1730,13 +1730,13 @@
 202147_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.
 202148_fluff;A királyom élvezi az életet... szereti az élvezeteket és a kényeztetést. De ezek egyike sem állja útját annak, hogy átkozottul jól vezesse a birodalmat.
 202148_name;Árukészlet
-202148_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Önkéntest</b> egy sorodra, majd csökkenti a <keyword=cooldown>Lehiggadását</keyword> a nem Semleges egységeinek ebben a sorban {Cooldown} ponttal.\n<keyword=charge>Töltet</keyword>: {Charge}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+202148_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Önkéntest</b> egy sorodra, majd csökkenti a <keyword=cooldown>Lehiggadását</keyword> az összes nem Semleges egységének ebben a sorban {Cooldown} ponttal.\n<keyword=charge>Töltet</keyword>: {Charge}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202149_fluff;Nem számít, hogy kúszik, csúszik, vagy mászik, én megeszem. Ami meg repül... Egyszer megettem egy papírsárkányt csak azért, mert lisztes volt.
 202149_name;Angoulême
 202149_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> és kijátszik egy műalkotást az ellenfeled kezdő paklijából. Ha az ellenfelednek nincs műalkotás a kezdő paklijában, helyette erősíti magát {Boost} ponttal.
 202150_fluff;Már majdnem fél évszázada annak, hogy utoljára orvostudománnyal foglalkoztam. Az évek nem kedveznek az emlékeknek... sem az ujjak ügyességének.
 202150_name;Corvói Vysogota
-202150_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Boost} ponttal erősíti egy egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}.\n{Charges2} <keyword=charge>Töltetet</keyword> kap, amikor valamelyik játékos kártyát játszik ki.
+202150_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Boost} ponttal erősíti egy egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}.\n{Charges2} <keyword=charge>Töltetet</keyword> kap, amikor valamelyik játékos kártyát játszik ki.
 202151_fluff;Távolról úgy néz ki, mint egy medve. Közelről meg, nos... egy nagyobb medvének néz ki.
 202151_name;Falibor
 202151_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: Megismétli a <keyword=deploy>Lehelyezés</keyword> képességét és csökkenti a sebzést {Damage2} ponttal.
@@ -1853,7 +1853,7 @@
 202188_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Dana Méadbh</b> lapot.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202189_fluff;A híveknek csak egy parancsolat hirdetett ki: Ölni.
 202189_name;Medve rituálé
-202189_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy szövetséges egységnek. <keyword=charge>Töltet</keyword>: {Charges}\nAmikor az összes <keyword=charge>Töltetet</keyword> felhasználtad, <keyword=spawn>Teremt</keyword> egy <b>Förtelmedvét</b> egy véletlenszerű sorodra.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+202189_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy szövetséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}\nAmikor az összes <keyword=charge>Töltetet</keyword> felhasználtad, <keyword=spawn>Teremt</keyword> egy <b>Förtelmedvét</b> egy véletlenszerű sorodra.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202190_fluff;Amikor a hold vörösbe burkolózik, zárd az ajtót és tedd ágyba a báránykáidat...
 202190_name;Bíbor átok
 202190_tooltip;<keyword=blood_moon>Vérholdat</keyword> <keyword=spawn>Teremt</keyword> az ellenség sorára {Counter} körre, majd <keyword=spawn>Teremt</keyword> {Counter2} <b>Ekimmarát</b> is a szemközti sorra.
@@ -1976,7 +1976,7 @@
 202231_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, {Bleed} körre.\n<keyword=bonded>Kötelék</keyword>: Helyette egy ellenséges egységnek <keyword=bleeding>Vérzést</keyword> okoz annak alaperejével megegyező mértékben.
 202233_fluff;Nem számít milyen könnyedén és halkan lépkedsz, hallani fog téged. Meg fog találni téged.
 202233_name;Nekurat
-202233_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek {Bleed} körre. <keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.\nAmikor egy Vámpírt játszol ki, csökkentsd ezen egység <keyword=cooldown>Lehiggadását</keyword> {Cooldown2} ponttal!
+202233_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek {Bleed} körre. <keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.\nAmikor egy Vámpírt játszol ki, csökkentsd ezen egység <keyword=cooldown>Lehiggadását</keyword> {Cooldown2} ponttal!
 202234_fluff;A vámpírnő előugrott a homályból, és embertelen sikoly tört elő belőle. A falról visszaverődő hang belehasított a vajákba, mint egy faltörő kos – megrepesztette a bordáit, kiszorította a levegőt a tüdejéből, és fájdalom futott át a gerincén.
 202234_name;Bruxa
 202234_tooltip;<keyword=thrive>Boldogulás</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek {Bleed} körre.
@@ -2036,7 +2036,7 @@
 202252_tooltip;<keyword=deploy>Lehelyezés</keyword>: Annyi <keyword=charge>Töltetet</keyword> kap, ahány erősített szövetséges egységed van.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.
 202253_fluff;Kukori hátradobta a fejét, üvöltött és morgott, rikácsolt és sivított, szűkölt és bégetett. Kevert minden hangot, legyen az ismert, vagy ismeretlen, házi, vagy vad, esetleg létező, vagy misztikus lény.
 202253_name;Kukori
-202253_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=purify>Tisztítja</keyword> a szomszédos egységeket.
+202253_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=purify>Tisztítja</keyword> a szomszédos egységeket.
 202254_fluff;Le a fejével! De lassan csináljátok, hogy mindenki láthassa. A halálával példát kell statuálni!
 202254_name;Attrei Windhalm
 202254_tooltip;<keyword=shield>Pajzs</keyword>\nA köröd végén, ha ennek az egységnek van <keyword=shield>Pajzsa</keyword>, {Boost} ponttal erősíti magát.\n<keyword=grace>Kegyelem</keyword> {Power}, <keyword=order>Parancs</keyword>: <keyword=shield>Pajzsot</keyword> kap.
@@ -2045,7 +2045,7 @@
 202255_tooltip;<keyword=create>Létrehoz</keyword> és kijátszik egy bronz, Északi Királyságok Mágust és <keyword=shield>Pajzsot</keyword> ad neki.
 202256_fluff;A valóság olyan szörnyen unalmas...
 202256_name;Cintrai körmágus
-202256_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek. <keyword=charge>Töltet</keyword>: {Charges}.\n{Charges2} <keyword=charge>Töltetet</keyword> kap, amikor Mágust vagy Varázslatot játszol ki.
+202256_tooltip;<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.\n<keyword=charge>Töltet</keyword>: {Charges}.\n{Charges2} <keyword=charge>Töltetet</keyword> kap, amikor Mágust vagy Varázslatot játszol ki.
 202257_fluff;A hölgyeket a Cintrai udvarban gyakran emlegetik a méltóságteljes eleganciájuk miatt, és a szintén lenyűgöző mágikus adottságaik miatt is.
 202257_name;Cintrai varázslónő
 202257_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=vitality>Vitalitást</keyword> biztosít egy szövetséges egységnek, {Restoration} körre.\n<keyword=bonded>Kötelék</keyword>: Ad helyette {Restoration2} körre <keyword=vitality>Vitalitást</keyword>.
@@ -2081,7 +2081,7 @@
 202267_tooltip;<keyword=harmony>Harmónia</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek, majd {Boost} ponttal erősít egy véletlenszerű egységet a kezedben.\n<keyword=deathblow>Halálos csapás</keyword>: Helyette egy választott egységet erősít a kezedben.
 202268_fluff;A driádok úgy bánnak a misztifikáló erővel, hogy az erdő fái bármilyen alakot fel tudnak venni, amilyet a driádok csak szeretnének. Szóval, miért is ne egy óriás vadkanét?
 202268_name;Ent vadkan
-202268_tooltip;<keyword=Deploy>Lehelyezés</keyword>: <keyword=zeal>Hévet</keyword> kap, ha driádot irányítasz.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Átmozog a <keyword=ranged>Távolsági</keyword> sorodra és <keyword=heal>Gyógyítja</keyword> magát.\n<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): Átmozog a <keyword=melee>Közelharci</keyword> sorodra és sebez egy ellenséges egységet {Damage} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
+202268_tooltip;<keyword=Deploy>Lehelyezés</keyword>: <keyword=zeal>Hévet</keyword> kap, ha Driádot irányítasz.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Átmozog a <keyword=ranged>Távolsági</keyword> sorodra és <keyword=heal>Gyógyítja</keyword> magát.\n<keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): Átmozog a <keyword=melee>Közelharci</keyword> sorodra és sebez egy ellenséges egységet {Damage} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 202269_fluff;Shh, shh... Evelienn va maeth, elaine blath (gyönyörű virág)...
 202269_name;Driádok ölelése
 202269_tooltip;<keyword=purify>Tisztít</keyword> egy szövetséges egységet és {Boost} ponttal erősíti.\nHa Driádot irányítasz, még <keyword=vitality>Vitalitást</keyword> is biztosít, {Vitality} körre.
@@ -2126,7 +2126,7 @@
 202282_tooltip;Amikor sebzést szenved egy másik, hatással nem rendelkező képesség által, helyette <keyword=bleeding>Vérzés</keyword> hatása alá kerül, a sebzés mértékének megfelelően.\n<keyword=order>Parancs</keyword>: Sebez egy egységet a magán lévő <keyword=bleeding>Vérzés</keyword> időtartamával, majd <keyword=purify>Tisztítja</keyword> magát. Ha az egy ellenséges egység volt, megsebzi magát is azzal az ponttal. Ha az egy szövetséges egység volt, erősíti magát is azzal az ponttal.
 202283_fluff;Olykor, még a druidák is hallgatnak Svalblod suttogására...
 202283_name;Romlott flaminika
-202283_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti magát minden temetődben lévő Bestia után.
+202283_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti magát minden temetődben lévő egyedi Bestia után.
 202284_fluff;A Svalblod papok kegyetlenkedése olyan ádáznak és kegyetlennek bizonyult, hogy – miután a kultusz összeomlott – elítélték, és kirakták őket a nyílt tengerre egy hosszúhajó fedélzetén, lapát és vitorla nélkül, hogy utat mutassanak nekik.
 202284_name;Svalblod pap
 202284_tooltip;A köröd végén, {Damage} pont sebzést okoz a jobbján lévő egységnek, majd {Boost} ponttal erősíti magát.
@@ -2141,7 +2141,7 @@
 202287_tooltip; {Damage+B.P.BB_Raid} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Förtelmedvét</b> és <keyword=summon>Megidézi</keyword> egy véletlenszerű sorodra.
 202288_fluff;Skelligén nincs helye gyilkosoknak és zsiványoknak! A bűnüket vérrel kell visszafizetniük!
 202288_name;Megbecstelenült kötekedő
-202288_tooltip;<keyword=deploy>Lehelyezés</keyword>, <keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: <keyword=lock>Zárolja</keyword> saját magát.\n<keyword=berserk>Dühöngő</keyword> {Berserk}: Megsemmisíti saját magát.
+202288_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}): <keyword=lock>Zárolja</keyword> saját magát.\n<keyword=berserk>Dühöngő</keyword> {Berserk}: Megsemmisíti saját magát.
 202289_fluff;Én mondom nektek, a medvék jobban félnek tőlünk, mint mi tőlük. Nos... a hétköznapi medvék, úgy értem.
 202289_name;Förtelmedve
 202289_tooltip;<keyword=doomed>Kárhozott</keyword>.
@@ -2150,7 +2150,7 @@
 202290_tooltip;<keyword=doomed>Kárhozott</keyword>.\nMinden köröd végén, {Damage} pont sebzést okoz az ellenfél nőstény medvéjének.\nA kör kezdetén, ha nem irányítasz nőstény medvét és nem passzoltál, <keyword=spawn>Teremt</keyword> és <keyword=summon>Megidéz</keyword> egyet a közelharci sorodra.\n<keyword=deathwish>Halálvágy</keyword>: Az ellenfeled húz egy kártyát.\nEzt az egységet nem lehet <keyword=lock>Zárolni</keyword>, mozgatni, és nem kaphat <keyword=immune>Immunitást</keyword> sem.
 202291_fluff;Valódi formája elől, Beauclair bestiájaként, még egy vaják is nyúlcipőt húz.
 202291_name;Dettlaff: felsőbb vámpír
-202291_tooltip;<keyword=deathwish>Halálvágy</keyword>: <keyword=summon>Megidézi</keyword> ezt az egységet a temetőből az azonos sorra.\nEzen egység képessége limitálva van {Counter} használatra és nem frissül, amikor elhagyja a csatateret.
+202291_tooltip;<keyword=deathwish>Halálvágy</keyword>: <keyword=summon>Megidézi</keyword> magát a temetődből az azonos sorra.\nEzen egység képessége limitálva van {Counter} használatra és nem frissül, amikor elhagyja a csatateret.
 202292_fluff;Szerinted vicces ennek a medvének az íze?
 202292_name;Svalblod bajnoka
 202292_tooltip;<keyword=order>Parancs</keyword>: Megsemmisít egy szövetséges egységet, majd <keyword=heal>Gyógyítja</keyword> magát.
@@ -2219,7 +2219,7 @@
 202313_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\nNöveli a <keyword=profit>Hasznot</keyword> eggyel minden szövetséges <b>Ravasz csábító</b> után.\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: <keyword=spawn>Teremt</keyword> egy <b>Ravasz csábítót</b> erre a sorra.
 202314_fluff;Ezt a családomért teszem, mindig a családomért!
 202314_name;Mellékutcai vegyész
-202314_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=poison>Megmérgez</keyword> egy szövetséges egységet és {Boost} ponttal erősíti.
+202314_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=poison>Megmérgez</keyword> egy szövetséges egységet és {Boost} ponttal erősíti.
 202315_fluff;Mielőtt Kalkstein elhagyta volna ezt a világot, hátrahagyott pár kevésbé hízelgő kifejezést a mi kegyes királyunkról...
 202315_name;Adalbertus Kalkstein
 202315_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: <keyword=purify>Tisztít</keyword> egy egységet.
@@ -2258,7 +2258,7 @@
 202327_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisít egy szövetséges egységet, majd növeli a saját erejét annak alaperejével.
 202328_fluff;A címek és a csecsebecsék nem érdekelnek. A hatalomra vágyom, és csak is arra.
 202328_name;Feketén
-202328_tooltip;<keyword=order>Parancs</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz. <keyword=charge>Töltet</keyword>: {Charges}.\nAz <keyword=tribute>Elismerés</keyword> költsége {Tribute} <keyword=coin>Érmével</keyword> kevesebb.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+202328_tooltip;<keyword=order>Parancs</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.\n<keyword=charge>Töltet</keyword>: {Charges}.\nAz <keyword=tribute>Elismerés</keyword> költsége {Tribute} <keyword=coin>Érmével</keyword> kevesebb.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202329_fluff;A Pontar mostanság több testet rejt, mint halat.
 202329_name;Mártózás a Pontar folyóban
 202329_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\n{Damage} pont sebzést okoz egy ellenséges egységnek.
@@ -2273,10 +2273,10 @@
 202332_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy véletlenszerű szövetséges egységnek. Ha nincs szövetséges egység, helyette magát sebzi {Damage2} ponttal.
 202333_fluff;Mióta megízlelte az emberi hús ízét, azóta nem is eszik mást.
 202333_name;Boris
-202333_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.
+202333_tooltip;A köröd elején, bárhol is legyen ez a kártya, véletlenszerűen változtatja a saját <keyword=fee>Tiszteletdíjját</keyword> egy másik értékre {Coins3} és {Coins4} között.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: Átmozgatja magát a másik sorodra, majd erősíti magát a <keyword=fee>Tiszteletdíj</keyword> árával. Ha van {Coins} <keyword=coin>Érméd</keyword>, még kapsz {Coins2} <keyword=coin>Érmét</keyword> is minden szövetséges egység után az adott soron.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 202334_fluff;Azért építették, hogy elszállítsa az ürüléket, de a pénzérméket is ugyanolyan jól szállítja.
 202334_name;Csatornafosztogatók
-202334_tooltip;<keyword=deploy>Lehelyezés</keyword>, <keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: <keyword=summon>Megidézi</keyword> ezen egység másolatait a paklidból erre a sorra.
+202334_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}): <keyword=summon>Megidézi</keyword> ezen egység minden másolatát a paklidból erre a sorra.
 202335_fluff;Eladnám az anyámat egy szippantásért. Kettőért még a torkát is elvágnám.
 202335_name;Szerencsétlen függő
 202335_tooltip;A köröd végén, ha ez az egység <keyword=poison>Mérgezett</keyword>, {Boost} ponttal erősödik.
@@ -2291,7 +2291,7 @@
 202338_tooltip;Amikor <keyword=coin>Érmét</keyword> kapsz, {Boost} ponttal erősíti magát.
 202339_fluff;Nagyobb gazdagság van Novigradban, mint az egész Skelligén – és az ehhez kapcsolódó szegény balekok száma.
 202339_name;Köpönyegforgató fosztogató
-202339_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.\n<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: Aktiválja a <keyword=deathblow>Halálos csapást</keyword> még akkor is, ha az ellenséges egység túlélte.
+202339_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.\n<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: Mindig aktiválja a <keyword=deathblow>Halálos csapást</keyword> képességét.
 202340_fluff;A patkányfogó és a latrinalapátoló között helyezkedik el az idei legkívánatosabb szakmák listáján.
 202340_name;Adószedő
 202340_tooltip;<keyword=ranged>Távolsági</keyword>: A köröd végén kapsz {Coins} <keyword=coin>Érmét</keyword>.
@@ -2315,7 +2315,7 @@
 202346_tooltip;<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy egységnek.\n<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: Helyette {Damage2} ponttal sebez egy ellenséges egységet.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 202347_fluff;Az Örök Tűz főpapja, az arénák rajongója, a lakomák nagyétkűje, és a kurvák fényezője.
 202347_name;Összejövetel
-202347_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Tűztestvér fanatikust</b> egy sorodra és {Coins} <keyword=coin>Érmét</keyword> ad. <keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+202347_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Tűztestvér fanatikust</b> egy sorodra és {Coins} <keyword=coin>Érmét</keyword> ad.\n<keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202348_fluff;Légy a saját bírád és uralkodód, mert egyedül te vagy felelős a tetteidért!
 202348_name;Lebioda prófétája
 202348_tooltip;Amikor kijátszol egy egységet Lebioda prófétája mellé, <keyword=shield>Pajzsot</keyword> ad a kijátszott egységnek.
@@ -2330,7 +2330,7 @@
 202351_tooltip;<keyword=insanity>Elmebaj</keyword>.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
 202352_fluff;Lélegezni is alig tudok! Nem égethetnék meg ezeket a hitványakat valahol máshol?
 202352_name;Kárhozat
-202352_tooltip;Megsemmisít egy szövetséges egységet, majd <keyword=create>Létrehoz</keyword> és kijátszik egy {Provision} ellátási költségű Tűztestvér egységet. Növeli az ellátási költséget a megsemmisített egység erejével.
+202352_tooltip;Megsemmisít egy szövetséges egységet, majd <keyword=create>Létrehoz</keyword> és kijátszik egy {Provision} ellátási költségű Tűztestvér egységet. Növeli az ellátási értéket a megsemmisített egység erejével.
 202353_fluff;Novigrad, ahol a lehetetlen lehetővé válik. Például a szakértő kínzóból tiszteletes lesz.
 202353_name;Nathaniel Pastodi
 202353_tooltip;Amikor Nathaniel erősítést szerez, <keyword=bleeding>Vérzést</keyword> okoz egy véletlenszerű ellenséges egységnek, {Bleed} körre.
@@ -2426,7 +2426,7 @@
 202383_tooltip;<keyword=deploy>Lehelyezés</keyword>: {B.P.BB_GordSpecialsPlayed+Boost} ponttal erősíti magát.\n{counter} értékkel növeli az erősítést minden speciális kártya után, amit kijátszottál ebben a játékban. Az erősítés nem lehet több, mint {boost2}.
 202384_fluff;„Mindkét kar hátra van kötve,” emlékezz, ezt mondtad! Így szabadon seggbe tudsz rúgni, ha a kedved úgy tartja.
 202384_name;Novigradi igazságszolgáltatás
-202384_tooltip;Játssz ki egy bronz Törpöt, vagy Koronaszakító egységet a paklidból!\nHa már irányítasz Törpöt, vagy Koronaszakítót, még <keyword=spawn>Teremt</keyword> egy <b>Trancsír testőre</b> egységet is a szövetséges <keyword=melee>Közelharci</keyword> sorodra.
+202384_tooltip;Játssz ki egy bronz Törpöt, vagy Koronaszakító egységet a paklidból!\nHa már irányítasz Törpöt, vagy Koronaszakítót, még <keyword=spawn>Teremt</keyword> egy <b>Trancsír testőre</b> egységet is a <keyword=melee>Közelharci</keyword> sorodra.
 202385_fluff;Itt is van! A lovagom disznó páncélban.
 202385_name;Sir Skewertooth
 202385_tooltip;<keyword=intimidate>Fenyegetés</keyword>: {Intimidate}.\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: <keyword=immune>Immunitást</keyword> kap.
@@ -2534,7 +2534,7 @@
 202421_tooltip;<keyword=formation>Formáció</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.\n<keyword=inspired>Inspirált</keyword>: {Armor} <keyword=armor>Páncélt</keyword> ad neki.
 202422_fluff;Az utolsó dolog, amit hallani fogsz, az az íj húrjának a pendülése, amint elengedik.
 202422_name;Redániai íjász
-202422_tooltip;<keyword=zeal>Hév</keyword>, <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek. \n<keyword=charge>Töltet</keyword>: {Charges}.\n<keyword=barricade>Barikád</keyword>: A köröd végén {Charges2} <keyword=charge>Töltetet</keyword> kap.
+202422_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek. \n<keyword=charge>Töltet</keyword>: {Charges}.\n<keyword=barricade>Barikád</keyword>: A köröd végén {Charges2} <keyword=charge>Töltetet</keyword> kap.
 202425_fluff;Azar Javed specialitása a tűz elemének irányítása. A varázsló nem csak ügyesen manipulálja a tűz erejét, úgy is mondhatjuk, hogy a tűz a része lett az egész lényének.
 202425_name;Azar Javed
 202425_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Szkarabeuszt</b> erre a sorra.\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: Helyette {Counter} <b>Szkarabeuszt</b> <keyword=spawn>Teremt</keyword> erre a sorra.
@@ -2564,7 +2564,7 @@
 202433_tooltip;Amikor <keyword=poison>Mérgezett</keyword>, <keyword=spawn>Teremt</keyword> egy alap másolatot magáról erre a sorra.\nSzámláló: {Counter}
 202435_fluff;Sok rovar él matriarchátusban. Ráadásul elég kegyetlenek.
 202435_name;Kikimór királynő
-202435_tooltip;<keyword=thrive>Boldogulás</keyword>.\nAmikor ezen egység <keyword=thrive>Boldogulás</keyword> képessége aktiválódik, {Boost} ponttal erősít minden szövetséges Rovar egységet ebben a sorban.
+202435_tooltip;<keyword=thrive>Boldogulás</keyword>.\nAmikor ezen egység <keyword=thrive>Boldogulás</keyword> képessége aktiválódik, {Boost} ponttal erősít minden szövetséges Rovar egységet ebben a sorban.\nAmikor kijátszol egy Szerves kártyát, aktiválja a saját <keyword=thrive>Boldogulás</keyword> képességét.
 202436_fluff;A trolloknak nagyon kicsi agyuk, és hatalmas gyomruk van. Ez egy nagyon veszélyes kombináció.
 202436_name;Barlangi troll
 202436_tooltip;<keyword=defender>Védelmező</keyword>.
@@ -2573,10 +2573,10 @@
 202437_tooltip;<keyword=deploy>Lehelyezés</keyword>: Annyi <keyword=armor>Páncélt</keyword> kap, ahány kártya van a kezedben.\nHa ennek az egységnek nincs <keyword=armor>Páncélja</keyword>, elpusztítja magát.
 202438_fluff;Az endriág királynőt könnyű felismerni a potrohán található különleges színekről. Vagy még egyszerűbb a hatalmas méretéről.
 202438_name;Endriág királynő
-202438_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet és megkapja a <keyword=armor>Páncélját</keyword>.\n<keyword=barricade>Barikád</keyword>: A köröd végén {Damage} ponttal sebzi magát, majd <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> erre a sorra.
+202438_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet és annak ellátási költségével azonos mennyiségű páncélt kap.\n<keyword=barricade>Barikád</keyword>: A köröd végén {Damage} ponttal sebzi magát, majd <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> erre a sorra.
 202439_fluff;Úgy át tud szelni fél hüvelyk vastag fémet, mint ahogy a szabó vágja a selymet.
 202439_name;Páncélos arakász
-202439_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, melynek mértéke egyenlő annak alaperejével.
+202439_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha van másik kártya is ebben a sorban, <keyword=lock>Zárolja</keyword> magát.\n<keyword=timer>Időzítő</keyword> {Timer}: Ha ez a sor tele van, erősíti magát {Boost} ponttal.
 202440_fluff;Kövér... és vérszomjas.
 202440_name;Endriág lárva
 202440_tooltip;<keyword=thrive>Boldogulás</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy alap másolatot ebből az egységből és <keyword=summon>Megidézi</keyword> azt erre a sorra.
@@ -2636,7 +2636,7 @@
 202459_tooltip;<keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységek {Bleed+B.P.BB_Raid} körre, majd kijátszik egy véletlenszerű bronz Hajót a paklidból.
 202460_fluff;Csak egy kis lyuk kell ahhoz, hogy a legnagyobb hajó is elsüllyedjen.
 202460_name;Tengerek terrorja
-202460_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Elveszti az összes <keyword=armor>Páncélját</keyword> és ennek értékével sebez egy ellenséges egységet.\nAmikor kijátszol egy Kalózt, {Armor} <keyword=armor>Páncélt</keyword> kap.
+202460_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Elveszti az összes <keyword=armor>Páncélját</keyword> és ennek értékével sebez egy ellenséges egységet.\nAmikor kijátszol egy Kalózt, {Armor} <keyword=armor>Páncélt</keyword> kap.
 202461_fluff;Nem viheted szűk helyekre, de az biztos, hogy üldözheted vele a birodalmi flottát.
 202461_name;Páncélozott drakkar
 202461_tooltip;A köröd végén, ha a <b>Páncélozott drakkarnak</b> nincs <keyword=armor>Páncélja</keyword>, kap {Armor} <keyword=armor>Páncélt</keyword>.\n<keyword=exposed>Védtelen</keyword>: {Boost} ponttal erősíti magát.\n<keyword=Bloodthirst>Vérszomj</keyword> {Bloodthirst}: Helyette {Boost2} ponttal erősíti magát.
@@ -2660,7 +2660,7 @@
 202468_tooltip;<keyword=harmony>Harmónia</keyword>: {Harmony}.
 202469_fluff;Munro arról álmodott, hogy épít egy gőz-víz hajtású műhelyt. De végül kidobóként végezte Vizima legrosszabb kocsmájában.
 202469_name;Munro Bruys
-202469_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Átváltoztat {Maxtargets} szövetséges <b>Lármás törpöt</b>, <b>Törp berzerkerré</b>.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\n<keyword=barricade>Barikád</keyword>: A <keyword=cooldown>Lehiggadást</keyword> {Cooldown2} körre állítja.
+202469_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Átváltoztat {Maxtargets} szövetséges <b>Lármás törpöt</b>, <b>Törp berzerkerré</b>.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\n<keyword=barricade>Barikád</keyword>: A <keyword=cooldown>Lehiggadást</keyword> {Cooldown2} körre állítja.
 202470_fluff;Egyszerű srác vagyok. Szeretek inni, enni, buja dalokat énekelni. Aztán amikor a buli kezd meghalni, levizelni a haldokló máglyát.
 202470_name;Figgis Merluzzo
 202470_tooltip;<keyword=defender>Védelmező</keyword>.\n<keyword=order>Parancs</keyword>: Átmozgatja magát a másik sorra.
@@ -2761,7 +2761,7 @@
 202511_name;Forró olaj
 202511_tooltip;{Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=purify>Tisztítja</keyword> a szomszédos egységeket.
 202512_fluff;Az idő nem egyenes vonalú, körforgásban van. A múltból a jövő válik, nagyapák ismétlik meg az unokáik hibáit.
-202512_name;Uroboros álarca
+202512_name;Uroborosz álarca
 202512_tooltip;<keyword=order>Parancs</keyword>: Húzz egy kártyát, majd <keyword=discard>Dobj el</keyword> egyet és <keyword=spawn>Teremts</keyword> {counter} <b>Varjút</b> a <keyword=melee>Közelharci</keyword> sorodra!
 202513_fluff;Az uralkodókat az árnyékában koronázzák meg. Az árulók az ágain lógnak.
 202513_name;Gedyneith árnyékában
@@ -2804,7 +2804,7 @@
 202526_tooltip;<keyword=doomed>Kárhozott</keyword>.\nSzcenárió: Előrehaladást érsz el, ha <keyword=deathwish>Halálvágy</keyword> képességű egységet játszol ki.\nPrológus: <keyword=spawn>Teremt</keyword> egy <b>Sivatagi kísértetet</b> erre a sorra.\n1. fejezet: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Bargeszt</b>.\n2. fejezet: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Éjlidércet</b>.
 202527_fluff;Néhányan azt állítják, ők a Vad Hajsza előőrsei. Mások, hogy ők a megtestesült bosszú. Abban azonban mindannyian egyetértenek, hogy a bargesztek nem kegyelmeznek az élőknek.
 202527_name;Bargeszt
-202527_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=order>Parancs</keyword>, <keyword=dominance>Dominancia</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.
+202527_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=order>Parancs</keyword> (<keyword=dominance>Dominancia</keyword>): <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.
 202529_fluff;Aggódsz, hogy szomjam fogsz halni a homokban? Nyugalom, nem fogod olyan sokáig bírni!
 202529_name;Sivatagi kísértet
 202529_tooltip;<keyword=order>Parancs</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\nAmikor <keyword=deathwish>Halálvágy</keyword> képességű egységet játszol ki, {boost} ponttal erősíti magát.
@@ -2915,7 +2915,7 @@
 202568_tooltip;<keyword=doomed>Kárhozott</keyword>.
 202569_fluff;Határozottan jobban szeretem kiásni a kincseket, mint eltemetni azokat.
 202569_name;Sivatag kincse
-202569_tooltip;<keyword=doomed>Kárhozott</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy véletlenszerű legendás egységet bármelyik frakcióból.
+202569_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy véletlenszerű legendás egységet bármelyik frakcióból.
 202570_fluff;Ignorált.
 202570_name;Yule szelleme
 202570_tooltip;Ignorált.
@@ -2963,7 +2963,7 @@
 202600_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=banish>Száműz</keyword> egy kártyát az ellenfeled temetőjéből.
 202601_fluff;Mind az istenek, mint a démonok egyaránt megnyugtathatóak egy bőséges áldozattal.
 202601_name;Áldozás
-202601_tooltip;Megsemmisít egy {Damage}, vagy kisebb erejű egységet, majd erősít egy szövetséges egységet a paklidban {Boost} ponttal.
+202601_tooltip;Megsemmisít egy {Damage}, vagy kisebb erejű egységet, majd erősít egy egységet a paklidban {Boost} ponttal.
 202602_fluff;A próféciái sosem tévedtek. Főleg azért, mert mindig valami rosszat jósolt, hogy történni fog.
 202602_name;Jósnő
 202602_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=doomed>Kárhozottá</keyword> tesz egy egységet.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=veil>Leplet</keyword> ad egy egységnek.
@@ -2987,7 +2987,7 @@
 202608_tooltip;A köröd végén, ha <keyword=frost>Fagy</keyword> hatása alatt áll mindkét ellenséges sor, <keyword=summon>Megidézi</keyword> ezt az egységet a paklidból a <keyword=ranged>Távolsági</keyword> sorodra.\n<keyword=devotion>Áhítat</keyword>: Miután mindkét játékos passzolt, erősíti magát minden, az ellenséges során megmaradt <keyword=frost>Fagy</keyword> ideje után {Boost} ponttal.
 202609_fluff;Ki a jó fiú? Nos, biztos nem ő.
 202609_name;A méhészet fantomja
-202609_tooltip;<keyword=veil>Lepel</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képesség nincs felhasználva, {boost} ponttal erősíti magát.
+202609_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képesség nincs felhasználva, {boost} ponttal erősíti magát.
 202610_fluff;Hóval festik meg az eget, a földet pedig tűzzel.
 202610_name;Vörös lovasság
 202610_tooltip;Válassz egyet:\n <keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> egy ellenséges sorra, {counter3} körre.\n<keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> egy ellenséges sorra, {counter} körre, majd újra kijátszik egy bronz, Vad Hajsza egységet.\n<keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> mindkét ellenséges sorra, {counter2} körre.
@@ -3023,7 +3023,7 @@
 202620_tooltip;<keyword=devotion>Áhítat</keyword>: <keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Sebez egy ellenséges egységet Skjordal alaperejével.
 202621_fluff;Hű a klánjához és az apjához - aki a jarl - a végsőkig.
 202621_name;Herkja Drummond
-202621_tooltip;<keyword=veil>Lepel</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Szétoszt {damage} pont sebzést véletlenszerűen a választott sorban lévő ellenséges egységek között.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képesség nincs felhasználva, {Damage2} ponttal sebez egy véletlenszerűen választott ellenséges egységet.
+202621_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Szétoszt {damage} pont sebzést véletlenszerűen a választott sorban lévő ellenséges egységek között.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képesség nincs felhasználva, {Damage2} ponttal sebez egy véletlenszerűen választott ellenséges egységet.
 202622_fluff;Testvér a testvér ellen, nővér a nővér ellen. Egy vér áztatja a földet.
 202622_name;Klánok háborúja
 202622_tooltip;{Damage+B.P.BB_Raid} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: Kijátszik egy {Cost}-es ellátási költségű Harcost a temetődből, és <keyword=doomed>Kárhozottá</keyword> teszi.\n<keyword=devotion>Áhítat</keyword>: Mindig aktiválja a <keyword=deathblow>Halálos csapás</keyword> képességét.
@@ -3032,7 +3032,7 @@
 202623_tooltip;<keyword=veil>Lepel</keyword>. <keyword=veteran>Veterán</keyword>.
 202624_fluff;Káposzta, komolyan? Ez a legrosszabb, amikor nincs semmi jó, amit fosztogathatnánk.
 202624_name;An Craite-i fosztogatók
-202624_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword>, <keyword=bloodthirst>Vérszomj</keyword> {bloodthirst}: <keyword=zeal>Hévet</keyword> kap.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.
+202624_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=bloodthirst>Vérszomj</keyword> {bloodthirst}): <keyword=zeal>Hévet</keyword> kap.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy egységnek.
 202625_fluff;Egy csinos özvegy, négy gyerek anyja, csodálatos szakács, és végül, de nem utolsó sorban, vad harcos.
 202625_name;Drummond falusi
 202625_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Bleed} <keyword=bleeding>Vérzést</keyword> okoz a jobb oldalán lévő egységnek, majd {Bleed2} <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek is.
@@ -3056,7 +3056,7 @@
 202633_tooltip;<keyword=echo>Visszhang</keyword>.\n{damage} pont sebzést okoz egy ellenséges egységnek, és {boost} ponttal erősít minden szövetséges Tűztestvér egységet.\n<keyword=deathblow>Halálos csapás</keyword>: Helyette minden szövetséges egységet erősít.
 202634_fluff;Bár de Wett gróf módfölött utálatos és arrogáns, legalább szereti a kockapókert.
 202634_name;Roderick de Wett
-202634_tooltip;<keyword=veil>Lepel</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=spawn>Teremt</keyword> egy <b>Lángoló Rózsa szolgáját</b> erre a sorra.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képességét nem használtad fel, kapsz {Coins} <keyword=coin>Érmét</keyword>.
+202634_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=spawn>Teremt</keyword> egy <b>Lángoló Rózsa szolgáját</b> erre a sorra.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képességét nem használtad fel, kapsz {Coins} <keyword=coin>Érmét</keyword>.
 202635_fluff;A Rend bukása nem volt számára olyan nehéz, mint másoknak. Továbbra is az áruk megszámolása és a készletek kezelése volt a dolga, csak ez most még könnyebbé vált. Legalább kevesebbet kell trükközni.
 202635_name;Von Herst hadnagy
 202635_tooltip;A köröd végén, ha Papot irányítasz, <keyword=spawn>Teremt</keyword> egy <b>Tűztestvér fanatikust</b> erre a sorra.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: Átváltoztatja a <b>Tűztestvér fanatikust</b> <b>Lángoló Rózsa szolgájává</b>.
@@ -3098,7 +3098,7 @@
 202647_tooltip;Amikor olyan egységet játszol ki, amelynek ereje kisebb, mint {Boost}, állítsd az erejét {Boost} pontra!\n<keyword=devotion>Áhítat</keyword>: {boost2} pontra növeli az erő értékét.
 202648_fluff;Mivel az apja sosem értékelte, és nem is bízott benne, így csak egy egyszerű döntés volt, hogy elárulja őt.
 202648_name;Egmund
-202648_tooltip;<keyword=veil>Lepel</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képességét nem használtad fel, {Boost} ponttal erősíti a jobb oldalán lévő egységet.
+202648_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képességét nem használtad fel, {Boost} ponttal erősíti a jobb oldalán lévő egységet.
 202649_fluff;Harcolj a tűz ellen tűzzel, harcolj az emberek ellen tűzzel, harcolj a nem emberek ellen tűzzel... gyakorlatilag az a legjobb, ha minden ellen tűzzel harcolsz!
 202649_name;Füstöld ki őket!
 202649_tooltip;<keyword=spawn>Teremt</keyword> {Counter} <b>Önkéntest</b> egy sorodra.\nHa irányítasz erősített egységet, erősítsd a <keyword=spawn>Teremtődött</keyword> <b>Önkénteseket</b> is {Boost} ponttal!
@@ -3137,13 +3137,13 @@
 202660_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ad egy ellenséges egységnek <keyword=spying>Kémkedést</keyword>.\n<keyword=devotion>Áhítat</keyword>: Helyette {MaxTargets} ellenséges egységnek ad <keyword=spying>Kémkedést</keyword>.
 202661_fluff;Ez az, ahogy kinézek, amit jól tudsz, Calanthe. Roegner király, amikor elmondja neked az esküjét, nem hagyott volna ki ilyen részletet a történetből.
 202661_name;Erlendwald Süne
-202661_tooltip;<keyword=veil>Lepel</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Átváltoztatja magát <b>Duny</b>-vá.\nA köröd végén {Boost} ponttal erősít egy véletlenszerű szövetséges egységet.
+202661_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): Átváltoztatja magát <b>Duny</b>-vá.\nA köröd végén {Boost} ponttal erősít egy véletlenszerű szövetséges egységet.
 202662_fluff;Az átok feloldása után Duny azt állította, hogy nem ismeri annak eredetét, vagy hogy ki volt a felelős. Hazudott, természetesen.
 202662_name;Duny
 202662_tooltip;<keyword=immune>Immunitás</keyword>.
 202663_fluff;Hogy kikkel mit csináltál? Őszinte leszek, már nem is emlékszem a részletekre.
 202663_name;Amnesztia
-202663_tooltip;<keyword=seize>Elfog</keyword> egy {Power}, vagy kisebb erejű ellenséget.\n<keyword=conspiracy>Konspiráció</keyword>: {Boost} ponttal erősíti azt.\n<keyword=devotion>Áhítat</keyword>: Mindig aktiválja a <keyword=conspiracy>Konspiráció</keyword> képességét.
+202663_tooltip;<keyword=seize>Elfog</keyword> egy {Power}, vagy kisebb erejű ellenséget.\n<keyword=conspiracy>Konspiráció</keyword>:Még {Boost} ponttal is erősíti azt.\n<keyword=devotion>Áhítat</keyword>: Mindig aktiválja a <keyword=conspiracy>Konspiráció</keyword> képességét.
 202664_fluff;A te fájdalmad az én örömöm.
 202664_name;Kínzásszakértő varázsló
 202664_tooltip;<keyword=veil>Lepel</keyword>. <keyword=assimilate>Hasonulás</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spying>Kémkedést</keyword> ad egy ellenséges egységnek.
@@ -3176,7 +3176,7 @@
 202674_tooltip;<keyword=echo>Visszhang</keyword>.\nVálassz egyet:\n{Boost} ponttal erősíti egy szövetséges egységedet és <keyword=veil>Leplet</keyword> ad neki.\n{Boost2} ponttal erősít egy szövetséges egységet.\n{Boost3} ponttal erősít egy szövetséges egységet, és {Vitality} <keyword=vitality>Vitalitást</keyword> biztosít neki.
 202675_fluff;Őt csak szaporodási célokra szánta, ám végül mégis egymásba szerettek.
 202675_name;Freixenet
-202675_tooltip;<keyword=zeal>Hév</keyword>, <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=spawn>Teremt</keyword> egy <b>Fiatal driádot</b> erre a sorra.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\n<keyword=devotion>Áhítat</keyword>: A köröd végén csökkenti a <keyword=cooldown>Lehiggadás</keyword> értékét a magán lévő <keyword=vitality>Vitalitás</keyword> értékével.
+202675_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=spawn>Teremt</keyword> egy <b>Fiatal driádot</b> erre a sorra.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\n<keyword=devotion>Áhítat</keyword>: A köröd végén csökkenti a <keyword=cooldown>Lehiggadás</keyword> értékét a magán lévő <keyword=vitality>Vitalitás</keyword> értékével.
 202676_fluff;Nem lő figyelmeztető lövést, mindig ölni akar. Nem kegyelmez, még egy kicsit sem.
 202676_name;Dunca
 202676_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\nA köröd végén, ha a <keyword=order>Parancs</keyword> képességét nem használtad, {Boost} ponttal erősít egy véletlenszerű nem Semleges egységet a kezedben.
@@ -3230,7 +3230,7 @@
 202776_tooltip;Amikor egy Varázslat kártyát játszol ki, <keyword=spawn>Teremt</keyword> egy azonos ellátási költségű véletlenszerű egységet erre a sorra.\nSzámláló: {Counter}.
 202778_fluff;Van más is az életben, mint a dal és a zene, valószínűleg...
 202778_name;Hóvirág
-202778_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Húzz {MaxTargets} kártyát, majd keverj vissza ugyanennyi kártyát a paklidba!\nAmikor húzol egy kártyát, {Boost} ponttal erősíti magát.
+202778_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Húzz {MaxTargets} kártyát, majd keverj vissza ugyanennyi kártyát a paklidba!\nAmikor húzol egy kártyát, {Boost} ponttal erősíti magát.
 202779_fluff;A gyerekek folyton ajándékokat kérned tőle. Nem tudja miért, de ez sokat segít neki abban, hogy alanyokat találjon a kísérleteihez.
 202779_name;Cosimo Malaspina
 202779_tooltip;<keyword=deploy>Lehelyezés</keyword>: Átváltoztatja a szomszédos egységeket egy véletlenszerű egységre, melynek eggyel nagyobb az ellátási költsége.
@@ -3239,7 +3239,7 @@
 202780_tooltip;Minden körödben az első alkalommal, amikor <keyword=spawn>Teremtesz</keyword> egy egységet az oldaladra, <keyword=spawn>Teremt</keyword> egy {power}-es erejű másolatot belőle erre a sorra, majd <keyword=doomed>Kárhozottá</keyword> teszi azt.
 202781_fluff;Geralt érezte a vér vasízét a szájában, kiáltott egy bűvigét, kinyújtotta előre a kezét, és az ujjaival megnyitotta a Quen jelet.
 202781_name;Geralt: Quen
-202781_tooltip;<keyword=shield>Pajzs</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Kijátszik egy Vaják kártyát a paklidból.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: <keyword=shield>Pajzsot</keyword> is ad neki.
+202781_tooltip;<keyword=shield>Pajzs</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Kijátszik egy Vajákot a paklidból.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}:Még <keyword=shield>Pajzsot</keyword> is ad neki.
 202782_fluff;Elpusztíthatjuk, amit megteremtettünk, de nem tudjuk meg nem teremtetté tenni.
 202782_name;Szelektív mutáció
 202782_tooltip;Húzz egy általad választott <keyword=adrenaline>Adrenalin</keyword> képességű kártyát, majd keverj vissza a kezedből egy kártyát a paklidba! <keyword=spawn>Teremt</keyword> egy <b>Vaják tanítványt</b> minden sorodra.
@@ -3254,7 +3254,7 @@
 202785_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti magát minden vaják után, akit irányítasz.
 202786_fluff;A mágia nem hat rá, mivel ő a Fekete Nap büszke lánya. Valamint egy fejvadász, aki nagyon erős varázslókra figyel.
 202786_name;Maxii Van Dekkar
-202786_tooltip;<keyword=deploy>Lehelyezés</keyword>: Nézd meg sorrendben a paklid kártyáit!\nMegkeverheted a paklidat, majd egy kártyát az aljára tehetsz.
+202786_tooltip;<keyword=deploy>Lehelyezés</keyword>: Nézd meg sorrendben a paklid kártyáit! Megkeverheted a paklidat, majd egy kártyát az aljára tehetsz.
 202787_fluff;Tízből négy fiú éli túl… legfeljebb.
 202787_name;Vaják tanítvány
 202787_tooltip;<keyword=doomed>Kárhozott</keyword>.
@@ -3272,7 +3272,7 @@
 202791_tooltip;<keyword=deploy>Lehelyezés</keyword>: Cseréld meg ezen egység erejét egy ellenséges egység erejével!\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Helyette {Damage} pont sebzést okoz egy ellenséges egységnek.
 202792_fluff;„Ádáz, ravasz. Ismeretes, hogy órákig képes türelmesen várni, mielőtt lecsap az áldozatára. Ha egyszer kitekeredik, hogy lecsapjon, ott nincs menekvés, a halál elkerülhetetlen.” ⁠— Ivar gonosz tekintete
 202792_name;Vypper
-202792_tooltip;A forduló végén tedd ezt a kártyát az ellenfeled temetőjébe!\nA köröd végén, amíg a temetőben van, <keyword=banish>Száműzi</keyword> onnan a legkisebb költségű kártyát.\nHa a Vypper az egyetlen kártya a temetőben, <keyword=doomed>Kárhozottá</keyword> válik és <keyword=spying>Kémkedést</keyword> kap, majd <keyword=summon>Megidézi</keyword> azt az ellenfeled véletlenszerű sorára.
+202792_tooltip;A forduló végén átmozog az ellenfeled temetőjébe. \nA köröd végén, amíg a temetőben van, <keyword=banish>Száműzi</keyword> onnan a legkisebb költségű kártyát.\nHa a Vypper az egyetlen kártya a temetőben, <keyword=doomed>Kárhozottá</keyword> válik és <keyword=spying>Kémkedést</keyword> kap, majd <keyword=summon>Megidézi</keyword> magát az ellenfeled egy véletlenszerű sorára.
 202793_fluff;Sok tekercs és kézirat volt a Vad Hajsza legendájáról az erődben. És jó okkal.
 202793_name;Gorthur Gvaed
 202793_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Beavatott Vipera iskolás vajákot</b>, egy <b>Vipera iskolás vajákot</b>, egy <b>Vipera iskolás vaják oktatót</b>, vagy egy <b>Vipera iskolás vaják alkimistát</b>.\n<keyword=order>Parancs</keyword>: Mozgass egy kártyát az ellenfeled temetőjéből a paklija tetejére!
@@ -3311,7 +3311,7 @@
 202804_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisíti az ellenséges sor jobb szélső egységét, ahol van legalább {Counter} egység.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Helyette megsemmisíti az ellenséges sor jobb szélső egységét, ahol van legalább {Counter2} egység.
 202805_fluff;“Megölnél, hogy megspórolj pár koronát? Ilyen gazembereket kellene védenem?” ⁠— Gaetan
 202805_name;Gaetan
-202805_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgasd át az ezen a soron lévő többi egységet a másik sorra!\nSebezz egy véletlenszerű ellenséges egységet minden mozgatott kártya után {Damage} ponttal!
+202805_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgasd át az ezen a soron lévő összes többi egységet a másik sorra!\nSebezz egy véletlenszerű ellenséges egységet minden mozgatott kártya után {Damage} ponttal!
 202806_fluff;A Macska iskola tagjai rossz hírnévnek örvendenek, mert hajlamosak az őrületre és a vérszomjra a csata hevében. Még akkor is, amikor az ellenfelük megadta magát, kegyelemért könyörög. A Macskák sosem állnak le a gyilkolással.
 202806_name;Macska iskola vaják
 202806_tooltip;A köröd végén átmozog a másik sorra, és {Damage} pont sebzést okoz egy véletlenszerű ellenséges egységnek a szemközti sorban.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Helyette {Damage2} ponttal sebzi azt.
@@ -3326,7 +3326,7 @@
 202809_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, aminek hatóideje azonos az adott soron lévő egységek számával.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=vitality>Vitalitást</keyword> biztosít egy szövetséges egységnek, aminek hatóideje azonos az adott soron lévő egységek számával.
 202810_fluff;Valószínűleg követni szeretnéd az utasításokat.
 202810_name;Bombakészítés
-202810_tooltip;Átmozgat egy ellenséges egységet a másik sorára, és ad neki {Bleed} környi <keyword=bleeding>Vérzést</keyword>. Ha az az egyetlen egység abban a sorban, helyette sebzi {Damage} ponttal.
+202810_tooltip;Átmozgat egy ellenséges egységet a másik sorára és ad neki {Bleed} környi <keyword=bleeding>Vérzést</keyword>. Ha az az egyetlen egység abban a sorban, helyette sebzi {Damage} ponttal.
 202811_fluff;“A vaják dolga, hogy szörnyeket öljön, és begyűjtse a pénzt. Se több, se kevesebb.” ⁠— Arnaghad
 202811_name;Arnaghad
 202811_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Armor} <keyword=armor>Páncélt</keyword> kap minden sebzett egység után.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Amikor az ellenfeled kijátszik egy kártyát az oldalára, az <keyword=clash>Összecsap</keyword> Arnaghaddal.
@@ -3350,7 +3350,7 @@
 202817_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti magát minden sebesült szövetséges egység után.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Helyette {Boost} ponttal erősíti magát minden sebesült egység után.
 202818_fluff;Adj neki elég mahakami mézsört, és talán elmeséli neked a történetét, hogy egy medve hogyan vitte el a pajzsát a karjával együtt!
 202818_name;Medve iskola vaják szállásmester
-202818_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy szövetséges egységnek, majd <keyword=spawn>Teremt</keyword> egy <b>Vaják tanítványt</b> erre a sorra.\n<keyword=charge>Töltet</keyword>: {Charges}.
+202818_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy szövetséges egységnek, majd <keyword=spawn>Teremt</keyword> egy <b>Vaják tanítványt</b> erre a sorra.\n<keyword=charge>Töltet</keyword>: {Charges}.
 202819_fluff;Ahhoz, hogy valaki a Medve iskola vajákja lehessen, előbb át kell esniük a hegyi kihíváson. Ehhez fel kell merészkedniük a Gorgon-hegy csúcsáig, hogy visszahozzanak egy különleges rúnakövet a brutális hegymászó kihívás teljesítésének bizonyítékául. Sok fiú halálra fagyot már jóval azelőtt, hogy elérte volna a csúcsot.
 202819_name;Beavatott Medve iskola vaják
 202819_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz magának.\nA köröd végén {Boost} ponttal <keyword=heal>Gyógyítja</keyword> magát. Ha nem sebesült, {Armor} <keyword=armor>Páncélt</keyword> kap helyette.
@@ -3398,7 +3398,7 @@
 202833_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Szukkubuszt</b>, <b>Pócsát</b>, <b>Kimérát</b>, vagy <b>Hibridet</b>.\n<keyword=order>Parancs</keyword>: A legerősebb egységedet a paklid tetejére mozgatja, majd <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> ezen kártya mindkét oldalára.
 202834_fluff;„Ki volt a jó fiú?” ⁠— Idarran
 202834_name;Idr
-202834_tooltip;<keyword=order>Parancs</keyword> (<keyword=adrenaline>Adrenalin</keyword>: {Adrenaline-1}): <keyword=consume>Bekebelez</keyword> minden Tokent ebben a sorban és <keyword=immune>Immunitást</keyword> kap.\nAmikor <keyword=consume>Bekebelezel</keyword> egy, vagy több egységet, <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> erre a sorra.
+202834_tooltip;Amikor az ellenfeled kijátszik egy egységet a saját oldalára, sebzi azt {Damage} ponttal és kap <keyword=charge>Töltetet</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> erre a sorra.\n<keyword=charge>Töltet</keyword>: {Charge}
 202835_fluff;Gyerekkorában Idarran Vizima csatornáiban élt. Egy természet adta zseni volt. Öt éves korára már kísérletezgetett a csatornapatkányokon.
 202835_name;Vérpatkány
 202835_tooltip;<keyword=order>Parancs</keyword>: Annyi <b>Patkányt</b> <keyword=spawn>Teremt</keyword> erre a sorra, amennyi erősítés van rajta, majd elveszít egy-egy pont erősítést minden <keyword=spawn>Teremtett</keyword> <b>Patkány</b> után.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nA köröd vége előtt, <keyword=consume>Bekebelezi</keyword> a tőle jobbra lévő egységet.
@@ -3410,10 +3410,10 @@
 202837_tooltip;<keyword=thrive>Boldogulás</keyword>: {boost}.
 202838_fluff;Cosimo először kombinálta a pokolfajzat és a griff génjeit, majd hozzáadott rovar és wyvern maradványokat. A végeredményül kapott teremtmény sokkal rosszabb lett, mint a részek összessége.
 202838_name;Kiméra
-202838_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: {Boost1} ponttal erősíti minden másolatát a <keyword=consume>Bekebelezett</keyword> egységnek azon egység sorában.
+202838_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}:Még {Boost1} ponttal erősíti minden másolatát a <keyword=consume>Bekebelezett</keyword> egységnek azon egység sorában.
 202839_fluff;Professzor Malaspina véletlenül hozzáadott egy extra összetevőt az X vegyületéhez.
 202839_name;Spontán fejlődés
-202839_tooltip;{Boost} ponttal erősíti egy szövetséges egységedet, és további hatást ad neki az egység kategóriájának megfelelően.\n\nRovar - <keyword=spawn>Teremt</keyword> {MaxTargets} <b>Dolgozót</b> az erősített egység sorába.\nBestia - Helyette {Boost2} ponttal erősíti azt az egységet.\nOgroid - Minden, a kezedben lévő Ogroidnak {Armor} <keyword=armor>Páncélt</keyword> ad.
+202839_tooltip;{Boost} ponttal erősíti egy szövetséges egységedet, és további hatást ad neki az egység kategóriájának megfelelően:\n\nRovar - <keyword=spawn>Teremt</keyword> {MaxTargets} <b>Dolgozót</b> az erősített egység sorába.\nBestia - Helyette {Boost2} ponttal erősíti azt az egységet.\nOgroid - Minden, a kezedben lévő Ogroidnak {Armor} <keyword=armor>Páncélt</keyword> ad.
 202841_fluff;Azok nyilai ölték meg, akikre vadászott. Vagy sokan csak ezt hitték. A Szalamandráknak más tervük volt vele.
 202841_name;Bukott Rayla
 202841_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=profit>Haszon</keyword>: {Income}.\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: Eltávolítja a <keyword=poison>Mérgezést</keyword> egy szövetséges egységről, majd erősíti magát {Boost} ponttal.\nAmikor az ellenfeled kijátszik egy egységet, <keyword=poison>Megmérgezi</keyword> azt és csökkenti a Számlálót.\nAmint a Számláló eléri a {Counter} értéket, az <keyword=tribute>Elismerésből</keyword> <keyword=fee>Tiszteletdíj</keyword> válik.\nSzámláló: {Counter2}
@@ -3452,7 +3452,7 @@
 202872_tooltip;A köröd kezdetén {Damage} pont sebzést okoz minden ellenséges egységnek, amelyik egyedül áll a sorában, és átváltoztatja magát <b>Szablyafogú tigrissé</b>.
 202879_fluff;Egy pillanat alatt Madoc előhúzott egy kanóccal ellátott bőrözött gömböt, egy csettintéssel meggyújtotta, majd a nyávogó szörnyeteg lábai elé dobta.
 202879_name;Madoc
-202879_tooltip;Amikor kijátszol egy Bomba kártyát, <keyword=summon>Idézd</keyword> meg ezt a kártyát a paklidból, vagy a temetődből egy véletlenszerű sorodra!\n<keyword=order>Parancs</keyword>: <keyword=cataclysm>Kataklizmát</keyword> <keyword=spawn>Teremt</keyword> {Counter} körre a szemközti sorra, majd megsemmisíti magát.
+202879_tooltip;Amikor kijátszol egy Bomba kártyát, <keyword=summon>Idézi</keyword> magát a paklidból, vagy a temetődből egy véletlenszerű sorodra!\n<keyword=order>Parancs</keyword>: <keyword=cataclysm>Kataklizmát</keyword> <keyword=spawn>Teremt</keyword> {Counter} körre a szemközti sorra, majd megsemmisíti magát.
 202880_fluff;Mint az ország feje, tisztességesen kell őt elbírálnom. De ő a testvérem, és vérzik érte a szívem…
 202880_name;Anna Henrietta
 202880_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): Lecseréli a vezetőd képességét az ellenfél vezető képességének alap másolatára.
@@ -3464,7 +3464,7 @@
 202882_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Armor} <keyword=armor>Páncélt</keyword> ad {MaxTargets} kezedben lévő Kalóznak, vagy Hajónak.\n<keyword=order>Parancs</keyword>: {damage3} pont sebzést okoz egy egységnek.\n<keyword=cooldown>Lehiggadás</keyword>: {cooldown}\nAmikor kijátszol egy Kalózt, vagy egy Hajót Crach mellé, az <keyword=clash>Összecsap</keyword> a leggyengébb ellenséges egységgel.
 202883_fluff;Eist azért jött Cintrába, hogy segítse Crach an Craite-et megnyerni Pavetta hercegnő kezét, ám helyette Eist megnyerte magának a királynő szívét.
 202883_name;Eist Tuirseach
-202883_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword>, <keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: Húzz egy kártyát, majd <keyword=discard>Dobj el</keyword> egyet!\nAmikor <keyword=discard>Eldobsz</keyword> egy nem Semleges egységet a körödben, <keyword=summon>Megidézi</keyword> ezt az egységet a temetődből erre a sorra.\nSzámláló: {Counter}\n<keyword=devotion>Áhítat</keyword>: Akkor is működik, amikor egy nem Semleges egység a temetődbe kerül a köröd során.
+202883_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}): Húzz egy kártyát, majd <keyword=discard>Dobj el</keyword> egyet!\nAmikor <keyword=discard>Eldobsz</keyword> egy nem Semleges egységet a körödben, <keyword=summon>Megidézi</keyword> ezt az egységet a temetődből erre a sorra.\nSzámláló: {Counter}\n<keyword=devotion>Áhítat</keyword>: Akkor is működik, amikor egy nem Semleges egység a temetődbe kerül a köröd során.
 202884_fluff;Az a reszkető szamár? Azt sem tudod, hogy élő-e, vagy ki van tömve!
 202884_name;Brouver Hoog
 202884_tooltip;<keyword=deploy>Lehelyezés</keyword>: Kapsz 1 <keyword=armor>Páncélt</keyword> minden kezedben lévő Törp egység után.\n<keyword=barricade>Barikád</keyword>: A köröd végén {boost} ponttal erősít minden <keyword=armor>Páncéllal</keyword> rendelkező Törpöt ezen a soron, majd elveszít {Armor} <keyword=armor>Páncélt</keyword>.
@@ -3491,7 +3491,7 @@
 202891_tooltip;<keyword=insanity>Elmebaj</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy erősített ellenséges egységnek. Kapsz <keyword=coin>Érmét</keyword> minden megmaradt sebzéspont után.\n<keyword=devotion>Áhítat</keyword>: Helyette egy tetszőleges ellenséges egységet sebez.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: Megsemmisít egy ellenséges egységet, amelynek {Power}, vagy kisebb az ereje.
 202892_fluff;Előre, anyámasszony katonái! Előre, vagy a nilfgaardiaiak lesznek a legkisebb problémáitok!
 202892_name;Kaedweni őrmester
-202892_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}.
+202892_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}.
 202905_fluff;“Én, Rience, megtanítom neki mi az a fájdalom. Ezekkel a kezekkel, ezekkel az ujjakkal. És ígéretett tettem neki, hogyha a kezeim közé kerülsz, hercegnő, neked is megtanítom ugyanazt a fájdalmat. Ezekkel a kezekkel, ezekkel az ujjakkal…” - Rience
 202905_name;Rience
 202905_tooltip;<keyword=deploy>Lehelyezés</keyword>: Nézd meg a legfelső {Counter} egységet a paklidban! Mozgass 1 egységet a temetődbe, majd semmisíts meg egy ellenséges egységet, melynek ereje azonos az egység erejével!\n<keyword=order>Parancs</keyword>: Állítsd egy egység erejét a paklidban lévő kártyák számára!
@@ -3500,10 +3500,10 @@
 202906_tooltip;<keyword=banish>Száműz</keyword> egy kártyát a paklidból. Ha az egy bronz kártya volt, <keyword=banish>Száműz</keyword> egy másik bronz kártyát is a paklidból.\nErősít egy szövetséges egységet a <keyword=banish>Száműzött</keyword> kártyák összesített ellátási költségével.
 202907_fluff;Annak érdekében, hogy jobb szőlőtőkéket termesszenek, a birodalmi botanikusok egy rosszindulatú alkímia folyamatot kreáltak, és ezen magok elvetése létrehozta a legvészjóslóbb dolgokat.
 202907_name;Vészhozó
-202907_tooltip;<keyword=deploy>Lehelyezés</keyword>: Tedd a paklid egyik kártyáját a pakli tetejére! Ha az egy Mágus volt, <keyword=spawn>Teremti</keyword> <b>Az őrzőt</b> erre a sorra.\nHa az egy speciális kártya, <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Tehén tetemet</b>.
+202907_tooltip;<keyword=deploy>Lehelyezés</keyword>: Tedd a paklid egyik kártyáját a pakli tetejére! Ha az egy Mágus volt, <keyword=spawn>Teremti</keyword> <b>Az őrzőt</b> erre a sorra. Ha az egy speciális kártya, <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Tehén tetemet</b>.
 202908_fluff;Valahol mélyen a Nilfgaard birodalmi irattárban van egy kézirat, melynek címe: “Negyvenhét módja, hogy megölj egy embert”. Ez egy meglepően vidám olvasmány.
 202908_name;Orgyilkos mágus
-202908_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\nHa a köröd alatt a paklid tetejére került, <keyword=summon>Megidézi</keyword> magát egy véletlenszerű szövetséges sorra és {Damage} pont sebzést okoz egy véletlenszerű ellenséges egységnek.
+202908_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\nAmikor a köröd alatt a paklid tetejére került, <keyword=summon>Megidézi</keyword> magát egy véletlenszerű szövetséges sorra és {Damage} pont sebzést okoz egy véletlenszerű ellenséges egységnek.
 202909_fluff;“Dicsérd az Istennőt minden útért, amit megnyit előtted, és fordítsd el a kapzsi tekintetedet azoktól, akik előtt bezárja az ő bölcsességét!” - Fulmar
 202909_name;Fulmar
 202909_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Szirének könnye</b> kártyát.\n<keyword=order>Parancs</keyword>: Lecseréli az ellenséges soron lévő <keyword=rain>Esőt</keyword> <keyword=storm>Viharra</keyword> az időtartam megváltoztatása nélkül.
@@ -3530,10 +3530,10 @@
 202916_tooltip;<keyword=veil>Lepel</keyword>.\nAmikor kijátszol egy speciális kártyát, <keyword=spawn>Teremt</keyword> egy alap másolatot magából erre a sorra és eltávolítja a Számlálót.\nSzámláló: {Counter}.
 202917_fluff;Aelle-i Gerhart, akit mások úgy ismerhetnek, hogy Hen Gedymdeith volt a legtovább élő varázsló. Végül a halál Thanedd szigetén, a puccs alatt találta meg, ahol a szíve, amely már gyenge volt a felfoghatatlan kora miatt, egyszerűen felmondta a szolgálatot a zűrtől.
 202917_name;Aelle-i Gerhart
-202917_tooltip;<keyword=zeal>Hév</keyword>. <keyword=patience>Türelem</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=create>Létrehoz</keyword> és kijátszik egy {cost} ellátási költségű Varázslatot.
+202917_tooltip;<keyword=patience>Türelem</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=create>Létrehoz</keyword> és kijátszik egy {cost} ellátási költségű Varázslatot.
 202918_fluff;A szerelem őrült dolgokra késztethet. A szerelem elvesztése meg főleg.
 202918_name;Istredd
-202918_tooltip;<keyword=zeal>Hév</keyword>. <keyword=patience>Türelem</keyword>.\n<keyword=order>Parancs</keyword>: Húzz fel {Counter} kártyát, majd keverj vissza ugyanennyi kártyát a paklidba!\nHa egy egységet húzol fel, {Boost} ponttal erősíti azt, ha az nem egy egység, helyette magát erősíti {Boost2} ponttal.
+202918_tooltip;<keyword=patience>Türelem</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Húzz fel {Counter} kártyát, majd keverj vissza ugyanennyi kártyát a paklidba!\nHa egy egységet húzol fel, {Boost} ponttal erősíti azt, ha az nem egy egység, helyette magát erősíti {Boost2} ponttal.
 202919_fluff;Vengerbergi Yennefer történetei sok részeget arra sarkaltak, hogy megpróbálják utánozni az ő legendás lábas varázslatát. Sosem lett jó vége.
 202919_name;Varázslat verseny
 202919_tooltip;{Boost} ponttal erősíti egy szövetséges egységedet. Ha az egy bronz egység, visszaállítja a <keyword=order>Parancs</keyword> képességét, és <keyword=zeal>Hévet</keyword> ad neki.
@@ -3557,7 +3557,7 @@
 202925_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> {counter} <b>Szindikátus koronát</b>.\nA köröd végén, ha egy ellenségen sincs <keyword=bounty>Vérdíj</keyword>, egy <keyword=bounty>Vérdíjat</keyword> rak a legerősebb ellenséges egységre.
 202926_fluff;Pénz szüli a pénzt.
 202926_name;Szindikátus korona
-202926_tooltip;<keyword=doomed>Kárhozott</keyword>. <keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: Kapsz {Coin} <keyword=coin>Érmét</keyword> és <keyword=banish>Száműzi</keyword> magát.
+202926_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Kapsz {Coin} <keyword=coin>Érmét</keyword> és <keyword=banish>Száműzi</keyword> magát.
 202927_fluff;Fabian nagyon büszke a munkájára, minden egyes “győzelem” bele van vésve a bőrébe, hogy állandóan emlékeztessék a legkellemesebb emlékekre.
 202927_name;Fabian Hale
 202927_tooltip;<keyword=intimidate>Fenyegetés</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=bounty>Vérdíjat</keyword> tesz egy ellenséges egységre. Ha már <keyword=bounty>Vérdíj</keyword> volt egy ellenséges egységen, annak alaperejével egyező mennyiségű <keyword=coin>Érmét</keyword> kapsz.
@@ -3593,7 +3593,7 @@
 202979_tooltip;<keyword=order>Parancs</keyword>: <keyword=seize>Elfog</keyword> egy bronz ellenséges egységet, majd átmozgatja magát a szemközti sorra.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 202980_fluff;A pokolnak nincs olyan dühe, mint egy megvetett varázslónőnek.
 202980_name;Thaneddi köpönyegforgató
-202980_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spying>Kémkedést</keyword> ad egy ellenséges egységnek.\n<keyword=order>Parancs</keyword>, <keyword=conspiracy>Konspiráció</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\nAmikor egy ellenséges egység <keyword=spying>Kémkedést</keyword> szerez, {Cooldown2} ponttal csökken az egység <keyword=cooldown>Lehiggadása</keyword>.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
+202980_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spying>Kémkedést</keyword> ad egy ellenséges egységnek.\n<keyword=order>Parancs</keyword> (<keyword=conspiracy>Konspiráció</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek.\nAmikor egy ellenséges egység <keyword=spying>Kémkedést</keyword> szerez, {Cooldown2} ponttal csökken az egység <keyword=cooldown>Lehiggadása</keyword>.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 202981_fluff;A Hölgy ül a trónján, elfogyasztja a felajánlásainkat, és többet követel. Mégis, Ő semmilyen körülmények közt nem próbál meg uralkodni rajtunk, szóval valójában Ő jobb, mint bármelyik jarl.
 202981_name;Melusine
 202981_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=veil>Leplet</keyword> kap.\n<keyword=order>Parancs</keyword>: <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword> egy ellenséges sorra {Counter} körre, majd {Damage} ponttal sebzi magát.\nA köröd végén {Damage2} ponttal sebzi a szomszédos egységeket, majd kap {Boost} alaperőt minden sebzett egység után. Ha valamelyik sebzett egység Kultista volt, frissíti a <keyword=order>Parancsot</keyword> képességét.
@@ -3638,7 +3638,7 @@
 202994_tooltip;A köröd végén átváltoztatja magát <b>Véres Úrnőre</b> az ereje megváltoztatása nélkül.\n<keyword=sabbath>Boszorkányszombat</keyword>: Helyette, a köröd végén {boost} ponttal erősíti magát minden szövetséges <b>Gernichora gyümölcse</b> után.
 202995_fluff;Aki kapja, marja.
 202995_name;Mammuna
-202995_tooltip;<keyword=zeal>Hév</keyword>.\n<keyword=order>Parancs</keyword>: <keyword=banish>Száműz</keyword> egy bronz egységet a temetődből, és erősíti magát annak erejével, majd <keyword=summon>Megidéz</keyword> egy másolatot belőle a paklidból erre a sorra.\n<keyword=sabbath>Boszorkányszombat</keyword>: Helyette kijátssza a másolatot.
+202995_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=banish>Száműz</keyword> egy bronz egységet a temetődből, és erősíti magát annak erejével, majd <keyword=summon>Megidéz</keyword> egy másolatot belőle a paklidból erre a sorra.\n<keyword=sabbath>Boszorkányszombat</keyword>: Helyette kijátssza a másolatot.
 202996_fluff;Nyam-nyam!
 202996_name;Önevő
 202996_tooltip;<keyword=order>Parancs</keyword>: Megfelezi ennek az egységnek az alaperejét, majd <keyword=spawn>Teremt</keyword> egy másolatát azonos alap erővel erre a sorra.\nAmikor kijátszol egy Ittrekedt egységet, {Boost} ponttal növeli ezen egység alaperejét.
@@ -3689,7 +3689,7 @@
 203043_tooltip;Amikor <keyword=rain>Eső</keyword>, vagy <keyword=storm>Vihar</keyword> sebzi az ellenséges egységeket, erősíti magát a sebzés értékével.
 203044_fluff;Nem fognak habozni, hogy elárasszanak ajándékokkal és szeretettel. Büszkén fogják vallani a rendíthetetlen imádatukat, és a hajthatatlan odaadásukat. Mégis, mondd meg, mikor adta fel a lábait egy férfi a szerelemért, hmm!?
 203044_name;Kis hableány
-203044_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=bonded>Kötelék</keyword>): {Boost} ponttal erősíti ezen kártya alaperejét.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz magának és <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword>, {Counter} körre egy ellenséges sorra.
+203044_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=bonded>Kötelék</keyword>): {Boost} ponttal erősíti ezen egység alaperejét.\n<keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz magának és <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword>, {Counter} körre egy ellenséges sorra.
 203045_fluff;Büszkeséggel bír - olyasvalaki büszkeségével, akinek soha nem kellett meghajolnia.
 203045_name;Filavandrel aén Fidháil
 203045_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=create>Létrehoz</keyword> és kijátszik egy Mókus speciális kártyát melynek ellátási költsége azonos ezen egység erejével.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=create>Létrehoz</keyword> és kijátszik egy Mókus speciális kártyát, melynek ellátási költsége azonos, vagy kisebb, mint ezen egység ereje.
@@ -3701,7 +3701,7 @@
 203047_tooltip;<keyword=create>Létrehoz</keyword> és kijátszik egy bronz, elf Mókust, majd a választott egység pozíciójától függően {Boost} ponttal erősíti a bal szélső, egy véletlenszerű, vagy a jobb szélső egységet a kezedben.
 203048_fluff;Rávág a botjával minden betolakodóra, aki úgy gondolja, hogy szerencsét próbál. Hamarosan, az ütéseket, ahogy a betolakodókat sem, már nem lehet megkülönböztetni.
 203048_name;A völgy őrzője
-203048_tooltip;<keyword=deploy>Lehelyezés</keyword>: Annyi <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, amennyi erősítés van ezen a kártyán.\n<keyword=bonded>Kötelék</keyword>: Helyette sebzést okoz.
+203048_tooltip;<keyword=deploy>Lehelyezés</keyword>: Annyi <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, amennyi erősítés van ezen a kártyán.\n<keyword=bonded>Kötelék</keyword>: Helyette sebezd ezzel az értékkel!
 203049_fluff;A Novigradi Unió nyomán, a Tehetségek és Művészetek káptalanja arra törekedett, hogy minden mágia megfelelő szabályozás alatt álljon. Mégis, néhány mágus megtagadta az abszolút hatóság béklyóját, és helyette a kíváncsi tekintetektől távol gyakorolták a jártasságaikat. Az „intézmény ellenségeinek” vélteket, a renegátokat hamar levadászták és megbüntették.
 203049_name;Varázslók káptalanja
 203049_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Rúnaszót</b>.\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy alap másolatot az utoljára kijátszott bronz szövetséges Mágusból erre a sorra.
@@ -3761,7 +3761,7 @@
 203067_tooltip;<keyword=doomed>Kárhozott</keyword>.\nSzcenárió: Előrehaladást érsz el, ha Kalózt játszol ki.\nPrológus: <keyword=spawn>Teremt</keyword> egy <b>Bjorn drakkarját</b> erre a sorra.\n1. fejezet: Amikor az ellenfeled kijátszik egy egységet, <keyword=infused>Felruházza</keyword> azt ezzel: {InjectableAbility}\n2. fejezet: <keyword=purify>Tisztít</keyword> és <keyword=heal>Gyógyít</keyword> egy szövetséges <b>Bjorn drakkarját</b>, {Boost} ponttal növeli az alap erejét, és {Charge} <keyword=charge>Töltetet</keyword> ad neki.\nHa nem irányítod <b>Bjorn drakkarját</b>, helyette <keyword=spawn>Teremt</keyword> egyet erre a sorra.
 203068_fluff;Bjorn, aki Stormur, a rettegett fia, akit a faluja úgy ismer, mint a Vihar Gyermeke, a barátainak Villámtok, az ellenségeinek Bálnaevő, akit a kontinenseken úgy ismernek, hogy Skellige küklopsza, a lányának Mérges Vén Fasz, a történelem számára meg az, aki nem tért vissza.
 203068_name;Bjorn Stormursson
-203068_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=clash>Összecsap</keyword> egy ellenséges egységgel.\n<keyword=order>Parancs</keyword>, <keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: <keyword=discard>Dobj el</keyword> egy kártyát a kezedből, majd vedd őt vissza a kezedbe!
+203068_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=clash>Összecsap</keyword> egy ellenséges egységgel.\n<keyword=order>Parancs</keyword> (<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}): <keyword=discard>Dobj el</keyword> egy kártyát a kezedből, majd vedd őt vissza a kezedbe!
 203069_fluff;Ki mondta azt neked, hogy halottnak kell lenned ahhoz, hogy kísérts a tengereken?
 203069_name;Tébolyult kalóz
 203069_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: {InjectableAbility}. Aztán <keyword=spawn>Teremt</keyword> <keyword=cataclysm>Kataklizmát</keyword> annak sorára {Counter} körre.
@@ -3845,7 +3845,7 @@
 203095_tooltip;<keyword=veteran>Veterán</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: {B.P.BB_ExcessDamage+Boost} ponttal erősíti magát. {Boost2} ponttal növeli az értéket, amikor nagyobb sebzést okozol egy ellenséges egységnek, mint annak ereje.\nA játék elején aktiválja az egységeid <keyword=veteran>Veterán</keyword> képességeit.
 203096_fluff;“Ha valamit el akarsz intézni, küldd a legjobb emberedet! Ha valamit jól akarsz elintézni, küldj egy nőt!”
 203096_name;Cerys: Vakmerő
-203096_tooltip;Miután megsebezted a szövetséges egységeidet {MaxTargets} alkalommal, <keyword=summon>Megidézi</keyword> magát a paklidból a <keyword=ranged>Távolsági</keyword> sorodra.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Teljesen <keyword=heal>Meggyógyítja</keyword> egy szövetséges egységedet, és sebez egy másik szövetséges egységet a <keyword=heal>Gyógyítás</keyword> értékével.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
+203096_tooltip;Miután megsebezted a szövetséges egységeidet {MaxTargets} alkalommal, <keyword=summon>Megidézi</keyword> magát a paklidból a <keyword=ranged>Távolsági</keyword> sorodra.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=heal>Meggyógyítja</keyword> egy szövetséges egységedet, és sebez egy másik szövetséges egységet a <keyword=heal>Gyógyítás</keyword> értékével.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 203097_fluff;Ritkán vadászik Milva nagyobb bestiára, mint a rőtvad, vagy egy páncélos ember.
 203097_name;Milva: Mesterlövész
 203097_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: Visszakeveri magát a paklidba.\nAmikor egy ellenséges egység mozog a körödben, <keyword=summon>Megidézi</keyword> magát a paklidból a szemközti sorra, majd {Damage2} ponttal sebzi azt az ellenséget.
@@ -3857,7 +3857,7 @@
 203099_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=drain>Lecsapol</keyword> egy ellenséges egységet {Damage} ponttal.\nA köröd végén, amíg a kezedben, vagy a paklidban van, ha van olyan ellenséges egység, aki <keyword=bleeding>Vérzés</keyword> alatt áll, {Boost} ponttal növeli a saját alaperejét.
 203100_fluff;„Te azt mondod sarc, én azt mondom adó.” ⁠— Francis Bedlam
 203100_name;Kolduskirály
-203100_tooltip;<keyword=fee>Tiszteletdíj</keyword> {Cost}: {Boost} ponttal erősíti magát.\nAmíg a pakliban van, amikor fizetsz egy <keyword=tribute>Elismerésért</keyword>, csökkenti a Számlálót minden kifizetett <keyword=coin>Érme</keyword> után. Minden csökkentett Számláló {Coin} <keyword=coin>Érmét</keyword> ad vissza.\nAmikor a Számláló eléri a nullát, <keyword=summon>Megidézi</keyword> magát a pakliból egy véletlenszerű szövetséges sorra.\nSzámláló: {Counter}
+203100_tooltip;<keyword=fee>Tiszteletdíj</keyword> {Cost}: {Boost} ponttal erősíti magát.\nAmíg a pakliban van, amikor fizetsz egy <keyword=tribute>Elismerésért</keyword>, csökkenti a Számlálót minden elköltött <keyword=coin>Érme</keyword> után. Minden csökkentett Számláló {Coin} <keyword=coin>Érmét</keyword> ad.\nAmikor a Számláló eléri a nullát, <keyword=summon>Megidézi</keyword> magát a pakliból egy véletlenszerű szövetséges sorra.\nSzámláló: {Counter}
 203101_fluff;A főpap vallásos parádéi mögött, a luxus selymei és egzotikus borai, a szajhái és rabszolgái és minden kéjelgése, kapzsisága, és hiúsága ellenére, egy becsületes ember.
 203101_name;Cyrus Engelkind Hemmelfart
 203101_tooltip;<keyword=profit>Haszon</keyword>: {Profit}.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Gyülekezet</b> kártyát.\n<keyword=fee>Tiszteletdíj</keyword>: {Fee}: Megsemmisít egy szövetséges Tűztestvér Tokent, majd <keyword=summon>Megidéz</keyword> egy bronz Tűztestvér egységet a temetődből a Token helyére.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
@@ -3866,7 +3866,7 @@
 203102_tooltip;<keyword=echo>Visszhang</keyword>.\n{Damage} pont sebzést okoz egy ellenséges egységnek, majd erősíti a leggyengébb szövetséges egységet a megmaradt sebzés értékével.\nA köröd végén, ha több pontod van, mint az ellenfelednek, növeld {Damage2} ponttal a sebzést, bárhol is legyen a kártya!
 203103_fluff;Alzur opus magnuma (nagyszerű munkája). Legendás mágusok felgyülemlett tudását tartalmazza.\n\nA birodalmak mágusai ismerik az egyszerűségét és az eleganciáját Alzur repertoárjának, de a teljes, elsöprő mechanika tudása örökké rejtve marad.
 203103_name;Misztikus kötet
-203103_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Kijátszik egy speciális kártyát a paklidból, majd átmozgatja magát a szemközti sorra. Ha nincs hely a szemközti soron, megsemmisíti magát.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nA kör végén, ha nincs rajta <keyword=cooldown>Lehiggadás</keyword>, megsemmisíti magát.
+203103_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Kijátszik egy speciális kártyát a paklidból, majd átmozgatja magát a szemközti sorra. Ha nincs hely a szemközti soron, megsemmisíti magát.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nA köröd végén, ha nincs rajta <keyword=cooldown>Lehiggadás</keyword>, megsemmisíti magát.
 203104_fluff;Egy mesterien dekorált doboz a messzi földekről.\n\nA bonyolult biztonsági rendszere miatt feltehetően vagy valami rettentően értékes van benne, vagy valami elképzelhetetlenül veszélyes. Csak a bátor, vagy a balga vállalkozik rá, hogy megpróbálja kinyitni a dobozt.
 203104_name;Titokzatos talány dobozkája
 203104_tooltip;<keyword=disloyal>Áruló</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy {Power} pont erejű <b>Dzsinnt</b> a szemközti sorra. Ha egyik játékos sem passzolt, válassz egy kártyát a kezedből!\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Helyette <keyword=spawn>Teremt</keyword> egy {Power} pont erejű <b>Dzsinnt</b> a szemközti sorra és megsemmisíti magát.\n<keyword=order>Parancs</keyword>: Válassz egy kártyát a kezedből!\nA köröd végén átváltoztatja a kezedben a legnagyobb ellátási költségű választott kártyát, vagy kártyákat <b>A Dolog a dobozkából</b>-ra, majd <keyword=banish>Száműzi</keyword> magát.
@@ -3911,7 +3911,7 @@
 203117_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: {Charge} <keyword=charge>Töltetet</keyword> kap. Ha ez az egység visszakerül a paklidba, {Charge2} ponttal növeli a <keyword=charge>Töltetek</keyword> számát.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.\nAmikor ez az egység <keyword=inspired>Inspirált</keyword> lesz, <keyword=zeal>Hévet</keyword> kap.\n<keyword=charge>Töltet</keyword>: {Charge3}
 203118_fluff;Néhány oldala emberi bőrből készült, és a különféle próféciák, temetkezési rítusok, és feltámasztási folyamatok vannak benne vérrel lezárva.
 203118_name;Nekromanták kötete
-203118_tooltip;<keyword=zeal>Hév</keyword>, <keyword=order>Parancs</keyword>: Aktiválja egy szövetséges bronz egység <keyword=deathwish>Halálvágy</keyword> képességét.\nAmikor kijátszol egy bronz egységet, <keyword=summon>Megidéz</keyword> belőle egy véletlenszerű másolatot a temetődből az azonos sorra, majd <keyword=doomed>Kárhozottá</keyword> teszi azt.
+203118_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Aktiválja egy szövetséges bronz egység <keyword=deathwish>Halálvágy</keyword> képességét.\nAmikor kijátszol egy bronz egységet, <keyword=summon>Megidéz</keyword> belőle egy véletlenszerű másolatot a temetődből az azonos sorra, majd <keyword=doomed>Kárhozottá</keyword> teszi azt.
 203119_fluff;Ne számíts arra, hogy úgy végzed, mint Csipkerózsika, miután a varangy megcsókolt! Óh, nem. Gyorsan meg fogsz duzzadni, ami csak úgy írható le, mint egy gennyes, visszeres szőlő, és ezt még azelőtt, mielőtt a pórusaid elkezdenének szétrepedni, és kilövellni a testnedveidet.
 203119_name;Óriás varangy
 203119_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\nAmikor kijátszol egy <keyword=deathwish>Halálvágy</keyword> képességű egységet a <keyword=ranged>Távolsági</keyword> sorodra, <keyword=summon>Megidézi</keyword> magát a temetődből az azonos sorra, majd <keyword=consume>Bekebelezi</keyword> az egységet, és <keyword=doomed>Kárhozottá</keyword> válik.
@@ -3944,7 +3944,7 @@
 203141_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Egy szövetséges egység erejét a legerősebb ellenséges egység erejére állítja.\n<keyword=order>Parancs</keyword>: Alaphelyzetbe állítja egy egység erejét.
 203142_fluff;Az öt lovagi erény igazi példaképe... kivéve talán a bölcsességet.
 203142_name;Guillaume de Launfal
-203142_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát az ezen soron lévő szövetséges Lovagok számával, majd erősíti magát és az ellenséget is mindkét egység erejének felével.\n<keyword=order>Parancs</keyword>, <keyword=grace>Kegyelem</keyword> {Power}: Minden állapotot elvesz és magának ad egy ellenséges egységről.
+203142_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát az ezen soron lévő szövetséges Lovagok számával, majd erősíti magát és az ellenséget is mindkét egység erejének felével.\n<keyword=order>Parancs</keyword> (<keyword=grace>Kegyelem</keyword> {Power}): Minden állapotot elvesz és magának ad egy ellenséges egységről.
 203143_fluff;Csak EGY nagy szabály van: nincs lágyékon lövés!
 203143_name;Buhurt
 203143_tooltip;Erősít egy ellenséges egységet {Boost} ponttal, majd egy szövetséges egységet {Boost2} ponttal.
@@ -3998,10 +3998,10 @@
 203159_tooltip;A köröd elején, amíg a kezedben, vagy a paklidban van, alaphelyzetbe állítja a saját erejét és erősíti magát a <keyword=frost>Fagy</keyword> által okozott sebzéssel az ellenfél utolsó {MaxTargets} körét tekintve ({Boost2}, {Boost3}, {Boost4}, {Boost5}, {Boost6}).
 203160_fluff;Azok, akik ezüst kanállal a szájukban születnek, ritkán törődnek azzal, hogy kiderítsék, hogyan is került az oda.
 203160_name;Aen Elle arisztokrata
-203160_tooltip;<keyword=order>Parancs</keyword>, <keyword=dominance>Dominancia</keyword>: Átmozgat egy ellenséges egységet a másik sorára.\nA köröd végén <keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> {Counter} körre minden olyan ellenséges sorra, amely <keyword=frost>Fagy</keyword> hatása alatt áll ebben a körben.
+203160_tooltip;<keyword=order>Parancs</keyword> (<keyword=dominance>Dominancia</keyword>): Átmozgat egy ellenséges egységet a másik sorára.\nA köröd végén <keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword> {Counter} körre minden olyan ellenséges sorra, amely <keyword=frost>Fagy</keyword> hatása alatt áll ebben a körben.
 203161_fluff;Természetesen a legnagyobb méltósággal kezeljük a portékáinkat, minden lehetőséget megadva nekik, hogy Aen Elle legnagyobbjait szolgálják.
 203161_name;Aen Elle rabszolga kereskedő
-203161_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=vitality>Vitalitást</keyword> kap, melynek mértéke az ellenséges sorokon lévő <keyword=frost>Fagy</keyword> időtartama és <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: "{InjectableAbility}".
+203161_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=vitality>Vitalitást</keyword> kap, melynek mértéke az ellenfeled sorain lévő <keyword=frost>Fagy</keyword> időtartama és <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: "{InjectableAbility}".
 203162_fluff;Óh, Novigrad! A kultúra és a szépség igazi bőségszaruja. Feltéve, ha a hentesudvar mögött egy kés feldugva a seggedbe csiklandozza a fantáziádat.
 203162_name;Sigi Reuven: Lángész
 203162_tooltip;<keyword=deploy>Lehelyezés</keyword>: Nézd meg az <b>Összejátszás</b> és egy véletlenszerű egységet minden <keyword=gang>Banda</keyword> után a paklidból, majd játssz ki {MaxTarget}-et!\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: Helyette {MaxTarget2}-t játssz ki!\nAz <keyword=tribute>Elismerés</keyword> ára csökken {Tribute2}-vel minden egyedi általad irányított <keyword=gang>Banda</keyword> kategória után.
@@ -4031,7 +4031,7 @@
 203170_tooltip;<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}, <keyword=fee>Tiszteletdíj</keyword> {Fee}: <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: {InjectableAbility}
 203171_fluff;Egy kínzó, egy végzetmondó, egy őrült. Eltibald volt az első mágus, aki beleásta magát a Fekete Nap átkának titkaiba. Megszívlelte az ősi szövegekben található figyelmeztetéseket és elkezdte az átkozott gyermekek széleskörű vadászatát. Sosem hezitált, hogy a kisebb gonosz hangját kövesse.
 203171_name;Eltibald
-203171_tooltip;<keyword=zeal>Hév</keyword>, <keyword=order>Parancs</keyword>: <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: {InjectableAbility}\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nAkikor kijátszol egy Átok kártyát, {Cooldown2} körrel csökkenti a <keyword=cooldown>Lehiggadás</keyword> értékét.
+203171_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: {InjectableAbility}\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nAkikor kijátszol egy Átok kártyát, {Cooldown2} körrel csökkenti a <keyword=cooldown>Lehiggadás</keyword> értékét.
 203172_fluff;Ironikus módon, ez volt Eltibald kegyetlen válasza erre a próféciára, amely lehetetlenné tette annak megállapítását, hogy a gonosz ott volt-e a kezdetektől, vagy a félelem és üldöztetés szülte-e.
 203172_name;A bujaság átka
 203172_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy alap másolatot az ellenséges egységből a szemközti sorra.
@@ -4091,16 +4091,16 @@
 203191_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=order>Parancs</keyword>: Nézd meg a paklid legfelső {MaxTargets} kártyáját, és válassz egyet, amit a pakli aljára teszel!\nHa az egy Ügynök volt, adj egy ellenséges egységnek <keyword=spying>Kémkedést</keyword>! Ha az egy Arisztokrata volt, adj egy ellenséges egységnek <keyword=bleeding>Vérzést</keyword> {Bleeding} körre.\nAmikor kijátszol egy Arisztokratát, felfrissül a <keyword=order>Parancs</keyword> képessége.\nAmíg a pakliban van és kijátszol egy arany Arisztokrata kártyát, <keyword=summon>Megidézi</keyword> magát a <keyword=melee>Közelharci</keyword> sorodra.
 203192_fluff;Mint egy császár, vagy egy császárság: Fellengzős, előkelő, és elszánt.
 203192_name;Torres var Emreis: Alapító
-203192_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spying>Kémkedést</keyword> ad {MaxTargets} egységnek az ellenfél paklijában, melynek ellátási költsége {Provisions}, vagy kevesebb, majd <keyword=spawn>Teremt</keyword> belőlük egy alap másolatot a paklidba. Erősíti magát {Boost} ponttal minden megmaradt ellátási költség pont után.\n<keyword=order>Parancs</keyword>: <keyword=banish>Száműzz</keyword> {MaxTargets2} kártyát a kezdő paklidból.\nAmikor a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
+203192_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spying>Kémkedést</keyword> ad {MaxTargets} egységnek az ellenfél paklijában, melynek ellátási költsége {Provisions}, vagy kevesebb, majd <keyword=spawn>Teremt</keyword> belőlük egy alap másolatot a paklidba. Erősíti magát {Boost} ponttal minden megmaradt ellátási költség pont után.\n<keyword=order>Parancs</keyword>: <keyword=banish>Száműzz</keyword> {MaxTargets2} kártyát a kezdő paklidból.\nAmíg a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
 203193_fluff;Csak egyetlen parancsolata van a hívei felé: Ölj!
 203193_name;Svalblod
 203193_tooltip;<keyword=deploy>Lehelyezés</keyword>: Sebez minden egységet {Damage} ponttal. \nAmikor egy <b>Förtelmedve</b> belép a csatatérre a te oldaladon, megismétli a <keyword=deploy>Lehelyezés</keyword> képességét.\nMinden körben az első alkalommal, amikor {Damage2} pont sebzést osztasz ki az egységeknek, <keyword=spawn>Teremt</keyword> egy <b>Svalblod fanatikust</b> erre a sorra.
 203194_fluff;A kardját a mélység tüzében kovácsolták, mely méltó egy isten kezébe és villámként képes megrepeszteni a földet. És mégis, csak ők volt képesek ilyen mesterműveket alkotni.
 203194_name;Tyr: Yngvar gyilkosa
-203194_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Sebez egy ellenséges egységet annak alap és aktuális erejének különbségével.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=resilient>Rugalmasságot</keyword> kap.\nAmikor a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
+203194_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Sebez egy ellenséges egységet annak alap és aktuális erejének különbségével.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=resilient>Rugalmasságot</keyword> kap.\Amíg a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
 203195_fluff;Minden élő teremtmény a Mezők Királynőjének gyermeke.
 203195_name;Dana Méadbh: Gondoskodó
-203195_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=harmony>Harmónia</keyword>. \nA köröd végén erősít minden olyan nem Semleges egységet a kezedben {Boost} ponttal, melynek elsődleges kategóriát nem irányítod.\nAmikor a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
+203195_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=harmony>Harmónia</keyword>. \nA köröd végén erősít minden olyan nem Semleges egységet a kezedben {Boost} ponttal, melynek elsődleges kategóriát nem irányítod.\Amíg a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
 203196_fluff;Azok, akik elég közel jönnek ahhoz, hogy érezzék Loc Feainn fuvallatát a bőrükön, gyengéd hangot hallanak. A jószívűek számára ez egy figyelmeztetés, hogy gyorsan forduljanak vissza. A kapzsiak és tiszteletlenek számára ez egy gyengéd felhívás egy új életre. Egy új célért. Örök vezeklés egy új testben.
 203196_name;Quarixis
 203196_tooltip;<keyword=harmony>Harmónia</keyword>.\nAmikor kijátszol egy újabb Ittrekedtet, <keyword=spawn>Teremt</keyword> és kijátssza: <b>Loc Feainn [A Nap tava]: Összetartás</b>.
@@ -4109,16 +4109,16 @@
 203197_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít minden szövetséges egységet {Boost} ponttal.\nAmikor ezen egység visszakerül a paklidba, aktiválódik a ciklus képessége:\nHajadon - Erősít minden szövetséges egységet {Boost2} ponttal.\nAnya - <keyword=spawn>Teremt</keyword> egy véletlenszerű, {Provisions}-es ellátási költségű Északi Királyságok egységet egy véletlenszerű sorra, ahol van egységed.\nVénasszony - Erősíti magát {Boost3} ponttal, majd növeli a képesség értékét ennyivel: {Increase}.
 203198_fluff;Itt Ellanderben, ha összetéveszted a lányaink némasági fogadalmát a hallgatólagos jóváhagyással, gyorsan ki lesz penderítve a segged.
 203198_name;Melitele temploma: Gyülekezet
-203198_tooltip;<keyword=doomed>Kárhozott</keyword>. <keyword=immune>Immunitás</keyword>. <keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> egy legendás egységet a frakciódból, amely nem található meg a kezdő paklidban {MaxTargets} alkalommal, majd belekeveri őket a paklidba.\n<keyword=order>Parancs</keyword>: Húzz egy általad választott egységet és erősítsd a kezedben lévő lapok számával, majd keverj vissza egy kártyát a kezedből a paklidba.\nAmikor a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
+203198_tooltip;<keyword=doomed>Kárhozott</keyword>. <keyword=immune>Immunitás</keyword>. <keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> egy legendás egységet a frakciódból, amely nem található meg a kezdő paklidban {MaxTargets} alkalommal, majd belekeveri őket a paklidba.\n<keyword=order>Parancs</keyword>: Húzz egy általad választott egységet és erősítsd a kezedben lévő lapok számával, majd keverj vissza egy kártyát a kezedből a paklidba.\Amíg a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
 203199_fluff;Nem halott az, mi fekszik örökkön, a halál sem ér át végtelen időkön.
 203199_name;Dagon: Ígért
-203199_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruház</keyword> {MaxTargets} egységet a paklidban ezzel: "{InjectableAbility}" és <keyword=spawn>Teremti</keyword> <b>A mélység hívása</b> kártyát a temetődbe.\n<keyword=order>Parancs</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\nAmikor kijátszol egy <keyword=deathwish>Halálvágy</keyword> képességű egységet, erősíti azt {Boost} ponttal.\nAmikor a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
+203199_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruház</keyword> {MaxTargets} egységet a paklidban ezzel: "{InjectableAbility}" és <keyword=spawn>Teremti</keyword> <b>A mélység hívása</b> kártyát a temetődbe.\n<keyword=order>Parancs</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\nAmikor kijátszol egy <keyword=deathwish>Halálvágy</keyword> képességű egységet, erősíti azt {Boost} ponttal.\Amíg a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
 203200_fluff;Ha valaha is szemtanúja leszel valaminek, ami úgy néz ki, mintha az emberiség gyűlöletének és kegyetlenségének elsöprő árnyéka megfojtaná az eget... légy hálás, hogy ez csak egy ómen.
 203200_name;Lilit ómenje
 203200_tooltip;<keyword=summon>Idézz</keyword> {MaxTargets} <keyword=veil>Lepel</keyword> nélküli nem Semleges egységet a paklidból egy szövetséges sorra, majd tedd őket <keyword=doomed>Kárhozottá</keyword> és adj nekik <keyword=rupture>Megszakadást</keyword>.
 203201_fluff;Vissza, pogány! Nem baltázom el másodjára.
 203201_name;Szent Gergely: Ítélethozó
-203201_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Erősíti magát {Boost} ponttal minden általad irányított egység után és kapsz <keyword=coin>Érmét</keyword> minden általad irányított Tűztestvér kártya után.\nAmikor a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
+203201_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Erősíti magát {Boost} ponttal minden általad irányított egység után és kapsz <keyword=coin>Érmét</keyword> minden általad irányított Tűztestvér kártya után.\Amíg a kézben, vagy a pakliban van fejlődik, miután megnyerted a fordulót.
 203202_fluff;Dijkstra híres káromkodásai kifejezőbbek egyszerű szavaknál.
 203202_name;Reuven gróf kincse
 203202_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=profit>Haszon</keyword> {Profit}.\nNöveli a <keyword=profit>Haszon</keyword> értékét {Profit2} ponttal minden kezdő paklidban lévő Gaztett kártya után.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> egy bronz Gaztett kártyát, melynek ellátási költsége azonos, vagy kevesebb, mint a meglévő <keyword=coin>Érméd</keyword>, amit a <keyword=profit>Haszonból</keyword> szereztél.\nAmikor <keyword=coin>Érmét</keyword> szerzel, kapsz Számlálót is a többletponttal azonos mértékben.\nA köröd végén csökkentsd a Számlálót {Counter2} ponttal és kapsz egy <keyword=coin>Érmét</keyword>!\nSzámláló: {Counter}
@@ -4138,13 +4138,91 @@
 203207_tooltip;<keyword=doomed>Kárhozott</keyword>. <keyword=immune>Immunitás</keyword>. <keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Keverj vissza egy szövetséges egységet a paklidba, majd keverj vissza egy ellenséges egységet az ellenfél paklijába, melynek azonos, vagy kisebb az ereje!\n<keyword=order>Parancs</keyword>: Játszd ki a visszakevert egységedet a paklidból!
 203208_fluff;Nem halott az, mi fekszik örökkön, a halál sem ér át végtelen időkön.
 203208_name;Dagon: Felemelkedett
-203208_tooltip;<keyword=doomed>Kárhozott</keyword>.\nA köröd végén növeld a Számlálót {Counter} ponttal!\n<keyword=deathwish>Halálvágy</keyword>: Aktiválja a képességeket a Számláló értékéig.\n1 - <keyword=summon>Idézi</keyword> a leggyengébb bronz <keyword=deathwish>Halálvágy</keyword> képességű egységedet a temetődből erre a sorra.\n2 - Erősít minden szövetséges egységet ezen a soron {Boost} ponttal.\n3 - <keyword=storm>Vihart</keyword> <keyword=spawn>Teremt</keyword> {Rain} körre a szemközti sorra.\n4 - Sebzi a {MaxTargets} leggyengébb ellenséges egységet {Damage} ponttal.\n5 - <keyword=spawn>Teremt</keyword> egy alap másolatot magáról a kezedbe.\nSzámláló: {Counter2}
+203208_tooltip;<keyword=doomed>Kárhozott</keyword>.\nA köröd végén növeld a Számlálót {Counter} ponttal!\n<keyword=deathwish>Halálvágy</keyword>: Aktiválja a képességeket a Számláló értékéig:\n1 - <keyword=summon>Idézi</keyword> a leggyengébb bronz <keyword=deathwish>Halálvágy</keyword> képességű egységedet a temetődből erre a sorra.\n2 - Erősít minden szövetséges egységet ezen a soron {Boost} ponttal.\n3 - <keyword=storm>Vihart</keyword> <keyword=spawn>Teremt</keyword> {Rain} körre a szemközti sorra.\n4 - Sebzi a {MaxTargets} leggyengébb ellenséges egységet {Damage} ponttal.\n5 - <keyword=spawn>Teremt</keyword> egy alap másolatot magáról a kezedbe.\nSzámláló: {Counter2}
 203209_fluff;Vissza, pogány! Nem baltázom el másodjára.
 203209_name;Szent Gergely: Mártír
 203209_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=insanity>Elmebaj</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Sebezz egy ellenséges egységet annyival, ahány Tűztestvér kártya van ezen a soron!\n<keyword=fee>Tiszteletdíj</keyword> {Fee}: Sebezz egy ellenséges egységet ennyivel: {Damage}!\n<keyword=berserk>Dühöngő</keyword> {Berserk}: Erősíti az összes Tűztestvér egységedet {Boost} ponttal és sebezd az összes ellenséges egységet ennyivel: {Damage2}, majd megsemmisíti magát.
+203210_fluff;Steady, steady, just a little lower... There we go. That thing ate the Captain's helmet. We'll need to get it back.
+203210_name;Abduction
+203210_tooltip;<keyword=echo>Echo</keyword>.\nPlay a unit that isn't from your opponent's starting deck from their deck with a provision cost of {MaxTarget} or less. Boost it by {Boost} for each provision below the limit.
+203211_fluff;Having been denied a rightful tract of land by his duke of an uncle, Sandor set out to build his own duchy from the ground up, starting with the realm of seedy, bottom-shelf operations within the Imperial Military Intelligence best suited for fools and madmen...
+203211_name;Sandor de Baccalà
+203211_tooltip;<keyword=deploy>Deploy</keyword>: Shuffle a card from your deck into your opponent's deck.\n<keyword=order>Order</keyword>: <keyword=spawn>Spawn</keyword> a Drone at the bottom of your opponent's deck and set its power to the difference between the number of cards in the players' decks.\nWhenever a card enters or leaves your opponent's deck, boost self by {Boost}.
+203212_fluff;Destroying the supplies was merely a convienient side effect of the main goal: make them believe the food from their allies is tainted, and leave them with a choice: Nilfgaard or famine.
+203212_name;Contaminator
+203212_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=banish>Banish</keyword> an enemy unit with 3 or less power, then, if it wasn't a Token, <keyword=spawn>Spawn</keyword> its base copy at the bottom of your opponent's deck.
+203213_fluff;Voted least likely to live to old age by the other chemists in the academy. And that was really saying something.
+203213_name;Toxicologist
+203213_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}", then, if it wasn't a Token, <keyword=spawn>Spawn</keyword> its copy at the bottom your opponent's deck.
+203214_fluff;Once released, there's no un-releasing it.
+203214_name;Kraken
+203214_tooltip;<keyword=disloyal>Disloyal</keyword>.\n<keyword=deploy>Deploy</keyword>: Move {MaxTargets} enemy units to this row, damage them by {Damage} and <keyword=spawn>Spawn</keyword> <keyword=storm>Storm</keyword> for {Counter} turns on this row.\n<keyword=deathwish>Deathwish</keyword>: <keyword=summon>Summon</keyword> self to the opposite row and boost self by the number of unique allied Beasts.
+203215_fluff;Tis a malevolent spirit! 'Tis animated seaweed! Nay, ye hallucinatin' dolts, 'tis clearly a horse!
+203215_name;Kelpie
+203215_tooltip;<keyword=deploy>Deploy</keyword>: <keyword=spawn>Spawn</keyword> <keyword=rain>Rain</keyword> on an enemy row for {Counter} turns. This value is increased by {Counter2} for each {MaxTargets} Beasts in your starting deck.\nWhenever an enemy unit takes damage from <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, boost a random unboosted allied Beast by {Boost}.
+203216_fluff;Hire a dragonslayer? For some oversized eel? Ha! Mainlander nonsense!
+203216_name;Sea Serpent
+203216_tooltip;<keyword=deploy>Deploy</keyword>: Boost self by {0+B.P.BB_RainStormThisRound} and damage an enemy unit by 3.\nIncrease the boost by {Boost} for each opponent turn in which <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> triggered this round.
+203217_fluff;The good news is, you'll never actually encounter one outside of your deepest, darkest nightmares.
+203217_name;Anglerfish
+203217_tooltip;At the end of your turn, if there is <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> on both enemy rows, <keyword=summon>Summon</keyword> self from your deck to your <keyword=ranged>Ranged</keyword> row.\nAt the end of your turn, if neither enemy row has <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, move self to the bottom of your deck.
+203218_fluff;Months spent foolproofing this operation, only to find I should have hired better listeners... My mother must be laughing somewhere.
+203218_name;Telianyn aep Collen
+203218_tooltip;<keyword=deploy>Deploy</keyword>: Shuffle an allied unit with a provision cost of {Provisions} or less to your deck, then play the top Elf with a <keyword=deploy>Deploy</keyword> ability from your deck. \n<keyword=order>Order</keyword>: <keyword=spawn>Spawn</keyword> and play Backup Plan. If this unit is Prepared, <keyword=infused>Infuse</keyword> self with "{InjectableAbility}" instead.
+203219_fluff;Plan's simple: same as last time, but better.
+203219_name;The Heist
+203219_tooltip;<keyword=echo>Echo</keyword>.\n<keyword=spawn>Spawn</keyword> {MaxTargets} Cargos on an allied row.
+203220_fluff;If we can't rob them in the streets, we fight them in the woods!
+203220_name;Backup Plan
+203220_tooltip;Damage the last unit played by your opponent by {Damage} and <keyword=create>Create</keyword> a bronze Elf with a <keyword=deploy>Deploy</keyword> ability that was not in your starting deck.
+203221_fluff;Living among humans for so many years had revealed some unique vulnerabilities to the Scoia'tael. For one, apparently not all dh'oine recognize sarcasm...
+203221_name;Trickster
+203221_tooltip;<keyword=deploy>Deploy</keyword>: Move the last played enemy unit to another row and <keyword=infused>Infuse</keyword> it with "{InjectableAbility}".
+203222_fluff;Checkmate... your majesty.
+203222_name;Sigismund Dijkstra
+203222_tooltip;<keyword=order>Order</keyword>: Play a boosted unit from your deck.\nWhile in deck, whenever this unit receives a boost from other abilities, boost self by the same amount.
+203223_fluff;It's not exactly a holiday, no, but there is plenty of singing, if that's what you're into.
+203223_name;Drakenborg
+203223_tooltip;<keyword=resilient>Resilience</keyword>.\n<keyword=deploy>Deploy</keyword>: <keyword=summon>Summon</keyword> a unit from your deck to this row, <keyword=lock>Lock</keyword> it and remove its boost.\n<keyword=order>Order</keyword>: Boost an allied unit by {Boost}. Increase this value by the amount of boost that was removed.
+203224_fluff;They say the aristocracy can sniff out a commoner among them. However, liberal application of alcohol and perfume can throw off the scent for long enough to strike up a conversation or two. Perhaps even gain their trust.
+203224_name;Redanian Secret Service
+203224_tooltip;<keyword=zeal>Zeal</keyword>. <keyword=order>Order</keyword>: <keyword=purify>Purify</keyword> an allied unit.\nIf you do not control Redanian Secret Service, when an allied unit gains a status, <keyword=summon>Summon</keyword> self from your deck to its row.
+203225_fluff;Eight-time champion of solo hide-and-seek.
+203225_name;Redanian Agent
+203225_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=order>Order</keyword>: Boost a unit in your deck by {Boost}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}
+203226_fluff;A thousand mindless horrors, all racing toward you in perfect accord, relentless, ravenous.
+203226_name;Hive Mind
+203226_tooltip;Choose {MaxTargets} different bronze Kikimore units.\nWhile in your graveyard, the first time you <keyword=spawn>Spawn</keyword> a Drone on the battlefield each allied turn, transform it into the next chosen Kikimore unit.
+203227_fluff;Bugspray doesn't always mean what you think it means.
+203227_name;Acid Spit
+203227_tooltip;<keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}".
+203228_fluff;Peek-a-boo, it's after you!
+203228_name;Kikimore Stalker
+203228_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=zeal>Zeal</keyword>. <keyword=order>Order</keyword> (<keyword=predator>Predator</keyword>): Damage an enemy unit by {Damage} or <keyword=consume>Consume</keyword> an allied Drone.\n<keyword=charge>Charge</keyword>: {Charge}\nWhenever you <keyword=spawn>Spawn</keyword> one or more Insectoids, gain a <keyword=charge>Charge</keyword>.
+203229_fluff;As a general rule, the more brightly colored the egg, the less you'll want to fry it.
+203229_name;Kikimore Hatchling
+203229_tooltip;<keyword=order>Order</keyword>: Remove {Boost} boost from self, then <keyword=spawn>Spawn</keyword> a Drone on this row.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}\nWhenever you play an Organic card, boost self by {Boost2}.
+203230_fluff;He would have done anything for love, but a fireworks display never quite felt this warranted.
+203230_name;Casimir Bassi
+203230_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=deploy>Deploy</keyword>: Spend all your <keyword=coin>Coins</keyword>, then boost self by the number of <keyword=coin>Coins</keyword> spent.\nOnce per turn, when you reach {Coins} <keyword=coin>Coins</keyword>, <keyword=spawn>Spawn</keyword> Explosives on this row.
+203231_fluff;One somersault into a crossbow shot, aimed with the feet, through a pigeon, mid-flight, blindfolded—and suddenly nothing's impossible.
+203231_name;Eveline Gallo
+203231_tooltip;At the end of your turn, if you have {Coins2} <keyword=coin>Coins</keyword>, gain {Coins} <keyword=coin>Coins</keyword>.
+203232_fluff;I'll have any lock you need picked before you even hire me.
+203232_name;Open, Sesame!
+203232_tooltip;<keyword=profit>Profit</keyword> {Profit}.\nWhile in your graveyard, whenever you reach {Coins} <keyword=coin>Coins</keyword>, remove a Counter.\nWhen the Counter reaches {Counter2}, gain {Coins2} <keyword=coin>Coins</keyword>.\nCounter: {Counter}
+203233_fluff;Cooler heads will prevail... provided they're holding the cards.
+203233_name;Oxenfurt Guard
+203233_tooltip;<keyword=fee>Tiszteletdíj</keyword> {Fee}: Boost adjacent units by {Boost}. If that reduced your <keyword=coin>Coins</keyword> to {Coins}, boost them by {Boost2} instead.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}
 203234_fluff;Nem halott az, mi fekszik örökkön, a halál sem ér át végtelen időkön.
 203234_name;A mélység hívása
 203234_tooltip;Miután imádták Dagont {MaxTargets} alkalommal, <keyword=spawn>Teremti</keyword> <b>Dagon: Ígért</b>-et a <keyword=melee>Közelharci</keyword> sorodra és <keyword=banish>Száműzi</keyword> magát.
+203237_fluff;Hat láb, hét láb, nyolc láb doboz!
+203237_name;Rakomány
+203237_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=order>Parancs</keyword>: Aktiválja a <keyword=deploy>Lehelyezés</keyword> képességét egy nem <keyword=veil>Lepel</keyword> alatt álló, nem Felkészült, nem semleges Katona, sem Ügynök, vagy Bandita egységnek, majd <keyword=infused>Felruházza</keyword> azt Felkészült kategóriával és <keyword=banish>Száműzi</keyword> magát.\nAzon egységek, melyek ebben a körben lettek kijátszva, nem választhatóak.
+203238_fluff;Basszus! Rohanj, te hülye barom, az nem egy vérző sárgarépa!
+203238_name;Robbanószer
+203238_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=fee>Tiszteletdíj</keyword> {Fee}: Sebez egy ellenséges egységet {Damage} ponttal, majd megsemmisíti magát.\nA köröd végén csökken a <keyword=fee>Tiszteletdíj</keyword> ára {Fee2} értékkel. Ha a <keyword=fee>Tiszteletdíj</keyword> ára {Fee3}, helyette megsemmisíti magát.
 21_name_sa;Ignorált.
 21_tooltip_ia;Amikor passzolsz, erősítsd a leggyengébb szövetséges egységedet {Boost} ponttal
 22_name_sa;Ignorált.
@@ -4170,10 +4248,14 @@
 30_name_sa;Ignorált.
 30_tooltip_ia;Amint mindkét játékos passzolt, sebzi magát {Damage} ponttal
 31_name_sa;Ignorált.
+31_tooltip_ia;Amikor egy kártya hozzáadódik, vagy kikerül a paklidból, sebzi magát {Damage} ponttal
 32_name_lt;Kataklizma
 32_name_sa;Ignorált.
-32_tooltip_lt;A tulajdonosa körének kezdetén szétoszt {Damage} pont sebzést véletlenszerűen, az ezen a soron lévő egységek között.
+32_tooltip_ia;A köröd végén sebez egy véletlenszerű ellenséges egységet a szövetséges Felkészült egységek számával
+32_tooltip_lt;A tulajdonsának köre kezdetén szétoszt {Damage} sebzést véletlenszerűen a soron lévő egységek között.
 33_name_sa;Ignorált.
+33_tooltip_ia;Amikor az ellenfeled kijátszik egy Elfet, sebzi magát {Damage} ponttal
+34_tooltip_ia;Ha ennek az egységnek több, mint {Power} az ereje és az ellenfél <keyword=spawn>Teremt</keyword> egy, vagy több egységet, sebzi magát {Damage} ponttal. Amikor a saját ereje eléri a {Power} értéket, <keyword=infused>Felruházza</keyword> ezzel a képességgel a szomszédos egységeket is, melyek még nem rendelkeznek vele
 36_name_b;N/A
 39_name_b;A Fekete Nap időszaka
 4_name_b;Ignorált.
@@ -4189,7 +4271,7 @@
 5_name_b;Ignorált.
 5_name_ia;N/A
 5_name_sa;Ignorált.
-5_tooltip_ia;<keyword=deathwish>Halálvágy</keyword>: <keyword=spawn>Teremt</keyword> <keyword=cataclysm>Kataklizmát</keyword> erre a sorra {Counter} körre
+5_tooltip_ia;<keyword=deathwish>Halálvágy</keyword>: <keyword=cataclysm>Kataklizmát</keyword> <keyword=spawn>Teremt</keyword> erre a sorra {Counter} körre
 6_name_b;Ignorált.
 6_name_ia;N/A
 6_name_sa;Ignorált.
@@ -4223,6 +4305,7 @@ card_category_107;Szcenárió
 card_category_109;Helyszín
 card_category_11;Taktika
 card_category_110;Najád
+card_category_112;Felkészült
 card_category_12;Bestia
 card_category_13;Vezér
 card_category_14;Mágus
@@ -4426,6 +4509,7 @@ keyword_overstrain;<#600101>Erőfeszítés:</color> Végrehajt egy meghatározot
 keyword_pair;<#600101>Páros:</color> Aktiválódik ez a képesség, ha ezen egység két példánya is a táblán van.
 keyword_patience;<#600101>Türelem:</color> A köröd végén, ha a Parancs hatása nincs érvényesítve, megnöveli a kártya meghatározott értékét eggyel a játék hátralévő részére.
 keyword_poison;<#600101>Méreg:</color> Állapot. Ha ez az egység megszerzi a második Méreg állapotot is, akkor megsemmisül.
+keyword_predator;<#600101>Ragadozó:</color> Ez a képesség csak olyan egységeket célozhat, melyeknek ereje kisebb, mint a sajátja.
 keyword_profit;<#600101>Haszon:</color> Meghatározott mennyiségű Érmét kapsz, ha ezt a kártyát kijátszod. Maximum 9 Érméd lehet.
 keyword_promote;<#600101>Előléptetés:</color> Alakítsd át a kártyát Arannyá a forduló végéig!
 keyword_purify;<#600101>Tisztítás:</color> Minden állapotot eltávolít.
