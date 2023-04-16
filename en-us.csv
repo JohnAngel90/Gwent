@@ -2924,7 +2924,7 @@
 202571_tooltip;Ignorált.
 202572_name;Elsöprő éhség
 202572_tooltip;<keyword=order>Parancs</keyword>: Megsemmisít egy szövetséges egységet, majd <keyword=spawn>Teremt</keyword> egy <b>Ekimmarát</b> erre a sorra és erősíti azt a megsemmisített egység erejével.\n<keyword=charge>Töltet</keyword>: {Charges}.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
-202573_name;Szélhámos
+202573_name;Imposztor
 202573_tooltip;<keyword=order>Parancs</keyword>: <keyword=lock>Zárol</keyword> egy ellenséges egységet, majd teremti annak alap másolatából a szemközti sorra, és erősíti annyival, ahány állapottal rendelkező ellenséges egység van a <keyword=lock>Zárolt</keyword> egység sorában.\nAmikor kijátszol egy Arisztokratát az oldaladra, és van legalább {MaxTargets} különböző állapot a szemközti soron, erősíti azt {Boost} ponttal.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 202574_name;Felkelés
 202574_tooltip;<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet. <keyword=charge>Töltet</keyword>: {Charges}\nJátékonként egyszer, miután az összes <keyword=charge>Töltetet</keyword> felhasználtad, <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Lyriai kaszást</b>.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
@@ -4126,7 +4126,7 @@
 203203_tooltip;Sebez egy ellenséges egységet {Damage} ponttal, majd kijátszik egy bronz kártyát a kezedből, majd a <b>Mesteri Sihil</b> visszatér a kezedbe.
 203204_fluff;Mint egy császár, vagy egy császárság: Fellengzős, előkelő, és elszánt.
 203204_name;Torres var Emreis: Főpap
-203204_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=assimilate>Hasonulás</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Visszavesz egy nem <keyword=doomed>Kárhozott</keyword> szövetséges egységet, (amely nem a kezdőpaklid része) a kezedbe, (magát kivéve), erősíti azt {Boost} ponttal és <keyword=doomed>Kárhozottá</keyword> teszi, majd kijátszik egy kártyát.\nHa nincs érvényes kártya, helyette <keyword=create>Létrehoz</keyword> és kijátszik egy bronz egységet az ellenfeled frakciójából és erősíti azt {Boost2} ponttal.
+203204_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=assimilate>Hasonulás</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Visszavesz egy nem <keyword=doomed>Kárhozott</keyword> szövetséges egységet, (amely nem a kezdő paklid része) a kezedbe, (magát kivéve), erősíti azt {Boost} ponttal és <keyword=doomed>Kárhozottá</keyword> teszi, majd kijátszik egy kártyát.\nHa nincs érvényes kártya, helyette <keyword=create>Létrehoz</keyword> és kijátszik egy bronz egységet az ellenfeled frakciójából és erősíti azt {Boost2} ponttal.
 203205_fluff;A kardját a mélység tüzében kovácsolták, mely méltó egy isten kezébe és villámként képes megrepeszteni a földet. És mégis, csak ők voltak képesek ilyen mesterműveket alkotni.
 203205_name;Tyr: An Skellig mestere
 203205_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Mozgass egy bronz nem Semleges egységet a temetődből a kezedbe, majd <keyword=discard>Dobj el</keyword> egy kártyát!\nMinden körödben előszőr, amikor egy bronz egység elhagyja a temetődet, erősítsd azt annak alaperejével!
@@ -4149,71 +4149,71 @@
 203211_name;Sandor de Baccalà
 203211_tooltip;<keyword=deploy>Lehelyezés</keyword>: Keverj bele egy kártyát a paklidból az ellenfeled paklijába!\n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> az ellenfeled paklijának aljára és annak az erejét a két játékos paklija méretének különbözetére állítja.\nAmikor egy kártya hozzáadódik, vagy kikerül az ellenfél paklijából, erősíti magát {Boost} ponttal.
 203212_fluff;Az ellátmány megsemmisítése csak a fő cél mellékhatása volt: elhitetni velük, hogy a szövetségesektől érkező élelmiszer megfertőzödött, és olyan helyzetbe hozni őket, hogy választás elé kerüljenek: Nilfgaard vagy éhínség.
-203212_name;Contaminator
+203212_name;Fertőzésbiztos
 203212_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=banish>Száműz</keyword> egy 3, vagy kisebb erejű ellenséges egységet, majd, ha az nem Token volt, <keyword=spawn>Teremti</keyword> annak alap másolatát az ellenfeled paklijának az aljára.
-203213_fluff;Voted least likely to live to old age by the other chemists in the academy. And that was really saying something.
-203213_name;Toxicologist
-203213_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}", then, if it wasn't a Token, <keyword=spawn>Teremt</keyword> its copy at the bottom your opponent's deck.
-203214_fluff;Once released, there's no un-releasing it.
+203213_fluff;Az akadémia többi kémikusának szavazata alapján valószínűleg ők érik meg legkevesebben az öregkort. És ez azért már jelent valamit.
+203213_name;Toxikológus
+203213_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: "{InjectableAbility}", majd, ha az nem Token volt, <keyword=spawn>Teremti</keyword> annak alap másolatát az ellenfeled paklijának az aljára.
+203214_fluff;Ha egyszer kiengeden, nem tudod többé visszazárni.
 203214_name;Kraken
-203214_tooltip;<keyword=disloyal>Disloyal</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Move {MaxTargets} enemy units to this row, damage them by {Damage} and <keyword=spawn>Teremt</keyword> <keyword=storm>Storm</keyword> for {Counter} turns on this row.\n<keyword=deathwish>Deathwish</keyword>: <keyword=summon>Summon</keyword> self to the opposite row and boost self by the number of unique allied Beasts.
-203215_fluff;Tis a malevolent spirit! 'Tis animated seaweed! Nay, ye hallucinatin' dolts, 'tis clearly a horse!
+203214_tooltip;<keyword=disloyal>Áruló</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Mozgass {MaxTargets} ellenséges egységet erre a sorra, okozz nekik {Damage} pont sebzést és <keyword=spawn>Teremts</keyword> <keyword=storm>Vihart</keyword> {Counter} körre ezen a soron!\n<keyword=deathwish>Halálvágy</keyword>: <keyword=summon>Teremti</keyword> önmagát a szemközti sorra és erősíti magát az egyedi szövetséges Bestiák számával.
+203215_fluff;Az egy rosszindulatú szellem! Az egy eleven hínár! Ugyan, csak halucináltok, idióták. Az egyértelműen egy ló!
 203215_name;Kelpie
-203215_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> <keyword=rain>Rain</keyword> on an enemy row for {Counter} turns. This value is increased by {Counter2} for each {MaxTargets} Beasts in your starting deck.\nWhenever an enemy unit takes damage from <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, boost a random unboosted allied Beast by {Boost}.
-203216_fluff;Hire a dragonslayer? For some oversized eel? Ha! Mainlander nonsense!
-203216_name;Sea Serpent
-203216_tooltip;<keyword=deploy>Lehelyezés</keyword>: Boost self by {0+B.P.BB_RainStormThisRound} and damage an enemy unit by 3.\nIncrease the boost by {Boost} for each opponent turn in which <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> triggered this round.
-203217_fluff;The good news is, you'll never actually encounter one outside of your deepest, darkest nightmares.
-203217_name;Anglerfish
-203217_tooltip;At the end of your turn, if there is <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword> on both enemy rows, <keyword=summon>Summon</keyword> self from your deck to your <keyword=ranged>Ranged</keyword> row.\nAt the end of your turn, if neither enemy row has <keyword=rain>Rain</keyword> or <keyword=storm>Storm</keyword>, move self to the bottom of your deck.
-203218_fluff;Months spent foolproofing this operation, only to find I should have hired better listeners... My mother must be laughing somewhere.
+203215_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword> {Counter} körre egy ellenséges sorra. Ez az érték növekszik {Counter2}-et minden kezdő paklidban található {MaxTargets} Bestia után.\nAmikor egy ellenséges egység sebzést szenved el <keyword=rain>Esőtől</keyword>, vagy <keyword=storm>Vihartól</keyword>, erősíts egy véletlenszerű, nem erősített szövetséges Bestiát {Boost} ponttal!
+203216_fluff;Felbérelni egy sárkányölőt? Egy túlméretes angolna miatt? Hah! Szárazföldi badarság!
+203216_name;Tengeri kígyó
+203216_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát {0+B.P.BB_RainStormThisRound} ponttal és sebez egy ellenséges egységet 3 ponttal.\nNöveli az erősítést {Boost} ponttal minden, az ellenfél térfelén megmaradt <keyword=rain>Eső</keyword>, vagy <keyword=storm>Vihar</keyword> köre után.
+203217_fluff;A jó hír az, hogy a legmélyebb, legsötétebb rémálmaidon kívül soha nem fogsz találkozni ilyennel.
+203217_name;Horgászhal
+203217_tooltip;A köröd végén, ha van <keyword=rain>Eső</keyword>, vagy <keyword=storm>Vihar</keyword> mindkét ellenséges soron, <keyword=summon>Idézi</keyword> magát a paklidból a <keyword=ranged>Távolsági</keyword> sorodra.\nA köröd végén, ha egyik ellenséges soron sincs <keyword=rain>Eső</keyword>, vagy <keyword=storm>Vihar</keyword>, átmozgatja magát a paklid aljára.
+203218_fluff;Hónapokat töltöttem azzal, hogy bolondbiztossá tegyem ezt a műveletet csak azért, hogy aztán rájöjjek, jobb hallgatóságot kellett volna felbérelnem... Az anyám most biztos nevet valahol.
 203218_name;Telianyn aep Collen
-203218_tooltip;<keyword=deploy>Lehelyezés</keyword>: Shuffle an allied unit with a provision cost of {Provisions} or less to your deck, then play the top Elf with a <keyword=deploy>Lehelyezés</keyword> ability from your deck. \n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> and play Backup Plan. If this unit is Prepared, <keyword=infused>Infuse</keyword> self with "{InjectableAbility}" instead.
-203219_fluff;Plan's simple: same as last time, but better.
-203219_name;The Heist
-203219_tooltip;<keyword=echo>Visszhang</keyword>.\n<keyword=spawn>Teremt</keyword> {MaxTargets} Cargos on an allied row.
-203220_fluff;If we can't rob them in the streets, we fight them in the woods!
-203220_name;Backup Plan
-203220_tooltip;Damage the last unit played by your opponent by {Damage} and <keyword=create>Create</keyword> a bronze Elf with a <keyword=deploy>Lehelyezés</keyword> ability that was not in your starting deck.
-203221_fluff;Living among humans for so many years had revealed some unique vulnerabilities to the Scoia'tael. For one, apparently not all dh'oine recognize sarcasm...
-203221_name;Trickster
-203221_tooltip;<keyword=deploy>Lehelyezés</keyword>: Move the last played enemy unit to another row and <keyword=infused>Infuse</keyword> it with "{InjectableAbility}".
-203222_fluff;Checkmate... your majesty.
+203218_tooltip;<keyword=deploy>Lehelyezés</keyword>: Keverj vissza egy {Provisions}, vagy kisebb ellátási költségű egységet a paklidba, majd játszd ki azt a legfelső Elf kártyádat a paklidból, amelynek van <keyword=deploy>Lehelyezés</keyword> képessége. \n<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Tartalék terv</b> kártyát. Ha ez az egység Felkészült, helyette <keyword=infused>Felruházza</keyword> magát ezzel: "{InjectableAbility}".
+203219_fluff;A terv egyszerű: úgy, mint múltkor, csak jobban.
+203219_name;A rablás
+203219_tooltip;<keyword=echo>Visszhang</keyword>.\n<keyword=spawn>Teremt</keyword> {MaxTargets} <b>Rakományt</b> egy szövetséges sorodra.
+203220_fluff;Ha nem tudjuk kirabolni őket az utcán, megküzdünk velük az erdőben!
+203220_name;Tartalék terv
+203220_tooltip;Sebzi az ellenfeled által utoljára kijátszott egységet {Damage} ponttal és <keyword=create>Létrehoz</keyword> egy bronz <keyword=deploy>Lehelyezés</keyword> képességű Elf egységet, mely nem a kezdő paklid része.
+203221_fluff;A Mókusok számára, az emberek között eltöltött számos év rávilágított néhány egyedi emberi gyengeségre. Az egyik az, hogy nyilvánvalóan nem minden dh'oine képes felismerni a szarkazmust...
+203221_name;Szélhámos
+203221_tooltip;<keyword=deploy>Lehelyezés</keyword>: Átmozgatja az utoljára kijátszott ellenséges egységet a másik sorra és <keyword=infused>Felruházza</keyword> ezzel: "{InjectableAbility}".
+203222_fluff;Sakk és matt... felség!
 203222_name;Sigismund Dijkstra
-203222_tooltip;<keyword=order>Parancs</keyword>: Play a boosted unit from your deck.\nWhile in deck, whenever this unit receives a boost from other abilities, boost self by the same amount.
-203223_fluff;It's not exactly a holiday, no, but there is plenty of singing, if that's what you're into.
+203222_tooltip;<keyword=order>Parancs</keyword>: Játssz ki egy erősített egységet a paklidból!\nAmíg a pakliban van és ez az egység erősítést szerez egy másik képességtől, erősíti magát azzal azonos mértékben.
+203223_fluff;Ez nem éppen egy nyaralás, nem, de van bőven dalolás, ha az ember erre vágyik.
 203223_name;Drakenborg
-203223_tooltip;<keyword=resilient>Resilience</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=summon>Summon</keyword> a unit from your deck to this row, <keyword=lock>Lock</keyword> it and remove its boost.\n<keyword=order>Parancs</keyword>: Boost an allied unit by {Boost}. Increase this value by the amount of boost that was removed.
-203224_fluff;They say the aristocracy can sniff out a commoner among them. However, liberal application of alcohol and perfume can throw off the scent for long enough to strike up a conversation or two. Perhaps even gain their trust.
-203224_name;Redanian Secret Service
-203224_tooltip;<keyword=zeal>Zeal</keyword>. <keyword=order>Parancs</keyword>: <keyword=purify>Purify</keyword> an allied unit.\nIf you do not control Redanian Secret Service, when an allied unit gains a status, <keyword=summon>Summon</keyword> self from your deck to its row.
-203225_fluff;Eight-time champion of solo hide-and-seek.
-203225_name;Redanian Agent
-203225_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=order>Parancs</keyword>: Boost a unit in your deck by {Boost}.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}
-203226_fluff;A thousand mindless horrors, all racing toward you in perfect accord, relentless, ravenous.
-203226_name;Hive Mind
-203226_tooltip;Choose {MaxTargets} different bronze Kikimore units.\nWhile in your graveyard, the first time you <keyword=spawn>Teremt</keyword> a Drone on the battlefield each allied turn, transform it into the next chosen Kikimore unit.
-203227_fluff;Bugspray doesn't always mean what you think it means.
-203227_name;Acid Spit
-203227_tooltip;<keyword=infused>Infuse</keyword> an enemy unit with "{InjectableAbility}".
-203228_fluff;Peek-a-boo, it's after you!
-203228_name;Kikimore Stalker
-203228_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=zeal>Zeal</keyword>. <keyword=order>Parancs</keyword> (<keyword=predator>Predator</keyword>): Damage an enemy unit by {Damage} or <keyword=consume>Consume</keyword> an allied Drone.\n<keyword=charge>Charge</keyword>: {Charge}\nWhenever you <keyword=spawn>Teremt</keyword> one or more Insectoids, gain a <keyword=charge>Charge</keyword>.
-203229_fluff;As a general rule, the more brightly colored the egg, the less you'll want to fry it.
-203229_name;Kikimore Hatchling
-203229_tooltip;<keyword=order>Parancs</keyword>: Remove {Boost} boost from self, then <keyword=spawn>Teremt</keyword> a Drone on this row.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}\nWhenever you play an Organic card, boost self by {Boost2}.
-203230_fluff;He would have done anything for love, but a fireworks display never quite felt this warranted.
+203223_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=summon>Idézz</keyword> egy egységet a paklidból erre a sorra, <keyword=lock>Zárold</keyword> azt, és távolítsd el róla az erősítést!\n<keyword=order>Parancs</keyword>: Erősít egy szövetséges egységet {Boost} ponttal. Növeld ezt az értéket az eltávolított erősítés mértékével azonos mértékben!
+203224_fluff;Azt mondják, az arisztokrácia ki tudja szagolni maguk között a közembert. Azonban, az alkohol és a parfüm megfelelő elegye kellő időre elfedheti az illatot addig, amíg pár beszélgetést lefolytat. Talán még a bizalmukat is elnyeri.
+203224_name;Redániai titkosszolgálat
+203224_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: <keyword=purify>Tisztít</keyword> egy szövetséges egységet.\nHa nem irányítod a <b>Redániai titkosszolgálatot</b> amikor egy szövetséges egység állapotot szerez, <keyword=summon>Idézi</keyword> magát a paklidból az egység sorára.
+203225_fluff;Nyolcszoros bajnoka az egyszemélyes bújócskának.
+203225_name;Redániai ügynök
+203225_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=order>Parancs</keyword>: Erősít egy egységet a paklidban {Boost} ponttal.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
+203226_fluff;Ezer agyatlan borzalom, mind verseng érted tökéletes összhangban, könyörtelen falánksággal.
+203226_name;Kaptár tudat
+203226_tooltip;Válassz {MaxTargets} különböző bronz Kikimór egységet!\nAmíg a temetődben van, az első alkalommal, amikor <keyword=spawn>Teremtesz</keyword> egy <b>Dolgozót</b> a csatatéren minden szövetséges körben, átváltoztatja azt a következő választott Kikimór egységre.
+203227_fluff;A bogárpermet nem mindig azt jelenti, amire gondolsz.
+203227_name;Savköpet
+203227_tooltip;<keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: "{InjectableAbility}".
+203228_fluff;Kukucs! Csak utánad!
+203228_name;Kikimór vadász
+203228_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword> (<keyword=predator>Ragadozó</keyword>): Sebez egy ellenséges egységet {Damage} ponttal, vagy <keyword=consume>Elfogyaszt</keyword> egy szövetséges <b>Dolgozót</b>.\n<keyword=charge>Töltet</keyword>: {Charge}\nAmikor <keyword=spawn>Teremtesz</keyword> egy, vagy több Rovart, kap <keyword=charge>Töltetet</keyword>.
+203229_fluff;Általános szabály, hogy minél világosabb a tojás, annál kevésbé akarod megsütni.
+203229_name;Kikimór fióka
+203229_tooltip;<keyword=order>Parancs</keyword>: Eltávolít {Boost} erősítést magáról, majd <keyword=spawn>Teremt</keyword> egy <b>Dolgozót</b> erre a sorra.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}\nAmikor kijátszol egy Szerves kártyát, erősíti magát {Boost2} ponttal.
+203230_fluff;Bármit megtett volna a szerelemért, de ehhez egy tűzijáték bemutatót sosem érzett igazi garanciának.
 203230_name;Casimir Bassi
-203230_tooltip;<keyword=veil>Veil</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Spend all your <keyword=coin>Coins</keyword>, then boost self by the number of <keyword=coin>Coins</keyword> spent.\nOnce per turn, when you reach {Coins} <keyword=coin>Coins</keyword>, <keyword=spawn>Teremt</keyword> Explosives on this row.
-203231_fluff;One somersault into a crossbow shot, aimed with the feet, through a pigeon, mid-flight, blindfolded—and suddenly nothing's impossible.
+203230_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Költsd el az összes <keyword=coin>Érmédet</keyword>, majd erősítsd az elköltött <keyword=coin>Érmék</keyword> számával!\nKörönként egyszer, amikor eléred az {Coins} <keyword=coin>Érmét</keyword>, <keyword=spawn>Teremt</keyword> <b>Robbanószert</b> erre a sorra.
+203231_fluff;Egy szaltó a számszeríj lövésbe, lábbal célzás, a galambon keresztül, repülés közben, bekötött szemmel, hirtelen semmi sem tűnik lehetetlennek.
 203231_name;Eveline Gallo
-203231_tooltip;At the end of your turn, if you have {Coins2} <keyword=coin>Coins</keyword>, gain {Coins} <keyword=coin>Coins</keyword>.
-203232_fluff;I'll have any lock you need picked before you even hire me.
-203232_name;Open, Sesame!
-203232_tooltip;<keyword=profit>Profit</keyword> {Profit}.\nWhile in your graveyard, whenever you reach {Coins} <keyword=coin>Coins</keyword>, remove a Counter.\nWhen the Counter reaches {Counter2}, gain {Coins2} <keyword=coin>Coins</keyword>.\nCounter: {Counter}
-203233_fluff;Cooler heads will prevail... provided they're holding the cards.
-203233_name;Oxenfurt Guard
-203233_tooltip;<keyword=fee>Tiszteletdíj</keyword> {Fee}: Boost adjacent units by {Boost}. If that reduced your <keyword=coin>Coins</keyword> to {Coins}, boost them by {Boost2} instead.\n<keyword=cooldown>Cooldown</keyword>: {Cooldown}
+203231_tooltip;A köröd végén, ha van {Coins2} <keyword=coin>Érméd</keyword>, kapsz {Coins} <keyword=coin>Érmét</keyword>.
+203232_fluff;Már ismerem a zárat, amit fel akarsz töretni, még mielőtt felbérelnél.
+203232_name;Tárulj, Szezám!
+203232_tooltip;<keyword=profit>Haszon</keyword> {Profit}.\nAmíg a temetődben van és eléred a {Coins} <keyword=coin>Érmét</keyword>, csökkenti a számlálót.\nAmikor a Számláló eléri a {Counter2}-t, kapsz {Coins2} <keyword=coin>Érmét</keyword>.\nSzámláló: {Counter}
+203233_fluff;A higgadtabbak érvényesülnek... feltéve, hogy a kezükben tartják a kártyákat.
+203233_name;Oxenfurti őr
+203233_tooltip;<keyword=fee>Tiszteletdíj</keyword> {Fee}: Erősíti a szomszédos egységeket {Boost} ponttal. Ha ez lecsökkenti az <keyword=coin>Érméidet</keyword> {Coins}-ra, helyette erősítsd őket {Boost2} ponttal!\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 203234_fluff;Nem halott az, mi fekszik örökkön, a halál sem ér át végtelen időkön.
 203234_name;A mélység hívása
 203234_tooltip;Miután imádták Dagont {MaxTargets} alkalommal, <keyword=spawn>Teremti</keyword> <b>Dagon: Ígért</b>-et a <keyword=melee>Közelharci</keyword> sorodra és <keyword=banish>Száműzi</keyword> magát.
