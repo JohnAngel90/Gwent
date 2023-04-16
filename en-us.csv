@@ -4154,7 +4154,7 @@
 203213_fluff;Az akadémia többi kémikusának szavazata alapján valószínűleg ők érik meg legkevesebben az öregkort. És ez azért már jelent valamit.
 203213_name;Toxikológus
 203213_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruház</keyword> egy ellenséges egységet ezzel: "{InjectableAbility}", majd, ha az nem Token volt, <keyword=spawn>Teremti</keyword> annak alap másolatát az ellenfeled paklijának az aljára.
-203214_fluff;Ha egyszer kiengeden, nem tudod többé visszazárni.
+203214_fluff;Ha egyszer kiengeded, nem tudod többé visszazárni.
 203214_name;Kraken
 203214_tooltip;<keyword=disloyal>Áruló</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Mozgass {MaxTargets} ellenséges egységet erre a sorra, okozz nekik {Damage} pont sebzést és <keyword=spawn>Teremts</keyword> <keyword=storm>Vihart</keyword> {Counter} körre ezen a soron!\n<keyword=deathwish>Halálvágy</keyword>: <keyword=summon>Teremti</keyword> önmagát a szemközti sorra és erősíti magát az egyedi szövetséges Bestiák számával.
 203215_fluff;Az egy rosszindulatú szellem! Az egy eleven hínár! Ugyan, csak halucináltok, idióták. Az egyértelműen egy ló!
@@ -4252,7 +4252,7 @@
 32_name_lt;Kataklizma
 32_name_sa;Ignorált.
 32_tooltip_ia;A köröd végén sebez egy véletlenszerű ellenséges egységet a szövetséges Felkészült egységek számával
-32_tooltip_lt;A tulajdonsának köre kezdetén szétoszt {Damage} sebzést véletlenszerűen a soron lévő egységek között.
+32_tooltip_lt;A tulajdonosának köre kezdetén szétoszt {Damage} sebzést véletlenszerűen a soron lévő egységek között.
 33_name_sa;Ignorált.
 33_tooltip_ia;Amikor az ellenfeled kijátszik egy Elfet, sebzi magát {Damage} ponttal
 34_tooltip_ia;Ha ennek az egységnek több, mint {Power} az ereje és az ellenfél <keyword=spawn>Teremt</keyword> egy, vagy több egységet, sebzi magát {Damage} ponttal. Amikor a saját ereje eléri a {Power} értéket, <keyword=infused>Felruházza</keyword> ezzel a képességgel a szomszédos egységeket is, melyek még nem rendelkeznek vele
