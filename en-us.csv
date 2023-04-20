@@ -2111,7 +2111,7 @@
 202277_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Megsebez egy szövetséges egységet, jelenlegi erejének felével, majd megsebez egy ellenséges egységet is ezzel az értékkel.\n<keyword=berserk>Dühöngő</keyword> {Berserk}: A köröd végén frissíti ezt a képességet.
 202278_fluff;Minden Svalblod totem amit rendeltek, azt megsemmisítettek, de a távolban, az elfeledett partokon, néhány még mindig áll... és folyamatosan gyűjti az új áldozatait.
 202278_name;Svalblod totem
-202278_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Svalblod fanatikust</b> ennek a kártyának mindkét oldalára. \n<keyword=order>Parancs</keyword>: Erősít egy szövetséges egységet ennyivel: {Damage}.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
+202278_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Svalblod fanatikust</b> ennek a kártyának mindkét oldalára. \n<keyword=order>Parancs</keyword>: Sebez egy szövetséges egységet ennyivel: {Damage}.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 202279_fluff;Nem minden Svalblod papot űztek ki a szigetekről... sajnos.
 202279_name;Artis
 202279_tooltip;<keyword=deploy>Lehelyezés</keyword>: Játssz ki egy {provision}-es ellátási költségű Kultistát a paklidból!\n<keyword=ranged>Távolsági</keyword>: Amikor az egységet kijátszottad, sebezd azt az erejének felével!
