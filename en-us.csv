@@ -1265,7 +1265,7 @@
 201579_tooltip;A forduló elején, ha a főnix a temetődben van, <keyword=banish>Száműzd</keyword> azt, majd <keyword=spawn>Teremts</keyword> egy <b>Főnix fiókát</b> egy véletlenszerű sorodra!
 201580_fluff;Miért egy olyan apróság, mint a születés dönti el, hogy ki uralkodik rajtunk?
 201580_name;Toussainti vendégszeretet
-201580_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijásztik egy <b>Buhurt</b>.\nAmikor a köröd alatt erősítesz egy, vagy több ellenséges egységet, erősít egy véletlenszerű szövetséges egyéget {Boost} ponttal.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
+201580_tooltip;<keyword=order>Parancs</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Buhurt</b>.\nAmikor a köröd alatt erősítesz egy, vagy több ellenséges egységet, erősít egy véletlenszerű szövetséges egységet {Boost} ponttal.\n\nEz a képesség {Template.Provision} ponttal növeli a paklid ellátási korlátját.
 201581_fluff;Az Ofieri rúnamesterek fel tudják ruházni ezeket hatalmas erejű rúnaszavakkal.
 201581_name;Stribog rúnakő
 201581_tooltip;<keyword=create>Létrehoz</keyword> és kijátszik egy bronz, Skellige kártyát.
@@ -2273,7 +2273,7 @@
 202332_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy véletlenszerű szövetséges egységnek. Ha nincs szövetséges egység, helyette magát sebzi {Damage2} ponttal.
 202333_fluff;Mióta megízlelte az emberi hús ízét, azóta nem is eszik mást.
 202333_name;Boris
-202333_tooltip;A köröd elején, bárhol is legyen ez a kártya, véletlenszerűen változtatja a saját <keyword=fee>Tiszteletdíjját</keyword> egy másik értékre {Coins3} és {Coins4} között.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: Átmozgatja magát a másik sorodra, majd erősíti magát a <keyword=fee>Tiszteletdíj</keyword> árával. Ha van {Coins} <keyword=coin>Érméd</keyword>, még kapsz {Coins2} <keyword=coin>Érmét</keyword> is minden szövetséges egység után az adott soron.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
+202333_tooltip;A köröd elején, bárhol is legyen ez a kártya, véletlenszerűen változtatja a saját <keyword=fee>Tiszteletdíját</keyword> egy másik értékre {Coins3} és {Coins4} között.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: Átmozgatja magát a másik sorodra, majd erősíti magát a <keyword=fee>Tiszteletdíj</keyword> árával. Ha van {Coins} <keyword=coin>Érméd</keyword>, még kapsz {Coins2} <keyword=coin>Érmét</keyword> is minden szövetséges egység után az adott soron.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 202334_fluff;Azért építették, hogy elszállítsa az ürüléket, de a pénzérméket is ugyanolyan jól szállítja.
 202334_name;Csatornafosztogatók
 202334_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}): <keyword=summon>Megidézi</keyword> ezen egység minden másolatát a paklidból erre a sorra.
@@ -2406,7 +2406,7 @@
 202377_fluff;„Ez minden, ami maradt belőle?„\n„Szerintem hányni fogok...”
 202377_name;Pusztakezes kötekedő
 202377_tooltip;<keyword=intimidate>Fenyegetés</keyword>.\n<keyword=fee>Tiszteletdíj</keyword>: {Fee}: {Damage} pont sebzést okoz a legerősebb ellenséges egységnek.
-202378_fluff;Nem kell fukarkodni, pajtás. Van még onna, ahonnan ez jött.
+202378_fluff;Nem kell fukarkodni, pajtás. Van még onnan, ahonnan ez jött.
 202378_name;Pénzkicsikarás
 202378_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\n{Boost} ponttal erősíti egy szövetséges egységedet.
 202379_fluff;Melyik a fontosabb számodra, a teli erszény, vagy ha megvan az összes ujjad?
@@ -3954,7 +3954,7 @@
 203145_fluff;A kiméra csak gyerekjáték volt ahhoz képest, ami otthon várta.
 203145_name;Sove
 203145_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=summon>Idéz</keyword> egy Bestiát a paklidból a szemközti sorra és <keyword=infused>Felruházza</keyword> ezzel: "{InjectableAbility}", majd sebzi azt {Damage} ponttal minden sebzett ellenséges egység után és kap <keyword=immune>Immunitást</keyword>.
-203146_fluff;Nem minden kísértet lebeg körbe-körbe, visszataszítóan rohadva. Néha egy györnyörű szépség, aki jól seggbe rúg, letépi a füleidet, és átszúrja a beleidet, mielőtt az arcodba sikítana.
+203146_fluff;Nem minden kísértet lebeg körbe-körbe, visszataszítóan rohadva. Néha egy gyönyörű szépség, aki jól seggbe rúg, letépi a füleidet, és átszúrja a beleidet, mielőtt az arcodba sikítana.
 203146_name;Ulula
 203146_tooltip;<keyword=order>Parancs</keyword>: Sebez egy egységet {Damage} ponttal.\nAmikor egy ellenséges egység sebzést szenved el egy Harcos egységedtől, sebezd azt {Damage2} ponttal, figyelmen kívül hagyva annak <keyword=armor>Páncélját</keyword>.
 203147_fluff;Amikor eljő az időd, válaszd a fejszét! Errefelé a farkasok nem szokták elsietni a dolgot.
@@ -4010,7 +4010,7 @@
 203163_tooltip;Amikor egy olyan <keyword=gang>Banda</keyword> kategóriájú kártyát játszol ki, amit még nem irányítasz, kapsz <keyword=coin>Érmét</keyword> minden egyedi <keyword=gang>Banda</keyword> kategóri után, amit irányítasz.
 203164_fluff;A híresztelések és a pletykák általában csak féligazságok. Ennek ellenére Reuven, Novigrad-szerte a nyilvános házakban kíváncsiskodó kismadaraival, ösztönösen tudja, melyik felét lehet hasznosítani.
 203164_name;Kismadár
-203164_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruházza</keyword> magát egy paklidban lévő <keyword=gang>Banda</keyword> kártya kategórijával.\n<keyword=fee>Tiszteletdíj</keyword> {Fee}: Erősít egy szövetséges egységet {Boost} ponttal minden általad irányított egyedi <keyword=gang>Banda</keyword> kategória után.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
+203164_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=infused>Felruházza</keyword> magát egy paklidban lévő <keyword=gang>Banda</keyword> kártya kategóriával.\n<keyword=fee>Tiszteletdíj</keyword> {Fee}: Erősít egy szövetséges egységet {Boost} ponttal minden általad irányított egyedi <keyword=gang>Banda</keyword> kategória után.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
 203165_fluff;Találó elnevezés a Korona, mert a tekintély legmagasabb fokát képviseli. Ahová az emberek a legnagyobb mélységbe süllyednek, hogy elkerüljék az eladósodást.
 203165_name;A húrok feszítése
 203165_tooltip;<keyword=profit>Haszon</keyword> {Profit}.\n<keyword=seize>Elfog</keyword> egy ellenséges egységet, melynek {Power}, vagy kevesebb az ereje.\Növeli a <keyword=profit>Haszon</keyword> értéket minden egyedi <keyword=gang>Banda</keyword> kategóriájú kártya után a kezdő paklidban ennyivel: {Profit2}.\nNöveli az erőt és csökkenti a <keyword=profit>Haszon</keyword> értékét {Power2} ponttal minden egyedi <keyword=gang>Banda</keyword> kategória után, amit irányítasz.
@@ -4158,7 +4158,7 @@
 203214_fluff;Ha egyszer kiengeded, nem tudod többé visszazárni.
 203214_name;Kraken
 203214_tooltip;<keyword=disloyal>Áruló</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: Mozgass {MaxTargets} ellenséges egységet erre a sorra, okozz nekik {Damage} pont sebzést és <keyword=spawn>Teremts</keyword> <keyword=storm>Vihart</keyword> {Counter} körre ezen a soron!\n<keyword=deathwish>Halálvágy</keyword>: Ennek a körnek a végén <keyword=summon>Teremti</keyword> önmagát a szemközti sorra és erősíti magát az egyedi szövetséges Bestiák számával.
-203215_fluff;Az egy rosszindulatú szellem! Az egy eleven hínár! Ugyan, csak halucináltok, idióták. Az egyértelműen egy ló!
+203215_fluff;Az egy rosszindulatú szellem! Az egy eleven hínár! Ugyan, csak hallucináltok, idióták. Az egyértelműen egy ló!
 203215_name;Kelpie
 203215_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=rain>Esőt</keyword> <keyword=spawn>Teremt</keyword> {Counter} körre egy ellenséges sorra. Ez az érték növekszik {Counter2}-et minden kezdő paklidban található {MaxTargets} Bestia után.\nAmikor egy ellenséges egység sebzést szenved el <keyword=rain>Esőtől</keyword>, vagy <keyword=storm>Vihartól</keyword>, erősíts egy véletlenszerű, nem erősített szövetséges Bestiát {Boost} ponttal!
 203216_fluff;Felbérelni egy sárkányölőt? Egy túlméretes angolna miatt? Hah! Szárazföldi badarság!

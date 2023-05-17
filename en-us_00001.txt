@@ -258,7 +258,7 @@ achievement_10615_title;Menedék
 achievement_10620_title;Körözött
 achievement_10621_title;Megjelölt
 achievement_10622_title;Üldözött
-achievement_10623_title;Uzött
+achievement_10623_title;Űzött
 achievement_10624_title;Első fizetés
 achievement_10625_title;Apró művelet
 achievement_10626_title;Elég gazdag
@@ -827,7 +827,7 @@ achievement_30052_desc;Gyűjtsd össze az összes főhősnek a kártyáját a "T
 achievement_30052_title;A szokásos gyanúsítottak
 achievement_30053_desc;Gyűjtsd össze az összes fúriát Görbelápról:
 achievement_30053_title;Furcsa pörkölt
-achievement_30054_desc;Gyűjtsd össze az összes magasrangú Vad Hajsza tisztet:
+achievement_30054_desc;Gyűjtsd össze az összes magas rangú Vad Hajsza tisztet:
 achievement_30054_title;Vad Hajsza
 achievement_30055_desc;Gyűjtsd össze az összes szép hangú kártyát:
 achievement_30055_title;Tökéletes hangmagasság
@@ -2029,7 +2029,7 @@ achievement_90272_desc;Játssz 20 játékot Kökörcsin stílusos sáljában, va
 achievement_90272_title;Szabad szellem
 achievement_90273_desc;Játssz 30 játékot Kökörcsin stílusos sáljában, vagy elegáns öltözékében!
 achievement_90273_title;Elbűvölő stílussal
-achievement_90275_desc;Játssz 1 játékot Kökörcsin gombos ingjében, vagy az utazó bárd kabátjában!
+achievement_90275_desc;Játssz 1 játékot Kökörcsin gombos ingében, vagy az utazó bárd kabátjában!
 achievement_90275_title;A legjobb költő
 achievement_90276_desc;Játssz 5 játékot Kökörcsin gombos ingében, vagy az utazó bárd kabátjában!
 achievement_90276_title;A legjobb bárd
@@ -2617,7 +2617,7 @@ arenav2_newdraft_disabled_tooltip;Mérkőzések az új draft feloldásáig: {0}
 arenav2_optin_update_notification_description;Új draft verzió elérhető! Folytathatod az aktuális draftodat, azonban az új verzió tartalmazhat egyensúlybeli frissítéseket és/vagy speciális idő limitált mechanizmusokat. Az aktuális draft verzió hamarosan bezárásra kerül.
 arenav2_play_menu_description;Üdvözlünk a draft módban! Versenyezz más játékosokkal ebben a folyton változó pakliépítő játékmódban!
 arenav2_play_menu_title;Draft
-arenav2_rewards_timeout_description;Nem sikerült megjeníteni a jutalmakat.
+arenav2_rewards_timeout_description;Nem sikerült megjeleníteni a jutalmakat.
 arenav2_rewards_timeout_title;Jutalom megjelenítési hiba
 arenav2_show_deck_tooltip;Pakli mutatása
 arenav2_summary_newdraft;Új draft
