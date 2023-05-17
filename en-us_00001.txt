@@ -2289,7 +2289,7 @@ achievement_geralt_winter_event;Nyerj {0} mérkőzést Geralt karakterének hasz
 achievement_help_x_crones;Segíts {0} fúriának elkészíteni a falusiak ajándékát Saovine ünnepe alatt!
 achievement_play_dandelion_first_set_desc;Játssz {0} játékot Kökörcsin stílusos sáljában, vagy elegáns öltözékében!
 achievement_play_dandelion_fourth_set_desc;Játssz {0} játékot Kökörcsin utazásának zeneszámával!
-achievement_play_dandelion_second_set_desc;Játssz {0} játékot Kökörcsin gombos ingjében, vagy utazó bárd kabátjában!
+achievement_play_dandelion_second_set_desc;Játssz {0} játékot Kökörcsin gombos ingében, vagy utazó bárd kabátjában!
 achievement_play_dandelion_third_set_desc;Játssz {0} játékot Kökörcsin vörös rózsacsokrával, vagy koncert aurájával!
 achievement_play_vampires_x_matches;Játssz ki vámpírokat {0} mérkőzésben!
 achievement_play_x_games_with_aretuza_music;Játssz {0} játékot Aretuzai utazás zeneszámával!
@@ -5389,46 +5389,46 @@ popup_button_back;Vissza
 popup_button_cancel;Mégse
 popup_button_save;Mentés
 popup_click_to_continue;Klikkelj bárhova a folytatáshoz!
-popup_col2deck_banner_limit_desc;You cannot add any more Banner cards!
-popup_col2deck_bronze_limit_desc;You cannot add any more cards.
+popup_col2deck_banner_limit_desc;Nem adhatsz hozzá több Banner kártyát!
+popup_col2deck_bronze_limit_desc;Nem adhatsz hozzá több kártyát!
 popup_col2deck_character_limit_desc;Placeholder
 popup_col2deck_character_limit_title;Placeholder
-popup_col2deck_copy_limit_desc;You cannot add more copies of this card.
-popup_col2deck_gold_limit_desc;You cannot add any more Gold cards.
-popup_col2deck_gold_limit_title;Gold card limit reached!
+popup_col2deck_copy_limit_desc;Nem adhatsz hozzá több másolatot ebből a kártyából!
+popup_col2deck_gold_limit_desc;Nem adhatsz hozzá több arany kártyát!
+popup_col2deck_gold_limit_title;Arany kártya limit elérve!
 popup_col2deck_hero_limit_desc;Placeholder
 popup_col2deck_hero_limit_title;Placeholder
 popup_col2deck_owned_limit_desc;Nincs több másolatod ebből a kártyából!
-popup_col2deck_silver_limit_desc;You cannot add any more Silver cards.
-popup_col2deck_silver_limit_title;Silver card limit reached!
+popup_col2deck_silver_limit_desc;Nem adhatsz hozzá több ezüst kártyát!
+popup_col2deck_silver_limit_title;Ezüst kártya limit elérve!
 popup_col2deck_special_limit_desc;Placeholder
 popup_col2deck_special_limit_title;Placeholder
-popup_col2deck_total_limit_desc;You cannot add any more cards.
-popup_col2deck_total_limit_title;Total card limit reached!
-popup_col2deck_trinket_limit_desc;You cannot add any more csecsebecse cards!
-popup_col2deck_unit_limit_desc;You cannot add any more unit cards.
-popup_col2deck_unit_limit_title;Unit card limit reached!
-popup_collection_first_time_desc;You can use this menu to <b>preview</b> the cards available in GWENT and <b>craft</b> ones you don't have hulladék felhasználásával.\n\nAfter reaching <b>Level {0}</b> you will also gain the képesség to <b>mill</b> unwanted cards.
-popup_collection_first_time_title;WELCOME TO THE CARD COLLECTION
-popup_collection_milling_unlocked_desc;You have reached <b>Level {0}</b>!\n\nYou have unlocked the képesség to <b>mill</b> unwanted cards!
+popup_col2deck_total_limit_desc;Nem addhatsz hozzá több kártyát!
+popup_col2deck_total_limit_title;Maximális kártyaszám elérve!
+popup_col2deck_trinket_limit_desc;Nem adhatsz hozzá több csecsebecse kártyát!
+popup_col2deck_unit_limit_desc;Nem adhatsz hozzá több egység kártyát!
+popup_col2deck_unit_limit_title;Egység kártya limit elérve!
+popup_collection_first_time_desc;Ezt a helyet arra használhatod, hogy <b>előnézd</b> a GWENT kártyáidat és <b>legyártsd</b> azokat hulladék felhasználásával, melyekkel nem rendelkezel.\n\nMiután eléred a <b>{0} szintet</b>, megszerzed a képességet a felesleges kártyáid <b>bedarálására</b>.
+popup_collection_first_time_title;ÜDVÖZLÜNK A KÁRTYA GYŰJTEMÉNYBEN
+popup_collection_milling_unlocked_desc;Elérted a <b>{0} szintet</b>!\n\nFeloldottad a képességet, hogy <b>bedaráld</b> a felesleges kártyáidat!
 popup_collection_milling_unlocked_title;KÁRTYA BEDARÁLÁS FELOLDVA
 popup_craft_card;Kártya gyártása
 popup_craft_card_and_add;Kártya gyártása és hozzáadása a paklihoz
 popup_crafting_craft_desc;Biztos le akarod gyártani ezt a kártyát: '<b>{0}</b>'?
 popup_crafting_craft_processing_title;Gyártás...
 popup_crafting_craft_title;Gyártás folyamatban...
-popup_crafting_error_mill_active_leader;Cannot mill a Leader used in a deck.
-popup_crafting_error_not_enough_currency;Not enough currency! További hulladékot szerezhetsz a kártyáid bedarálásával, vagy további játékkal.
+popup_crafting_error_mill_active_leader;Nem darálhatod be az aktív vezető kártyádat!
+popup_crafting_error_not_enough_currency;Nincs elég nyersanyagod! További hulladékot szerezhetsz a kártyáid bedarálásával, vagy további játékkal.
 popup_crafting_error_not_enough_gems;Nincs elég meteorit porod!
-popup_crafting_error_select;Problems encountered with the selected card. Please exit the card preview and try again! :(
-popup_crafting_error_upgrade_active_leader;Cannot transmute a Leader used in a deck.
+popup_crafting_error_select;Gond adódott a kiválasztott kártyával. Kérjük lépjen ki a kártya előnézetéből és próbáldja újra! :(
+popup_crafting_error_upgrade_active_leader;Nem változtathatsz át olyan vezetőt, amely éppen használatban van.
 popup_crafting_failure_desc_error;Hiba: {0}
-popup_crafting_failure_desc_request;An issue was encountered while completing the request. Kérjük próbálja újra!
+popup_crafting_failure_desc_request;Hiba lépett fel a kérése teljesítése közben. Kérjük próbálja újra!
 popup_crafting_failure_desc_warning;Figyelem: {0}
 popup_crafting_failure_title;GYÁRTÁS SIKERTELEN
 popup_crafting_mill_desc;Biztos be akarod darálni ezt a kártyát: '<b>{0}</b>'?
 popup_crafting_mill_processing_title;Bedarálás...
-popup_crafting_mill_spares_desc;Biztos be akarod találni a feleséges kártyákat <b>{0}</b> ?
+popup_crafting_mill_spares_desc;Biztos be akarod darálni a feleséges kártyákat <b>{0}</b> ?
 popup_crafting_mill_spares_processing_title;Bedarálás...
 popup_crafting_mill_spares_title;Felesleges kártyák bedarálása folyamatban...
 popup_crafting_mill_title;Bedarálás folyamatban...
@@ -5446,15 +5446,15 @@ popup_edit_deck_error_invalid_desc;A pakli neve csak a következő karaktereket 
 popup_edit_deck_error_title;Szabálytalan pakli név!
 popup_edit_deck_error_too_long_desc;A pakli neve nem tartalmazhat több, mint 30 karaktert!
 popup_edit_deck_name;Írd be a pakli nevét:
-popup_eula_ info _message;If you change your mind at any time, you can change your answer regarding the Gwent Masters Official Rules in the settings menu.
+popup_eula_ info _message;Ha bármikor meggondoldád magadat, megváltoztathatod a Gwent Mesterek Hivatalos Szabályzatára adott válaszaidat a beállítások menüben.
 popup_eula_agree;Egyetértek
 popup_eula_disagree;Nem értek egyet
 popup_eula_info_ title;További információ
-popup_eula_message;In order to enter and participate in the Pro Rank Season, you must agree to abide by the Gwent Masters Official Rules. Please note that by clicking AGREE you give us consent to share your personal data with CD\nPROJEKT S.A., who will process your data in context of your participation in Gwent Masters (see CD PROJEKT S.A. adatvédelmi szabályzat for more details). Do you agree to these terms?
+popup_eula_message;In order to enter and participate in the Pro Rank Season, you must agree to abide by the Gwent Mesterek Hivatalos Szabályzata. Please note that by clicking AGREE you give us consent to share your personal data with CD\nPROJEKT S.A., who will process your data in context of your participation in Gwent Masters (see CD PROJEKT S.A. adatvédelmi szabályzat for more details). Do you agree to these terms?
 popup_eula_title;Pro Rank előírások
 popup_eula_view_masters_rules;View Gwent Masters Rules
 popup_eula_view_privacy_policy;Nézd meg az adatvédelmi szabályzatot!
-popup_eula_warning_message;If you do not agree to the Gwent Masters Official Rules, you will be removed from participation from our Pro Rank system.
+popup_eula_warning_message;If you do not agree to the Gwent Mesterek Hivatalos Szabályzata, you will be removed from participation from our Pro Rank system.
 popup_eula_warning_title;Biztos vagy benne?
 popup_midwinter_hunt_desc;Help Geralt hunt the mythical Phoenix and bag special rewards!
 popup_midwinter_hunt_title;The Midwinter Hunt is here!
@@ -5506,7 +5506,7 @@ pro_league_global_mmr;Global Ranking Points
 pro_league_popup_accept;Elfogad
 pro_league_popup_decline;Decline
 pro_league_popup_rules;Official Rules
-pro_league_popup_text;Gratulálunk! You've qualified for the Gwent Pro Ladder! Before signing up, please make sure you've read the Gwent Masters Official Rules. They explain how to compete in the Gwent Masters and cover its legal aspects.
+pro_league_popup_text;Gratulálunk! You've qualified for the Gwent Pro Ladder! Before signing up, please make sure you've read the Gwent Mesterek Hivatalos Szabályzata. They explain how to compete in the Gwent Masters and cover its legal aspects.
 pro_league_popup_title;Confirm
 proceed_to_thronebreaker_description;You are about to leave Gwent: The Witcher Card Game and launch Trónbitorló. Are you sure you want to proceed?
 proceed_to_thronebreaker_ps4_shop_description;You are about to leave Gwent: The Witcher Card Game and open the PlayStation®Store. Are you sure you want to proceed?
@@ -5533,7 +5533,7 @@ rank_update;Rank Change
 ranked_score_legend_current_faction_mmr;<b>Aktuális frakció MMR</b>: Ez az jelenlegi <b>frakció MMR</b> érték a meghatározott frakcióhoz. Az MMR a Matchmaking Rating (összesorsolási érték), ami növekszik ha nyersz, és csökken, ha veszítesz.
 ranked_score_legend_more_info;További részletek
 ranked_score_legend_peak_faction_mmr;<b>Csúcs frakció MMR</b>: Ez a legmagasabb <b>frakció MMR</b> érték, amit elértél a frakcióval az aktuális szezonban.
-ranked_score_legend_played_matches;<b>Mérkőzés előrehaladás</b>: This value is multiplied by the matching <b>csúcs frakció MMR</b> to obtain that faction's <b>frakció eredmény</b>. A <b>mérkőzés előrehaladás</b> 25 mérkőzés után éri el a 100%-ot.
+ranked_score_legend_played_matches;<b>Mérkőzés előrehaladás</b>: Ez az érték megszorzódik a megfelelő <b>csúcs frakció MMR</b>-rel, hogy megkapd az adott frakció <b>frakció eredményét</b>. A <b>mérkőzés előrehaladás</b> 25 mérkőzés után éri el a 100%-ot.
 ranked_score_legend_title;Jelmagyarázat
 ranked_score_legend_total_faction_mmr;<b>Teljes rangsorolt eredmény</b>: Ez képviseli a négy legjobb <b>frakció eredményed</b> összegét, és ez határozza meg a helyedet a ranglistákon.
 ranked_score_not_available;A rangsorolt eredmény a 25. rang elérése után lesz elérhető!
@@ -5562,7 +5562,7 @@ reconnecting;Újracsatlakozás…
 reconnecting_description;Kapcsolat megszakadt, próba az újracsatlakozáshoz...
 reconnecting_title;Kapcsolódási hiba
 recovery;Transaction is in recovery mode.
-recovery_title;Transaction error
+recovery_title;Tranzakciós hiba
 refer_a_friend_10001_achievement_desc;One of your friends that you've invited has finished the tutorial
 refer_a_friend_10001_achievement_title;The first of many!
 referral_arena_tickets;Arena Tickets
@@ -5597,14 +5597,14 @@ remote_push_vanity_promo;/name_of_vanity/ is now available at /-x%/ discount! ?Y
 remove_spectator_from_game_action_button;Mérkőzés elhagyása
 request_timeout;Your request has timed out, please check your internet connection.
 request_timeout_title;Request timeout
-restriction_first_warning;You have been playing almost 1 hour. Consider taking a break.
-restriction_logout;You have been playing for over 3 hours. You will be logged out. Come back tomorrow.
-restriction_second_warning;You have been playing for almost 3 hours. You will be logged out soon.
-restriction_title;Warning
+restriction_first_warning;Már majdnem 1 órája játszol. Vedd fontolóra, hogy szünetet tartasz!
+restriction_logout;Már több, mint 3 órája játszol. Ki leszel jelentkeztetve. Gyere vissza holnap.
+restriction_second_warning;Már majdnem 3 órája játszol. Hamarosan ki leszel jelentkeztetve.
+restriction_title;Figyelem!
 resultscreen_new_avatar;Új avatár
 resultscreen_new_border;Új keret
 resultscreen_new_title;Új titulus
-reveal_next_card;Reveal Next
+reveal_next_card;Következő felfedése
 reward_avatar;Avatár
 reward_book_love2023_info_desc;Csokoládé szív szükséges az összes jutalomhoz!
 reward_book_love2024_info_desc;Csokoládé szív szükséges az összes jutalomhoz!
@@ -5613,20 +5613,20 @@ reward_book_love2026_info_desc;Csokoládé szív szükséges az összes jutalomh
 reward_book_love2027_info_desc;Csokoládé szív szükséges az összes jutalomhoz!
 reward_book_love2028_info_desc;Csokoládé szív szükséges az összes jutalomhoz!
 reward_border;Keret
-reward_card_description;"{0}" has been added to your collection.
+reward_card_description;"{0}" hozzáadódott a gyűjteményedhez.
 reward_card_title;Gratulálunk!
 reward_completed;Jutalmak
 reward_earned;JUTALOM MEGSZEREZVE
-reward_leader_card;Leader Card
-reward_notification_generic;You have been granted {0} {1}
+reward_leader_card;Vezető kártya
+reward_notification_generic;Megszerezted ezt: {0} {1}
 reward_point_currency;Jutalompont
 reward_points_reward_desc;Jutalompontokat szereztél! Felhasználhatod őket a Jutalmak Könyvében.
 reward_popup_achievement_next_button;Következő
 reward_preview_daily;NAPI
-reward_preview_endofseason;SEASON END
+reward_preview_endofseason;SZEZON VÉGE
 reward_preview_levelup;SZINTLÉPÉS
-reward_preview_rankup;RANK UP
-reward_progress_right_half;/ {0} Rounds Won
+reward_preview_rankup;RANG NÖVEKEDÉS
+reward_progress_right_half;/ {0} megnyert forduló
 reward_reset_text;NINCS TÖBB JUTALOM, GYERE VISSZA EKKOR:
 reward_tier_completed;TIER COMPLETED!
 reward_time_format;{0}ó {1}p {2}mp
@@ -8074,7 +8074,7 @@ transaction_failed;A tranzakció nem kezdődött el!
 transaction_failed_desc;Valami nem az igazi. Kérjük próbálja újra!
 transaction_failed_title;Tranzakciós hiba
 transaction_not_verified;We could not complete the transaction using the credit card provided. Please try again with a different card.
-transaction_not_verified_title;Transaction error
+transaction_not_verified_title;Tranzakciós hiba
 transaction_success_popup_title;Transaction Success!
 troop_cards;jcb: EN 1
 tutorial_complete;Tutorial Complete
