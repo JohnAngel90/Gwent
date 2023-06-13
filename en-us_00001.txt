@@ -4141,7 +4141,7 @@ input_leaderboards_next_page;Következő oldal
 input_leaderboards_next_page_continous;Placeholder
 input_leaderboards_prev_page;Előző oldal
 input_leaderboards_prev_page_continous;Placeholder
-input_leaderboards_top_player;Legjobbak
+input_leaderboards_top_player;Legjobbbak
 input_main_menu_change_section_left;Placeholder
 input_main_menu_change_section_right;Placeholder
 input_main_menu_logout;Log out
@@ -5603,9 +5603,9 @@ quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Adj egységekn
 quest_ouroboros_give_bleeding_x_times_with_cards_from_cc;Adj egységeknek Vérzést {0} alkalommal a Bíbor Átok kártyáit felhasználva!
 quest_ouroboros_give_poison_x_times_with_cards_from_cc;Mérgezz egységeket {0} alkalommal a Bíbor Átok kártyáit felhasználva!
 quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Játssz ki {0} Vitalitás kulcsszóval rendelkező kártyát a kezdő szett, alap szett, Novigrad, vagy a Bíbor Átok szett kártyáit felhasználva!
-quest_ouroboros_play_x_cards_from_cc_wotw;Játtsz ki {0} kártyát a Bíbor Átok, vagy A vaják útja szett kártyáiból!
+quest_ouroboros_play_x_cards_from_cc_wotw;Játssz ki {0} kártyát a Bíbor Átok, vagy A vaják útja szett kártyáiból!
 quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Nyerj {0} mérkőzést miután kártyát játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_cards_from_novigrad;Játtsz ki {0} kártyát a Novigrad szettből!
+quest_ouroboros_play_x_cards_from_novigrad;Játssz ki {0} kártyát a Novigrad szettből!
 quest_ouroboros_play_x_cards_from_starter_base;Játssz ki {0} kártyát a kezdő, vagy az alap szettből!
 quest_ouroboros_play_x_cards_from_starter_base_tb;Játssz ki {0} kártyát a kezdő, alap, vagy a Trónbitorló szettből!
 quest_ouroboros_play_x_cultist_cc;Játssz ki {0} Kultistát a Bíbor Átok szettből!
@@ -5613,9 +5613,9 @@ quest_ouroboros_play_x_cultist_won_match_cc;Nyerj {0} mérkőzést miután Kulti
 quest_ouroboros_play_x_humans_cc;Játssz ki {0} Embert a Bíbor Átok szettből!
 quest_ouroboros_play_x_humans_won_match_cc;Nyerj {0} mérkőzést miután Embert játszottál ki a Bíbor Átok szettből!
 quest_ouroboros_play_x_insectoids_from_wotw;Játssz ki {0} Rovar egységet A vaják útja szettből!
-quest_ouroboros_play_x_knights_cc;Játtsz ki {0} Lovag egységet a Bíbor Átok szettből!
+quest_ouroboros_play_x_knights_cc;Játssz ki {0} Lovag egységet a Bíbor Átok szettből!
 quest_ouroboros_play_x_knights_won_match_cc;Nyerj {0} mérkőzést miután Lovag kártyát játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_locations_base_wotw;Játtsz ki {0} Helyszín kártyát az alap, vagy A vaják útja szettből!
+quest_ouroboros_play_x_locations_base_wotw;Játssz ki {0} Helyszín kártyát az alap, vagy A vaják útja szettből!
 quest_ouroboros_play_x_monster_cards_from_cc;Játssz ki {0} Szörny kártyát a Bíbor Átok szettből!
 quest_ouroboros_play_x_monster_cards_from_wotw;Játssz ki {0} Szörny kártyát A vaják útja szettből!
 quest_ouroboros_play_x_nilfgaard_cards_from_cc;Játssz ki {0} Nilfgaard kártyát a Bíbor Átok szettből!
@@ -7392,7 +7392,7 @@ shop_data_shupe_event_mp_cardback_title;Meteoritpor kereső kártya hátlap
 shop_data_shupe_event_pack_1_desc;<sprite="PopupIcons" name="Card"> Shupe's Day Off\n\n<sprite="PopupIcons" name="Avatar"> Trollololo avatár\n\n<sprite="PopupIcons" name="Title"> "Vándorló" titulus\n\n<sprite="PopupIcons" name="PremiumKeg"> 1 alap prémium hordó\n\nShupe loving run shop, but days off as well! More to life than smashy kegs... Adventure important too!
 shop_data_shupe_event_pack_1_title;Shupe szabadnapja csomag
 shop_data_shupe_event_pack_2_desc;<sprite="PopupIcons" name="Card"> Ice Troll\n\n<sprite="PopupIcons" name="Avatar"> Jégtroll avatár\n\n<sprite="PopupIcons" name="Title"> "Best Bro" titulus\n\n<sprite="PopupIcons" name="PremiumKeg"> 1 alap prémium hordó\n\nIce troll is best buddy. Maybe Shupe not remembering name, but he cool. We both fan of rock.
-shop_data_shupe_event_pack_2_title;Legjob tesó csomag
+shop_data_shupe_event_pack_2_title;Legjobb tesó csomag
 shop_data_shupe_event_pack_3_desc;<sprite="PopupIcons" name="Card"> Vergen trollasszony\n\n<sprite="PopupIcons" name="Avatar"> Trollasszony avatár\n\n<sprite="PopupIcons" name="Title"> "Nehéz ételek evője" titulus\n\n<sprite="PopupIcons" name="PremiumKeg"> 1 alap prémium hordó\n\nAuntie make yummy-yum soupy. Wanting know secret ingredient? It love! …and healthy elves. Sick elves no good. Uman remembering this when making elf and onion soup.
 shop_data_shupe_event_pack_3_title;Leveses csomag
 shop_data_shupe_event_petals_desc;<sprite="PopupIcons" name="Trinket"> Rózsaszirom aura (Shupe)\n\nÓh, rózsaszín!
@@ -7707,7 +7707,7 @@ shop_shupe_moss_skin_desc;<sprite="PopupIcons" name="Skin"> Mohás kinézet (Shu
 shop_shupe_moss_skin_title;Mohás Shupe kinézet
 shop_shupe_shupe_event_avatar_desc;<sprite="PopupIcons" name="Avatar"> Kőgyűjtő Shupe avatár\n\nKövek, kövek!
 shop_shupe_shupe_event_avatar_title;Ingyenes Shupe avatár!
-shop_tutorial_complete;Oktatás tejlesítve!
+shop_tutorial_complete;Oktatás teljesítve!
 shop_ultimate_starter_pack_v6_desc;<sprite="PopupIcons" name="Keg"> 5 x alap szett Keg\n\n<sprite="PopupIcons" name="Keg"> 5 x Bíbor Átok hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Novigrad hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Ofir kereskedői hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Tükörmester hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x A vaják útja hordó \n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.
 shop_unicorn_and_the_stern_pack_desc;You want peace? You gotta fight for it till you get it!\n\nGet 2 new Északi Királyságok Legendás cards, V. Radovid király and Henselt király, as well as 6 other cards supporting Északi Királyságok archetype.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">1 V. Radovid király Premium Card\n<sprite="PopupIcons" name="Card">1 Henselt király Premium Card\n<sprite="PopupIcons" name="Card">1 Foltest's Pride Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">1 Hubert Rejk Premium Card (Epikus) \n<sprite="PopupIcons" name="Card">2 Battering Ram Premium Cards (Ritka)\n<sprite="PopupIcons" name="Card">2 Reinforced Ballista Premium Cards(Ritka)
 shop_unicorn_and_the_stern_pack_title;Unicorn and the Stern csomag
@@ -7773,7 +7773,7 @@ social_seasonal_quests_start;Visit the {0} tree for more details.
 social_twitter_name;Twitter
 social_twitter_offical_profile;GWENT @PlayGwent
 sort_mode_alphabetical;ÁBC
-sort_mode_default;APALÉRTELMEZETT
+sort_mode_default;ALAPÉRTELMEZETT
 sort_mode_label;SORT:
 sort_mode_power;ERŐ
 sort_mode_rarity;RITKASÁG
@@ -7976,7 +7976,7 @@ tracked_action_purify_friendlies_x_times;Tisztíts az egységeidet {0} alkalomma
 tracked_action_purify_x_times;Tisztíts egységeket {0} alkalommal!
 tracked_action_reach_max_coins_x_times;Érd el a maximális mennyiségű Érmét {0} mérkőzés alatt!
 tracked_action_remove_armor_x_times;Távolíts el Páncélt {0} alkalommal!
-tracked_action_send_x_gg;Külj {0} "Jó meccs" jelölést!
+tracked_action_send_x_gg;Küldj {0} "Jó meccs" jelölést!
 tracked_action_spawn_x_ekimmaras;Teremts {0} Ekimmarát!
 tracked_action_spend_x_coins;Költs el {0} Érmét!
 tracked_action_spend_x_coins_in_one_game;Költs el 30, vagy több Érmét {0} mérkőzés alatt!
@@ -11028,7 +11028,7 @@ vanity_title_28275_title;E-sport rajongó
 vanity_title_28276_title;Szőrmók
 vanity_title_28277_title;Ijesztgető
 vanity_title_28278_title;Vándorló
-vanity_title_28279_title;Legjobb tesó
+vanity_title_28279_title;Legjobbb tesó
 vanity_title_28280_title;Nehéz ételek evője
 vanity_title_28281_title;Mandragóra művész
 vanity_title_28282_title;Hűséges testvér
