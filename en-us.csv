@@ -2414,19 +2414,19 @@
 202379_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: {Boost} ponttal erősíti egy szövetséges egységedet.
 202380_fluff;A birkanyírásnak rengeteg módja van. És Trancsír csapata ismeri mindet.
 202380_name;Svindli
-202380_tooltip;<keyword=profit>Haszon</keyword>: {Income} - {Income2}.\nMinden szövetséges Koronaszakító után növeld {income3} értékkel a minimális összeget!
+202380_tooltip;<keyword=profit>Haszon</keyword>: {Income} - {Income2}.\nMinden szövetséges Koponyaszaggató után növeld {income3} értékkel a minimális összeget!
 202381_fluff;Azoknak, akik megpróbálják átverni Fejszét, durva ébredésben lesz részük... és kemény landolásban.
 202381_name;Trancsír testőre
 202381_tooltip;<keyword=shield>Pajzs</keyword>.
 202382_fluff;Fodros ruha, vagy mahakami acélból készült mellvért – nem igazán van jelentősége.
-202382_name;Koronaszakító bandita
+202382_name;Koponyaszaggató bandita
 202382_tooltip;<keyword=intimidate>Fenyegetés</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.
 202383_fluff;Az utolsó alkalom, amikor Harald komor arcán megjelent egy mosoly, az 1211-ben volt, amikor Brouver Hoog részegen megevett öt tál kecskés-káposztás pörköltet, majd jól teleszarta a nadrágját.
 202383_name;Harald Gord
 202383_tooltip;<keyword=deploy>Lehelyezés</keyword>: {B.P.BB_GordSpecialsPlayed+Boost} ponttal erősíti magát.\n{counter} értékkel növeli az erősítést minden speciális kártya után, amit kijátszottál ebben a játékban. Az erősítés nem lehet több, mint {boost2}.
 202384_fluff;„Mindkét kar hátra van kötve,” emlékezz, ezt mondtad! Így szabadon seggbe tudsz rúgni, ha a kedved úgy tartja.
 202384_name;Novigradi igazságszolgáltatás
-202384_tooltip;Játssz ki egy bronz Törpöt, vagy Koronaszakító egységet a paklidból!\nHa már irányítasz Törpöt, vagy Koronaszakítót, még <keyword=spawn>Teremt</keyword> egy <b>Trancsír testőre</b> egységet is a <keyword=melee>Közelharci</keyword> sorodra.
+202384_tooltip;Játssz ki egy bronz Törpöt, vagy Koponyaszaggató egységet a paklidból!\nHa már irányítasz Törpöt, vagy Koponyaszaggatót, még <keyword=spawn>Teremt</keyword> egy <b>Trancsír testőre</b> egységet is a <keyword=melee>Közelharci</keyword> sorodra.
 202385_fluff;Itt is van! A lovagom disznó páncélban.
 202385_name;Sir Skewertooth
 202385_tooltip;<keyword=intimidate>Fenyegetés</keyword>: {Intimidate}.\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: <keyword=immune>Immunitást</keyword> kap.
@@ -2873,7 +2873,7 @@
 202552_tooltip;<keyword=order>Parancs</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.
 202553_fluff;Van elég arany a városban mindenki számára. Legalábbis nekünk.
 202553_name;Összejátszás
-202553_tooltip;Ha irányítasz egységet a következő bandákból:\nVakszemek - Megnövel minden más hatást eggyel.\nKoronaszakítók - Erősíti a leggyengébb szövetséges egységet {Boost} ponttal.\nMókamesterek - {Damage} pont sebzést okoz a legerősebb ellenséges egységnek.\nTűztestvér - <keyword=spawn>Teremt</keyword> {Counter} <b>Tűztestvér fanatikust</b> egy véletlenszerű sorodra.\nKöpönyegforgatók - {Coins} <keyword=coin>Érmét</keyword> kapsz.
+202553_tooltip;Ha irányítasz egységet a következő bandákból:\nVakszemek - Megnövel minden más hatást eggyel.\nKoponyaszaggatók - Erősíti a leggyengébb szövetséges egységet {Boost} ponttal.\nMókamesterek - {Damage} pont sebzést okoz a legerősebb ellenséges egységnek.\nTűztestvér - <keyword=spawn>Teremt</keyword> {Counter} <b>Tűztestvér fanatikust</b> egy véletlenszerű sorodra.\nKöpönyegforgatók - {Coins} <keyword=coin>Érmét</keyword> kapsz.
 202554_fluff;Több zarándok megfordul itt, mint az Örök Tűz templomában.
 202554_name;Egy éjszaka a Vágyvirágban
 202554_tooltip;<keyword=doomed>Kárhozott</keyword>.\nSzcenárió: Előrehaladást érsz el, ha Vakszemek kártyát játszol ki.\nPrológus: <keyword=spawn>Teremt</keyword> egy <b>Ravasz csábítót</b> erre a sorra.\n1. fejezet: <keyword=spawn>Teremt</keyword> egy <b>Vágyvirág őszibarackjait</b> erre a sorra.\n2. fejezet: Kapsz {Coins} <keyword=coin>Érmét</keyword>.
@@ -3485,7 +3485,7 @@
 202889_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Bleeding} <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek.\nA köröd végén {Bleeding2} <keyword=bleeding>Vérzést</keyword> okoz egy <keyword=bleeding>Vérzéssel</keyword> még nem rendelkező véletlenszerű ellenséges egységnek.\n<keyword=devotion>Áhítat</keyword>: Az ellenséges egységeken lévő <keyword=bleeding>Vérzés</keyword> a köröd végén is aktiválódik.
 202890_fluff;Hála neked a disznóim nem fognak éhezni.
 202890_name;Trancsír
-202890_tooltip;<keyword=intimidate>Fenyegetés</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Pénzkicsikarást</b>.\n{Intimidate} egységgel növeli ezen kártya <keyword=intimidate>Fenyegetés</keyword> értékét minden szomszédos Koronaszakító után.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: <keyword=spawn>Teremt</keyword> egy <b>Trancsír testőre</b> egységet erre a sorra.
+202890_tooltip;<keyword=intimidate>Fenyegetés</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Pénzkicsikarást</b>.\n{Intimidate} egységgel növeli ezen kártya <keyword=intimidate>Fenyegetés</keyword> értékét minden szomszédos Koponyaszaggató után.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: <keyword=spawn>Teremt</keyword> egy <b>Trancsír testőre</b> egységet erre a sorra.
 202891_fluff;A Kurafiakkal való háborúzástól Novigrad vizesárkai vörösek lesznek a vértől.
 202891_name;Kurafi Kölyök
 202891_tooltip;<keyword=insanity>Elmebaj</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy erősített ellenséges egységnek. Kapsz <keyword=coin>Érmét</keyword> minden megmaradt sebzéspont után.\n<keyword=devotion>Áhítat</keyword>: Helyette egy tetszőleges ellenséges egységet sebez.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: Megsemmisít egy ellenséges egységet, amelynek {Power}, vagy kisebb az ereje.
@@ -4393,7 +4393,7 @@ card_category_90;Ent
 card_category_92;Gaztett
 card_category_93;Boszorkányvadász
 card_category_94;Tűztestvér
-card_category_95;Koronaszakítók
+card_category_95;Koponyaszaggatók
 card_category_96;Pap
 card_category_97;Mókamesterek
 card_category_98;Köpönyegforgatók
@@ -4481,7 +4481,7 @@ keyword_formation;<#600101>Formáció:</color> Ha a közelharci sorra játszod k
 keyword_friendly;<#600101>Szövetséges:</color> Azon egység, amelyik a te térfeleden található.
 keyword_frost;<#600101>Fagy:</color> A tulajdonosa körének kezdetén, sebzi a legnagyobb erejű egységet ebben a sorban kettővel.
 keyword_gamble;<#600101>Szerencsejáték:</color> Kockáztass és nyerj!
-keyword_gang;<#600101>Banda:</color> Bűnözői szervezetek, melyek a következők lehetnek: Vakszemek, Koronaszakítók, Mókamesterek; Tűztestvér; Szalamandra; Köpönyegforgatók.
+keyword_gang;<#600101>Banda:</color> Bűnözői szervezetek, melyek a következők lehetnek: Vakszemek, Koponyaszaggatók, Mókamesterek; Tűztestvér; Szalamandra; Köpönyegforgatók.
 keyword_gold;<#600101>Immunitás:</color> Állapot, amely miatt ez a kártya közvetlenül nem célozható.
 keyword_grace;<#600101>Kegyelem:</color> Az első alkalommal, amikor ezen egység ereje nagyobb, vagy egyenlő, mint a meghatározott érték, aktiválódik a képesség. Ha a feltétel már a csatatérre való érkezéskor teljesült, azonnal aktiválja a képességet.
 keyword_harmony;<#600101>Harmónia:</color> Erősítsd magad eggyel, vagy a meghatározott ponttal, ha kijátszol egy nem Semleges egységet, amelynek az elsődleges kategóriája eltér az összes többi egységedétől.
