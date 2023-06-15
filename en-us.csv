@@ -270,7 +270,7 @@
 122214_fluff;Előre, ti anyaszomorítók! Előre, vagy a nilfgaardiakkal való találkozás lesz a legkisebb gondotok!
 122214_name;Kaedweni őrmester
 122214_tooltip;<keyword=formation>Formáció</keyword>.\n<keyword=order>Parancs</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.\n<keyword=charge>Töltet</keyword>: {Charges}
-122216_fluff;Mindenki kereskedni akar Novigradban, ez tiszta sor. Feltételek kötnek Fejszével, vagy búcsút inthetnek a térdüknek.
+122216_fluff;Mindenki kereskedni akar Novigrádban, ez tiszta sor. Feltételek kötnek Fejszével, vagy búcsút inthetnek a térdüknek.
 122216_name;Carlo Varese
 122216_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy ellenséges egységnek minden kártyáért, ami a kezedben van.
 122301_fluff;Amik a nyílpuskák akarnak lenni, ha felnőnek.
@@ -1943,7 +1943,7 @@
 202219_tooltip;Erősít egy szövetséges egységet {Boost} ponttal. Növeld az erősítés mértékét {boost2} ponttal minden, a kezdő paklidban lévő Természet kártya után!
 202220_fluff;Néhányan úgy nevezik, hogy az Igazság Botja.
 202220_name;Viharjogar
-202220_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Rettentő fagyot</b>, <b>Sűrű ködöt</b>, vagy <b>Felhőszakadást</b>.\n<keyword=order>Parancs</keyword>: Növeli a sorra ható hatás időtartamát az ellenséges soron {value} körrel.
+202220_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Rettentő fagyot</b>, <b>Sűrű ködöt</b>, vagy <b>Felhőszakadást</b>.\n<keyword=order>Parancs</keyword>: {value} körrel meghosszabbítja a az ellenséges sorra kifejtett hatás időtartamát.
 202221_fluff;Azok, akiket elcsábított a varázsa, hajlandóak bármekkora árat megfizetni.
 202221_name;Éjkirálynő
 202221_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Bleed} <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=purify>Tisztít</keyword> egy egységet.
@@ -2268,7 +2268,7 @@
 202331_fluff;Egykor a nyílt tengerek réme volt, most azonban tétlenül, arannyal teletömve áll, és képtelen elhagyni a kikötőt.
 202331_name;Köpönyegforgatók búvóhelye
 202331_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): {Boost} ponttal erősít egy szövetséges egységet minden kézben lévő Kalóz kártya után.
-202332_fluff;Figyelj, troll! Adok neked száz korokát, ha elfog--AAAA!!!
+202332_fluff;Figyelj, troll! Adok neked száz koronát, ha elfog--AAAA!!!
 202332_name;Dörgedelmes Pugó
 202332_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy véletlenszerű szövetséges egységnek. Ha nincs szövetséges egység, helyette magát sebzi {Damage2} ponttal.
 202333_fluff;Mióta megízlelte az emberi hús ízét, azóta nem is eszik mást.
@@ -2289,7 +2289,7 @@
 202338_fluff;Te embereket látsz, de én egy csapat birkát, akiket meg kell kopasztani.
 202338_name;Városiak
 202338_tooltip;Amikor <keyword=coin>Érmét</keyword> kapsz, {Boost} ponttal erősíti magát.
-202339_fluff;Nagyobb gazdagság van Novigradban, mint az egész Skelligén – és az ehhez kapcsolódó szegény balekok száma.
+202339_fluff;Nagyobb gazdagság van Novigrádban, mint az egész Skelligén – és az ehhez kapcsolódó szegény balekok száma.
 202339_name;Köpönyegforgató fosztogató
 202339_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.\n<keyword=deathblow>Halálos csapás</keyword>: {Coins} <keyword=coin>Érmét</keyword> kapsz.\n<keyword=hoard>Halmozás</keyword> {Hoard-B.P.BB_Hoard}: Mindig aktiválja a <keyword=deathblow>Halálos csapást</keyword> képességét.
 202340_fluff;A patkányfogó és a latrinalapátoló között helyezkedik el az idei legkívánatosabb szakmák listáján.
@@ -2337,7 +2337,7 @@
 202354_fluff;Vigyázz, ne állj túl közel hozzájuk! Legutóbb ráfröccsent a vér a kedvenc tunikámra.
 202354_name;Vezeklők menetelése
 202354_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz magának. Csökkenti a sebzést minden általad irányított Tűztestvér után {Damage2} ponttal.
-202355_fluff;Egy a sok közül, aki Novigradban keresi a szerencséjét. És egy a még többől, aki sosem találja meg.
+202355_fluff;Egy a sok közül, aki Novigrádban keresi a szerencséjét. És egy a még többől, aki sosem találja meg.
 202355_name;Sukrus
 202355_tooltip;Megóvja a tőle balra lévő egységet minden sérüléstől.
 202356_fluff;Igen, jobb, mint a máglya, gondolom... de hallottad a csalódottságot a hangjában? Na ez az igazi szenvedés.
@@ -2355,7 +2355,7 @@
 202360_fluff;Egy játék, ahol a „jó célzás” szubjektívnek tekinthető.
 202360_name;Szerencsekerék
 202360_tooltip;Sebez egy ellenséges egységet véletlenszerűen {Damage} és {Damage2} pont között.
-202361_fluff;Egész Novigradban neki van a legszőrösebb lába, és a legragadósabb keze.
+202361_fluff;Egész Novigrádban neki van a legszőrösebb lába, és a legragadósabb keze.
 202361_name;Bincy Blumerholdt
 202361_tooltip;<keyword=ranged>Távolsági</keyword>: Amikor <keyword=coin>Érmét</keyword> kapsz, erősíti magát minden kapott <keyword=coin>Érme</keyword> után {Boost} ponttal.
 202362_fluff;Közelebb, bárányaim, gyűljetek közelebb! Az Örök Tűz melegítse fel lelketeket!
@@ -2550,7 +2550,7 @@
 202429_fluff;Az ember legjobb barátjából az ember legrosszabb ellenségét csináltuk.
 202429_name;Mutáns vadászkutya
 202429_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=bleeding>Vérzést</keyword> okoz egy ellenséges egységnek, {Bleed} körre.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=poison>Megmérgez</keyword> egy egységet.
-202430_fluff;Az emberi élet törékeny. Főleg Novigradban.
+202430_fluff;Az emberi élet törékeny. Főleg Novigrádban.
 202430_name;Támadás
 202430_tooltip;{Damage} pont sebzést okoz egy ellenséges egységnek. Ha legalább {Counter} Szalamandra egységet irányítasz, helyette {Damage2} sebzést okoz.
 202431_fluff;Egy név, és egy arannyal teli erszény. Ez minden, amire szükségem van.
@@ -2889,7 +2889,7 @@
 202559_fluff;Amikor öt voltam, cukorkát loptam. Most hat vagyok, és rablásban utazom.
 202559_name;Utcagyerekek
 202559_tooltip;<keyword=profit>Haszon</keyword>: {Income}.\n<keyword=fee>Tiszteletdíj</keyword> {Cost}: {Boost} ponttal erősíti magát.
-202560_fluff;Novigradban az őrök nagyon kevés pénzért dolgoznak, mégis úgy élnek, mint a királyok. Csak egy újabb paradoxon a szabad városban.
+202560_fluff;Novigrádban az őrök nagyon kevés pénzért dolgoznak, mégis úgy élnek, mint a királyok. Csak egy újabb paradoxon a szabad városban.
 202560_name;Pénzügyi specialista
 202560_tooltip;<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: Mozgass egy egységet a másik sorra!
 202561_fluff;Összezavarnak, összetörik a szívedet, és kiürítik az erszényedet.
