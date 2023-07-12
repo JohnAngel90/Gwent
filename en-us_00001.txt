@@ -4593,6 +4593,10 @@ interface_profile_leaderboard_label_wins;GY
 interface_profile_master_mirror_progress_filter;Tükörmester haladás
 interface_profile_merchants_of_ofir_progress_filter;Ofir kereskedői haladás
 interface_profile_novigrad_progress_filter;Novigrad haladás
+interface_profile_ouroboros_level_autumn;Őszi ciklus szint
+interface_profile_ouroboros_level_spring;Tavaszi ciklus szint
+interface_profile_ouroboros_level_summer;Nyári ciklus szint
+interface_profile_ouroboros_level_winter;Téli ciklus szint
 interface_profile_player_data_error;An error occured while fetching player profile data.
 interface_profile_price_of_power_progress_filter;A hatalom ára haladás
 interface_profile_ranked_score_leaderboard_label;My position in leaderboards.
@@ -5153,6 +5157,7 @@ ouroboros_main_menu_card_title_spring;Tavaszi ciklus
 ouroboros_main_menu_card_title_summer;Nyári ciklus
 ouroboros_main_menu_card_title_winter;Téli ciklus
 ouroboros_main_menu_tile_not_active;A ciklus előrehaladás jelenleg nem elérhető
+ouroboros_main_menu_tile_not_active_title;Ciklus nem elérhető
 ouroboros_normal_quest_completed;Közepes küldetés teljesítve!
 ouroboros_reroll_desc_bot;Válaszd ki az erőforrást, amit használni szeretnél:
 ouroboros_reroll_desc_top;A küldetéseket lecserélheted hulladék, vagy érc felhasználásával is, a döntés a tiéd!
@@ -5605,27 +5610,39 @@ quest_ouroboros_give_poison_x_times_with_cards_from_cc;Mérgezz egységeket {0} 
 quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Játssz ki {0} Vitalitás kulcsszóval rendelkező kártyát a kezdő szett, alap szett, Novigrad, vagy a Bíbor Átok szett kártyáit felhasználva!
 quest_ouroboros_play_x_cards_from_cc_wotw;Játssz ki {0} kártyát a Bíbor Átok, vagy A vaják útja szett kártyáiból!
 quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Nyerj {0} mérkőzést miután kártyát játszottál ki a Bíbor Átok szettből!
+quest_ouroboros_play_x_cards_from_iron_uroboros;Játssz ki {0} kártyát a Vas Ítélet, vagy az Uroborosz kiegészítőből!
 quest_ouroboros_play_x_cards_from_novigrad;Játssz ki {0} kártyát a Novigrad szettből!
 quest_ouroboros_play_x_cards_from_starter_base;Játssz ki {0} kártyát a kezdő, vagy az alap szettből!
 quest_ouroboros_play_x_cards_from_starter_base_tb;Játssz ki {0} kártyát a kezdő, alap, vagy a Trónbitorló szettből!
 quest_ouroboros_play_x_cultist_cc;Játssz ki {0} Kultistát a Bíbor Átok szettből!
 quest_ouroboros_play_x_cultist_won_match_cc;Nyerj {0} mérkőzést miután Kultistát játszottál ki a Bíbor Átok szettből!
+quest_ouroboros_play_x_dwarfs;Játssz ki {0} Törpöt!
 quest_ouroboros_play_x_humans_cc;Játssz ki {0} Embert a Bíbor Átok szettből!
+quest_ouroboros_play_x_humans_iron;Játssz ki {0} Embert a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_humans_won_match_cc;Nyerj {0} mérkőzést miután Embert játszottál ki a Bíbor Átok szettből!
 quest_ouroboros_play_x_insectoids_from_wotw;Játssz ki {0} Rovar egységet A vaják útja szettből!
+quest_ouroboros_play_x_insectoids_iron;Játssz ki {0} Rovar egységet a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_knights_cc;Játssz ki {0} Lovag egységet a Bíbor Átok szettből!
 quest_ouroboros_play_x_knights_won_match_cc;Nyerj {0} mérkőzést miután Lovag kártyát játszottál ki a Bíbor Átok szettből!
 quest_ouroboros_play_x_locations_base_wotw;Játssz ki {0} Helyszín kártyát az alap, vagy A vaják útja szettből!
 quest_ouroboros_play_x_monster_cards_from_cc;Játssz ki {0} Szörny kártyát a Bíbor Átok szettből!
+quest_ouroboros_play_x_monster_cards_from_iron_judgement;Játssz ki {0} Szörny kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_monster_cards_from_wotw;Játssz ki {0} Szörny kártyát A vaják útja szettből!
 quest_ouroboros_play_x_nilfgaard_cards_from_cc;Játssz ki {0} Nilfgaard kártyát a Bíbor Átok szettből!
+quest_ouroboros_play_x_nilfgaard_cards_from_iron_judgement;Játssz ki {0} Nilfgaard kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_nilfgaard_cards_from_wotw;Játssz ki {0} Nilfgaard kártyát A vaják útja szettből!
+quest_ouroboros_play_x_nilfgaard_soldiers;Játssz ki {0} Nilfgaard Katona kártyát!
 quest_ouroboros_play_x_northern_realms_cards_from_cc;Játssz ki {0} Északi Királyságok kártyát a Bíbor Átok szettből!
+quest_ouroboros_play_x_northern_realms_cards_from_iron_judgement;Játssz ki {0} Északi Királyságok kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_northern_realms_cards_from_wotw;Játssz ki {0} Északi Királyságok kártyát A vaják útja szettből!
+quest_ouroboros_play_x_pirates_iron;Játssz ki {0} Kalóz kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_scoia_cards_from_cc;Játssz ki {0} Mókus kártyát a Bíbor Átok szettből!
+quest_ouroboros_play_x_scoia_cards_from_iron_judgement;Játssz ki {0} Mókus kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_scoia_cards_from_wotw;Játssz ki {0} Mókus kártyát A vaják útja szettből!
 quest_ouroboros_play_x_skellige_cards_from_cc;Játssz ki {0} Skellige kártyát a Bíbor Átok szettből!
+quest_ouroboros_play_x_skellige_cards_from_iron_judgement;Játssz ki {0} Skellige kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_skellige_cards_from_wotw;Játssz ki {0} Skellige kártyát A vaják útja szettből!
+quest_ouroboros_play_x_syndicate_cards_from_iron_judgement;Játssz ki {0} Szindikátus kártyát a Vas Ítélet kiegészítőből!
 quest_ouroboros_play_x_syndicate_cards_from_wotw;Játssz ki {0} Szindikátus kártyát A vaják útja szettből!
 quest_ouroboros_play_x_treants_cc;Játssz ki {0} Entet a Bíbor Átok szettből!
 quest_ouroboros_play_x_treants_won_match_cc;Nyerj {0} mérkőzést miután Entet játszottál ki a Bíbor Átok szettből!
@@ -5641,8 +5658,10 @@ quest_ouroboros_trigger_deathblow_x_times_cards_from_base_cc;Aktiváld a Halálv
 quest_ouroboros_use_order_x_times_for_cards_from_cc_tb;Használd a Parancs képességét a Trónbitorló, vagy a Bíbor Átok kártyáknak {0} alkalommal!
 quest_ouroboros_use_order_x_times_for_cards_from_tb_wotw;Használd a Parancs képességét a Trónbitorló, vagy A vaják útja kártyáknak {0} alkalommal!
 quest_ouroboros_win_x_game_most_cards_from_cc_wotw;Nyerj {0} mérkőzést 13, vagy több olyan kártyával a kezdő paklidban, ami a Bíbor Átok, vagy A vaják útja szett része!
+quest_ouroboros_win_x_game_most_cards_from_iron_uroboros;Nyerj {0} mérkőzést 13, vagy több olyan kártyával, ami a Vas Ítélet, vagy az Uroboros kiegészítőben található!
 quest_ouroboros_win_x_game_most_cards_from_novigrad;Nyerj {0} mérkőzést 13, vagy több olyan kártyával a paklidban, ami a Novigrad szett része!
 quest_ouroboros_win_x_game_only_cards_from_starter_base_cc_wotw;Nyerj {0} mérkőzést csak olyan kártyával a kezdő paklidban, ami a kezdő, alap, Bíbor Átok, vagy A vaják útja szett része!
+quest_ouroboros_win_x_game_only_cards_from_starter_base_iron_uroboros;Nyerj {0} mérkőzést csak olyan kártyával a kezdő paklidban, ami a kezdő, alap, Vas Ítélet, vagy az Uroborosz szett része!
 quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Nyerj {0} mérkőzést csak olyan kártyával a kezdő paklidban, ami a kezdő, alap, vagy Novigrad szett része!
 quest_ouroboros_win_x_game_syanna_dettleaff_in_deck;Nyerj {0} mérkőzést Syanna-val, vagy Dettlaff-al a paklidban!
 quest_play_x_aristocrat_cards;Játssz ki {0} Arisztokrata megjelölésű kártyát
@@ -6762,7 +6781,7 @@ shop_casanova_bundle_title;Casanova Bundle
 shop_category_autumn_cycle;Őszi ciklus
 shop_category_autumn_season;Őszi szezon
 shop_category_dungeon_keys;Dungeon keys
-shop_category_esport;E-Sport
+shop_category_esport;E-sportok
 shop_category_events;Események
 shop_category_expansion_bundles;Expansion Bundles
 shop_category_expansion_packs;Kiegészítő csomagok
@@ -6788,28 +6807,28 @@ shop_data_1_cc_keg_title;Bíbor Átok hordó
 shop_data_1_keg_title;Alap hordó
 shop_data_1_premium_cc_keg_title;Premium Bíbor Átok hordó
 shop_data_10_perc_promo_desc;10% Reduced Price!
-shop_data_15_cc_kegs_title;Bíbor Átok hordó x 15
-shop_data_15_ep5_kegs_title;Tükörmester hordó x 15
+shop_data_15_cc_kegs_title;Bíbor Átok hordó x15
+shop_data_15_ep5_kegs_title;Tükörmester hordó x15
 shop_data_15_ep5_kegs_title_gaea;Hulladék x28, Tükörmester hordó x15
-shop_data_15_ep5_premium_kegs_title;Tükörmester prémium hordó x 15
+shop_data_15_ep5_premium_kegs_title;Tükörmester prémium hordó x15
 shop_data_15_ep5_premium_kegs_title_gaea;Hulladék x35, Tükörmester prémium hordó x15
 shop_data_15_kegs_gaea_title;x28 Hulladék, x15 alap hordó
-shop_data_15_kegs_title;Alap hordó x 15
-shop_data_15_neutral_kegs_title;Semleges hordó x 15
+shop_data_15_kegs_title;Alap hordó x15
+shop_data_15_neutral_kegs_title;Semleges hordó x15
 shop_data_15_neutral_kegs_title_gaea;Hulladék x 28, Semleges hordó x 15
-shop_data_15_premium_cc_kegs_title;Premium Bíbor Átok hordó x 15
+shop_data_15_premium_cc_kegs_title;Bíbor Átok prémium hordó x15
 shop_data_15_premium_cc_kegs_title_gaea;Hulladék x 35, Premium Bíbor Átok hordó x 15
 shop_data_1600_powder_title;x1600 meteoritpor
-shop_data_2_cc_kegs_title;Bíbor Átok hordó x 2
-shop_data_2_ep5_kegs_title;Tükörmester hordó x 2
+shop_data_2_cc_kegs_title;Bíbor Átok hordó x2
+shop_data_2_ep5_kegs_title;Tükörmester hordó x2
 shop_data_2_ep5_kegs_title_gaea;Hulladék x7, Tükörmester hordó x2
-shop_data_2_ep5_premium_kegs_title;Tükörmester prémium hordó x 2
+shop_data_2_ep5_premium_kegs_title;Tükörmester prémium hordó x2
 shop_data_2_ep5_premium_kegs_title_gaea;Hulladék x10, Tükörmester prémium hordó x2
 shop_data_2_kegs_gaea_title;x7 Hulladék, x2 alap hordó
-shop_data_2_kegs_title;Alap hordó x 2
-shop_data_2_neutral_kegs_title;Semleges hordó x 2
+shop_data_2_kegs_title;Alap hordó x2
+shop_data_2_neutral_kegs_title;Semleges hordó x2
 shop_data_2_neutral_kegs_title_gaea;Hulladék x 7, Semleges hordó x 2
-shop_data_2_premium_cc_kegs_title;Premium Bíbor Átok hordó x 2
+shop_data_2_premium_cc_kegs_title;Bíbor Átok prémium hordó x2
 shop_data_2_premium_cc_kegs_title_gaea;Hulladék x 10, Premium Bíbor Átok hordó x 2
 shop_data_2019_bear_seasonal_bundle_desc;This special bundle contains collectible cosmetic items that were obtainable in GWENT during the Medvék szezonja. It includes:\n\n <sprite="PopupIcons" name="CardBack">Medvék szezonja cardback\n\n <sprite="PopupIcons" name="Avatar">  2 Avatars: Vernon Roche and She-Bear\n\n <sprite="PopupIcons" name="Border"> 4 Seasonal Borders: Bear Cub, Ursine Novice, Grizzly Bear and Ursine Grandmaster\n\n <sprite="PopupIcons" name="Border"> 1 previously unreleased item: Bear Border.
 shop_data_2019_bear_seasonal_bundle_title;Medvék szezonja Bundle
@@ -6823,46 +6842,48 @@ shop_data_2020_celebration_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 
 shop_data_2020_celebration_pack_title;Yule's Celebration Package
 shop_data_25_perc_promo_desc;25% Reduced Price!
 shop_data_3200_powder_title;x3200 meteoritpor
-shop_data_40_cc_kegs_title;Bíbor Átok hordó x 40
-shop_data_40_ep5_kegs_title;Tükörmester hordó x 40
+shop_data_40_cc_kegs_title;Bíbor Átok hordó x40
+shop_data_40_ep5_kegs_title;Tükörmester hordó x40
 shop_data_40_ep5_kegs_title_gaea;Hulladék x68, Tükörmester hordó x40
-shop_data_40_ep5_premium_kegs_title;Tükörmester prémium hordó x 40
+shop_data_40_ep5_premium_kegs_title;Tükörmester prémium hordó x40
 shop_data_40_ep5_premium_kegs_title_gaea;Hulladék x80, Tükörmester prémium hordó x40
 shop_data_40_kegs_gaea_title;x68 Hulladék, x40 alap hordó
-shop_data_40_kegs_title;Alap hordó x 40
-shop_data_40_neutral_kegs_title;Semleges hordó x 40
+shop_data_40_kegs_title;Alap hordó x40
+shop_data_40_neutral_kegs_title;Semleges hordó x40
 shop_data_40_neutral_kegs_title_gaea;Hulladék x 68, Semleges hordó x 40
-shop_data_40_premium_cc_kegs_title;Premium Bíbor Átok hordó x 40
+shop_data_40_premium_cc_kegs_title;Bíbor Átok prémium hordó x40
 shop_data_40_premium_cc_kegs_title_gaea;Hulladék x 80, Premium Bíbor Átok hordó x 40
 shop_data_400_powder_title;x400 meteoritpor
 shop_data_4800_powder_title;x4800 meteoritpor
 shop_data_50_perc_promo_desc;50% Reduced Price!
-shop_data_60_cc_kegs_title;Bíbor Átok hordó x 60
-shop_data_60_ep5_kegs_title;Tükörmester hordó x 60
+shop_data_60_cc_kegs_title;Bíbor Átok hordó x60
+shop_data_60_ep5_kegs_title;Tükörmester hordó x60
 shop_data_60_ep5_kegs_title_gaea;Hulladék x188, Tükörmester hordó x60
-shop_data_60_ep5_premium_kegs_title;Tükörmester prémium hordó x 60
+shop_data_60_ep5_premium_kegs_title;Tükörmester prémium hordó x60
 shop_data_60_ep5_premium_kegs_title_gaea;Hulladék x260, Tükörmester prémium hordó x60
 shop_data_60_kegs_gaea_title;x188 Hulladék, x60 alap hordó
-shop_data_60_kegs_title;Alap hordó x 60
-shop_data_60_neutral_kegs_title;Semleges hordó x 60
+shop_data_60_kegs_title;Alap hordó x60
+shop_data_60_neutral_kegs_title;Semleges hordó x60
 shop_data_60_neutral_kegs_title_gaea;Hulladék x 188, Semleges hordó x 60
-shop_data_60_premium_cc_kegs_title;Premium Bíbor Átok hordó x 60
+shop_data_60_premium_cc_kegs_title;Bíbor Átok prémium hordó x60
 shop_data_60_premium_cc_kegs_title_gaea;Hulladék x 260, Premium Bíbor Átok hordó x 60
-shop_data_7_cc_kegs_title;Bíbor Átok hordó x 7
-shop_data_7_ep5_kegs_title;Tükörmester hordó x 7
+shop_data_7_cc_kegs_title;Bíbor Átok hordó x7
+shop_data_7_ep5_kegs_title;Tükörmester hordó x7
 shop_data_7_ep5_kegs_title_gaea;Hulladék x18, Tükörmester hordó x7
-shop_data_7_ep5_premium_kegs_title;Tükörmester prémium hordó x 7
+shop_data_7_ep5_premium_kegs_title;Tükörmester prémium hordó x7
 shop_data_7_ep5_premium_kegs_title_gaea;Hulladék x25, Tükörmester prémium hordó x7
 shop_data_7_kegs_gaea_title;x18 Hulladék, x7 alap hordó
-shop_data_7_kegs_title;Alap hordó x 7
-shop_data_7_neutral_kegs_title;Semleges hordó x 7
+shop_data_7_kegs_title;Alap hordó x7
+shop_data_7_neutral_kegs_title;Semleges hordó x7
 shop_data_7_neutral_kegs_title_gaea;Hulladék x 18, Semleges hordó x 7
-shop_data_7_premium_cc_kegs_title;Premium Bíbor Átok hordó x 7
+shop_data_7_premium_cc_kegs_title;Bíbor Átok prémium hordó x7
 shop_data_7_premium_cc_kegs_title_gaea;Hulladék x 25, Premium Bíbor Átok hordó x 7
 shop_data_7200_powder_title;x7200 meteoritpor
 shop_data_800_powder_title;x800 meteoritpor
 shop_data_abandoned_gameboard_desc;<sprite="PopupIcons" name="Board"> Abandoned Laboratory Board\n\nMay the haunting consequences of catastrophic failures never keep you from completing your grand experiment.
 shop_data_abandoned_gameboard_title;Elhagyatott laboratórium tábla
+shop_data_abyssal_anchor_cardback_desc;<sprite="PopupIcons" name="CardBack"> Mélységi horgony kártya hátlap\n\nWeigh the anchor against the souls of vanquished mariners.
+shop_data_abyssal_anchor_cardback_title;Mélységi horgony kártya hátlap
 shop_data_air_bundle_desc;<sprite="PopupIcons" name="Skin"> Queen of the Wind Skin (Scoia'tael)\n\n<sprite="PopupIcons" name="Board"> Dandelion Meadow Board\n\nWalk in the footsteps of the great Francesca Findabair through her courts: the meadows of Dol Blathanna.
 shop_data_air_bundle_title;Air Bundle
 shop_data_air_pack_desc;<sprite="PopupIcons" name="Avatar"> Djinn Avatar\n\n<sprite="PopupIcons" name="Border"> Animated Air Border\n\n<sprite="PopupIcons" name="Title"> "The Djinn" titulus\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nThe firmament shakes with the fluttering of a thousand birds fleeing an ominous squall...
@@ -6873,8 +6894,8 @@ shop_data_allgods_pack_desc;<sprite="PopupIcons" name="PremiumCard"> Főisten k�
 shop_data_allgods_pack_title;Főisten csomagja
 shop_data_ambush_bundle_desc;<sprite="PopupIcons" name="Border"> Ambush Border\n\n<sprite="PopupIcons" name="Title"> "Ambusher" titulus\n\nJoin the defense of Brokilon, and lay in ambush for its enemies!
 shop_data_ambush_bundle_title;Ambush Bundle
-shop_data_anna_henrietta_skin_desc;<sprite="PopupIcons" name="Skin"> Ofíri hercegnő kinézet\n\nBehold a brand new look for Anna Henrietta. Plot, gather intelligence, and use it against your foes - stylishly disguised as an Ofiri princess!
-shop_data_anna_henrietta_skin_title;Ofiri hercegnő kinézet
+shop_data_anna_henrietta_skin_desc;<sprite="PopupIcons" name="Skin"> Ofiri hercegnő kinézet (Nilfgaard)\n\nYou may think you have the Ofiri officials fooled, but the truth is, they're simply enjoying the show.
+shop_data_anna_henrietta_skin_title;Ofiri Anna Henrietta kinézet
 shop_data_army_commander_skin_desc;<sprite="PopupIcons" name="Skin"> Hadvezér kinézet\n\nGrab this shiny armour that King Foltest donned in the first Witcher game. All hail to one of the most powerful kings of the North!
 shop_data_army_commander_skin_title;Hadvezér kinézet
 shop_data_autumn_board_desc;<sprite="PopupIcons" name="Board"> Őszi játéktábla\n\nMay this fall bring in the mighty fall of your enemies and lead you to the ultimate path of glory!
@@ -6993,6 +7014,16 @@ shop_data_ep1_cardback_pack_title;Lilac Moon Cardback
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Sötét vér páncél kinézet\n\nLáthatatlan Ős is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.
 shop_data_ep1_skin_pack_desc_sale;Láthatatlan Ős is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.\n\nThis skin can be equipped only for Monster Faction and will be up for -30% sale during the Saovine Event!
 shop_data_ep1_skin_pack_title;Sötét vér páncél kinézet
+shop_data_ep2_15_premium_keg_title;Novigrad prémium hordó x15
+shop_data_ep2_15_standard_keg_title;Novigrad hordó x15
+shop_data_ep2_2_premium_keg_title;Novigrad prémium hordó x2
+shop_data_ep2_2_standard_keg_title;Novigrad hordó x2
+shop_data_ep2_40_premium_keg_title;Novigrad prémium hordó x40
+shop_data_ep2_40_standard_keg_title;Novigrad hordó x40
+shop_data_ep2_60_premium_keg_title;Novigrad prémium hordó x60
+shop_data_ep2_60_standard_keg_title;Novigrad hordó x60
+shop_data_ep2_7_premium_keg_title;Novigrad prémium hordó x7
+shop_data_ep2_7_standard_keg_title;Novigrad hordó x7
 shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\nWhen night falls, the Gangs of Novigrad come out and rule the streets! Battle it out with friends and foes on the Novigrad by Night gameboard!
 shop_data_ep2_alt_board_title;Novigrad by Night Board
 shop_data_ep2_alt_cardback_desc;<sprite="PopupIcons" name="CardBack"> Undying Fire Animated Cardback\n\nAs long as corruption dwells in our hearts, the spirit of Novigrad lives on.
@@ -7002,8 +7033,13 @@ shop_data_ep2_pack_desc;<sprite="PopupIcons" name="Keg"> 15 Standard Novigrad Ke
 shop_data_ep2_pack_title;Novigrad Pack
 shop_data_ep2_premium_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 20 Premium Novigrad Kegs\n\n <sprite="PopupIcons" name="CardBack"> Spectral Fire Animated Cardback\n\nThe Syndicate's true colors are revealed at night, when nothing but coin is sacred.
 shop_data_ep2_premium_pack_title;Novigrad Premium Pack
-shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin">Zerrikanian Radovid Premium kinézet\n\nAlternative appearance for V. Radovid király. Don’t miss out!
-shop_data_ep3_alt_leader_skin_bundle_title;Zerrikanian Radovid Premium kinézet
+shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin"> Zerrikániai kinézet (Northern Realms)\n\nAs a king, you must make sure you are recognized as one, no matter where you travel.
+shop_data_ep3_alt_leader_skin_bundle_title;V. Zerrikániai Radovid kinézet
+shop_data_ep4_15_premium_keg_title;Ofir kereskedői prémium hordó x15
+shop_data_ep4_2_premium_keg_title;Ofir kereskedői prémium hordó x2
+shop_data_ep4_40_premium_keg_title;Ofir kereskedői prémium hordó x40
+shop_data_ep4_60_premium_keg_title;Ofir kereskedői prémium hordó x60
+shop_data_ep4_7_premium_keg_title;Ofir kereskedői prémium hordó x7
 shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card">Magic Lamp Premium Card\n<sprite="PopupIcons" name="Card">Crystal Skull Premium Card\n<sprite="PopupIcons" name="Card">Enchanted Armor Premium Card\n<sprite="PopupIcons" name="Card">Cursed Scroll Premium Card\n<sprite="PopupIcons" name="Card">Basilisk Venom Premium Card\n<sprite="PopupIcons" name="Card">Ceremonial Dagger Premium Card\n<sprite="PopupIcons" name="Card">Collar Premium Card\n<sprite="PopupIcons" name="Card">Engineering Solution Premium Card\n<sprite="PopupIcons" name="Card">Uroborosz álarca Premium Card\n<sprite="PopupIcons" name="Card">Árnyak urnája prémium kártya\n<sprite="PopupIcons" name="Card">Aen Seidhe Sabre Premium Card\n<sprite="PopupIcons" name="Card">Tiger's Eye Premium Card\n\nFortune favours the bold! Get your hands on the most precious Ofiri treasures - 12 prémium fortély kártya! Each fortély provides a unique bonus to the player who goes first in the match.
 shop_data_ep4_caravan_pack_title;Caravan Raid csomag
 shop_data_ep4_premium_keg_desc;Amikor kinyitod, ez a hordó ad neked 5 prémium kártyát az Ofir kereskedői szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
@@ -7046,16 +7082,17 @@ shop_data_ep6_keg_title;A vaják útja hordó
 shop_data_ep6_launch_pack_desc;<sprite="PopupIcons" name="Border"> Laboratory Border\n\n<sprite="PopupIcons" name="Avatar"> Cosimo Avatar\n\n<sprite="PopupIcons" name="Title"> "Master of Hybridizing" Title\n\n<sprite="PopupIcons" name="PremiumKeg"> 45 Premium A vaják útja Kegs\n\nMake sure to wipe down the scalpels and forceps—vivisection awaits.
 shop_data_ep6_launch_pack_title;Kísérletező csomag
 shop_data_ep6_premium_15_keg_gaea_title;Hulladék x35, Premium A vaják útja hordó x15
-shop_data_ep6_premium_15_keg_title;Premium A vaják útja hordó x15
+shop_data_ep6_premium_15_keg_title;A vaják útja prémium hordó x15
 shop_data_ep6_premium_2_keg_gaea_title;Hulladék x10, Premium A vaják útja hordó x2
-shop_data_ep6_premium_2_keg_title;Premium A vaják útja hordó x2
+shop_data_ep6_premium_2_keg_title;A vaják útja prémium hordó x2
 shop_data_ep6_premium_40_keg_gaea_title;Hulladék x80, Premium A vaják útja hordó x40
-shop_data_ep6_premium_40_keg_title;Premium A vaják útja hordó x40
+shop_data_ep6_premium_40_keg_title;A vaják útja prémium hordó x40
 shop_data_ep6_premium_60_keg_gaea_title;Hulladék x260, Premium A vaják útja hordó x60
-shop_data_ep6_premium_60_keg_title;Premium A vaják útja hordó x60
+shop_data_ep6_premium_60_keg_title;A vaják útja prémium hordó x60
 shop_data_ep6_premium_7_keg_gaea_title;Hulladék x25, Premium A vaják útja hordó x7
-shop_data_ep6_premium_7_keg_title;Premium A vaják útja hordó x7
+shop_data_ep6_premium_7_keg_title;A vaják útja prémium hordó x7
 shop_data_ep6_premium_keg_desc;Ha kinyitod, ez a hordó ad neked 5 kártyát a vaják útja szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep6_premium_keg_title;A vaják útja prémium hordó
 shop_data_ep6_preorder1_desc;<sprite="PopupIcons" name="Board"> Alzur's Laboratory Board\n\n<sprite="PopupIcons" name="PremiumKeg"> 25 Premium A vaják útja Kegs\n\n<sprite="PopupIcons" name="PremiumCard"> Alzur\n\nSometimes, one needs a monster to slay a monster.
 shop_data_ep6_preorder1_title;Alzur csomagja
 shop_data_ep6_preorder2_desc;<sprite="PopupIcons" name="CardBack"> A vaják útja Shapeshifting Cardbacks (one for each faction)\n\nChoose wisely, for the monster will become a part of you.
@@ -7063,11 +7100,11 @@ shop_data_ep6_preorder2_title;A vaják útja kártya hátlap Bundle
 shop_data_ep7_1_bundle_desc;<sprite="PopupIcons" name="Board"> Once Upon a Pyre Board\n\n<sprite="PopupIcons" name="Avatar"> All Once Upon a Pyre faction Avatars\n\nClear the streets! Make way for your saviors, the Hales!
 shop_data_ep7_1_bundle_title;Once Upon a Pyre Bundle
 shop_data_ep7_15_keg_gaea_title;Hulladék x28, A hatalom ára hordó x15
-shop_data_ep7_15_keg_title;A hatalom ára hordó x 15
+shop_data_ep7_15_keg_title;A hatalom ára hordó x15
 shop_data_ep7_2_bundle_desc;<sprite="PopupIcons" name="CardBack"> Jester Cardback\n\n<sprite="PopupIcons" name="Avatar"> All Thanedd-i puccs faction Avatars\n\nYou know what we do to jokesters, don't you? If not, let's just say you won't want to...
 shop_data_ep7_2_bundle_title;Thanedd-i puccs Bundle
 shop_data_ep7_2_keg_gaea_title;Hulladék x7, A hatalom ára hordó x2
-shop_data_ep7_2_keg_title;A hatalom ára hordó x 2
+shop_data_ep7_2_keg_title;A hatalom ára hordó x2
 shop_data_ep7_2_pack_mega_pack_desc;<sprite="PopupIcons" name="CardBack"> Jester Cardback\n\n<sprite="PopupIcons" name="Avatar"> All Thanedd-i puccs faction Avatars\n\n<sprite="PopupIcons" name="PremiumCard"> All Thanedd-i puccs premium Neutral cards\n\n<sprite="PopupIcons" name="PremiumCard"> All Thanedd-i puccs premium faction cards\n\nTo save magic from itself — a hopeless endeavor.
 shop_data_ep7_2_pack_mega_pack_title;Thanedd-i puccs - Combo Pack
 shop_data_ep7_3_bundle_desc;<sprite="PopupIcons" name="Skin"> The Witchfinder Skin\n\n<sprite="PopupIcons" name="Avatar"> All Harvest of Sorrow faction Avatars\n\nThe only thing worse than witches and heretics are those that harbor them!
@@ -7075,46 +7112,46 @@ shop_data_ep7_3_bundle_title;Harvest of Sorrow Bundle
 shop_data_ep7_3_pack_mega_pack_desc;<sprite="PopupIcons" name="Skin"> The Witchfinder Skin\n\n<sprite="PopupIcons" name="Avatar"> All Harvest of Sorrow faction Avatars\n\n<sprite="PopupIcons" name="PremiumCard"> All Harvest of Sorrow premium Neutral cards\n\n<sprite="PopupIcons" name="PremiumCard"> All Harvest of Sorrow premium faction cards\n\nA mage's legacy is measured in ashes.
 shop_data_ep7_3_pack_mega_pack_title;Harvest of Sorrow - Combo Pack
 shop_data_ep7_40_keg_gaea_title;Hulladék x68, A hatalom ára hordó x40
-shop_data_ep7_40_keg_title;A hatalom ára hordó x 40
+shop_data_ep7_40_keg_title;A hatalom ára hordó x40
 shop_data_ep7_60_keg_gaea_title;Hulladék x188, A hatalom ára hordó x60
-shop_data_ep7_60_keg_title;A hatalom ára hordó x 60
+shop_data_ep7_60_keg_title;A hatalom ára hordó x60
 shop_data_ep7_7_keg_gaea_title;Hulladék x18, A hatalom ára hordó x7
-shop_data_ep7_7_keg_title;A hatalom ára hordó x 7
+shop_data_ep7_7_keg_title;A hatalom ára hordó x7
 shop_data_ep7_keg_desc;Ha kinyitod, ez a hordó ad neked 5 kártyát a hatalom ára szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3 kártyából választva) garantáltan legalább ritka kártya lesz.
 shop_data_ep7_keg_title;A hatalom ára hordó
 shop_data_ep7_pack_mega_pack_desc;<sprite="PopupIcons" name="Board"> Once Upon a Pyre Gameboard\n\n<sprite="PopupIcons" name="Avatar"> All Once Upon a Pyre faction Avatars\n\n<sprite="PopupIcons" name="PremiumCard"> All Once Upon a Pyre premium Neutral cards\n\n<sprite="PopupIcons" name="PremiumCard"> All Once Upon a Pyre premium faction cards\n\nWith great power comes great notoriety.
 shop_data_ep7_premium_15_keg_gaea_title;Hulladék x35, A hatalom ára prémium hordó x15
-shop_data_ep7_premium_15_keg_title;A hatalom ára prémium hordó x 15
+shop_data_ep7_premium_15_keg_title;A hatalom ára prémium hordó x15
 shop_data_ep7_premium_2_keg_gaea_title;Hulladék x10, A hatalom ára prémium hordó x2
-shop_data_ep7_premium_2_keg_title;A hatalom ára prémium hordó x 2
+shop_data_ep7_premium_2_keg_title;A hatalom ára prémium hordó x2
 shop_data_ep7_premium_40_keg_gaea_title;Hulladék x80, A hatalom ára prémium hordó x40
-shop_data_ep7_premium_40_keg_title;A hatalom ára prémium hordó x 40
+shop_data_ep7_premium_40_keg_title;A hatalom ára prémium hordó x40
 shop_data_ep7_premium_60_keg_gaea_title;Hulladék x260, A hatalom ára prémium hordó x60
-shop_data_ep7_premium_60_keg_title;A hatalom ára prémium hordó x 60
+shop_data_ep7_premium_60_keg_title;A hatalom ára prémium hordó x60
 shop_data_ep7_premium_7_keg_gaea_title;Hulladék x25, A hatalom ára prémium hordó x7
-shop_data_ep7_premium_7_keg_title;A hatalom ára prémium hordó x 7
+shop_data_ep7_premium_7_keg_title;A hatalom ára prémium hordó x7
 shop_data_ep8_15_keg_gaea_title;Hulladék x28, A hatalom ára hordó x15
-shop_data_ep8_15_keg_title;Elátkozott Varangy hordó x 15
+shop_data_ep8_15_keg_title;Elátkozott Varangy hordó x15
 shop_data_ep8_2_keg_gaeatitle;Hulladék x7, A hatalom ára hordó x2
-shop_data_ep8_2_keg_title;Elátkozott Varangy hordó x 2
+shop_data_ep8_2_keg_title;Elátkozott Varangy hordó x2
 shop_data_ep8_40_keg_gaea_title;Hulladék x68, A hatalom ára hordó x40
-shop_data_ep8_40_keg_title;Elátkozott Varangy hordó x 40
+shop_data_ep8_40_keg_title;Elátkozott Varangy hordó x40
 shop_data_ep8_60_keg_gaea_title;Hulladék x188, A hatalom ára hordó x60
-shop_data_ep8_60_keg_title;Elátkozott Varangy hordó x 60
+shop_data_ep8_60_keg_title;Elátkozott Varangy hordó x60
 shop_data_ep8_7_keg_gaea_title;Hulladék x18, A hatalom ára hordó x7
-shop_data_ep8_7_keg_title;Elátkozott Varangy hordó x 7
+shop_data_ep8_7_keg_title;Elátkozott Varangy hordó x7
 shop_data_ep8_keg_desc;Ha kinyitod ezt a hordót, 5 lapot ad az Elátkozott Varangy szettből, amelyek közül 4 minimum gyakori, a három további lap közül választható 5. pedig garantáltan legalább ritka lesz.
 shop_data_ep8_keg_title;Elátkozott Varangy hordó
 shop_data_ep8_premium_15_keg_gaea_title;Hulladék x35, A hatalom ára prémium hordó x15
-shop_data_ep8_premium_15_keg_title;Elátkozott Varangy prémium hordó x 15
+shop_data_ep8_premium_15_keg_title;Elátkozott Varangy prémium hordó x15
 shop_data_ep8_premium_2_keg_gaea_title;Hulladék x10, A hatalom ára prémium hordó x2
-shop_data_ep8_premium_2_keg_title;Elátkozott Varangy prémium hordó x 2
+shop_data_ep8_premium_2_keg_title;Elátkozott Varangy prémium hordó x2
 shop_data_ep8_premium_40_keg_gaea_title;Hulladék x80, A hatalom ára prémium hordó  x40
-shop_data_ep8_premium_40_keg_title;Elátkozott Varangy prémium hordó x 40
+shop_data_ep8_premium_40_keg_title;Elátkozott Varangy prémium hordó x40
 shop_data_ep8_premium_60_keg_gaea_title;Hulladék x260, A hatalom ára prémium hordó x60
-shop_data_ep8_premium_60_keg_title;Elátkozott Varangy prémium hordó x 60
+shop_data_ep8_premium_60_keg_title;Elátkozott Varangy prémium hordó x60
 shop_data_ep8_premium_7_keg_gaea_title;Hulladék x25, A hatalom ára prémium hordó x7
-shop_data_ep8_premium_7_keg_title;Elátkozott Varangy prémium hordó x 7
+shop_data_ep8_premium_7_keg_title;Elátkozott Varangy prémium hordó x7
 shop_data_ep8_premium_keg_desc;Ha kinyitod ezt a hordót, 5 lapot ad az Elátkozott Varangy szettből, amelyek közül 4 minimum gyakori, a három további lap közül választható 5. pedig garantáltan legalább ritka lesz.
 shop_data_ep8_premium_keg_title;Elátkozott Varangy prémium hordó
 shop_data_eredin_snowman_skin_desc;<sprite="PopupIcons" name="Skin"> Eredin Hóember kinézet\n\nEgyet se félj, ha Eredint látod, amint a sötétben ólálkodik. Az Aen Elle Zord Vadászokként ismert lovasságának egykori parancsnoka, és rengeteg, a gyermekek fenyítésére szolgáló tanmese gonosza most már csak egy hóember! Szóval nincs mitől félni, ugyanis képtelen támadni, hiszen mozdulni sem tud. Legfeljebb csak olvadozni!
@@ -7126,7 +7163,7 @@ shop_data_event_kegs_category_name;Zúzós hordók
 shop_data_event_packs_category_name;Csomagok
 shop_data_expansion_pass_ep7_desc;True power can be yours...\n\nThis Expansion Pass will grant access to the following items, spread between each of the A hatalom ára releases:\n\n- 117 PREMIUM A hatalom ára cards, including 78 unique ones\n\n- 21 Themed díszítések - 18 avatars, a gameboard, a cardback, and a vezető kinézet\n\n- Bonus item: animált halotti máglya érme — unlockable immediately\n\nThis offer contains premium versions of all cards from the A hatalom ára set, with a selection of cards becoming available with the release of each of the three expansions. The same applies for all díszítést included in this offer — with the exception of the animált halotti máglya bonus item, which is available to use immediately.
 shop_data_expansion_pass_ep7_title;A hatalom ára - Expansion Pass
-shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Avatar"> Dancer Avatar\n\n<sprite="PopupIcons" name="Border"> Festival Border\n\n<sprite="PopupIcons" name="Title"> "Festival Dancer" titulus\n\nLet the dance begin! Join the merrymaking and celebrate Midsummer!\n\nThis bundle was first introduced during summer festival in 2020.
+shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Border"> Festival Border\n\n<sprite="PopupIcons" name="Avatar"> Dancer Avatar\n\n<sprite="PopupIcons" name="Title"> "Festival Dancer" Title\n\nWeave yer wreaths and raise the maypole, for Midsummer needs a good ol' celebratin'.
 shop_data_festival_bundle_title;Festival Bundle
 shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\nUnleash your battle fury with a fiery blaze with this special version of the Vas Ítélet cardback!
 shop_data_fiery_judgment_cardback_title;Fiery Judgment kártya hátlap
@@ -7224,7 +7261,7 @@ shop_data_lunar_rat_bundle_desc;<sprite="PopupIcons" name="CardBack"> Lunar Rat 
 shop_data_lunar_rat_bundle_title;Lunar Rat Bundle
 shop_data_lunar_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Lunar Tiger Board\n\n<sprite="PopupIcons" name="CardBack"> Lunar Tiger Cardback\n\nSmall kitty keeping house safe from unhappy, but big kitty keeping town safe from unlucky!
 shop_data_lunar_tiger_bundle_title;Lunar Tiger Bundle
-shop_data_lyria_bundle_desc;<sprite="PopupIcons" name="Avatar"> Caldwell Avatar\n\n<sprite="PopupIcons" name="Board"> Lyria játéktábla\n\n<sprite="PopupIcons" name="Skin> Ally of Lyria kinézet\n\nBecome the ally of Lyria! Some people lose their head over the beauty of this land.\n\nThis bundle allows you to obtain ornaments first introduced with the Homecoming.
+shop_data_lyria_bundle_desc;<sprite="PopupIcons" name="Skin> Ally of Lyria Skin (Northern Realms)\n\n<sprite="PopupIcons" name="Board"> Lyria Board\n\n<sprite="PopupIcons" name="Avatar"> Caldwell Avatar\n\nAhh, Lyria. Surely not worth losing your own head over—but a thousand others, well...
 shop_data_lyria_bundle_title;Lyria Bundle
 shop_data_magic_cardback_2020_desc;<sprite="PopupIcons" name="CardBack"> A mágia szezonja kártya hátlap\n\nThis cardback was first introduced as an unlockable item during the A mágia szezonja in the A vérpatkány éve.
 shop_data_magic_cardback_2020_title;Magic kártya hátlap (2020)
@@ -7247,18 +7284,19 @@ shop_data_masters_pack_title;Mesterek csomag
 shop_data_mega_pack_1_ep7_title;Once Upon a Pyre - Combo csomag
 shop_data_mega_pack_2_ep7_title;7.2 - Combo csomag
 shop_data_mega_pack_3_ep7_title;7.3 - Combo csomag
-shop_data_merchants_of_ofir_cardback_desc;<sprite="PopupIcons" name="CardBack"> Ofir kereskedői kártya hátlap\n\nThe first expansion in the Elátkozott varangy éve - Forgotten Treasures - has brought back this premium cardback first introduced as a part of Ofiri Bargain csomag.
+shop_data_merchants_of_ofir_cardback_desc;<sprite="PopupIcons" name="CardBack"> Ofir kereskedői kártya hátlap\n\nCan you put a price on rare and mysterious artifacts from an exotic, faraway land? Why yes, my friend, and just for you, the price is very special indeed.
+shop_data_merchants_of_ofir_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Ofir kereskedői kártya hátlap\n\nCan you put a price on rare and mysterious artifacts from an exotic, faraway land? Why yes, my friend, and just for you, the price is very special indeed.\n\nPurchasing this product will help support GWENT esports; 50% of the proceeds from this cardback will directly boost the prize pool for the GWENT Mid-Season Tournament!
 shop_data_merchants_of_ofir_cardback_title;Ofir kereskedői kártya hátlap
 shop_data_meteorite_powder_desc;Meteorite powder can be used to transmute standard cards into their animated, premium versions. It's also used to purchase some díszítést - available in different sections of the shop.
 shop_data_meteorite_powder_nekker_desc;<sprite="PopupIcons" name="Skin"> Meteorit nekker\n\nRelinquish your sanity for the amusement of this ominous, otherworldly idol.
 shop_data_meteorite_powder_nekker_title;Meteorit nekker
-shop_data_midsummer_celebration_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x25\n\n<sprite="PopupIcons" name="Avatar"> Arakász Behemoth Avatar\n\n<sprite="PopupIcons" name="Title"> "Szentivánéj szelleme" titulus\n\n<sprite="PopupIcons" name="Powder"> 1500 Meteorite Powder\n\nCelebrate Midsummer and the beginning of the Elvish summer time - Feainn - with Premium Cards and additional csecsebecsék for your collection! 
+shop_data_midsummer_celebration_pack_desc;<sprite="PopupIcons" name="Avatar"> Arachas Behemoth Avatar\n\n<sprite="PopupIcons" name="Title"> "Midsummer Spirit" Title\n\n<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x25\n\n<sprite="PopupIcons" name="Powder"> 1500 Meteorite Powder\n\nCome Midsummer solstice, come Feainn, come celebrate the longest day of the year...or rather, the shortest day for sun-fearing monsters.
 shop_data_midsummer_celebration_pack_title;Nyárközi ünnepély csomag
 shop_data_midwinter_bundle_desc;<sprite="PopupIcons" name="Skin">Santa Crach vezető kinézet (Skellige) \n\n<sprite="PopupIcons" name="Border"> Yule Ring Border \n\n<sprite="PopupIcons" name="Border"> Reindeer Border\n\n<sprite="PopupIcons" name="Avatar">Ermion Avatar\n\n<sprite="PopupIcons" name="Title">"Festive Fanatic" titulus\n\n Celebrate Midwinter with this special festive bundle, featuring wintertime-themed díszítéseket for your GWENT collection!
 shop_data_midwinter_bundle_desc_sale;<sprite="PopupIcons" name="Skin">Santa Crach vezető kinézet (Skellige) \n\n<sprite="PopupIcons" name="Border"> Yule Ring Border \n\n<sprite="PopupIcons" name="Border"> Reindeer Border\n\n<sprite="PopupIcons" name="Avatar">Ermion avatar\n\n<sprite="PopupIcons" name="Title">"Festive Fanatic" title\n\n This bundle will be available for -30% off during the Téli esemény sale.
 shop_data_midwinter_pack_desc;<sprite="PopupIcons" name="Keg"> x1 Legendás card\n\n    <sprite="PopupIcons" name="Keg"> x50 alap szett Kegs\n\n     <sprite="PopupIcons" name="Scraps"> x1,000 hulladék\n\n     <sprite="PopupIcons" name="Powder"> x1,000 meteoritpor\n\n     <sprite="PopupIcons" name="Ticket"> x10 Arena Tickets
 shop_data_midwinter_pack_title;Midwinter csomag
-shop_data_minstrel_bundle_desc;<sprite="PopupIcons" name="Avatar"> Minstrel Avatar\n\n<sprite="PopupIcons" name="Border"> Campfire Border\n\n<sprite="PopupIcons" name="Title"> "Minstrel" titulus\n\nCelebrate Midsummer! Take your place near the campfire and share your best stories with friends over a round of GWENT!\n\nThis bundle was first introduced during summer festival in 2020.
+shop_data_minstrel_bundle_desc;<sprite="PopupIcons" name="Border"> Campfire Border\n\n<sprite="PopupIcons" name="Avatar"> Minstrel Avatar\n\n<sprite="PopupIcons" name="Title"> "Minstrel" Title\n\nGather around our modest Midsummer, uh... bonfire, and sing a song to honor the heroes of the past!
 shop_data_minstrel_bundle_title;Minstrel Bundle
 shop_data_monster_keg_15_title;Szörny hordó x15
 shop_data_monster_keg_15_title_gaea;Hulladék x28, Szörny hordó x15
@@ -7295,7 +7333,7 @@ shop_data_nilfgaard_keg_60_title_gaea;Hulladék x188, Nilfgaard hordó x60
 shop_data_nilfgaard_keg_7_title;Nilfgaard hordó x7
 shop_data_nilfgaard_keg_7_title_gaea;Hulladék x18, Nilfgaard hordó x7
 shop_data_nilfgaard_keg_desc;Ha kinyitod, ez a hordó ad neked 5 Nilfgaard kártyát bármelyik szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
-shop_data_nilfgaard_keg_title;Nilfgaard hordó(s)
+shop_data_nilfgaard_keg_title;Nilfgaard hordó
 shop_data_north_bundle_desc;This bundle is themed around the Északi Királyságok and contains:\n\n    Lyria játéktábla\n\n    Demavend kinézet - Ally of Lyria\n\n    Count Caldwell Avatar
 shop_data_north_bundle_title;Északi Királyságok Bundle
 shop_data_northern_keg_15_title;Északi Királyságok hordó x15
@@ -7342,7 +7380,8 @@ shop_data_raven_and_swallow_coin_desc;<sprite="PopupIcons" name="Coin"> Raven an
 shop_data_raven_and_swallow_coin_title;Raven and Swallow Coin
 shop_data_sacred_and_profane_pack_desc;<sprite="PopupIcons" name="PremiumCard"> All premium cards from the Szakrális és Világi expansion.\n\n<sprite="PopupIcons" name="Skin"> Svalblod Bear kinézet\n\nBlessings upon those of great faith. Damnation for the deceitful heretics. Glory to those who serve the gods of flesh and blood.
 shop_data_sacred_and_profane_pack_title;Szakrális és Világi csomag
-shop_data_sands_of__time_board_desc;<sprite="PopupIcons" name="Board"> Sands of Time Board\n\nExplore the ruins of a forgotten Black Sun temple. See what the past, and the future, hide from us under the sands.
+shop_data_sands_of__time_board_desc;<sprite="PopupIcons" name="Board"> Sands of Time Board\n\nExplore the ruins of a forgotten temple of the moon. See what the past, and the future, hide from us underneath the sands.
+shop_data_sands_of__time_board_desc_sale;<sprite="PopupIcons" name="Board"> Sands of Time Board\n\nExplore the ruins of a forgotten temple of the moon. See what the past, and the future, hide from us underneath the sands.\n\nPurchasing this product will help support GWENT esports; 50% of the proceeds from this board will directly boost the prize pool for the GWENT Mid-Season Tournament!
 shop_data_sands_of_time_board_title;Sands of Time Board
 shop_data_saovine_bundle_desc;<sprite="PopupIcons" name="Avatar"> Nekker avatar \n\n<sprite="PopupIcons" name="Border"> Saovine gonosza keret \n\n<sprite="PopupIcons" name="Title"> "Gonosz" titulus \n\nFeel like you're being watched? Maybe it's an odd nekker hiding behind a rock or tree, watching, waiting... Better keep an eye on it with this devilishly creepy avatar and wicked — literally! — border and titulus.
 shop_data_saovine_bundle_title;Saovine gonosza Bundle
@@ -7447,7 +7486,7 @@ shop_data_shupe_wings_trinket_desc;<sprite="PopupIcons" name="Trinket"> Lepkesz�
 shop_data_shupe_wings_trinket_title;Shupe lepkeszárnyai
 shop_data_sigi&philippa_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> alap prémium hordó\n\n<sprite="PopupIcons" name="Card"> Sigi Reuven: Mastermind\n\n<sprite="PopupIcons" name="Avatar"> Philippa Avatar\n\n<sprite="PopupIcons" name="Title"> "Mastermind" titulus\n\nForever on eachother's minds, through every scheme and affair.
 shop_data_sigi&philippa_event_pack_title;Sigi and Philippa Pack
-shop_data_skald_bundle_desc;<sprite="PopupIcons" name="Avatar"> Skald Avatar\n\n<sprite="PopupIcons" name="Border"> Tavern Border\n\n<sprite="PopupIcons" name="Title"> "Renowned Skald" titulus\n\nCelebrate Midsummer! Relive the heroic deeds of the legendary jarls and the misfortunes of their enemies!\n\nThis bundle was first introduced during summer festival in 2020.
+shop_data_skald_bundle_desc;<sprite="PopupIcons" name="Border"> Tavern Border\n\n<sprite="PopupIcons" name="Avatar"> Skald Avatar\n\n<sprite="PopupIcons" name="Title"> "Renowned Skald" Title\n\nShare the heroic tales of legendary jarls and the misfortunes of their enemies over a Midsummer feast. Drink hail!
 shop_data_skald_bundle_title;Skald Bundle
 shop_data_skellige_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Skellige Kegs.\n\n<sprite="PopupIcons" name="Card">Harald an Craite card.\n\n<sprite="PopupIcons" name="Border">Skellige Border.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Skellige cards, as well as a select Skellige gold card and a unique faction border.
 shop_data_skellige_keg_15_title;Skellige Keg x15
@@ -7486,6 +7525,8 @@ shop_data_summer_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Nyári fe
 shop_data_summer_shupe_bundle_title;Shupe Summer Bundle
 shop_data_svalblod_bear_skin_desc;<sprite="PopupIcons" name="Skin"> Svalblod Bear kinézet\n\nEmbody the savagery of Svalblod, whose unrivalled fury makes the lives of his foes unbearable.
 shop_data_svalblod_bear_skin_title;Svalblod Bear kinézet
+shop_data_syn_keg_desc;Ha kinyitod, ez a hordó ad neked 5 Szindikátus kártyát bármelyik szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
+shop_data_syn_keg_title;Szindikátus hordó
 shop_data_syndicate_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Szindikátus hordó.\n\n<sprite="PopupIcons" name="Card">Jacques, a csodálatos gyermek kártya.\n\n<sprite="PopupIcons" name="Border">Szindikátus keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Szindikátus cards, as well as a select Szindikátus gold card and a unique faction border.
 shop_data_syndicate_keg_15_title;Szindikátus hordó x15
 shop_data_syndicate_keg_15_title_gaea;Hulladék x28, Szindikátus hordó x15
@@ -7501,6 +7542,8 @@ shop_data_tavern_brawler_bundle_desc;<sprite="PopupIcons" name="CardBack"> Taver
 shop_data_tavern_brawler_bundle_title;Kocsmai verekedő Bundle
 shop_data_tavern_bundle_desc;<sprite="PopupIcons" name="Board"> Golden Sturgeon Board\n\nCalling all tavern-goers! Step inside and play a round of Gwent!
 shop_data_tavern_bundle_title;Fogadó játéktábla
+shop_data_the_tide_rises_pack_desc;<sprite="PopupIcons" name="PremiumCard"> Az összes A dagály emelkedése prémium kártya\n\n<sprite="PopupIcons" name="CardBack"> Abyssal Anchor Cardback\n\nAgainst our fleets the waves will crash,\nWithin our walls—swords shall clash,\nThe wheels of war machines do turn,\nAs sages warned: our cities burn.
+shop_data_the_tide_rises_pack_title;A dagály emelkedése csomag
 shop_data_thronebreaker_desc;A Trónbitorló egy egyszemélyes kártyás szerepjáték a The Witcher világában, megtámogatva a GWENT: A vaják kártyajátékból már jól ismert képességalapú csatarendszerrel, ami a játékosokat ismét a vaják, Ríviai Geralt szörnyektől hemzsegő univerzumába kalauzolja el.
 shop_data_thronebreaker_title;Trónbitorló
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Tigris játéktábla\n\n<sprite="PopupIcons" name="CardBack"> Tiger kártya hátlap\n\nIt's time to gear up and fight all your battles with unparalleled fierceness and grandeur!\nThis kártya hátlap will be up for -30% off during the Lunar New Year sales.
@@ -7515,6 +7558,11 @@ shop_data_ultimate_pack_title;Alap csomag
 shop_data_ultimate_premium_keg_title;Alap prémium hordó
 shop_data_ultimate_premium_kegs_1_title;Alap prémium hordó x1
 shop_data_ultimate_premium_kegs_1_title_gaea;Hulladék x8, alap prémium hordó x1
+shop_data_ultimate_premium_kegs_15_title;Alap prémium hordó x15
+shop_data_ultimate_premium_kegs_2_title;Alap prémium hordó x2
+shop_data_ultimate_premium_kegs_40_title;Alap prémium hordó x40
+shop_data_ultimate_premium_kegs_60_title;Alap prémium hordó x60
+shop_data_ultimate_premium_kegs_7_title;Alap prémium hordó x7
 shop_data_ultimate_premium_kegs_desc;Ha kinyitod, ez a hordó ad neked 5 prémium kártyát bármelyik szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 alap hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Bíbor Átok hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Novigrad hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Ofir kereskedői hordó\n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.\n
 shop_data_urcheon_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó\n\n<sprite="PopupIcons" name="Card"> Erlenwald Süne\n\n<sprite="PopupIcons" name="Title"> "Erlenwaldi" titulus\n\nSuffer the bristles and mockeries of fate, as you battle your way towards true love's kiss.
@@ -8377,6 +8425,7 @@ ui_cardback_group_36_title;Shupe kalandjai
 ui_cardback_group_37_title;The Witcher 3
 ui_cardback_group_38_title;Uroborosz éve
 ui_cardback_group_4_title;Bíbor Átok
+ui_cardback_group_44_title;A dagály emelkedése
 ui_cardback_group_5_title;Novigrad
 ui_cardback_group_6_title;Vas Ítélet
 ui_cardback_group_7_title;Trónbitorló
@@ -9676,6 +9725,7 @@ vanity_cardback_60205_title;Aranyköpés kártya hátlap
 vanity_cardback_60206_title;Örökfa kártya hátlap
 vanity_cardback_60207_title;Sötétfa kártya hátlap
 vanity_cardback_60208_title;Szezonközepi kártya hátlap
+vanity_cardback_60210_title;Mélységi horgony kártya hátlap
 vanity_cardback_61001_title;Szörnyek kártya hátlap
 vanity_cardback_61002_title;Nilfgaard kártya hátlap
 vanity_cardback_61003_title;Északi Királyságok kártya hátlap
@@ -9933,7 +9983,7 @@ vanity_leader_skin_80085_title;Ebek Hercege kinézet
 vanity_leader_skin_80086_title;Télapó Crach
 vanity_leader_skin_80087_title;Ofíri vezír kinézet
 vanity_leader_skin_80088_title;Lidérc kinézet
-vanity_leader_skin_80089_title;Ofíri hercegnő kinézet
+vanity_leader_skin_80089_title;Ofíri kinézet
 vanity_leader_skin_80090_title;Lidérc kinézet
 vanity_leader_skin_80091_title;Szerelemistennő kinézet
 vanity_leader_skin_80092_title;Lángoló szónok kinézet
@@ -10747,6 +10797,26 @@ vanity_title_21077_title;Mutagénék mestere
 vanity_title_21078_title;Zsivány mágus
 vanity_title_21079_title;Emberiség reménye
 vanity_title_21080_title;Szörnykészítő
+vanity_title_21081_title;Védekező
+vanity_title_21082_title;Rugalmas
+vanity_title_21083_title;Kemény, mint a szög
+vanity_title_21084_title;Vasból kovácsolt
+vanity_title_21085_title;Kemény, mint a kő
+vanity_title_21086_title;Pajzsozott
+vanity_title_21087_title;Páncélozott
+vanity_title_21088_title;Eskütevő
+vanity_title_21089_title;Hajthatatlan
+vanity_title_21090_title;Csalóka
+vanity_title_21091_title;Örökkévaló
+vanity_title_21092_title;Szerpentin
+vanity_title_21093_title;Állandó
+vanity_title_21094_title;Óceáni
+vanity_title_21095_title;Dagályvadász
+vanity_title_21096_title;Admirális
+vanity_title_21097_title;Tengerésztiszt
+vanity_title_21098_title;Leviatán
+vanity_title_21099_title;Különítmény
+vanity_title_21100_title;Kalóz
 vanity_title_25030_title;Vágyvirág bajnok
 vanity_title_25100;Öreg Hűséges
 vanity_title_26005_title;Martalóc
@@ -11166,6 +11236,8 @@ weekly_limit_desc;Elérted a korona töredék limitedet, amit a megnyert fordul�
 weekly_limit_title;Heti Korona töredék limit
 weekly_mode_play_menu_title;Heti mód
 welcome_eula;Üdvözlünk a Gwent: A vaják kártyajátékban!\nMielőtt elkezdenénk, kérlek olvasd és fogadd el a licencszerződésünket!
+welcome_screen_esports_desc;Get these products to support GWENT esports; 50% of the proceeds will directly boost the prize pool for the GWENT Mid-Season Tournament!
+welcome_screen_esports_title;GWENT Mid-Season Tournament begins!
 welcome_to_deck_builder;Üdvözlünk a pakliépítő oktatásán!
 welcome_to_gwent;Üdvözlünk a Gwent világában!
 welcome_to_shop;Üdvözlünk a boltban!
