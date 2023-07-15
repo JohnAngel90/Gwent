@@ -11098,7 +11098,7 @@ vanity_title_28275_title;E-sport rajongó
 vanity_title_28276_title;Szőrmók
 vanity_title_28277_title;Ijesztgető
 vanity_title_28278_title;Vándorló
-vanity_title_28279_title;Legjobbb tesó
+vanity_title_28279_title;Legjobb tesó
 vanity_title_28280_title;Nehéz ételek evője
 vanity_title_28281_title;Mandragóra művész
 vanity_title_28282_title;Hűséges testvér
