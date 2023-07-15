@@ -4229,11 +4229,11 @@
 203239_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy <b>Birodalmi flottát</b> magától balra és egy <b>Birodalmi tengerészt</b> magától jobbra.\n<keyword=order>Parancs</keyword>: Erősít {maxtargets} szövetséges egységet {boost} ponttal és megcseréli a pozíciójukat.
 203240_fluff;Néhányan hősnek nevezik, mások zseninek. Megint mások inkább nagyképű seggfejnek. A vicces az, hogy mindnek igaza van.
 203240_name;Rompally admirális
-203240_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Válassz ki 3 ellenséges egységet, majd adj nekik <keyword=lock>Zárolt</keyword>, <keyword=poison>Mérer</keyword> és <keyword=spying>Kémedés</keyword> állapotot ebben a sorrendben!\nA köröd végén erősítsd magadat a legtöbb állapottal rendelkező ellenséges egységen lévő állapot mértékével.
+203240_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Válassz ki 3 ellenséges egységet, majd adj nekik <keyword=lock>Zárolt</keyword>, <keyword=poison>Méreg</keyword> és <keyword=spying>Kémkedés</keyword> állapotot ebben a sorrendben!\nA köröd végén erősítsd magadat a legtöbb állapottal rendelkező ellenséges egységen lévő állapot mértékével.
 203241_fluff;Ez egy szerény hajó, mely a patkány fertőzés ürügyén fog bekerülni a történelembe, mint a járvány előhírnöke.
 203241_name;A Catriona
 203241_tooltip;<keyword=flanking>Oldalszárny</keyword>. \n<keyword=order>Parancs</keyword>: <keyword=poison>Mérgez</keyword> egy nem <keyword=poison>Mérgezett</keyword> egséget, melyen legalább {counter} állapot van.\nA köröd végén kap <keyword=charge>Töltetet</keyword>.\n<keyword=charge>Töltet</keyword>: {Charges}
-203242_fluff;Azok, kik egyedüralomra vágynak a tengeren, készen kell állniuk vérrel megfizetni azt.
+203242_fluff;Azok, kik egyeduralomra vágynak a tengeren, készen kell állniuk vérrel megfizetni azt.
 203242_name;Csatára fel!
 203242_tooltip;Játssz ki {maxtargets} bronz kártyát a kezedből, majd húzz fel ugyanennyit!
 203243_fluff;A szirének szétszélednek, a tritonok remegnek, a krakenek az iszap alá fúródnak, amikor a Császár hatalmas flottája elindul, hogy átvegye az uralmat a hullámok felett!
@@ -4290,7 +4290,7 @@
 203260_fluff;Vannak holtágak, lepratelepek, és ott van még Flotsam.
 203260_name;Flotsam
 203260_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> egy bronz Északi Királyságok egységet, melynek van <keyword=order>Parancs</keyword> képessége.\n<keyword=order>Parancs</keyword>: Felfrissíti egy szövetséges bronz egység <keyword=order>Parancs</keyword> képességét, majd ad neki <keyword=zeal>Hévet</keyword>.
-203261_fluff;Előbb lőjj, aztán aggódj a többi miatt!
+203261_fluff;Előbb lőj, aztán aggódj a többi miatt!
 203261_name;Hajó balliszta
 203261_tooltip;<keyword=order>Parancs</keyword>: Sebez egy ellenséges egységet {B.P.BB_NumberofOrdersUsedThisTurn+damage} ponttal, majd erősít egy véletlenszerű, nem erősített egységet a paklidban a többlet sebzés értékével.\nNövekszik a sebzés minden alkalommal, amikor használod a <keyword=order>Parancs</keyword> képességet ebben a körben.
 203262_fluff;A parancsnok utasítása értelmében a következőket már nem lehet töltetként felhasználni:\n-Zöldségek\n-Trágya\n-Foglyok fejei\n-Az említett foglyok egyéb részei.
