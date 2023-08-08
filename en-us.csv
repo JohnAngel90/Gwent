@@ -107,7 +107,7 @@
 112214_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=banish>Száműz</keyword> egy egységet, amelynek {Power}, vagy kevesebb ereje van.
 112215_fluff;Olyan kevésre emlékszem, mégis... amikor a rózsámra gondolok, elkezdem felidézni mindazt, ami volt.
 112215_name;Iris von Everec
-112215_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=vitality>Vitalitást</keyword> biztosít {Vitality} körre egy szövetséges egységnek.
+112215_tooltip;A köröd végén, ha ez a kártya a temetődben van, erősít minden egységet a paklidban {boost} ponttal, majd <keyword=banish>Száműzi</keyword> magát.
 112401_fluff;Azt mondják, az unikornisok kedvelik a szüzeket. Mivel manapság olyan nehéz szüzeket találni, mint unikornisokat, így senki sem tudta igazolni ezt a feltételezést.
 112401_name;Unikornis
 112401_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti egy egységedet. Ha a <b>Chironex</b> már lent van, helyette {Boost2} ponttal erősít. Ha a <b>Chironex</b> a kezedben van, játszd ki, majd húzz egy kártyát!
@@ -737,7 +737,7 @@
 152316_tooltip; {Damage+B.P.BB_Raid} pont sebzést okoz egy egységnek.\n<keyword=bloodthirst>Vérszomj</keyword> {Bloodthirst}: Helyette {Damage2+B.P.BB_Raid} pont sebzést okoz.
 152317_fluff;Át akarsz törni a páncélon?
 152317_name;An Craite páncélkovács
-152317_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít egy szövetséges egységet a kezedben lévő legnagyobb <keyword=armor>Páncél</keyword> értékű egység <keyword=armor>Páncél</keyword> értékével.
+152317_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít egy szövetséges egységet {boost} ponttal minden {armor} <keyword=armor>Páncél</keyword> érték után, amivel a kezedben lévő legnagyobb <keyword=armor>Páncél</keyword> értékű egység rendelkezik.
 152318_fluff;Megtörnek a pajzsainkon, mint a hullám a sziklás parton.
 152318_name;Drummond Pajzsleány
 152318_tooltip;Ha ez az egység megsebesül, <keyword=summon>Megidézi</keyword> az összes példányát a paklidból erre a sorra.
@@ -1201,7 +1201,7 @@
 200300_name;Bálnavadász
 200300_tooltip;<keyword=deploy>Lehelyezés</keyword>: Átmozgat egy ellenséges egységet a másik sorára, majd sebzi azt az új soron lévő egységek számával.
 200301_fluff;Hullámok verdesik a partot, és tolódnak a kísérteties Naglfar hajó orránál. Hemdall kürtjei zengnek az égben, és Hemdall néz szembe az ellenségeivel a Bifröszt híd felett, a lángoló szivárványnál. A Fehér Fagy közeleg, ahogy a vihar és a szélvész ideje is…
-200301_name;Naglfar
+200301_name;A Naglfar
 200301_tooltip;Nézz meg {MaxTargets} véletlenszerű arany kártyát a paklidból, majd játszd ki az egyiket, a másikat pedig rakd a paklid tetejére!
 200320_fluff;A Marhavédelmi Erők tagja. Semper fi (örök hűség)!
 200320_name;Ördögfattyú
@@ -1940,7 +1940,7 @@
 202218_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=vitality>Vitalitást</keyword> biztosít egy szövetséges egységnek, {Vitality} körre.
 202219_fluff;A napok egyre hosszabbak, a lányok ruhái meg egyre rövidebbek lesznek.
 202219_name;Tavaszi nap-éj egyenlőség
-02219_tooltip;<keyword=doomed>Kárhozott</keyword>.\nErősít egy szövetséges egységet {Boost} ponttal. Növeld az erősítés mértékét {boost2} ponttal minden, a kezdő paklidban lévő Természet kártya után (a <b>Tavaszi nap-éj egyenlőség</b> kártyát nem számítva) !
+202219_tooltip;<keyword=doomed>Kárhozott</keyword>.\nErősít egy szövetséges egységet {Boost} ponttal. Növeld az erősítés mértékét {boost2} ponttal minden, a kezdő paklidban lévő Természet kártya után (a <b>Tavaszi nap-éj egyenlőség</b> kártyát nem számítva) !
 202220_fluff;Néhányan úgy nevezik, hogy az Igazság Botja.
 202220_name;Viharjogar
 202220_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy <b>Rettentő fagyot</b>, <b>Sűrű ködöt</b>, vagy <b>Felhőszakadást</b>.\n<keyword=order>Parancs</keyword>: {value} körrel meghosszabbítja a az ellenséges sorra kifejtett hatás időtartamát.
@@ -2995,10 +2995,10 @@
 202611_name;Vad Hajsza zúzógép
 202611_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgass egy ellenséges egységet a másik sorra! Ha a célpont egy <keyword=frost>Fagy</keyword> hatása alatt lévő sorra mozog, sebezd meg {Damage} ponttal!
 202612_fluff;Az emberek nem tudják, mi adja Naglfar hatalmát. Miből ered az ő mágiája? Azok, akik felfedezik az igazságot... nos, nekik már késő.
-202612_name;Naglfar legénysége
+202612_name;Naglfar legénység
 202612_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=frost>Fagyot</keyword> <keyword=spawn>Teremt</keyword>, {counter} körre egy ellenséges sorra.\nA köröd végén, ha a szemközti sor <keyword=frost>Fagy</keyword> hatása alatt van, {boost} ponttal erősíti magát.
 202613_fluff;Biztosítja a hajó ellátását azzal, hogy kipréseli az élet esszenciáját azokból a jelentéktelen emberi férgekből.
-202613_name;Naglfar munkafelügyelője
+202613_name;Naglfar munkafelügyelő
 202613_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=purify>Tisztít</keyword> egy ellenséges egységet.\n<keyword=dominance>Dominancia</keyword>: Helyette <keyword=purify>Tisztít</keyword> egy egységet.
 202614_fluff;A nemesi kedves erkölcse csak egy szeszély, amelyet másik élveznek. Pontosabban azok, akik veszítenek.
 202614_name;Aen Elle hódító
@@ -3317,7 +3317,7 @@
 202806_tooltip;A köröd végén átmozog a másik sorra, és {Damage} pont sebzést okoz egy véletlenszerű ellenséges egységnek a szemközti sorban.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Helyette {Damage2} ponttal sebzi azt.
 202807_fluff;Ha leesel, akkor vége, ugrott a kilenc élet, kölyök.
 202807_name;Macska iskola vaják oktató
-202807_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát az ezen a soron lévő szövetséges kártya számával.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Amikor egy kártya kerül erre a sorra, {Boost} ponttal erősíti magát.
+202807_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősíti magát az ezen a soron lévő többi kártya számával.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}: Amikor egy kártya kerül erre a sorra, {Boost} ponttal erősíti magát.
 202808_fluff;“Mondanom sem kell, hogy a tetteik által szerzett rossz hírnév sötét felhőként beárnyékolja a mai napig a jó hírüket.” ⁠— Vesemir
 202808_name;Macska iskola vaják szabotőr
 202808_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgass egy ellenséges egységet a sora bal szélső helyére, és sebezd {Damage2} ponttal! Növeld a sebzést minden átugrott kártya után {Damage} ponttal!
@@ -3413,7 +3413,7 @@
 202838_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=adrenaline>Adrenalin</keyword> {Adrenaline-1}:Még {Boost1} ponttal erősíti minden másolatát a <keyword=consume>Bekebelezett</keyword> egységnek azon egység sorában.
 202839_fluff;Professzor Malaspina véletlenül hozzáadott egy extra összetevőt az X vegyületéhez.
 202839_name;Spontán fejlődés
-202839_tooltip;{Boost} ponttal erősíti egy szövetséges egységedet, és további hatást ad neki az egység kategóriájának megfelelően:\n\nRovar - <keyword=spawn>Teremt</keyword> {MaxTargets} <b>Dolgozót</b> az erősített egység sorába.\nBestia - Helyette {Boost2} ponttal erősíti azt az egységet.\nOgroid - Minden, a kezedben lévő Ogroidnak {Armor} <keyword=armor>Páncélt</keyword> ad.
+202839_tooltip;{Boost} ponttal erősíti egy szövetséges egységedet, és további hatást ad neki az egység kategóriájának megfelelően.\n\nRovar - <keyword=spawn>Teremt</keyword> {MaxTargets} <b>Dolgozót</b> az erősített egység sorába.\nBestia - Helyette {Boost2} ponttal erősíti azt az egységet.\nOgroid - <keyword=spawn>Teremt</keyword> egy <b>Nekkert</b> az erősített egység sorára.
 202841_fluff;Azok nyilai ölték meg, akikre vadászott. Vagy sokan csak ezt hitték. A Szalamandráknak más tervük volt vele.
 202841_name;Bukott Rayla
 202841_tooltip;<keyword=veil>Lepel</keyword>.\n<keyword=profit>Haszon</keyword>: {Income}.\n<keyword=tribute>Elismerés</keyword> {Tribute-B.P.BB_Tribute}: Eltávolítja a <keyword=poison>Mérgezést</keyword> egy szövetséges egységről, majd erősíti magát {Boost} ponttal.\nAmikor az ellenfeled kijátszik egy egységet, <keyword=poison>Megmérgezi</keyword> azt és csökkenti a Számlálót.\nAmint a Számláló eléri a {Counter} értéket, az <keyword=tribute>Elismerésből</keyword> <keyword=fee>Tiszteletdíj</keyword> válik.\nSzámláló: {Counter2}
@@ -4259,7 +4259,7 @@
 203249_tooltip;Sebezz egy ellenséges egységet {B.P.BB_Raid+damage} ponttal!\n<keyword=bloodthirst>Vérszomj</keyword> {bloodthirst}: Játssz ki egy Kalóz kártyát a kezedből, majd húzz egy kártyát!
 203250_fluff;Azok, kik elnyerik a szerencséjüket a tengeren, visszatérnek oda. Isten veled, harcos!
 203250_name;Temetkezési csónak
-203250_tooltip;Amikor egy kártya bekerül valamelyik temetőbe, sebez egy véletlenszerű ellenséges egységet {damage} ponttal.
+203250_tooltip;Amikor egy kártya bekerül valamelyik temetőbe a köröd során, sebez egy véletlenszerű ellenséges egységet {damage} ponttal.
 203251_fluff;Úgy nézem, ezek a kártevők körbevettek MINKET, Riordain. Ha-ha!
 203251_name;Angus Bri Cri
 203251_tooltip;<keyword=deploy>Lehelyezés</keyword>: A mérkőzés hátralevő részében, amikor <keyword=spawn>Teremtesz</keyword> egy <b>Elf mesterlövész</b> egységet, erősítsd azt {boost} ponttal!\nIHa a kezdő paklidban van legalább {count} egyedi Csapda, ez a kártya a kezedben kezdni a játékot.
@@ -4331,7 +4331,7 @@
 203273_tooltip;<keyword=profit>Haszon</keyword> {Profit}.\n<keyword=fee>Tiszteletdíj</keyword> {cost}: <keyword=spawn>Teremt</keyword> egy <b>Szindikátus koronát</b> erre a sorra.\n<keyword=cooldown>Lehiggadás</keyword>: {cooldown}
 203274_fluff;Nehéz nem tanulni alázatot az évek során, nézve azt a hatalmas vagyont, ami gazdát cserél a közelében, a keresztbe tett pengék és a veréstől való fenyegetés között.
 203274_name;Acherontia fedélzeti matróza
-203274_tooltip;<keyword=vice>Vétek</keyword> {Vice}: Erősíti magát {boost} ponttal.
+203274_tooltip;<keyword=profit>Haszon</keyword> {Profit}.\n<keyword=vice>Vétek</keyword> {Vice}: Erősíti magát {boost} ponttal.
 21_name_sa;Ignorált.
 21_tooltip_ia;Amikor passzolsz, erősítsd a leggyengébb szövetséges egységedet {Boost} ponttal
 22_name_sa;Ignorált.

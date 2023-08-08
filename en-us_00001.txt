@@ -491,11 +491,11 @@ achievement_12028_title;A legnagyobb kártyakeverő
 achievement_12030_desc;Nyiss ki egy hordót!
 achievement_12030_title;Aranyos hordó
 achievement_12035_title;Küldj "Jó meccs" jelölést a tiszteleted kifejezésére!
-achievement_12040_desc;Nyerj 1 mérkőzést Gascon kinézetének használatával!
+achievement_12040_desc;Nyerj 1 mérkőzést Gascon Ebek Hercege kinézetének használatával!
 achievement_12040_title;A Brossardokért!
-achievement_12041_desc;Nyerj 15 mérkőzést Gascon kinézetének használatával!
+achievement_12041_desc;Nyerj 15 mérkőzést Gascon Ebek Hercege kinézetének használatával!
 achievement_12041_title;Spalla bitangjaiért!
-achievement_12042_desc;Nyerj 50 mérkőzést Gascon kinézetének használatával!
+achievement_12042_desc;Nyerj 50 mérkőzést Gascon Ebek Hercege kinézetének használatával!
 achievement_12042_title;A Kutyák Hercegéért!
 achievement_12044_title;Nagy, csúnya vörös sapka
 achievement_12045_title;Cukorfiú
@@ -561,6 +561,20 @@ achievement_12088_desc;Küldj 1 "Jó meccs" jelzést az évfordulós ünnepély 
 achievement_12089_desc;Küldj 3 "Jó meccs" jelzést az évfordulós ünnepély alatt!
 achievement_12090_desc;Küldj 6 "Jó meccs" jelzést az évfordulós ünnepély alatt!
 achievement_12091_desc;Küldj 10 "Jó meccs" jelzést az évfordulós ünnepély alatt!
+achievement_12100_desc;Játssz 30 mérközést a Ebek Hercege kártya hátlappal!
+achievement_12100_title;Brossard családi öröksége
+achievement_12102_desc;Nyerj 1 mérkőzést az Utazó Meve kinézettel!
+achievement_12102_title;Szökés Aedirnből
+achievement_12103_desc;Nyerj 15 mérkőzést az Utazó Meve kinézettel!
+achievement_12103_title;Szövetségesek a hegyen
+achievement_12104_desc;Nyerj 50 mérkőzést az Utazó Meve kinézettel!
+achievement_12104_title;Hadjárat Angrenben
+achievement_12106_desc;Nyerj 1 mérkőzést a Rívia játéktáblával!
+achievement_12106_title;Keresd tovább!
+achievement_12107_desc;Nyerj 15 mérkőzést a Rívia játéktáblával!
+achievement_12107_title;Emeljük a hangerőt!
+achievement_12108_desc;Nyerj 50 mérkőzést a Rívia játéktáblával!
+achievement_12108_title;Ki a jó fiú? Igen, te vagy az!
 achievement_13005_desc;Nyerj 10 mérkőzést Shupe kinézetével!
 achievement_13005_title;Pompás!
 achievement_20001_desc;Játssz egy online mérkőzést bármilyen módban!
@@ -1429,7 +1443,7 @@ achievement_80107_title;Odo gróf
 achievement_80108_title;A karbon gyermeke
 achievement_80109_title;Mahakam utolsó sárkánya
 achievement_80110_title;Egy kóbor lovag... Hangsúlyos, hogy "kóbor."
-achievement_80111_title;Kutyák Hercege
+achievement_80111_title;Ebek Hercege
 achievement_80112_title;Befektető tálentum
 achievement_80113_title;A fekete az új fekete
 achievement_80114_title;Vigyázz, északi söpredék!
@@ -3114,7 +3128,7 @@ change_favourite_card;Kártya cseréje
 character_cards;Placeholder
 character_name_gascon;Gascon
 character_name_meve;Placeholder
-character_title_gascon;Kutyák Hercege
+character_title_gascon;Ebek Hercege
 character_title_meve;Lyria és Rívia királynője
 chat_type_message;Üzenet írása...
 check_internet_connection;Nem lehet csatlakozni, kérjük ellenőrizze az internet kapcsolatát!
@@ -3358,7 +3372,7 @@ do_you_want_to_cancel_your_invitie_message;Vissza akarod utasítani a meghívás
 downloading_text;Letöltés {0}%
 drop_3_title;Krónikák
 earned_rewards;Jutalom megszerezve
-end_of_support_gaea;Playing GWENT on the GAEA platform is no longer possible. For additional information please visit the www.playgwent.cn website. The whole development team thanks you for your support" on-client message proposed by GAEA
+end_of_support_gaea;Playing GWENT on the GAEA platform is no longer possible. For additional information please visit the www.playgwent.cn website. The whole development team thanks you for your support" on-client message proposed by GAEAend_of_support_gaea_title;Nem támogatott verzió
 end_of_support_gaea_title;Nem támogatott verzió
 ended_season_title;Szezon vége
 enter_text_chat;Barát keresése…
@@ -4986,7 +5000,7 @@ mmr_score_decay_warning;You will start losing Ranking Points soon due to inactiv
 mon_fluff_description;Az emberek szeretik azt hinni magukról, hogy ők uralják a Kontinenst. Pedig elég, ha letérnek a kitaposott útról, vagy hallgatóznak telihold idején, hogy rájöjjenek, önhittségükben mennyire ostobák. A sűrű erdőkből, árnyékos vízmosásokból és az elhagyott otthonok nyirkos, dohos pincéiből számtalan fényesen ragyogó szempár és hegyes agyarakkal, karmokkal rendelkező szörnyűségek sokasága várja a megfelelő pillanatot, hogy előbukkanhasson, és táplálkozzon. A vérszomjtól őrjöngve, vakmerően támadnak. Szerencsére az ilyen koordinálatlan támadásokat néha ki lehet védeni. Mégis, amikor valaki átveszi az irányítást a vadállatok felett, és célt ad nekik, nos... nincs az a fal, az a pajzs, vagy fémvértezet ami elég lehet. Emberi vér fog folyni, és az éjszaka csendjét a rémület sikolya fogja megtörni.
 mon_fluff_title;Szörnyek
 monster_preset_deck_name;Szörnyek kezdőpakli
-most_popular;LEGNÉPSZERUBB
+most_popular;LEGNÉPSZERŰBB
 mulligan_remaining_count;Maradék újrahúzás
 network_game_logic_locked_header;A játék nem folytatható
 network_game_logic_locked_message_both;A problem has occurred with both clients that prevents the game from continuing. Ending the game.
@@ -5596,74 +5610,166 @@ proceed_to_thronebreaker_title;Elhagyni a Gwent: A vaják kártyajátékot
 proceed_to_thronebreaker_xbox_shop_description;You are about to leave Gwent: The Witcher Card Game and open the Xbox Store. Are you sure you want to proceed?
 profile_error_message;Profile data could not be loaded.
 profile_signed_out_description;Az aktuális profil kijelentkezett!
-quest_ouroboros_boost_x_units_with_cards_from_cc;Erősíts {0} egységet egy Bíbor Átok szettből való kártya felhasználásával!
-quest_ouroboros_boost_x_units_with_cards_from_cc_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy a Bíbor Átok szett kártyáit felhasználva!
-quest_ouroboros_boost_x_units_with_cards_from_wotw;Erősíts {0} egységet A vaják útja szett kártyái felhasználásával!
-quest_ouroboros_boost_x_units_with_cards_from_wotw_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy A vaják útja kártyáit felhasználva!
-quest_ouroboros_damage_units_x_times_with_cards_from_cc;Sebezz egységeket {0} alkalommal a Bíbor Átok kártyáit felhasználva!
-quest_ouroboros_damage_units_x_times_with_cards_from_cc_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy a Bíbor Átok szett kártyáit felhasználva!
-quest_ouroboros_damage_units_x_times_with_cards_from_wotw;Sebezz egységeket {0} alkalommal A vaják útja kártyáit felhasználva!
-quest_ouroboros_damage_units_x_times_with_cards_from_wotw_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy A vaják útja szett kártyáit felhasználva!
-quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Adj egységeknek Pajzsot {0} alkalommal az alap szett, Novigrad, vagy a Bíbor Átok kártyáit felhasználva!
-quest_ouroboros_give_bleeding_x_times_with_cards_from_cc;Adj egységeknek Vérzést {0} alkalommal a Bíbor Átok kártyáit felhasználva!
-quest_ouroboros_give_poison_x_times_with_cards_from_cc;Mérgezz egységeket {0} alkalommal a Bíbor Átok kártyáit felhasználva!
-quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Játssz ki {0} Vitalitás kulcsszóval rendelkező kártyát a kezdő szett, alap szett, Novigrad, vagy a Bíbor Átok szett kártyáit felhasználva!
-quest_ouroboros_play_x_cards_from_cc_wotw;Játssz ki {0} kártyát a Bíbor Átok, vagy A vaják útja szett kártyáiból!
-quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Nyerj {0} mérkőzést miután kártyát játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_cards_from_iron_uroboros;Játssz ki {0} kártyát a Vas Ítélet, vagy az Uroborosz kiegészítőből!
-quest_ouroboros_play_x_cards_from_novigrad;Játssz ki {0} kártyát a Novigrad szettből!
-quest_ouroboros_play_x_cards_from_starter_base;Játssz ki {0} kártyát a kezdő, vagy az alap szettből!
-quest_ouroboros_play_x_cards_from_starter_base_tb;Játssz ki {0} kártyát a kezdő, alap, vagy a Trónbitorló szettből!
-quest_ouroboros_play_x_cultist_cc;Játssz ki {0} Kultistát a Bíbor Átok szettből!
-quest_ouroboros_play_x_cultist_won_match_cc;Nyerj {0} mérkőzést miután Kultistát játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_dwarfs;Játssz ki {0} Törpöt!
-quest_ouroboros_play_x_humans_cc;Játssz ki {0} Embert a Bíbor Átok szettből!
-quest_ouroboros_play_x_humans_iron;Játssz ki {0} Embert a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_humans_won_match_cc;Nyerj {0} mérkőzést miután Embert játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_insectoids_from_wotw;Játssz ki {0} Rovar egységet A vaják útja szettből!
-quest_ouroboros_play_x_insectoids_iron;Játssz ki {0} Rovar egységet a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_knights_cc;Játssz ki {0} Lovag egységet a Bíbor Átok szettből!
-quest_ouroboros_play_x_knights_won_match_cc;Nyerj {0} mérkőzést miután Lovag kártyát játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_locations_base_wotw;Játssz ki {0} Helyszín kártyát az alap, vagy A vaják útja szettből!
-quest_ouroboros_play_x_monster_cards_from_cc;Játssz ki {0} Szörny kártyát a Bíbor Átok szettből!
-quest_ouroboros_play_x_monster_cards_from_iron_judgement;Játssz ki {0} Szörny kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_monster_cards_from_wotw;Játssz ki {0} Szörny kártyát A vaják útja szettből!
-quest_ouroboros_play_x_nilfgaard_cards_from_cc;Játssz ki {0} Nilfgaard kártyát a Bíbor Átok szettből!
-quest_ouroboros_play_x_nilfgaard_cards_from_iron_judgement;Játssz ki {0} Nilfgaard kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_nilfgaard_cards_from_wotw;Játssz ki {0} Nilfgaard kártyát A vaják útja szettből!
-quest_ouroboros_play_x_nilfgaard_soldiers;Játssz ki {0} Nilfgaard Katona kártyát!
-quest_ouroboros_play_x_northern_realms_cards_from_cc;Játssz ki {0} Északi Királyságok kártyát a Bíbor Átok szettből!
-quest_ouroboros_play_x_northern_realms_cards_from_iron_judgement;Játssz ki {0} Északi Királyságok kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_northern_realms_cards_from_wotw;Játssz ki {0} Északi Királyságok kártyát A vaják útja szettből!
-quest_ouroboros_play_x_pirates_iron;Játssz ki {0} Kalóz kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_scoia_cards_from_cc;Játssz ki {0} Mókus kártyát a Bíbor Átok szettből!
-quest_ouroboros_play_x_scoia_cards_from_iron_judgement;Játssz ki {0} Mókus kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_scoia_cards_from_wotw;Játssz ki {0} Mókus kártyát A vaják útja szettből!
-quest_ouroboros_play_x_skellige_cards_from_cc;Játssz ki {0} Skellige kártyát a Bíbor Átok szettből!
-quest_ouroboros_play_x_skellige_cards_from_iron_judgement;Játssz ki {0} Skellige kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_skellige_cards_from_wotw;Játssz ki {0} Skellige kártyát A vaják útja szettből!
-quest_ouroboros_play_x_syndicate_cards_from_iron_judgement;Játssz ki {0} Szindikátus kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_play_x_syndicate_cards_from_wotw;Játssz ki {0} Szindikátus kártyát A vaják útja szettből!
-quest_ouroboros_play_x_treants_cc;Játssz ki {0} Entet a Bíbor Átok szettből!
-quest_ouroboros_play_x_treants_won_match_cc;Nyerj {0} mérkőzést miután Entet játszottál ki a Bíbor Átok szettből!
-quest_ouroboros_play_x_vampires;Játssz ki {0} Vámpírt!
-quest_ouroboros_play_x_vampires_won_match;Nyerj {0} mérkőzést miután Vámpírt játszottál ki!
-quest_ouroboros_play_x_witchers;Játssz ki {0} Vajákot!
-quest_ouroboros_play_x_witchers_in_won_matches;Nyerj {0} mérkőzést miután Vajákot játszottál ki!
-quest_ouroboros_purify_x_units_from_cc;Tisztíts meg {0} egységet a Bíbor Átok szett kártyáit felhasználva!
-quest_ouroboros_spawn_x_cards_from_wotw;Játssz ki {0} Teremtés kulcsszóval rendelkező kártyát A vaják útja szettből!
-quest_ouroboros_summon_x_cards_from_starter_base_wotw;Idézz {0} kártyát a kezdő, alap, vagy A vaják útja szettből!
-quest_ouroboros_trigger_adrenaline_x_times;Aktiváld az Adrenalint {0} alkalommal!
-quest_ouroboros_trigger_deathblow_x_times_cards_from_base_cc;Aktiváld a Halálvágyat {0} alkalommal az alap, vagy a Bíbor Átok szett kártyáiból!
-quest_ouroboros_use_order_x_times_for_cards_from_cc_tb;Használd a Parancs képességét a Trónbitorló, vagy a Bíbor Átok kártyáknak {0} alkalommal!
-quest_ouroboros_use_order_x_times_for_cards_from_tb_wotw;Használd a Parancs képességét a Trónbitorló, vagy A vaják útja kártyáknak {0} alkalommal!
-quest_ouroboros_win_x_game_most_cards_from_cc_wotw;Nyerj {0} mérkőzést 13, vagy több olyan kártyával a kezdő paklidban, ami a Bíbor Átok, vagy A vaják útja szett része!
-quest_ouroboros_win_x_game_most_cards_from_iron_uroboros;Nyerj {0} mérkőzést 13, vagy több olyan kártyával, ami a Vas Ítélet, vagy az Uroboros kiegészítőben található!
-quest_ouroboros_win_x_game_most_cards_from_novigrad;Nyerj {0} mérkőzést 13, vagy több olyan kártyával a paklidban, ami a Novigrad szett része!
-quest_ouroboros_win_x_game_only_cards_from_starter_base_cc_wotw;Nyerj {0} mérkőzést csak olyan kártyával a kezdő paklidban, ami a kezdő, alap, Bíbor Átok, vagy A vaják útja szett része!
-quest_ouroboros_win_x_game_only_cards_from_starter_base_iron_uroboros;Nyerj {0} mérkőzést csak olyan kártyával a kezdő paklidban, ami a kezdő, alap, Vas Ítélet, vagy az Uroborosz szett része!
-quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Nyerj {0} mérkőzést csak olyan kártyával a kezdő paklidban, ami a kezdő, alap, vagy Novigrad szett része!
-quest_ouroboros_win_x_game_syanna_dettleaff_in_deck;Nyerj {0} mérkőzést Syanna-val, vagy Dettlaff-al a paklidban!
+quest_ouroboros_boost_units_with_cards_from_merchants_ofir;Play {0} cards with Boost keyword from Merchants of Ofir Expansion
+quest_ouroboros_boost_units_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Merchants of Ofir Expansion
+quest_ouroboros_boost_x_units_with_cards_from_cc;Boost {0} units using cards from Crimson Curse
+quest_ouroboros_boost_x_units_with_cards_from_cc_starter_base_tb_novigrad;Boost {0} units using cards from the Starter Set, Base Set, Thronebreaker, Novigrad or Crimson Curse
+quest_ouroboros_boost_x_units_with_cards_from_cursed_toad;Play {0} cards with Boost keyword from Cursed Toad Expansion
+quest_ouroboros_boost_x_units_with_cards_from_cursed_toad_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Cursed Toad Expansion
+quest_ouroboros_boost_x_units_with_cards_from_iron;Play {0} cards with Boost keyword from Iron Judgment Expansion
+quest_ouroboros_boost_x_units_with_cards_from_iron_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Iron Judgment Expansion
+quest_ouroboros_boost_x_units_with_cards_from_master_mirror;Play {0} cards with Boost keyword from Master Mirror Expansion
+quest_ouroboros_boost_x_units_with_cards_from_master_mirror_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Master Mirror Expansion
+quest_ouroboros_boost_x_units_with_cards_from_pop;Play {0} cards with Boost keyword from Price of Power Expansion
+quest_ouroboros_boost_x_units_with_cards_from_pop_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Price of Power Expansion
+quest_ouroboros_boost_x_units_with_cards_from_wotw;Boost {0} units using cards from the Way of the Witcher
+quest_ouroboros_boost_x_units_with_cards_from_wotw_starter_base_tb_novigrad;Boost {0} units using cards from the Starter Set, Base Set, Thronebreaker Set, Novigrad or the Way of the Witcher
+quest_ouroboros_damage_units_x_times_with_cards_from_cc;Damage units {0} times using cards from Crimson Curse
+quest_ouroboros_damage_units_x_times_with_cards_from_cc_starter_base_tb_novigrad;Damage units {0} times using cards from the Starter Set, Base Set, Thronebreaker, Novigrad or Crimson Curse
+quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad;Play {0} cards with Damage keyword from Cursed Toad Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Cursed Toad Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_iron;Play {0} cards with Damage keyword from Iron Judgment Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_iron_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Iron Judgment Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror;Play {0} cards with Damage keyword from Master Mirror Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror_starter_bse_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Master Mirror Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir;Play {0} cards with Damage keyword from Merchants of Ofir Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Merchants of Ofir Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_pop;Play {0} cards with Damage keyword from Price of Power Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_pop_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Price of Power Expansion
+quest_ouroboros_damage_units_x_times_with_cards_from_wotw;Damage units {0} times using cards from Way of the Witcher
+quest_ouroboros_damage_units_x_times_with_cards_from_wotw_starter_base_tb_novigrad;Damage units {0} times using cards from the Starter Set, Base Set, Thronebreaker, Novigrad or Way of the Witcher
+quest_ouroboros_destroy_banish_x_units_with_bounty;Destroy or banish {0} units with Bounty
+quest_ouroboros_evolve_cards_from_master_mirror_x_times;Play {0} cards with Evolve keyword from Master Mirror Expansion
+quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Give units a Shield {0} times using cards from the Base Set, Novigrad or Crimson Curse
+quest_ouroboros_give_armor_x_times_with_cards_from_iron;Give armor {0} times with cards from Iron Judgment Expansion
+quest_ouroboros_give_bleeding_x_times_with_cards_from_cc;Give units Bleeding {0} times using cards from Crimson Curse
+quest_ouroboros_give_poison_x_times_with_cards_from_cc;Poison units {0} times using cards from Crimson Curse
+quest_ouroboros_give_vitality_to_units_with_cards_from_cursed_toad_starter_base_novigrad;Play {0} cards with Vitality keyword from Starter Set, Base Set, Novigrad or Cursed Toad Expansion
+quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Play {0} cards with the Vitality keyword from Starter Set, Base Set, Novigrad or Crimson Curse
+quest_ouroboros_infuse_x_cards;Play {0} cards with Infuse keyword
+quest_ouroboros_place_bounty_x_times;Play {0} cards with Bounty keyword
+quest_ouroboros_play_x_aristocrats_merchants_ofir;Play {0} Aristocrats from Merchants of Ofir Expansion
+quest_ouroboros_play_x_cards_from_cc_wotw;Play {0} cards from Crimson Curse or Way of the Witcher
+quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Win after playing {0} cards from Crimson Curse
+quest_ouroboros_play_x_cards_from_iron_uroboros;Play {0} cards from Iron Judgment Expansion or Uroboros Expansion
+quest_ouroboros_play_x_cards_from_master_mirror_pop;Play {0} cards from Master Mirror Expansion or Price of Power Expansion
+quest_ouroboros_play_x_cards_from_merchants_ofir_cursed_toad;Play {0} cards from Merchants of Ofir Expansion or Cursed Toad Expansion
+quest_ouroboros_play_x_cards_from_novigrad;Play {0} cards from Novigrad
+quest_ouroboros_play_x_cards_from_starter_base;Play {0} cards from the Starter Set or the Base Set
+quest_ouroboros_play_x_cards_from_starter_base_tb;Play {0} cards from the Starter Set, Base Set or Thronebreaker
+quest_ouroboros_play_x_cards_with_armor_from_iron;Play {0} cards with Armor keyword from Iron Judgment Expansion
+quest_ouroboros_play_x_cards_with_bounty;Play {0} cards with Bounty keyword
+quest_ouroboros_play_x_cards_with_zeal_from_starter_base_master_mirror;Play {0} cards with Zeal keyword from Starter, Base Set or Master Mirror Expansion
+quest_ouroboros_play_x_crime_cards;Play {0} Crime cards
+quest_ouroboros_play_x_cultist_cc;Play {0} Cultists from Crimson Curse
+quest_ouroboros_play_x_cultist_won_match_cc;Win after playing {0} Cultists from Crimson Curse
+quest_ouroboros_play_x_cursed_cards_from_starter_base_cursed_toad;Play {0} cards with Cursed keyword from Starter Set, Base Set or Cursed Toad Expansion
+quest_ouroboros_play_x_doomed_cards_from_starter_base_cursed_toad;Play {0} Doomed cards from Starter, Base Set or Cursed Toad Expansion
+quest_ouroboros_play_x_doomed_cards_starter_base_merchants_ofir;Play {0} cards with Doomed keyword from Starter, Base Set and Merchants of Ofir Expansion
+quest_ouroboros_play_x_doomed_from_starter_base_master_mirror;Play {0} cards with Doomed keyword from Starter, Base Set or Master Mirror Expansion
+quest_ouroboros_play_x_dwarfs;Play {0} Dwarfs
+quest_ouroboros_play_x_firesworn;Play {0} Firesworn
+quest_ouroboros_play_x_humans_cc;Play {0} Humans from Crimson Curse
+quest_ouroboros_play_x_humans_from_master_mirror;Play {0} Humans from Master Mirror Expansion
+quest_ouroboros_play_x_humans_iron;Play {0} Humans from Iron Judgment Expansion
+quest_ouroboros_play_x_humans_merchants_ofir;Play {0} Humans from Merchants of Ofir Expansion
+quest_ouroboros_play_x_humans_won_match_cc;Win after playing {0} Humans from Crimson Curse
+quest_ouroboros_play_x_insectoids_from_wotw;Play {0} Insectoids from Way of the Witcher
+quest_ouroboros_play_x_insectoids_iron;Play {0} Insectoids from Iron Judgment Expansion
+quest_ouroboros_play_x_knights_cc;Play {0} Knights from Crimson Curse
+quest_ouroboros_play_x_knights_won_match_cc;Win after playing {0} Knights from Crimson Curse
+quest_ouroboros_play_x_locations_base_wotw;Play {0} Locations from the Base Set or Way of the Witcher
+quest_ouroboros_play_x_monster_cards_from_cc;Play {0} Monster cards from Crimson Curse
+quest_ouroboros_play_x_monster_cards_from_cursed_toad;Play {0} Monster cards from Cursed Toad Expansion
+quest_ouroboros_play_x_monster_cards_from_iron_judgement;Play {0} Monster cards from Iron Judgment Expansion
+quest_ouroboros_play_x_monster_cards_from_master_mirror;Play {0} Monster cards from Master Mirror Expansion
+quest_ouroboros_play_x_monster_cards_from_merchants_ofir;Play {0} Monster cards from Merchants of Ofir Expansion
+quest_ouroboros_play_x_monster_cards_from_pop;Play {0} Monster cards from Price of Power Expansion
+quest_ouroboros_play_x_monster_cards_from_wotw;Play {0} Monster cards from Way of the Witcher
+quest_ouroboros_play_x_nilfgaard_cards_from_cc;Play {0} Nilfgaard cards from Crimson Curse
+quest_ouroboros_play_x_nilfgaard_cards_from_cursed_toad;Play {0} Nilfgaard cards from Cursed Toad Expansion
+quest_ouroboros_play_x_nilfgaard_cards_from_iron_judgement;Play {0} Nilfgaard cards from Iron Judgment Expansion
+quest_ouroboros_play_x_nilfgaard_cards_from_master_mirror;Play {0} Nilfgaard cards from Master Mirror Expansion
+quest_ouroboros_play_x_nilfgaard_cards_from_merchants_ofir;Play {0} Nilfgaard cards from Merchants of Ofir Expansion
+quest_ouroboros_play_x_nilfgaard_cards_from_pop;Play {0} Nilfgaard cards from Price of Power Expansion
+quest_ouroboros_play_x_nilfgaard_cards_from_wotw;Play {0} Nilfgaard cards from Way of the Witcher
+quest_ouroboros_play_x_nilfgaard_soldiers;Play {0} Nilfgaardian Soldiers
+quest_ouroboros_play_x_northern_realms_cards_from_cc;Play {0} Northern Realms cards from Crimson Curse
+quest_ouroboros_play_x_northern_realms_cards_from_cursed_toad;Play {0} Northern Realms cards from Cursed Toad Expansion
+quest_ouroboros_play_x_northern_realms_cards_from_iron_judgement;Play {0} Northern Realms cards from Iron Judgment Expansion
+quest_ouroboros_play_x_northern_realms_cards_from_master_mirror;Play {0} Northern Realms cards from Master Mirror Expansion
+quest_ouroboros_play_x_northern_realms_cards_from_merchants_ofir;Play {0} Northern Realms cards from Merchants of Ofir Expansion
+quest_ouroboros_play_x_northern_realms_cards_from_pop;Play {0} Northern Realms cards from Price of Power Expansion
+quest_ouroboros_play_x_northern_realms_cards_from_wotw;Play {0} Northern Realms cards from Way of the Witcher
+quest_ouroboros_play_x_pirates_iron;Play {0} Pirates from Iron Judgment Expansion
+quest_ouroboros_play_x_relics_from_base_pop_in_won_matches;Play {0} Relicts from Base Set or Price of Power Expansion in won matches
+quest_ouroboros_play_x_scoia_cards_from_cc;Play {0} Scoia'tael cards from Crimson Curse
+quest_ouroboros_play_x_scoia_cards_from_cursed_toad;Play {0} Scoia'tael cards from Cursed Toad Expansion
+quest_ouroboros_play_x_scoia_cards_from_iron_judgement;Play {0} Scoia'tael cards from Iron Judgment Expansion
+quest_ouroboros_play_x_scoia_cards_from_master_mirror;Play {0} Scoia'tael cards from Master Mirror Expansion
+quest_ouroboros_play_x_scoia_cards_from_merchants_ofir;Play {0} Scoia'tael cards from Merchants of Ofir Expansion
+quest_ouroboros_play_x_scoia_cards_from_pop;Play {0} Scoia'tael cards from Price of Power Expansion
+quest_ouroboros_play_x_scoia_cards_from_wotw;Play {0} Scoia'tael cards from Way of the Witcher
+quest_ouroboros_play_x_skellige_cards_from_cc;Play {0} Skellige cards from Crimson Curse
+quest_ouroboros_play_x_skellige_cards_from_cursed_toad;Play {0} Skellige cards from Cursed Toad Expansion
+quest_ouroboros_play_x_skellige_cards_from_iron_judgement;Play {0} Skellige cards from Iron Judgment Expansion
+quest_ouroboros_play_x_skellige_cards_from_master_mirror;Play {0} Skellige cards from Master Mirror Expansion
+quest_ouroboros_play_x_skellige_cards_from_merchants_ofir;Play {0} Skellige cards from Merchants of Ofir Expansion
+quest_ouroboros_play_x_skellige_cards_from_pop;Play {0} Skellige cards from Price of Power Expansion
+quest_ouroboros_play_x_skellige_cards_from_wotw;Play {0} Skellige cards from Way of the Witcher
+quest_ouroboros_play_x_syndicate_cards_from_cursed_toad;Play {0} Syndicate cards from Cursed Toad Expansion
+quest_ouroboros_play_x_syndicate_cards_from_iron_judgement;Play {0} Syndicate cards from Iron Judgment Expansion
+quest_ouroboros_play_x_syndicate_cards_from_master_mirror;Play {0} Syndicate cards from Master Mirror Expansion
+quest_ouroboros_play_x_syndicate_cards_from_merchants_ofir;Play {0} Syndicate cards from Merchants of Ofir Expansion
+quest_ouroboros_play_x_syndicate_cards_from_pop;Play {0} Syndicate cards from Price of Power Expansion
+quest_ouroboros_play_x_syndicate_cards_from_wotw;Play {0} Syndicate cards from Way of the Witcher
+quest_ouroboros_play_x_syndicate_knights;Play {0} Syndicate Knights
+quest_ouroboros_play_x_treants_cc;Play {0} Treants from Crimson Curse
+quest_ouroboros_play_x_treants_won_match_cc;Win after playing {0} Treants from Crimson Curse
+quest_ouroboros_play_x_units_with_harmony_base_cursed_toad;Play {0} cards with Harmony keyword from Base Set or Cursed Toad Expansion
+quest_ouroboros_play_x_units_with_veil_from_base_master_mirror;Play {0} cards with Veil keyword from Base Set or Master Mirror Expansion
+quest_ouroboros_play_x_vampires;Play {0} Vampires
+quest_ouroboros_play_x_vampires_won_match;Win after playing {0} Vampires
+quest_ouroboros_play_x_witchers;Play {0} Witchers
+quest_ouroboros_play_x_witchers_in_won_matches;Win after playing {0} Witchers
+quest_ouroboros_purify_x_units_from_cc;Purify {0} Units using cards from Crimson Curse
+quest_ouroboros_spawn_x_cards_from_cursed_toad;Play {0} cards with Spawn keyword from Cursed Toad Expansion
+quest_ouroboros_spawn_x_cards_from_master_mirror;Play {0} cards with Spawn keyword from Master Mirror Expansion
+quest_ouroboros_spawn_x_cards_from_pop;Play {0} cards with Spawn keyword from Price of Power Expansion
+quest_ouroboros_spawn_x_cards_from_wotw;Play {0} cards with the Spawn keyword from Way of the Witcher
+quest_ouroboros_spawn_x_cards_merchants_ofir;Play {0} cards with Spawn keyword from Merchants of Ofir Expansion
+quest_ouroboros_summon_x_cards_from_cursed_toad_starter_base_novigrad;Play {0} cards with Summon keyword from Starter Set, Base Set, Novigrad or Cursed Toad Expansion
+quest_ouroboros_summon_x_cards_from_starter_base_novigrad_pop;Play {0} cards with Summon keyword from Starter Set, Base Set, Novigrad or Price of Power Expansion
+quest_ouroboros_summon_x_cards_from_starter_base_wotw;Summon {0} cards from the Starter Set, Base Set or the Way of the Witcher
+quest_ouroboros_trigger_adrenaline_x_times;Trigger Adrenaline {0} times
+quest_ouroboros_trigger_barricade_x_times;Play {0} cards with Barricade keyword
+quest_ouroboros_trigger_bonded_x_times_with_cards_from_starter_base_novigraf_pop;Play {0} cards with Bonded keyword from Starter Set, Base Set, Novigrad or Price of Power Expansion
+quest_ouroboros_trigger_deathblow_x_times_cards_from_base_cc;Trigger Deathblow {0} times with cards from the Base Set or Crimson Curse
+quest_ouroboros_trigger_deathblow_x_times_with_cards_from_base_master_mirror;Play {0} cards with Deathblow keyword from Base Set or Master Mirror Expansion
+quest_ouroboros_trigger_deathwish_for_units_from_merchants_ofir;Play {0} cards with Deathwish keyword from Merchants of Ofir Expansion
+quest_ouroboros_trigger_deathwish_x_times_for_units_from_cursed_toad;Play {0} cards with Deathwish keyword from Cursed Toad Expansion
+quest_ouroboros_trigger_fee_x_times_for_cards_from_base_novigrad_cursed_toad;Play {0} cards with Fee keyword from Base Set, Novigrad or Cursed Toad Expansion
+quest_ouroboros_use_order_x_times_for_cards_from_cc_tb;Use the Order abilities of cards from Thronebreaker or Crimson Curse {0} times
+quest_ouroboros_use_order_x_times_for_cards_from_cursed_toad_tb;Play {0} cards with Order keyword from Thronebreaker Set or Cursed Toad Expansion
+quest_ouroboros_use_order_x_times_for_cards_from_merchants_ofir_tb;Play {0} cards with Order keyword from Thronebreaker Set or Merchants of Ofir Expansion
+quest_ouroboros_use_order_x_times_for_cards_from_tb_master_mirror;Play {0} cards with Order keyword from Thronebreaker Set or Master Mirror Expansion
+quest_ouroboros_use_order_x_times_for_cards_from_tb_pop;Play {0} cards with Order keyword from Thronebreaker Set or Price of Power Expansion
+quest_ouroboros_use_order_x_times_for_cards_from_tb_wotw;Use the Order abilities of the cards from Thronebreaker Set or Way of the Witcher {0} times
+quest_ouroboros_win_x_game_most_cards_from_cc_wotw;Win {0} games with 13 or more cards in your starting deck from Crimson Curse or Way of the Witcher
+quest_ouroboros_win_x_game_most_cards_from_iron_uroboros;Win {0} games with at least 13 cards in deck from the Iron Judgment and Uroboros
+quest_ouroboros_win_x_game_most_cards_from_merchants_offir_cursed_toad;Win {0} games with 13 cards or more in deck from Merchants of Ofir and Cursed Toad Expansion
+quest_ouroboros_win_x_game_most_cards_from_novigrad;Win {0} games with 13 or more cards in deck from the Novigrad
+quest_ouroboros_win_x_game_only_cards_from_starter_base_cc_wotw;Win {0} games using cards in your starting deck from only the Starter Set, Base Set, Crimson Curse and Way of the Witcher
+quest_ouroboros_win_x_game_only_cards_from_starter_base_iron_uroboros;Win {0} games using cards in your deck from only the Starter Set, Base Set, Iron Judgment and Uroboros
+quest_ouroboros_win_x_game_only_cards_from_starter_base_merchants_offir_cursed_toad;Win {0} games with only cards in deck from Starter Set, Base Set, Merchants of Ofir and Cursed Toad Expansion
+quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Win {0} games using cards in your starting deck from only the Starter Set, Base Set or Novigrad
+quest_ouroboros_win_x_game_syanna_dettleaff_in_deck;Win {0} games with Syanna or Dettlaff in your deck
+quest_ouroboros_win_x_games_with_evolving_card_from_master_mirror;Win {0} games with evolving card in your deck from Master Mirror Expansion
+quest_ouroboros_win_x_games_with_evolving_card_in_deck_from_cursed_toad;Play {0} cards with Evolve keyword from Cursed Toad Expansion
+quest_ouroboros_win_x_games_with_master_mirror;Win {0} games with Master Mirror in your deck
+quest_ouroboros_win_x_games_with_most_cards_from_master_mirror_pop;Win {0} games with13 or more cards in deck from Master Mirror and Price of Power Expansion
+quest_ouroboros_win_x_games_with_only_cards_from_master_mirror_pop_starter_base;Win {0} games with only cards in deck from Starter Set, Base Set, Master Mirror and Price of Power Expansion
+quest_ouroboros_win_x_games_with_stratagem_equipped;Win {0} games with Stratagem equipped (everything besides Tactical Advantage)
 quest_play_x_aristocrat_cards;Játssz ki {0} Arisztokrata megjelölésű kártyát
 quest_play_x_bounty_keyword_cards;Játssz ki {0} Vérdíj megjelölésű kártyát
 quest_play_x_zeal cards;Játssz ki {0} Hév képességű kártyát!
@@ -6906,7 +7012,7 @@ shop_data_autumn_pack_open_desc;<sprite="PopupIcons" name="Coin"> Őszi érme\n\
 shop_data_autumn_pack_open_title;Őszi csomag (OPEN 4)
 shop_data_autumn_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Autumn Hunter Border\n\n<sprite="PopupIcons" name="Title"> Autumn Hunter titulus\n\n<sprite="PopupIcons" name="Avatar"> Shupe avatár\n\nAhh, Autumn! Shupe finding mushrooms. Maybe hunting boar! Mmm.. boar...
 shop_data_autumn_shupe_bundle_title;Shupe Autumn Bundle
-shop_data_base_set_key_desc;Amikor kinyitod, minden hordóban garantáltan lesz 5 véletlenszerű kártya, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
+shop_data_base_set_key_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_birthday_auras_desc;<sprite="PopupIcons" name="Trinket"> Birthday Lilies Aura (Yennefer)\n\n<sprite="PopupIcons" name="Trinket"> Birthday Lilies Aura (Ciri)\n\nIt's not too outrageous to ask to be showered with lily petals on your special day, is it? Well, maybe a little.
 shop_data_birthday_auras_title;Birthday Lilies Aura Bundle
 shop_data_birthday_celebratory_cardback_desc;<sprite="PopupIcons" name="CardBack"> Celebratory Cardback\n\n♪ ...happy birthday, Yen and Ciri, happy birthday to you! ♪
@@ -6928,15 +7034,15 @@ shop_data_borsodi_vault_board_title;Borsodi kamrája tábla
 shop_data_bran_skin_desc;<sprite="PopupIcons" name="Skin">Young Bran kinézet\n\nRise to the power is inevitable for the rightful owner of the iron crown, Young Bran is here!\n\nThis skin can be equipped only for Skellige Faction.
 shop_data_bran_skin_title;Young Bran kinézet
 shop_data_buy_now_promo_desc;Vásárlás!
-shop_data_cardback_shani_desc;<sprite="PopupIcons" name="CardBack"> Shani kártya hátlap\n\nRepresent one of Oxenfurt Academy's best and brightest with this special cardback inspired by Shani "” dignified doctor and fearless field medic for the Redanian Army.\n\nNote: This item is also available as part of the special Charming Bundle offer.
+shop_data_cardback_shani_desc;<sprite="PopupIcons" name="CardBack"> Shani kártya hátlap\n\nThis young, fearless Redanian's devotion to the art of medicine was unshakeable.
 shop_data_cardback_shani_title;Shani kártya hátlap
-shop_data_cardback_triss_desc;<sprite="PopupIcons" name="CardBack"> Triss kártya hátlap\n\nShow your affinity for a sorceress of truly exceptional talent with this cardback inspired by Triss Merigold "” hero of the Battle of Sodden and Foltest király's trusted advisor.\n\nNote: This item is also available as part of the special Charming Bundle offer.
+shop_data_cardback_triss_desc;<sprite="PopupIcons" name="CardBack"> Triss kártya hátlap\n\nFor Triss, everything has a practical purpose. Especially her alchemical sapphire pendant.
 shop_data_cardback_triss_title;Triss kártya hátlap
-shop_data_cardback_yennefer_desc;<sprite="PopupIcons" name="CardBack"> Yennefer kártya hátlap\n\nAdopt the mark of the raven-haired sorceress with this special cardback inspired by the supremely powerful Vengerbergi Yennefer.\n\nNote: This item is also available as part of the special Charming Bundle offer.
+shop_data_cardback_yennefer_desc;<sprite="PopupIcons" name="CardBack"> Yennefer kártya hátlap\n\nThe black crystal skull of Yennefer's winged companion. Dramatic, as usual.
 shop_data_cardback_yennefer_title;Yennefer kártya hátlap
 shop_data_cat_bundle_desc;<sprite="PopupIcons" name="Avatar"> Kiyan Avatar\n\n<sprite="PopupIcons" name="Border"> Macska nagymester Border\n\n<sprite="PopupIcons" name="Title"> "Pugnacious cat" titulus\n\nThis bundle contains díszítéseket first introduced as unlockable items during the Macskák szezonja in the A Vadkan éve - along with a new special bonus item!
 shop_data_cat_bundle_title;School of the Cat Bundle
-shop_data_cat_cardback_desc;Show your affinity for the School of the Cat!\n\nThis cardback was first introduced as an unlockable item during the Season of Cat in the A Vadkan éve.
+shop_data_cat_cardback_desc;Show your affinity for the School of the Cat!\n\nThis kártya hátlap was first introduced as an unlockable item during the Season of Cat in the A Vadkan éve.
 shop_data_cat_cardback_title;Macska kártya hátoldalak
 shop_data_category_avatars_title;Avatárok
 shop_data_category_boards_title;Játéktáblák
@@ -6951,7 +7057,7 @@ shop_data_category_packs_title;Csomagok
 shop_data_category_powder_title;Meteoritpor
 shop_data_category_titles_title;Profil titulusok
 shop_data_category_trinkets_title;Bundles
-shop_data_cc_keg_desc;Amikor kinyitod, ez a hordó garantáltan ad 5 kártyát a Bíbor Átok szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
+shop_data_cc_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked a Bíbor Átok szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_cc_keg_title;Bíbor Átok hordó
 shop_data_celebration_2022_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó x25\n\n<sprite="PopupIcons" name="Powder"> 1500 Meteorite Powder\n\n<sprite="PopupIcons" name="Avatar"> Festive Effigy Avatar\n\n<sprite="PopupIcons" name="Title"> "Gifting Spirit" title \n\n Celebrate Yule's Season with Premium Cards but do not forget about spirit of the Yule!
 shop_data_celebration_2022_pack_title;Yule's Celebration 2022 Pack
@@ -6975,7 +7081,7 @@ shop_data_commanders_bundle_desc;<sprite="PopupIcons" name="Skin"> The Silver-Ey
 shop_data_commanders_bundle_title;Commander's Bundle
 shop_data_copper_nekker_desc;<sprite="PopupIcons" name="Skin"> Réz nekker\n\nSacrifice your scraps, wait, no... anyway, you get the point.
 shop_data_copper_nekker_title;Réz nekker
-shop_data_crimson_curse_pre_pack_desc;<sprite="PopupIcons" name="Skin"> Blood Armor Skin (Monsters)\n\n<sprite="PopupIcons" name="CardBack"> Red Moon Cardback\n\n<sprite="PopupIcons" name="Keg"> 40 Bíbor Átok Kegs\n\nThe blood moon rises—it's best you hide!
+shop_data_crimson_curse_pre_pack_desc;<sprite="PopupIcons" name="Skin"> Blood Armor Skin (Monsters)\n\n<sprite="PopupIcons" name="CardBack"> Red Moon kártya hátlap\n\n<sprite="PopupIcons" name="Keg"> 40 Bíbor Átok Kegs\n\nThe blood moon rises—it's best you hide!
 shop_data_crimson_curse_pre_pack_title;Vérhold csomag
 shop_data_cursed_toad_megapack_desc;<sprite="PopupIcons" name="Board"> Abandoned Laboratory Board\n\n<sprite="PopupIcons" name="Board"> Sands of Time Board\n\n<sprite="PopupIcons" name="Skin"> Army Commander kinézet\n\n<sprite="PopupIcons" name="Skin"> Svalblod Bear kinézet\n\n<sprite="PopupIcons" name="PremiumCard"> All Premium cards from the Forgotten Treasures expansion\n\n<sprite="PopupIcons" name="PremiumCard"> All premium cards from the Curse of the Black Sun expansion\n\n<sprite="PopupIcons" name="PremiumCard"> All premium cards from the Chronicles expansion\n\n<sprite="PopupIcons" name="PremiumCard"> All premium cards from the Szakrális és Világi expansion\n\nSometimes, that which appears cursed, is merely venomous...\n\nThis Pack contains premium versions of all cards and all díszítés from the Year of the Cursed Toad expansions
 shop_data_cursed_toad_megapack_title;Cursed Toad Megapack
@@ -6988,15 +7094,17 @@ shop_data_dol_blathanna_bundle_desc;<sprite="PopupIcons" name="Border"> Commando
 shop_data_dol_blathanna_bundle_title;Dol Blathanna Bundle
 shop_data_draconid_bundle_desc;<sprite="PopupIcons" name="Avatar"> Saskia Avatar\n\n<sprite="PopupIcons" name="Border"> Great Wyrm Border\n\n<sprite="PopupIcons" name="Title"> "Dragonslayer" titulus\n\nThis bundle contains díszítéseket first introduced as unlockable items during the A drakonidák szezonja in the A Vadkan éve - along with a special bonus item!
 shop_data_draconid_bundle_title;Drakonoid Bundle
-shop_data_draconid_cardback_desc;Show your support for all dragons and draconids!\n\nThis cardback was first introduced as an unlockable item during the A drakonidák szezonja in the A Vadkan éve.
+shop_data_draconid_cardback_desc;Show your support for all dragons and draconids!\n\nThis kártya hátlap was first introduced as an unlockable item during the A drakonidák szezonja in the A Vadkan éve.
 shop_data_draconid_cardback_title;Drakonoid kártya hátlap
 shop_data_draft_ticket_desc;Engedélyezi, hogy belépj a Draft játékmódba. Build your deck, challenge yourself and compete for prizes in this everchanging mode.
 shop_data_draft_ticket_title;Draft belépőjegy
+shop_data_dragon_lair_bundle_desc;<sprite="PopupIcons" name="CardBack"> Dragon's Lair kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> Shadow Dragon Avatar\n\n<sprite="PopupIcons" name="Title"> "Shadow Dragon" Title\n\nTo threaten a dragon mother's eggs is to invite doom upon all you hold dear.
+shop_data_dragon_lair_bundle_title;Dragon's Lair Bundle
 shop_data_dryad_bundle_desc;<sprite="PopupIcons" name="Avatar"> Morenn Avatar\n\n<sprite="PopupIcons" name="Border"> Defender Border\n\n<sprite="PopupIcons" name="Title"> "from Brokilon" titulus\n\nThis bundle contains díszítéseket first introduced as unlockable items during the Driádok szezonja in the A Vadkan éve - along with a special bonus item!
 shop_data_dryad_bundle_title;Dryad Bundle
-shop_data_dryad_cardback_2020_desc;<sprite="PopupIcons" name="CardBack"> Driádok szezonja kártya hátlap\n\nThis cardback was first introduced as an unlockable item during the Driádok szezonja in the A vérpatkány éve.
+shop_data_dryad_cardback_2020_desc;<sprite="PopupIcons" name="CardBack"> Driádok szezonja kártya hátlap\n\nThis kártya hátlap was first introduced as an unlockable item during the Driádok szezonja in the A vérpatkány éve.
 shop_data_dryad_cardback_2020_title;Driád kártya hátlap (2020)
-shop_data_dryad_cardback_desc;Show your support for all Dryads!\n\nThis cardback was first introduced as an unlockable item during the Driádok szezonja in the A Vadkan éve.
+shop_data_dryad_cardback_desc;Show your support for all Dryads!\n\nThis kártya hátlap was first introduced as an unlockable item during the Driádok szezonja in the A Vadkan éve.
 shop_data_dryad_cardback_title;Dryad kártya hátlap
 shop_data_earth_bundle_desc;<sprite="PopupIcons" name="Skin"> Green Cricket Skin (Monsters)\n\n<sprite="PopupIcons" name="Board"> Forgotten Board\n\nCreep your way through the overgrown tangles of a realm long reclaimed by wilderness.
 shop_data_earth_bundle_title;Earth Bundle
@@ -7014,6 +7122,7 @@ shop_data_ep1_cardback_pack_title;Lilac Moon Cardback
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Sötét vér páncél kinézet\n\nLáthatatlan Ős is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.
 shop_data_ep1_skin_pack_desc_sale;Láthatatlan Ős is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.\n\nThis skin can be equipped only for Monster Faction and will be up for -30% sale during the Saovine Event!
 shop_data_ep1_skin_pack_title;Sötét vér páncél kinézet
+shop_data_ep2_1_premium_keg_title;Novigrad prémium hordó
 shop_data_ep2_15_premium_keg_title;Novigrad prémium hordó x15
 shop_data_ep2_15_standard_keg_title;Novigrad hordó x15
 shop_data_ep2_2_premium_keg_title;Novigrad prémium hordó x2
@@ -7030,20 +7139,43 @@ shop_data_ep2_alt_cardback_desc;<sprite="PopupIcons" name="CardBack"> Undying Fi
 shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Undying Fire Cardback\n\nThe fire still burns bright in Novigrad! Get this alternative version of the premium Novigrad Cardback, originally available as part of the Novigrad pre-order packs.\nThis Cardback will be up for -30% off during the Lunar New Year sales.
 shop_data_ep2_alt_cardback_title;Undying Fire Cardback
 shop_data_ep2_pack_desc;<sprite="PopupIcons" name="Keg"> 15 Standard Novigrad Kegs\n\n <sprite="PopupIcons" name="CardBack"> Eternal Fire Animated Cardback\n\nThe Eternal Fire's light gleams across the golden Crowns of Novigrad.
-shop_data_ep2_pack_title;Novigrad Pack
+shop_data_ep2_pack_title;Novigrad csomag
+shop_data_ep2_premium_keg_desc;Ha kinyitod, ez a hordó 5 prémium kártyát ad neked a Novigrad szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_ep2_premium_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 20 Premium Novigrad Kegs\n\n <sprite="PopupIcons" name="CardBack"> Spectral Fire Animated Cardback\n\nThe Syndicate's true colors are revealed at night, when nothing but coin is sacred.
-shop_data_ep2_premium_pack_title;Novigrad Premium Pack
+shop_data_ep2_premium_pack_title;Novigrad prémium csomag
+shop_data_ep2_standard_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked a Novigrad szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep3_1_premium_keg_title;Vas Ítélet prémium hordó
+shop_data_ep3_1_standard_keg_title;Vas Ítélet hordó
+shop_data_ep3_15_premium_keg_title;Vas Ítélet prémium hordó x15
+shop_data_ep3_15_standard_keg_title;Vas Ítélet hordó x15
+shop_data_ep3_2_premium_keg_title;Vas Ítélet prémium hordó x2
+shop_data_ep3_2_standard_keg_title;Vas Ítélet hordó x2
+shop_data_ep3_40_premium_keg_title;Vas Ítélet prémium hordó x40
+shop_data_ep3_40_standard_keg_title;Vas Ítélet hordó x40
+shop_data_ep3_60_premium_keg_title;Vas Ítélet prémium hordó x60
+shop_data_ep3_60_standard_keg_title;Vas Ítélet hordó x60
+shop_data_ep3_7_premium_keg_title;Vas Ítélet prémium hordó x7
+shop_data_ep3_7_standard_keg_title;Vas Ítélet hordó x7
 shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin"> Zerrikániai kinézet (Northern Realms)\n\nAs a king, you must make sure you are recognized as one, no matter where you travel.
 shop_data_ep3_alt_leader_skin_bundle_title;V. Zerrikániai Radovid kinézet
+shop_data_ep3_premium_keg_desc;Ha kinyitod, ez a hordó 5 prémium kártyát ad neked a Vas Ítélet szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep3_standard_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked a Vas Ítélet szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep4_1_standard_keg_title;Ofir Kereskedői hordó
 shop_data_ep4_15_premium_keg_title;Ofir kereskedői prémium hordó x15
+shop_data_ep4_15_standard_keg_title;Ofir kereskedői hordó x15
 shop_data_ep4_2_premium_keg_title;Ofir kereskedői prémium hordó x2
+shop_data_ep4_2_standard_keg_title;Ofir kereskedői hordó x2
 shop_data_ep4_40_premium_keg_title;Ofir kereskedői prémium hordó x40
+shop_data_ep4_40_standard_keg_title;Ofir kereskedői hordó x40
 shop_data_ep4_60_premium_keg_title;Ofir kereskedői prémium hordó x60
+shop_data_ep4_60_standard_keg_title;Ofir kereskedői hordó x60
 shop_data_ep4_7_premium_keg_title;Ofir kereskedői prémium hordó x7
+shop_data_ep4_7_standard_keg_title;Ofir kereskedői hordó x7
 shop_data_ep4_caravan_pack_desc;<sprite="PopupIcons" name="Card">Magic Lamp Premium Card\n<sprite="PopupIcons" name="Card">Crystal Skull Premium Card\n<sprite="PopupIcons" name="Card">Enchanted Armor Premium Card\n<sprite="PopupIcons" name="Card">Cursed Scroll Premium Card\n<sprite="PopupIcons" name="Card">Basilisk Venom Premium Card\n<sprite="PopupIcons" name="Card">Ceremonial Dagger Premium Card\n<sprite="PopupIcons" name="Card">Collar Premium Card\n<sprite="PopupIcons" name="Card">Engineering Solution Premium Card\n<sprite="PopupIcons" name="Card">Uroborosz álarca Premium Card\n<sprite="PopupIcons" name="Card">Árnyak urnája prémium kártya\n<sprite="PopupIcons" name="Card">Aen Seidhe Sabre Premium Card\n<sprite="PopupIcons" name="Card">Tiger's Eye Premium Card\n\nFortune favours the bold! Get your hands on the most precious Ofiri treasures - 12 prémium fortély kártya! Each fortély provides a unique bonus to the player who goes first in the match.
 shop_data_ep4_caravan_pack_title;Caravan Raid csomag
-shop_data_ep4_premium_keg_desc;Amikor kinyitod, ez a hordó ad neked 5 prémium kártyát az Ofir kereskedői szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep4_premium_keg_desc;Ha kinyitod, ez a hordó 5 prémium kártyát ad neked az Ofir kereskedői szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_ep4_premium_keg_title;Ofir kereskedői prémium hordó
+shop_data_ep4_standard_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked az Ofir kereskedői szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_ep5_combo_preorder_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 prémium Tükörmester kegs\n\n<sprite="PopupIcons" name="Keg"> 10 Tükörmester hordó\n\n<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm skin — equippable immediately after purchase\n\n<sprite="PopupIcons" name="CardBack"> Tükörmester evolving cardback - equippable immediately after purchase!\n\n<sprite="PopupIcons" name="Title"> Bonus title: Halhatatlan — equippable immediately after purchase!\n\nThe Tükörmester's most masterful offer! Get both pre-order packs together in one go, plus a bonus title to boot! Note: sacrificing one's soul not required for purchase!\n\nNote: Kegs will be ready to open once the Tükörmester kiegészítő releases on June 30th, 2020.
 shop_data_ep5_combo_preorder_title;Tükörmester Pre-order Combo
 shop_data_ep5_intrigue_pack_desc;<sprite="PopupIcons" name="PremiumCard"> Auberon: King\n\n<sprite="PopupIcons" name="PremiumCard"> Jacques: Miracle Child\n\n<sprite="PopupIcons" name="PremiumCard"> Harald an Craite\n\n<sprite="PopupIcons" name="PremiumCard"> Usurper: Officer\n\n<sprite="PopupIcons" name="PremiumCard"> Eithné: Young Queen\n\n<sprite="PopupIcons" name="PremiumCard"> Viraxas: Prince\n\nBehind every rapid ascent to power, there is a compromise, a deal, a whispering voice.
@@ -7117,7 +7249,7 @@ shop_data_ep7_60_keg_gaea_title;Hulladék x188, A hatalom ára hordó x60
 shop_data_ep7_60_keg_title;A hatalom ára hordó x60
 shop_data_ep7_7_keg_gaea_title;Hulladék x18, A hatalom ára hordó x7
 shop_data_ep7_7_keg_title;A hatalom ára hordó x7
-shop_data_ep7_keg_desc;Ha kinyitod, ez a hordó ad neked 5 kártyát a hatalom ára szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3 kártyából választva) garantáltan legalább ritka kártya lesz.
+shop_data_ep7_keg_desc;Ha kinyitod, ez a hordó ad neked 5 kártyát A Hatalom Ára szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3 kártyából választva) garantáltan legalább ritka kártya lesz.
 shop_data_ep7_keg_title;A hatalom ára hordó
 shop_data_ep7_pack_mega_pack_desc;<sprite="PopupIcons" name="Board"> Once Upon a Pyre Gameboard\n\n<sprite="PopupIcons" name="Avatar"> All Once Upon a Pyre faction Avatars\n\n<sprite="PopupIcons" name="PremiumCard"> All Once Upon a Pyre premium Neutral cards\n\n<sprite="PopupIcons" name="PremiumCard"> All Once Upon a Pyre premium faction cards\n\nWith great power comes great notoriety.
 shop_data_ep7_premium_15_keg_gaea_title;Hulladék x35, A hatalom ára prémium hordó x15
@@ -7130,6 +7262,8 @@ shop_data_ep7_premium_60_keg_gaea_title;Hulladék x260, A hatalom ára prémium 
 shop_data_ep7_premium_60_keg_title;A hatalom ára prémium hordó x60
 shop_data_ep7_premium_7_keg_gaea_title;Hulladék x25, A hatalom ára prémium hordó x7
 shop_data_ep7_premium_7_keg_title;A hatalom ára prémium hordó x7
+shop_data_ep7_premium_keg_desc;Ha kinyitod, ez a hordó ad neked 5 prémium kártyát A Hatalom Ára szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3 kártyából választva) garantáltan legalább ritka kártya lesz.
+shop_data_ep7_premium_keg_title;A hatalom ára prémium hordó
 shop_data_ep8_15_keg_gaea_title;Hulladék x28, A hatalom ára hordó x15
 shop_data_ep8_15_keg_title;Elátkozott Varangy hordó x15
 shop_data_ep8_2_keg_gaeatitle;Hulladék x7, A hatalom ára hordó x2
@@ -7178,8 +7312,8 @@ shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Frozen Specter Sk
 shop_data_frozen_bundle_title;Ice Bundle
 shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Trancsír Border\n\n<sprite="PopupIcons" name="Border"> Kurafi Kölyök Border\n\n<sprite="PopupIcons" name="Border"> Gudrun Bjornsdottir Border\n\n<sprite="PopupIcons" name="Border"> Koldusok királya Border\n\n<sprite="PopupIcons" name="Border"> Cyrus Hemmelfart Border\n\n<sprite="PopupIcons" name="Border"> Dijkstra Border\n\nShow the world where your true allegiance lies within the Szindikátus by equipping borders inspired by those fierce leaders.
 shop_data_gang_bundle_title;Szindikátus Leaders Border Bundle
-shop_data_gascon_leader_skin_desc;<sprite="PopupIcons" name="Skin"> Gascon Leader kinézet\n\nIt's time for some mischief and plunder! Meet Gascon, the charismatic leader of Strays of Spalla and Iron Falcon bandits.\n\nComplete contracts by playing with this skin to unlock additional díszítések: title, avatar, cardback!
-shop_data_gascon_leader_skin_title;Gascon Leader kinézet
+shop_data_gascon_leader_skin_desc;<sprite="PopupIcons" name="Skin"> Ebek Hercege kinézet\n\nThis is one dog you don't throw a bone to.
+shop_data_gascon_leader_skin_title;Ebek Hercege Gascon kinézet
 shop_data_gaunter_dark_skin_desc;<sprite="PopupIcons" name="Skin"> Evil Incarnate Skin\n\nThe mask falls, and the Man of Glass reveals his true nature. Will you still accept his offer?
 shop_data_gaunter_dark_skin_title;Evil Incarnate Gaunter O'Dimm Skin
 shop_data_geralt_base_skin_promo_desc;<sprite="PopupIcons" name="Skin"> Geralt's Basic kinézet\n<sprite="PopupIcons" name="Skin"> Geralt's Utazás - premium pass\n The White Wolf is back! Get his skin & returning Utazás now!\n Geralt's Utazás will be available in May 2022.
@@ -7215,7 +7349,7 @@ shop_data_katakan_sketch_bundle_desc;<sprite="PopupIcons" name="Avatar"> Kataká
 shop_data_katakan_sketch_bundle_title;Katakán vázlata Bundle
 shop_data_keira_bundle_desc;<sprite="PopupIcons" name="Border"> Magic Lantern Border\n\n<sprite="PopupIcons" name="Title"> "In Hiding" titulus\n\nCultivating beauty helps deal with isolation, or, at the very least, makes your mirror all the more interesting.
 shop_data_keira_bundle_title;Keira's Shelter Bundle
-shop_data_kitty_bundle_desc;<sprite="PopupIcons" name="Avatar"> Cica avatár\n\n<sprite="PopupIcons" name="Border"> Mice Border\n\n<sprite="PopupIcons" name="Title"> "Rascal" titulus\n\nTake on the world, one paw at a time with this playful cica Bundle. Meow!\n\nThis bundle was first introduced during Season of the Cat in the Year of the Wererat.
+shop_data_kitty_bundle_desc;<sprite="PopupIcons" name="Border"> Mice Border\n\n<sprite="PopupIcons" name="Avatar"> Kitty Avatar\n\n<sprite="PopupIcons" name="Title"> "Rascal" Title\n\nMeow?
 shop_data_kitty_bundle_title;Cica Bundle
 shop_data_knitting_shupe_bundle_desc;<sprite="PopupIcons" name="CardBack"> Knitting Shupe kártya hátlap\n\n<sprite="PopupIcons" name="Border"> Knitting Shupe Border\n\n<sprite="PopupIcons" name="Avatar"> Knitting Shupe avatár\n\n<sprite="PopupIcons" name="Title"> "Staying Warm" titulus\n\nShupe make cozy atsom- atmos- asmopher?
 shop_data_knitting_shupe_bundle_title;Knitting Shupe Bundle
@@ -7290,6 +7424,8 @@ shop_data_merchants_of_ofir_cardback_title;Ofir kereskedői kártya hátlap
 shop_data_meteorite_powder_desc;Meteorite powder can be used to transmute standard cards into their animated, premium versions. It's also used to purchase some díszítést - available in different sections of the shop.
 shop_data_meteorite_powder_nekker_desc;<sprite="PopupIcons" name="Skin"> Meteorit nekker\n\nRelinquish your sanity for the amusement of this ominous, otherworldly idol.
 shop_data_meteorite_powder_nekker_title;Meteorit nekker
+shop_data_meve_traveler_bundle_desc;<sprite="PopupIcons" name="Skin"> Utazó kinézet (Északi Királyságok)\n\nA ragged, lichen green cloak over a padded gambeson can feel like a luxury compared to full golden plate.
+shop_data_meve_traveler_bundle_title;Utazó Meve kinézet
 shop_data_midsummer_celebration_pack_desc;<sprite="PopupIcons" name="Avatar"> Arachas Behemoth Avatar\n\n<sprite="PopupIcons" name="Title"> "Midsummer Spirit" Title\n\n<sprite="PopupIcons" name="PremiumKeg"> Ultimate Premium Keg x25\n\n<sprite="PopupIcons" name="Powder"> 1500 Meteorite Powder\n\nCome Midsummer solstice, come Feainn, come celebrate the longest day of the year...or rather, the shortest day for sun-fearing monsters.
 shop_data_midsummer_celebration_pack_title;Nyárközi ünnepély csomag
 shop_data_midwinter_bundle_desc;<sprite="PopupIcons" name="Skin">Santa Crach vezető kinézet (Skellige) \n\n<sprite="PopupIcons" name="Border"> Yule Ring Border \n\n<sprite="PopupIcons" name="Border"> Reindeer Border\n\n<sprite="PopupIcons" name="Avatar">Ermion Avatar\n\n<sprite="PopupIcons" name="Title">"Festive Fanatic" titulus\n\n Celebrate Midwinter with this special festive bundle, featuring wintertime-themed díszítéseket for your GWENT collection!
@@ -7319,7 +7455,7 @@ shop_data_naglfar_board_desc;<sprite="PopupIcons" name="Board">Naglfar játékt�
 shop_data_naglfar_board_title;Naglfar játéktábla
 shop_data_neutral_keg_desc;Ha kinyitod, ez a hordó ad neked 5 Semleges kártyát bármelyik szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3 kártyából választva) garantáltan legalább ritka kártya lesz.
 shop_data_neutral_keg_title;Semleges hordó
-shop_data_night_bundle_desc;<sprite="PopupIcons" name="Board"> In the Night-light Board\n\n<sprite="PopupIcons" name="Coin"> Night Coin\n\nPurchasing this product helps support GWENT esports; 50% of the proceeds from this bundle will directly boost the prize pool for GWENT Masters!
+shop_data_night_bundle_desc;<sprite="PopupIcons" name="Board"> In the Night Light Board\n\n<sprite="PopupIcons" name="Coin"> Night Coin\n\nLights and colors at their most vibrant amid the darkness.
 shop_data_night_bundle_title;Éjszakai Bundle
 shop_data_nilfgaard_evolving_faction_pack_desc;<sprite="PopupIcons" name="Keg">5 Nilfgaard hordó.\n\n<sprite="PopupIcons" name="Card">Bitorló, a tiszt kártya.\n\n<sprite="PopupIcons" name="Border">Nilfgaard keret.\n\nIdeal for new players! Bolster your favorite GWENT faction! This pack comes with 5 kegs exclusively featuring Nilfgaard cards, as well as a select Nilfgaard gold card and a unique faction border.
 shop_data_nilfgaard_keg_15_title;Nilfgaard hordó x15
@@ -7361,9 +7497,11 @@ shop_data_passiflora_bundle_title;Vágyvirág Bundle
 shop_data_power_blend_bundle_desc;<sprite="PopupIcons" name="CardBack"> Jester kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm kinézet\n\n<sprite="PopupIcons" name="CardBack"> Sötétfa cardbacks\n\n<sprite="PopupIcons" name="Board"> Once Upon a Pyre játéktábla\n\n<sprite="PopupIcons" name="Coin"> Pyre Coin\n\n<sprite="PopupIcons" name="Skin"> Octavia Hale kinézet\n\n<sprite="PopupIcons" name="CardBack"> A vaják útja Expansion, All Faction kártya hátlaps\n\nRise to fame and power with this powerful bundle!
 shop_data_power_blend_bundle_title;Power Blend Bundle
 shop_data_premium_cc_keg_desc;Ha kinyitod, ez a hordó ad neked 5 prémium kártyát a Bíbor Átok szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
-shop_data_premium_cc_keg_title;Premium Bíbor Átok hordó
+shop_data_premium_cc_keg_title;Bíbor Átok prémium hordó
 shop_data_premium_keg_desc;Ha kinyitod, ez a hordó garantáltad ad neked 5 <b>Prémium</b> kártyát az alap szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_premium_keg_title;Prémium alap szett hordó
+shop_data_prepared_for_war_bundle_desc;<sprite="PopupIcons" name="CardBack"> Líriai katona kártya hátlap\n\n<sprite="PopupIcons" name="CardBack"> Nilfgaardi katona kártya hátlap\n\n<sprite="PopupIcons" name="Title"> "Prepared for War" Title\n\nThey say war is mostly endless boredom, culminating in indescribable terror. But say one thing for the Blackclads: they get to the point quickly.
+shop_data_prepared_for_war_bundle_title;Prepared for War Bundle
 shop_data_priscilla&dandelion_desc;<sprite="PopupIcons" name="CardBack"> Touring Partners Cardback\n\n<sprite="PopupIcons" name="Border"> Touring Stage Border\n\n<sprite="PopupIcons" name="Avatar"> Touring Dandelion Avatar\n\n<sprite="PopupIcons" name="Avatar"> Touring Priscilla Avatar\n\n<sprite="PopupIcons" name="Title"> "Touring Poet" titulus\n\nLove comes in various forms, such as sonata, or medley.
 shop_data_priscilla&dandelion_title;Priscilla and Dandelion Bundle
 shop_data_prosperity_pack_ 2023_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 alap prémium hordó\n\n<sprite="PopupIcons" name="Powder"> 900 Meteorite Powder\n\nA measured dose of immeasurable fortune.
@@ -7378,6 +7516,8 @@ shop_data_raven_and_swallow_cardback_desc;<sprite="PopupIcons" name="CardBack"> 
 shop_data_raven_and_swallow_cardback_title;Raven and Swallow Cardback
 shop_data_raven_and_swallow_coin_desc;<sprite="PopupIcons" name="Coin"> Raven and Swallow Coin\n\nThe resourceful raven and the swift swallow make a formidable duo.
 shop_data_raven_and_swallow_coin_title;Raven and Swallow Coin
+shop_data_rivia_in_the_moonlight_board_desc;<sprite="PopupIcons" name="Board"> In the Moonlight játéktábla\n\nWelcome to Rivia: home to the loathed, and to heroes unlikely.
+shop_data_rivia_in_the_moonlight_board_title;Rivia In the Moonlight játéktábla
 shop_data_sacred_and_profane_pack_desc;<sprite="PopupIcons" name="PremiumCard"> All premium cards from the Szakrális és Világi expansion.\n\n<sprite="PopupIcons" name="Skin"> Svalblod Bear kinézet\n\nBlessings upon those of great faith. Damnation for the deceitful heretics. Glory to those who serve the gods of flesh and blood.
 shop_data_sacred_and_profane_pack_title;Szakrális és Világi csomag
 shop_data_sands_of__time_board_desc;<sprite="PopupIcons" name="Board"> Sands of Time Board\n\nExplore the ruins of a forgotten temple of the moon. See what the past, and the future, hide from us underneath the sands.
@@ -7515,9 +7655,17 @@ shop_data_starter_pack_desc;<sprite="PopupIcons" name="Card"> x1 prémium legend
 shop_data_starter_pack_promo_desc;One-time high value boost
 shop_data_starter_pack_promo_title;Kezdő csomag
 shop_data_starter_pack_title;Kezdő csomag
+shop_data_steward_of_angren_skin_desc;<sprite="PopupIcons" name="Skin"> Steward of Angren Skin\n\nWear your finest. Mingle with high society. Make a lasting impression.
+shop_data_steward_of_angren_skin_title;Steward of Angren Skin
 shop_data_stregobor_bundle_desc;<sprite="PopupIcons" name="Avatar"> Stregobor Avatar\n\n<sprite="PopupIcons" name="Border"> Stregobor Border\n\n<sprite="PopupIcons" name="Title"> "Perfect Illusion" titulus\n\nThis bundle allows you to obtain díszítéseket first introduced as unlockable items during the A mágia szezonja in the A vérpatkány éve.
 shop_data_stregobor_bundle_title;Stregobor Bundle
 shop_data_summer_bundle_open_title;Summer Bundle
+shop_data_summer_event_fourteenth_of_the_hill_bundle_desc;<sprite="PopupIcons" name="CardBack"> Fourteenth of the Hill Cardback\n\n<sprite="PopupIcons" name="Title"> "Fourteenth of the Hill" Title\n\nBelieved to have been among the fourteen mages that fell in the Battle of Sodden Hill against field marshal Coehoorn's armies, Triss Merigold defied her fate and lived to tell the tale.
+shop_data_summer_event_fourteenth_of_the_hill_bundle_title;Fourteenth of the Hill Bundle
+shop_data_summer_event_janka_desc;<sprite="PopupIcons" name="CardBack"> Janka Cardback\n\n<sprite="PopupIcons" name="Title"> "Janka" Title\n\nEven the most strongwilled individuals have something to learn from Yennefer's thundering, uncompromising determination.
+shop_data_summer_event_janka_title;Janka Bundle
+shop_data_summer_event_traveling_medic_bundle_desc;<sprite="PopupIcons" name="CardBack"> Traveling Medic Cardback\n\n<sprite="PopupIcons" name="Title"> "Traveling Medic" Title\n\nTreat illnesses and weed out injustices, wherever your travels take you.
+shop_data_summer_event_traveling_medic_bundle_title;Traveling Medic Bundle
 shop_data_summer_pack_bundle_desc;<sprite="PopupIcons" name="Board"> Summer Board\n\n<sprite="PopupIcons" name="CardBack"> Summer Cardback\n\nSunlight glistens on the surface of the lake, as you run in for a swim to the other side.
 shop_data_summer_pack_open_desc;<sprite="PopupIcons" name="Coin"> Nyári érme\n\n<sprite="PopupIcons" name="Powder"> 400 meteoritpor\n\nPurchasing this product helps to support GWENT esports; 30% of proceeds from the pack will directly boost the prize pool for the GWENT Open 3, which takes place in July 2021!
 shop_data_summer_pack_open_title;Summer csomag (OPEN 3)
@@ -7544,6 +7692,8 @@ shop_data_tavern_bundle_desc;<sprite="PopupIcons" name="Board"> Golden Sturgeon 
 shop_data_tavern_bundle_title;Fogadó játéktábla
 shop_data_the_tide_rises_pack_desc;<sprite="PopupIcons" name="PremiumCard"> Az összes A dagály emelkedése prémium kártya\n\n<sprite="PopupIcons" name="CardBack"> Abyssal Anchor Cardback\n\nAgainst our fleets the waves will crash,\nWithin our walls—swords shall clash,\nThe wheels of war machines do turn,\nAs sages warned: our cities burn.
 shop_data_the_tide_rises_pack_title;A dagály emelkedése csomag
+shop_data_thronebreaker_anniversary_bundle_desc;<sprite="PopupIcons" name="CardBack"> Lyria Cardback\n\n<sprite="PopupIcons" name="Avatar"> Eldain's Chosen Avatar\n\n<sprite="PopupIcons" name="Avatar"> Stray of Spalla Avatar\n\n<sprite="PopupIcons" name="Avatar"> Gudmund Avatar\n\n<sprite="PopupIcons" name="Avatar"> Spymaster Avatar\n\n<sprite="PopupIcons" name="Avatar"> Xavier Avatar\n\nQueen Meve's campaign took her through Lyria, Aedirn, Mahakam, Angren, and Rivia—where many unlikely, unexpected alliances were forged.
+shop_data_thronebreaker_anniversary_bundle_title;Campaign Bundle
 shop_data_thronebreaker_desc;A Trónbitorló egy egyszemélyes kártyás szerepjáték a The Witcher világában, megtámogatva a GWENT: A vaják kártyajátékból már jól ismert képességalapú csatarendszerrel, ami a játékosokat ismét a vaják, Ríviai Geralt szörnyektől hemzsegő univerzumába kalauzolja el.
 shop_data_thronebreaker_title;Trónbitorló
 shop_data_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Tigris játéktábla\n\n<sprite="PopupIcons" name="CardBack"> Tiger kártya hátlap\n\nIt's time to gear up and fight all your battles with unparalleled fierceness and grandeur!\nThis kártya hátlap will be up for -30% off during the Lunar New Year sales.
@@ -7589,7 +7739,7 @@ shop_data_winter_shupe_bundle_title;Shupe Winter Bundle
 shop_data_wolf_season_bundle_desc;<sprite="PopupIcons" name="CardBack"> Wolf kártya hátlap \n\n\n<sprite="PopupIcons" name="Avatar"> 3 seasonal avatars: Vesemir Avatar, Geralt: Professional Avatar, Keszeg Avatar \n\n\n<sprite="PopupIcons" name="Border"> 4 seasonal borders: Wolf Pup Border, Den Protector Border, Grand Warg Border, White Wolf Border \n\n\n<sprite="PopupIcons" name="Avatar"> Bonus avatar: Lambert Avatar \n\n\n\n\nThis special bundle contains díszítéseket obtainable in GWENT during the Farkasok szezonja, along with a special bonus item!
 shop_data_wolf_season_bundle_title;Season of The Wolf Bundle
 shop_data_yaruga_bridge_bundle_title;Híd a Jarugán játéktábla
-shop_data_yaruga_bridge_desc;<sprite="PopupIcons" name="Board"> Híd a Jarugán játéktábla\n\nReturn to the famous bridge on the Yaruga, where Meve királynő of Lyria and Rívia heroically battled against Nilfgaardian forces, and where Geralt became known as one "śof Rívia"ť. Remastered from its original debut in Trónbitorló, this magnificent game board can now be yours in GWENT to wage all new battles on\n\nComplete contracts to unlock additional díszítések: title, avatar, cardback!
+shop_data_yaruga_bridge_desc;<sprite="PopupIcons" name="Board"> On the Yaruga Board\n\nBroken, battered, fatigued, and desperate, with nothing left to lose but their last shreds of honor, Meve led her men in a fiery charge against the Nilfgaardians on the bridge to Red Lobinden.
 shop_data_yenn&geralt_bundle_desc;<sprite="PopupIcons" name="CardBack"> Yennefer and Geralt Cardback\n\n<sprite="PopupIcons" name="Border"> Winged Border\n\n<sprite="PopupIcons" name="Avatar"> Yennefer in Love Avatar\n\n<sprite="PopupIcons" name="Avatar"> Geralt in Love Avatar\n\n<sprite="PopupIcons" name="Title"> "Destined" titulus\n\nDestined to a mutual struggle with a mutual destiny.
 shop_data_yenn&geralt_bundle_title;Yennefer and Geralt Bundle
 shop_data_zerrikanian_bear_desc;From the faraway lands of Zerrikania comes a traveler bearing gifts to celebrate the Summer Festival. \n\n\nHe comes bearing the cuddliest gift of all; an exotic beast from his homeland transformed into a friendly plushie.
@@ -8472,6 +8622,7 @@ ui_gameboard_group_17_title;Aretuzai utazás
 ui_gameboard_group_19_title;Téli esemény
 ui_gameboard_group_2_title;Novigrád
 ui_gameboard_group_20_title;Kamra
+ui_gameboard_group_21_title;Rívia
 ui_gameboard_group_3_title;Lyria
 ui_gameboard_group_4_title;Aedirn
 ui_gameboard_group_5_title;Mahakam
@@ -8479,6 +8630,7 @@ ui_gameboard_group_6_title;A vadkan éve
 ui_gameboard_group_7_title;Vendégfogadó
 ui_gameboard_group_8_title;Hajó
 ui_gameboard_group_9_title;Holdújévi események
+ui_gascon_leader_shop_desc;Equip this skin and unlock further rewards through contracts
 ui_go_to_event_shop_button;Irány a bolt!
 ui_go_to_event_shop_desc;Exchange Chocolates for awesome rewards! Go to the Event page in Shop to see what díszítések you can unlock!
 ui_go_to_event_shop_title;SZEREZD BE A JUTALMAIDAT!
@@ -8572,6 +8724,7 @@ ui_leader_group_53_title;Hóember
 ui_leader_group_54_title;Ember
 ui_leader_group_55_title;Elf
 ui_leader_group_56_title;Szörny
+ui_leader_group_58_title;Caldwell gróf
 ui_leader_name;Regis utazása
 ui_leader_name_10000;Lidérc
 ui_leader_name_10001;Gascon
@@ -8654,6 +8807,7 @@ ui_reward_book_love2027_info_desc;Csokoládé szívekre van szükség minden jut
 ui_reward_book_love2028_info_desc;Csokoládé szívekre van szükség minden jutalom feloldásához!
 ui_reward_book_saovine2022_info_desc;Gyöngyökre van szükség minden jutalom feloldásához!
 ui_reward_book_winter2021_info_desc;Pine Cones needed to unlock all rewards
+ui_rivia_board_shop_desc;Play on this board and unlock these rewards
 ui_round_tutorial_main_title;ROUND AND CARDS IN GWENT
 ui_round_tutorial_match_won;GYŐZELEM
 ui_round_tutorial_message_1;At the start of a match, both players <b>DRAW 10 CARDS</b>.
@@ -9187,6 +9341,9 @@ vanity_avatar_48447_title;Troll avatár
 vanity_avatar_48448_title;Kőgyűjtő avatár
 vanity_avatar_48449_title;Shupe, a kereső avatár
 vanity_avatar_48450_title;Rabszolgakezelő avatár
+vanity_avatar_48451_title;Meve királynő avatár
+vanity_avatar_48452_title;Gatyás avatár
+vanity_avatar_48453_title;Árnysárkány avatár
 vanity_body_80284_title;Ember fekete köpeny
 vanity_body_80285_title;Ember fehér köpeny
 vanity_body_80286_title;Ember fekete báli ruha
@@ -9725,7 +9882,13 @@ vanity_cardback_60205_title;Aranyköpés kártya hátlap
 vanity_cardback_60206_title;Örökfa kártya hátlap
 vanity_cardback_60207_title;Sötétfa kártya hátlap
 vanity_cardback_60208_title;Szezonközepi kártya hátlap
+vanity_cardback_60209_title;Meve királynő kártya hátlap
 vanity_cardback_60210_title;Mélységi horgony kártya hátlap
+vanity_cardback_60211_title;Lyriai katona kártya hátlap
+vanity_cardback_60212_title;Nilfgaardi katona kártya hátlap
+vanity_cardback_60213_title;Gatyás kártya hátlap
+vanity_cardback_60214_title;Sárkánybarlang kártya hátlap
+vanity_cardback_60215_title;Brossard család kártya hátlap
 vanity_cardback_61001_title;Szörnyek kártya hátlap
 vanity_cardback_61002_title;Nilfgaard kártya hátlap
 vanity_cardback_61003_title;Északi Királyságok kártya hátlap
@@ -9822,6 +9985,7 @@ vanity_gameboard_50006_title;Szindikátus játéktábla
 vanity_gameboard_50011_title;Lyria játéktábla
 vanity_gameboard_50012_title;Csata utáni játéktábla
 vanity_gameboard_50013_title;Erőd játéktábla
+vanity_gameboard_50015_title;Holdfényes játéktábla
 vanity_gameboard_50019_title;Híd a Jarugán játéktábla
 vanity_gameboard_50022_title;Tavaszi játéktábla
 vanity_gameboard_50023_title;Arany Tokhal fogadó játéktábla
@@ -10010,6 +10174,8 @@ vanity_leader_skin_80280_title;Születésnapi virágos aura
 vanity_leader_skin_80281_title;Dol Blathanna hercegnője kinézet
 vanity_leader_skin_80282_title;Véres Úrnő
 vanity_leader_skin_80443_title;Szerelem aura
+vanity_leader_skin_80462_title;Caldwell gróf kinézet
+vanity_leader_skin_80463_title;Utazó kinézet
 vanity_leader_skin_default_title;Alapértelmezett kinézet
 vanity_leader_trinket_80032_title;Foltest legendás kinézete
 vanity_leader_trinket_80047_title;Zerrikán kinézet
@@ -10358,6 +10524,8 @@ vanity_leader_trinket_80454_title;Mohás kinézet
 vanity_leader_trinket_80455_title;Rózsafüzér
 vanity_leader_trinket_80456_title;Lepkeszárnyak
 vanity_leader_trinket_80459_title;Hárpia kinézet
+vanity_leader_trinket_80462_title;Steward of Angren kinézet
+vanity_leader_trinket_80463_title;Utazó kinézet
 vanity_monsters_challenge_title;Türannosz
 vanity_nilfgaard_challenge_title;Divízió parancsnok
 vanity_northern_challenge_title;Fővadász
@@ -10800,8 +10968,8 @@ vanity_title_21080_title;Szörnykészítő
 vanity_title_21081_title;Védekező
 vanity_title_21082_title;Rugalmas
 vanity_title_21083_title;Kemény, mint a szög
-vanity_title_21084_title;Vasból kovácsolt
-vanity_title_21085_title;Kemény, mint a kő
+vanity_title_21084_title;Tűzben edzett
+vanity_title_21085_title;Kőkemény
 vanity_title_21086_title;Pajzsozott
 vanity_title_21087_title;Páncélozott
 vanity_title_21088_title;Eskütevő
@@ -10817,6 +10985,26 @@ vanity_title_21097_title;Tengerésztiszt
 vanity_title_21098_title;Leviatán
 vanity_title_21099_title;Különítmény
 vanity_title_21100_title;Kalóz
+vanity_title_21101_title;Védekező
+vanity_title_21102_title;Rugalmas
+vanity_title_21103_title;Kemény, mint a szög
+vanity_title_21104_title;Tűzben edzett
+vanity_title_21105_title;Kőkemény
+vanity_title_21106_title;Pajzsozott
+vanity_title_21107_title;Páncélozott
+vanity_title_21108_title;Eskütevő
+vanity_title_21109_title;Hajthatatlan
+vanity_title_21110_title;Csalóka
+vanity_title_21111_title;Örökkévaló
+vanity_title_21112_title;Szerpentin
+vanity_title_21113_title;Állandó
+vanity_title_21114_title;Óceáni
+vanity_title_21115_title;Dagályvadász
+vanity_title_21116_title;Admirális
+vanity_title_21117_title;Tengerésztiszt
+vanity_title_21118_title;Leviatán
+vanity_title_21119_title;Különítmény
+vanity_title_21120_title;Kalóz
 vanity_title_25030_title;Vágyvirág bajnok
 vanity_title_25100;Öreg Hűséges
 vanity_title_26005_title;Martalóc
@@ -11139,6 +11327,10 @@ vanity_title_28320_title;Troll
 vanity_title_28321_title;Mint a lepke
 vanity_title_28322_title;Kereső
 vanity_title_28323_title;Rabszolgakezelő
+vanity_title_28324_title;Utazó
+vanity_title_28325_title;Árnysárkány
+vanity_title_28326_title;Felkészült a háborúra
+vanity_title_28327_title;Jófiú
 vanity_title_30180;Rezesfejű
 vanity_title_30180_description;Jutalom A viperák szezonja (Május) alatt a rangsorolt játékok során elért 10-es rangért.
 vanity_title_30181;Csörgőkígyó
