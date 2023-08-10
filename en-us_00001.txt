@@ -4592,7 +4592,7 @@ interface_profile_current_level;Aktuális szint
 interface_profile_current_rank;Aktuális rang
 interface_profile_current_season_wins_filter;Aktuális szezon győzelmek
 interface_profile_daily_progress;Utazás folyamata
-interface_profile_ep8_filter;Elátkozott varangy haladás
+interface_profile_ep8_filter;Elátkozott Varangy haladás
 interface_profile_ep9_filter;Uroborosz haladás
 interface_profile_gg_received;Kapott "Jó meccs" jelölés
 interface_profile_highest_rank;Legmagasabb rang
@@ -5610,166 +5610,166 @@ proceed_to_thronebreaker_title;Elhagyni a Gwent: A vaják kártyajátékot
 proceed_to_thronebreaker_xbox_shop_description;You are about to leave Gwent: The Witcher Card Game and open the Xbox Store. Are you sure you want to proceed?
 profile_error_message;Profile data could not be loaded.
 profile_signed_out_description;Az aktuális profil kijelentkezett!
-quest_ouroboros_boost_units_with_cards_from_merchants_ofir;Play {0} cards with Boost keyword from Merchants of Ofir Expansion
-quest_ouroboros_boost_units_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Merchants of Ofir Expansion
-quest_ouroboros_boost_x_units_with_cards_from_cc;Boost {0} units using cards from Crimson Curse
-quest_ouroboros_boost_x_units_with_cards_from_cc_starter_base_tb_novigrad;Boost {0} units using cards from the Starter Set, Base Set, Thronebreaker, Novigrad or Crimson Curse
-quest_ouroboros_boost_x_units_with_cards_from_cursed_toad;Play {0} cards with Boost keyword from Cursed Toad Expansion
-quest_ouroboros_boost_x_units_with_cards_from_cursed_toad_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Cursed Toad Expansion
-quest_ouroboros_boost_x_units_with_cards_from_iron;Play {0} cards with Boost keyword from Iron Judgment Expansion
-quest_ouroboros_boost_x_units_with_cards_from_iron_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Iron Judgment Expansion
-quest_ouroboros_boost_x_units_with_cards_from_master_mirror;Play {0} cards with Boost keyword from Master Mirror Expansion
-quest_ouroboros_boost_x_units_with_cards_from_master_mirror_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Master Mirror Expansion
-quest_ouroboros_boost_x_units_with_cards_from_pop;Play {0} cards with Boost keyword from Price of Power Expansion
-quest_ouroboros_boost_x_units_with_cards_from_pop_starter_base_tb_novigrad;Play {0} cards with Boost keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Price of Power Expansion
-quest_ouroboros_boost_x_units_with_cards_from_wotw;Boost {0} units using cards from the Way of the Witcher
-quest_ouroboros_boost_x_units_with_cards_from_wotw_starter_base_tb_novigrad;Boost {0} units using cards from the Starter Set, Base Set, Thronebreaker Set, Novigrad or the Way of the Witcher
-quest_ouroboros_damage_units_x_times_with_cards_from_cc;Damage units {0} times using cards from Crimson Curse
-quest_ouroboros_damage_units_x_times_with_cards_from_cc_starter_base_tb_novigrad;Damage units {0} times using cards from the Starter Set, Base Set, Thronebreaker, Novigrad or Crimson Curse
-quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad;Play {0} cards with Damage keyword from Cursed Toad Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Cursed Toad Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_iron;Play {0} cards with Damage keyword from Iron Judgment Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_iron_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Iron Judgment Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror;Play {0} cards with Damage keyword from Master Mirror Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror_starter_bse_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Master Mirror Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir;Play {0} cards with Damage keyword from Merchants of Ofir Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Merchants of Ofir Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_pop;Play {0} cards with Damage keyword from Price of Power Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_pop_starter_base_tb_novigrad;Play {0} cards with Damage keyword from Starter Set, Base Set, Thronebreaker Set, Novigrad or Price of Power Expansion
-quest_ouroboros_damage_units_x_times_with_cards_from_wotw;Damage units {0} times using cards from Way of the Witcher
-quest_ouroboros_damage_units_x_times_with_cards_from_wotw_starter_base_tb_novigrad;Damage units {0} times using cards from the Starter Set, Base Set, Thronebreaker, Novigrad or Way of the Witcher
-quest_ouroboros_destroy_banish_x_units_with_bounty;Destroy or banish {0} units with Bounty
-quest_ouroboros_evolve_cards_from_master_mirror_x_times;Play {0} cards with Evolve keyword from Master Mirror Expansion
-quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Give units a Shield {0} times using cards from the Base Set, Novigrad or Crimson Curse
-quest_ouroboros_give_armor_x_times_with_cards_from_iron;Give armor {0} times with cards from Iron Judgment Expansion
-quest_ouroboros_give_bleeding_x_times_with_cards_from_cc;Give units Bleeding {0} times using cards from Crimson Curse
-quest_ouroboros_give_poison_x_times_with_cards_from_cc;Poison units {0} times using cards from Crimson Curse
-quest_ouroboros_give_vitality_to_units_with_cards_from_cursed_toad_starter_base_novigrad;Play {0} cards with Vitality keyword from Starter Set, Base Set, Novigrad or Cursed Toad Expansion
-quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Play {0} cards with the Vitality keyword from Starter Set, Base Set, Novigrad or Crimson Curse
-quest_ouroboros_infuse_x_cards;Play {0} cards with Infuse keyword
-quest_ouroboros_place_bounty_x_times;Play {0} cards with Bounty keyword
-quest_ouroboros_play_x_aristocrats_merchants_ofir;Play {0} Aristocrats from Merchants of Ofir Expansion
-quest_ouroboros_play_x_cards_from_cc_wotw;Play {0} cards from Crimson Curse or Way of the Witcher
-quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Win after playing {0} cards from Crimson Curse
-quest_ouroboros_play_x_cards_from_iron_uroboros;Play {0} cards from Iron Judgment Expansion or Uroboros Expansion
-quest_ouroboros_play_x_cards_from_master_mirror_pop;Play {0} cards from Master Mirror Expansion or Price of Power Expansion
-quest_ouroboros_play_x_cards_from_merchants_ofir_cursed_toad;Play {0} cards from Merchants of Ofir Expansion or Cursed Toad Expansion
-quest_ouroboros_play_x_cards_from_novigrad;Play {0} cards from Novigrad
-quest_ouroboros_play_x_cards_from_starter_base;Play {0} cards from the Starter Set or the Base Set
-quest_ouroboros_play_x_cards_from_starter_base_tb;Play {0} cards from the Starter Set, Base Set or Thronebreaker
-quest_ouroboros_play_x_cards_with_armor_from_iron;Play {0} cards with Armor keyword from Iron Judgment Expansion
-quest_ouroboros_play_x_cards_with_bounty;Play {0} cards with Bounty keyword
-quest_ouroboros_play_x_cards_with_zeal_from_starter_base_master_mirror;Play {0} cards with Zeal keyword from Starter, Base Set or Master Mirror Expansion
-quest_ouroboros_play_x_crime_cards;Play {0} Crime cards
-quest_ouroboros_play_x_cultist_cc;Play {0} Cultists from Crimson Curse
-quest_ouroboros_play_x_cultist_won_match_cc;Win after playing {0} Cultists from Crimson Curse
-quest_ouroboros_play_x_cursed_cards_from_starter_base_cursed_toad;Play {0} cards with Cursed keyword from Starter Set, Base Set or Cursed Toad Expansion
-quest_ouroboros_play_x_doomed_cards_from_starter_base_cursed_toad;Play {0} Doomed cards from Starter, Base Set or Cursed Toad Expansion
-quest_ouroboros_play_x_doomed_cards_starter_base_merchants_ofir;Play {0} cards with Doomed keyword from Starter, Base Set and Merchants of Ofir Expansion
-quest_ouroboros_play_x_doomed_from_starter_base_master_mirror;Play {0} cards with Doomed keyword from Starter, Base Set or Master Mirror Expansion
-quest_ouroboros_play_x_dwarfs;Play {0} Dwarfs
-quest_ouroboros_play_x_firesworn;Play {0} Firesworn
-quest_ouroboros_play_x_humans_cc;Play {0} Humans from Crimson Curse
-quest_ouroboros_play_x_humans_from_master_mirror;Play {0} Humans from Master Mirror Expansion
-quest_ouroboros_play_x_humans_iron;Play {0} Humans from Iron Judgment Expansion
-quest_ouroboros_play_x_humans_merchants_ofir;Play {0} Humans from Merchants of Ofir Expansion
-quest_ouroboros_play_x_humans_won_match_cc;Win after playing {0} Humans from Crimson Curse
-quest_ouroboros_play_x_insectoids_from_wotw;Play {0} Insectoids from Way of the Witcher
-quest_ouroboros_play_x_insectoids_iron;Play {0} Insectoids from Iron Judgment Expansion
-quest_ouroboros_play_x_knights_cc;Play {0} Knights from Crimson Curse
-quest_ouroboros_play_x_knights_won_match_cc;Win after playing {0} Knights from Crimson Curse
-quest_ouroboros_play_x_locations_base_wotw;Play {0} Locations from the Base Set or Way of the Witcher
-quest_ouroboros_play_x_monster_cards_from_cc;Play {0} Monster cards from Crimson Curse
-quest_ouroboros_play_x_monster_cards_from_cursed_toad;Play {0} Monster cards from Cursed Toad Expansion
-quest_ouroboros_play_x_monster_cards_from_iron_judgement;Play {0} Monster cards from Iron Judgment Expansion
-quest_ouroboros_play_x_monster_cards_from_master_mirror;Play {0} Monster cards from Master Mirror Expansion
-quest_ouroboros_play_x_monster_cards_from_merchants_ofir;Play {0} Monster cards from Merchants of Ofir Expansion
-quest_ouroboros_play_x_monster_cards_from_pop;Play {0} Monster cards from Price of Power Expansion
-quest_ouroboros_play_x_monster_cards_from_wotw;Play {0} Monster cards from Way of the Witcher
-quest_ouroboros_play_x_nilfgaard_cards_from_cc;Play {0} Nilfgaard cards from Crimson Curse
-quest_ouroboros_play_x_nilfgaard_cards_from_cursed_toad;Play {0} Nilfgaard cards from Cursed Toad Expansion
-quest_ouroboros_play_x_nilfgaard_cards_from_iron_judgement;Play {0} Nilfgaard cards from Iron Judgment Expansion
-quest_ouroboros_play_x_nilfgaard_cards_from_master_mirror;Play {0} Nilfgaard cards from Master Mirror Expansion
-quest_ouroboros_play_x_nilfgaard_cards_from_merchants_ofir;Play {0} Nilfgaard cards from Merchants of Ofir Expansion
-quest_ouroboros_play_x_nilfgaard_cards_from_pop;Play {0} Nilfgaard cards from Price of Power Expansion
-quest_ouroboros_play_x_nilfgaard_cards_from_wotw;Play {0} Nilfgaard cards from Way of the Witcher
-quest_ouroboros_play_x_nilfgaard_soldiers;Play {0} Nilfgaardian Soldiers
-quest_ouroboros_play_x_northern_realms_cards_from_cc;Play {0} Northern Realms cards from Crimson Curse
-quest_ouroboros_play_x_northern_realms_cards_from_cursed_toad;Play {0} Northern Realms cards from Cursed Toad Expansion
-quest_ouroboros_play_x_northern_realms_cards_from_iron_judgement;Play {0} Northern Realms cards from Iron Judgment Expansion
-quest_ouroboros_play_x_northern_realms_cards_from_master_mirror;Play {0} Northern Realms cards from Master Mirror Expansion
-quest_ouroboros_play_x_northern_realms_cards_from_merchants_ofir;Play {0} Northern Realms cards from Merchants of Ofir Expansion
-quest_ouroboros_play_x_northern_realms_cards_from_pop;Play {0} Northern Realms cards from Price of Power Expansion
-quest_ouroboros_play_x_northern_realms_cards_from_wotw;Play {0} Northern Realms cards from Way of the Witcher
-quest_ouroboros_play_x_pirates_iron;Play {0} Pirates from Iron Judgment Expansion
-quest_ouroboros_play_x_relics_from_base_pop_in_won_matches;Play {0} Relicts from Base Set or Price of Power Expansion in won matches
-quest_ouroboros_play_x_scoia_cards_from_cc;Play {0} Scoia'tael cards from Crimson Curse
-quest_ouroboros_play_x_scoia_cards_from_cursed_toad;Play {0} Scoia'tael cards from Cursed Toad Expansion
-quest_ouroboros_play_x_scoia_cards_from_iron_judgement;Play {0} Scoia'tael cards from Iron Judgment Expansion
-quest_ouroboros_play_x_scoia_cards_from_master_mirror;Play {0} Scoia'tael cards from Master Mirror Expansion
-quest_ouroboros_play_x_scoia_cards_from_merchants_ofir;Play {0} Scoia'tael cards from Merchants of Ofir Expansion
-quest_ouroboros_play_x_scoia_cards_from_pop;Play {0} Scoia'tael cards from Price of Power Expansion
-quest_ouroboros_play_x_scoia_cards_from_wotw;Play {0} Scoia'tael cards from Way of the Witcher
-quest_ouroboros_play_x_skellige_cards_from_cc;Play {0} Skellige cards from Crimson Curse
-quest_ouroboros_play_x_skellige_cards_from_cursed_toad;Play {0} Skellige cards from Cursed Toad Expansion
-quest_ouroboros_play_x_skellige_cards_from_iron_judgement;Play {0} Skellige cards from Iron Judgment Expansion
-quest_ouroboros_play_x_skellige_cards_from_master_mirror;Play {0} Skellige cards from Master Mirror Expansion
-quest_ouroboros_play_x_skellige_cards_from_merchants_ofir;Play {0} Skellige cards from Merchants of Ofir Expansion
-quest_ouroboros_play_x_skellige_cards_from_pop;Play {0} Skellige cards from Price of Power Expansion
-quest_ouroboros_play_x_skellige_cards_from_wotw;Play {0} Skellige cards from Way of the Witcher
-quest_ouroboros_play_x_syndicate_cards_from_cursed_toad;Play {0} Syndicate cards from Cursed Toad Expansion
-quest_ouroboros_play_x_syndicate_cards_from_iron_judgement;Play {0} Syndicate cards from Iron Judgment Expansion
-quest_ouroboros_play_x_syndicate_cards_from_master_mirror;Play {0} Syndicate cards from Master Mirror Expansion
-quest_ouroboros_play_x_syndicate_cards_from_merchants_ofir;Play {0} Syndicate cards from Merchants of Ofir Expansion
-quest_ouroboros_play_x_syndicate_cards_from_pop;Play {0} Syndicate cards from Price of Power Expansion
-quest_ouroboros_play_x_syndicate_cards_from_wotw;Play {0} Syndicate cards from Way of the Witcher
-quest_ouroboros_play_x_syndicate_knights;Play {0} Syndicate Knights
-quest_ouroboros_play_x_treants_cc;Play {0} Treants from Crimson Curse
-quest_ouroboros_play_x_treants_won_match_cc;Win after playing {0} Treants from Crimson Curse
-quest_ouroboros_play_x_units_with_harmony_base_cursed_toad;Play {0} cards with Harmony keyword from Base Set or Cursed Toad Expansion
-quest_ouroboros_play_x_units_with_veil_from_base_master_mirror;Play {0} cards with Veil keyword from Base Set or Master Mirror Expansion
-quest_ouroboros_play_x_vampires;Play {0} Vampires
-quest_ouroboros_play_x_vampires_won_match;Win after playing {0} Vampires
-quest_ouroboros_play_x_witchers;Play {0} Witchers
-quest_ouroboros_play_x_witchers_in_won_matches;Win after playing {0} Witchers
-quest_ouroboros_purify_x_units_from_cc;Purify {0} Units using cards from Crimson Curse
-quest_ouroboros_spawn_x_cards_from_cursed_toad;Play {0} cards with Spawn keyword from Cursed Toad Expansion
-quest_ouroboros_spawn_x_cards_from_master_mirror;Play {0} cards with Spawn keyword from Master Mirror Expansion
-quest_ouroboros_spawn_x_cards_from_pop;Play {0} cards with Spawn keyword from Price of Power Expansion
-quest_ouroboros_spawn_x_cards_from_wotw;Play {0} cards with the Spawn keyword from Way of the Witcher
-quest_ouroboros_spawn_x_cards_merchants_ofir;Play {0} cards with Spawn keyword from Merchants of Ofir Expansion
-quest_ouroboros_summon_x_cards_from_cursed_toad_starter_base_novigrad;Play {0} cards with Summon keyword from Starter Set, Base Set, Novigrad or Cursed Toad Expansion
-quest_ouroboros_summon_x_cards_from_starter_base_novigrad_pop;Play {0} cards with Summon keyword from Starter Set, Base Set, Novigrad or Price of Power Expansion
-quest_ouroboros_summon_x_cards_from_starter_base_wotw;Summon {0} cards from the Starter Set, Base Set or the Way of the Witcher
-quest_ouroboros_trigger_adrenaline_x_times;Trigger Adrenaline {0} times
-quest_ouroboros_trigger_barricade_x_times;Play {0} cards with Barricade keyword
-quest_ouroboros_trigger_bonded_x_times_with_cards_from_starter_base_novigraf_pop;Play {0} cards with Bonded keyword from Starter Set, Base Set, Novigrad or Price of Power Expansion
-quest_ouroboros_trigger_deathblow_x_times_cards_from_base_cc;Trigger Deathblow {0} times with cards from the Base Set or Crimson Curse
-quest_ouroboros_trigger_deathblow_x_times_with_cards_from_base_master_mirror;Play {0} cards with Deathblow keyword from Base Set or Master Mirror Expansion
-quest_ouroboros_trigger_deathwish_for_units_from_merchants_ofir;Play {0} cards with Deathwish keyword from Merchants of Ofir Expansion
-quest_ouroboros_trigger_deathwish_x_times_for_units_from_cursed_toad;Play {0} cards with Deathwish keyword from Cursed Toad Expansion
-quest_ouroboros_trigger_fee_x_times_for_cards_from_base_novigrad_cursed_toad;Play {0} cards with Fee keyword from Base Set, Novigrad or Cursed Toad Expansion
-quest_ouroboros_use_order_x_times_for_cards_from_cc_tb;Use the Order abilities of cards from Thronebreaker or Crimson Curse {0} times
-quest_ouroboros_use_order_x_times_for_cards_from_cursed_toad_tb;Play {0} cards with Order keyword from Thronebreaker Set or Cursed Toad Expansion
-quest_ouroboros_use_order_x_times_for_cards_from_merchants_ofir_tb;Play {0} cards with Order keyword from Thronebreaker Set or Merchants of Ofir Expansion
-quest_ouroboros_use_order_x_times_for_cards_from_tb_master_mirror;Play {0} cards with Order keyword from Thronebreaker Set or Master Mirror Expansion
-quest_ouroboros_use_order_x_times_for_cards_from_tb_pop;Play {0} cards with Order keyword from Thronebreaker Set or Price of Power Expansion
-quest_ouroboros_use_order_x_times_for_cards_from_tb_wotw;Use the Order abilities of the cards from Thronebreaker Set or Way of the Witcher {0} times
-quest_ouroboros_win_x_game_most_cards_from_cc_wotw;Win {0} games with 13 or more cards in your starting deck from Crimson Curse or Way of the Witcher
-quest_ouroboros_win_x_game_most_cards_from_iron_uroboros;Win {0} games with at least 13 cards in deck from the Iron Judgment and Uroboros
-quest_ouroboros_win_x_game_most_cards_from_merchants_offir_cursed_toad;Win {0} games with 13 cards or more in deck from Merchants of Ofir and Cursed Toad Expansion
-quest_ouroboros_win_x_game_most_cards_from_novigrad;Win {0} games with 13 or more cards in deck from the Novigrad
-quest_ouroboros_win_x_game_only_cards_from_starter_base_cc_wotw;Win {0} games using cards in your starting deck from only the Starter Set, Base Set, Crimson Curse and Way of the Witcher
-quest_ouroboros_win_x_game_only_cards_from_starter_base_iron_uroboros;Win {0} games using cards in your deck from only the Starter Set, Base Set, Iron Judgment and Uroboros
-quest_ouroboros_win_x_game_only_cards_from_starter_base_merchants_offir_cursed_toad;Win {0} games with only cards in deck from Starter Set, Base Set, Merchants of Ofir and Cursed Toad Expansion
-quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Win {0} games using cards in your starting deck from only the Starter Set, Base Set or Novigrad
-quest_ouroboros_win_x_game_syanna_dettleaff_in_deck;Win {0} games with Syanna or Dettlaff in your deck
-quest_ouroboros_win_x_games_with_evolving_card_from_master_mirror;Win {0} games with evolving card in your deck from Master Mirror Expansion
-quest_ouroboros_win_x_games_with_evolving_card_in_deck_from_cursed_toad;Play {0} cards with Evolve keyword from Cursed Toad Expansion
-quest_ouroboros_win_x_games_with_master_mirror;Win {0} games with Master Mirror in your deck
-quest_ouroboros_win_x_games_with_most_cards_from_master_mirror_pop;Win {0} games with13 or more cards in deck from Master Mirror and Price of Power Expansion
-quest_ouroboros_win_x_games_with_only_cards_from_master_mirror_pop_starter_base;Win {0} games with only cards in deck from Starter Set, Base Set, Master Mirror and Price of Power Expansion
-quest_ouroboros_win_x_games_with_stratagem_equipped;Win {0} games with Stratagem equipped (everything besides Tactical Advantage)
+quest_ouroboros_boost_units_with_cards_from_merchants_ofir;Játssz ki {0} Erősítés képességű kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_boost_units_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, a Novigrad, vagy az Ofir kereskedői kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_cc;Erősíts {0} egységet a Bíbor Átok kártyáit használva!
+quest_ouroboros_boost_x_units_with_cards_from_cc_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy Bíbor Átok kártyáit használva!
+quest_ouroboros_boost_x_units_with_cards_from_cursed_toad;Játssz ki {0} Erősítés képességű kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_cursed_toad_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, Elátkozott Varangy kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_iron;Játssz ki {0} Erősítés képességű kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_iron_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, vagy a Vas Ítélet kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_master_mirror;Játssz ki {0} Erősítés képességű kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_master_mirror_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_pop;Játssz ki {0} Erősítés képességű kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_pop_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_wotw;Erősíts {0} egységet A Vaják útja kártyáit használva!
+quest_ouroboros_boost_x_units_with_cards_from_wotw_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy A Vaják útja kártyáit használva!
+quest_ouroboros_damage_units_x_times_with_cards_from_cc;Sebezz egységeket {0} alkalommal a Bíbor Átok kártyáit használva!
+quest_ouroboros_damage_units_x_times_with_cards_from_cc_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy a Bíbor Átok kártyáit használva!
+quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad;Játssz ki {0} Sebző képességű kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_iron;Játssz ki {0} Sebző képességű kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_iron_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy a Vas Ítélet kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror;Játssz ki {0} Sebző képességű kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror_starter_bse_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir;Játssz ki {0} Sebző képességű kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy az Ofir kereskedői kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_pop;Játssz ki {0} Sebző képességű kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_pop_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_wotw;Sebezz egységeket {0} alkalommal A Vaják útja kártyáit használva!
+quest_ouroboros_damage_units_x_times_with_cards_from_wotw_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy A Vaják útja kártyáit használva!
+quest_ouroboros_destroy_banish_x_units_with_bounty;Semmisíts, vagy Száműzz {0} olyan egységet, melyen Vérdíj van!
+quest_ouroboros_evolve_cards_from_master_mirror_x_times;Játssz ki {0} fejlődő kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Adj egységeknek Pajzsot {0} alkalommal az alap szett, Novigrad, vagy a Bíbor Átok kártyái felhasználásával!
+quest_ouroboros_give_armor_x_times_with_cards_from_iron;Adj Páncélt {0} alkalommal a Vas Ítélet kiegészítő kártyái felhasználásával!
+quest_ouroboros_give_bleeding_x_times_with_cards_from_cc;Okozz {0} alkalommal Vérzést a Bíbor Átok kártyái felhasználásával!
+quest_ouroboros_give_poison_x_times_with_cards_from_cc;Mérgezz meg egységeket {0} alkalommal a Bíbor Átok kártyái felhasználásával!
+quest_ouroboros_give_vitality_to_units_with_cards_from_cursed_toad_starter_base_novigrad;Játssz ki {0} Vitalitás képességű kártyát a kezdő szett, alap szett, Novigrad, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Játssz ki {0} Vitalitás képességű kártyát a kezdő szett, alap szett, Novigrad, vagy Bíbor Átok kártyái közül!
+quest_ouroboros_infuse_x_cards;Játssz ki {0} Felruházás képességű kártyát!
+quest_ouroboros_place_bounty_x_times;Játssz ki {0} Vérdíj képességű kártyát!
+quest_ouroboros_play_x_aristocrats_merchants_ofir;Játssz ki {0} Arisztokratát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_cards_from_cc_wotw;Játssz ki {0} kártyát a Bíbor Átok, vagy A Vaják útja kártyái közül!
+quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Nyerj, miután kijátszottál {0} kártyát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_cards_from_iron_uroboros;Játssz ki {0} kártyát a Vas Ítélet, vagy az Uroborosz kiegészítőből!
+quest_ouroboros_play_x_cards_from_master_mirror_pop;Játssz ki {0} kártyát a Tükörmester, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_cards_from_merchants_ofir_cursed_toad;Játssz ki {0} kártyát az Ofir kereskedői, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_cards_from_novigrad;Játssz ki {0} kártyát a Novigrad kártyái közül!
+quest_ouroboros_play_x_cards_from_starter_base;Játssz ki {0} kártyát a kezdő szett, vagy az alap szett kártyái közül!
+quest_ouroboros_play_x_cards_from_starter_base_tb;Játssz ki {0} kártyát a kezdő szett, alap szett, vagy a Trónbitorló kártyái közül!
+quest_ouroboros_play_x_cards_with_armor_from_iron;Játssz ki {0} Páncél kulcsszóval rendelkező kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_cards_with_bounty;Játssz ki {0} Vérdíj kulcsszóval rendelkező kártyát!
+quest_ouroboros_play_x_cards_with_zeal_from_starter_base_master_mirror;Játssz ki {0} Hév kulcsszavú kártyát a kezdő szett, alap szett, vagy Tükörmester kiegészítőből!
+quest_ouroboros_play_x_crime_cards;Játssz ki {0} Gaztett kártyát!
+quest_ouroboros_play_x_cultist_cc;Játssz ki {0} Kultistát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_cultist_won_match_cc;Nyerj, miután kijátszottál {0} Kultistát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_cursed_cards_from_starter_base_cursed_toad;Játssz ki {0} Átkozott kulcsszavú kártyát a kezdő szett, alap szett, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_doomed_cards_from_starter_base_cursed_toad;Játssz ki {0} Kárhozott kártyát a kezdő szett, alap szett, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_doomed_cards_starter_base_merchants_ofir;Játssz ki {0} Kárhozott kulcsszavú kártyát a kezdő szett, alap szett, vagy az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_doomed_from_starter_base_master_mirror;Játssz ki {0}Kárhozott kulcsszavú kártyát a kezdő szett, alap szett, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_dwarfs;Játssz ki {0} Törp kártyát!
+quest_ouroboros_play_x_firesworn;Játssz ki {0} Tűztestvért!
+quest_ouroboros_play_x_humans_cc;Játssz ki {0} Embert a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_humans_from_master_mirror;Játssz ki {0} Embert a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_humans_iron;Játssz ki {0} Embert a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_humans_merchants_ofir;Játssz ki {0} Embert az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_humans_won_match_cc;Nyerj, miután kijátszottál {0} Embert a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_insectoids_from_wotw;Játssz ki {0} Rovart A Vaják útja kártyái közül!
+quest_ouroboros_play_x_insectoids_iron;Játssz ki {0} Rovart a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_knights_cc;Játssz ki {0} Lovagot a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_knights_won_match_cc;Nyerj, miután kijátszottál {0} Lovagot a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_locations_base_wotw;Játssz ki {0} Helyszínt az alap szett, vagy A Vaják útja kártyái közül!
+quest_ouroboros_play_x_monster_cards_from_cc;Játssz ki {0} Szörny kártyát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_monster_cards_from_cursed_toad;Játssz ki {0} Szörny kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_monster_cards_from_iron_judgement;Játssz ki {0} Szörny kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_monster_cards_from_master_mirror;Játssz ki {0} Szörny kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_monster_cards_from_merchants_ofir;Játssz ki {0} Szörny kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_monster_cards_from_pop;Játssz ki {0} Szörny kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_monster_cards_from_wotw;Játssz ki {0} Szörny kártyát A Vaják útja kártyái közül!
+quest_ouroboros_play_x_nilfgaard_cards_from_cc;Játssz ki {0} Nilfgaard kártyát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_nilfgaard_cards_from_cursed_toad;Játssz ki {0} Nilfgaard kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_nilfgaard_cards_from_iron_judgement;Játssz ki {0} Nilfgaard kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_nilfgaard_cards_from_master_mirror;Játssz ki {0} Nilfgaard kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_nilfgaard_cards_from_merchants_ofir;Játssz ki {0} Nilfgaard kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_nilfgaard_cards_from_pop;Játssz ki {0} Nilfgaard kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_nilfgaard_cards_from_wotw;Játssz ki {0} Nilfgaard kártyát A Vaják útja kártyái közül!
+quest_ouroboros_play_x_nilfgaard_soldiers;Játssz ki {0} Nilfgaard Katonát!
+quest_ouroboros_play_x_northern_realms_cards_from_cc;Játssz ki {0} Északi Királyság kártyát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_northern_realms_cards_from_cursed_toad;Játssz ki {0} Északi Királyságok kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_northern_realms_cards_from_iron_judgement;Játssz ki {0} Északi Királyságok kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_northern_realms_cards_from_master_mirror;Játssz ki {0} Északi Királyságok kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_northern_realms_cards_from_merchants_ofir;Játssz ki {0} Északi Királyságok kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_northern_realms_cards_from_pop;Játssz ki {0} Északi Királyságok kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_northern_realms_cards_from_wotw;Játssz ki {0} Északi Királyságok kártyát A Vaják útja kártyái közül!
+quest_ouroboros_play_x_pirates_iron;Játssz ki {0} Kalóz kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_relics_from_base_pop_in_won_matches;Játssz ki {0} Ittrekedt kártyát az alap szett, vagy A hatalom ára kiegészítőből egy győztes meccs során!
+quest_ouroboros_play_x_scoia_cards_from_cc;Játssz ki {0} Mókus kártyát a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_scoia_cards_from_cursed_toad;Játssz ki {0} Mókus kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_scoia_cards_from_iron_judgement;Játssz ki {0} Mókus kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_scoia_cards_from_master_mirror;Játssz ki {0} Mókus kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_scoia_cards_from_merchants_ofir;Játssz ki {0} Mókus kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_scoia_cards_from_pop;Játssz ki {0} Mókus kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_scoia_cards_from_wotw;Játssz ki {0} Mókus kártyát A Vaják útja kártyái közül!
+quest_ouroboros_play_x_skellige_cards_from_cc;Játssz ki {0} Skellige kártyát from Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_skellige_cards_from_cursed_toad;Játssz ki {0} Skellige kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_skellige_cards_from_iron_judgement;Játssz ki {0} Skellige kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_skellige_cards_from_master_mirror;Játssz ki {0} Skellige kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_skellige_cards_from_merchants_ofir;Játssz ki {0} Skellige kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_skellige_cards_from_pop;Játssz ki {0} Skellige kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_skellige_cards_from_wotw;Játssz ki {0} Skellige kártyát A Vaják útja kártyái közül!
+quest_ouroboros_play_x_syndicate_cards_from_cursed_toad;Játssz ki {0} Szindikátus kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_syndicate_cards_from_iron_judgement;Játssz ki {0} Szindikátus kártyát a Vas Ítélet kiegészítőből!
+quest_ouroboros_play_x_syndicate_cards_from_master_mirror;Játssz ki {0} Szindikátus kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_syndicate_cards_from_merchants_ofir;Játssz ki {0} Szindikátus kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_play_x_syndicate_cards_from_pop;Játssz ki {0} Szindikátus kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_play_x_syndicate_cards_from_wotw;Játssz ki {0} Szindikátus kártyát A Vaják útja kártyái közül!
+quest_ouroboros_play_x_syndicate_knights;Játssz ki {0} Szindikátus Lovagot!
+quest_ouroboros_play_x_treants_cc;Játssz ki {0} Entet a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_treants_won_match_cc;Nyerj, miután kijátszottál {0} Entet a Bíbor Átok kártyái közül!
+quest_ouroboros_play_x_units_with_harmony_base_cursed_toad;Játssz ki {0} Harmónia kulcsszavú kártyát az alap szettből, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_play_x_units_with_veil_from_base_master_mirror;Játtsz ki {0} Lepel kulcsszavú kártyát az alap szettből, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_play_x_vampires;Játssz ki {0} Vámpírt!
+quest_ouroboros_play_x_vampires_won_match;Nyerj, miután kijátszottál {0} Vámpírt!
+quest_ouroboros_play_x_witchers;Játssz ki {0} Vajákot!
+quest_ouroboros_play_x_witchers_in_won_matches;Nyerj, miután kijátszottál {0} Vajákot!
+quest_ouroboros_purify_x_units_from_cc;Tisztíts {0} egységet a Bíbor Átok kártyáival!
+quest_ouroboros_spawn_x_cards_from_cursed_toad;Játssz ki {0} Teremt kulcsszavú kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_spawn_x_cards_from_master_mirror;Játssz ki {0} Teremt kulcsszavú kártyát a Tükörmester kiegészítőből!
+quest_ouroboros_spawn_x_cards_from_pop;Játssz ki {0} Teremt kulcsszavú kártyát A hatalom ára kiegészítőből!
+quest_ouroboros_spawn_x_cards_from_wotw;Játssz ki {0} Teremt kulcsszavú kártyát A Vaják útja kártyái közül!
+quest_ouroboros_spawn_x_cards_merchants_ofir;Játssz ki {0} Teremt kulcsszavú kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_summon_x_cards_from_cursed_toad_starter_base_novigrad;Játssz ki {0} Megidéz kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrad, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_summon_x_cards_from_starter_base_novigrad_pop;Játssz ki {0} Megidéz kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_summon_x_cards_from_starter_base_wotw;Idézz meg {0} kártyát a kezdő szett, alap szett, vagy A Vaják útja kártyái közül!
+quest_ouroboros_trigger_adrenaline_x_times;Aktiváld az Adrenalint {0} alkalommal!
+quest_ouroboros_trigger_barricade_x_times;Játssz ki {0} Barikád kulcsszavú kártyát!
+quest_ouroboros_trigger_bonded_x_times_with_cards_from_starter_base_novigraf_pop;Játssz ki {0} Kötelék kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_trigger_deathblow_x_times_cards_from_base_cc;Aktiváld a Halálos csapás képességet {0} alkalommal az alap szett, vagy a Bíbor Átok kártyái felhasználásával!
+quest_ouroboros_trigger_deathblow_x_times_with_cards_from_base_master_mirror;Játssz ki {0} Halálos csapás kulcsszavú kártyát az alap szettből, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_trigger_deathwish_for_units_from_merchants_ofir;Játssz ki {0} Halálvágy kulcsszavú kártyát az Ofir kereskedői kiegészítőből!
+quest_ouroboros_trigger_deathwish_x_times_for_units_from_cursed_toad;Játssz ki {0} Halálvágy kulcsszavú kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_trigger_fee_x_times_for_cards_from_base_novigrad_cursed_toad;Játssz ki {0} Tiszteletdíj kulcsszavú kártyát az alap szettből, a Novigrad, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_use_order_x_times_for_cards_from_cc_tb;Használj Parancs képességű kártyákat a Trónbitorló, vagy Bíbor Átok kártyái közül {0} alkalommal!
+quest_ouroboros_use_order_x_times_for_cards_from_cursed_toad_tb;Játssz ki {0} Parancs kulcsszavú kártyát a Trónbitorló szettből, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_use_order_x_times_for_cards_from_merchants_ofir_tb;Játssz ki {0} Parancs kulcsszavú kártyát a Trónbitorló szettből, vagy az Ofir kereskedői kiegészítőből!
+quest_ouroboros_use_order_x_times_for_cards_from_tb_master_mirror;Játssz ki {0} Parancs kulcsszavú kártyát a Trónbitorló szettből, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_use_order_x_times_for_cards_from_tb_pop;Játssz ki {0} Parancs kulcsszavú kártyát a Trónbitorló szettből, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_use_order_x_times_for_cards_from_tb_wotw;Használd a Parancs képességet a Trónbitorló szett, vagy A Vaják útja kártyái közül {0} alkalommal!
+quest_ouroboros_win_x_game_most_cards_from_cc_wotw;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Bíbor Átok, vagy A Vaják útja kártyát tartalmaz!
+quest_ouroboros_win_x_game_most_cards_from_iron_uroboros;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Vas Ítélet, vagy Uroboros kártyát tartalmaz!
+quest_ouroboros_win_x_game_most_cards_from_merchants_offir_cursed_toad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Ofir kereskedői, vagy az Elátkozott Varangy kiegészítő kártyát tartalmazza!
+quest_ouroboros_win_x_game_most_cards_from_novigrad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Novigrad kártyát tartalmaz!
+quest_ouroboros_win_x_game_only_cards_from_starter_base_cc_wotw;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Bíbor Átok és A Vaják útja kártyáit tartalmazza!
+quest_ouroboros_win_x_game_only_cards_from_starter_base_iron_uroboros;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Vas Ítélet és az Uroborosz kártyáit tartalmazza!
+quest_ouroboros_win_x_game_only_cards_from_starter_base_merchants_offir_cursed_toad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Ofir kereskedői és az Elátkozott Varangy kiegészítő kártyáit tartalmazza!
+quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, vagy Novigrad kártyáit tartalmazza!
+quest_ouroboros_win_x_game_syanna_dettleaff_in_deck;Nyerj {0} mérkőzést úgy, hogy Syanna, vagy Dettlaff a paklidban van!
+quest_ouroboros_win_x_games_with_evolving_card_from_master_mirror;Nyerj {0} mérkőzést miközben kifejlődik egy Tükörmester kiegészítős kártyád!
+quest_ouroboros_win_x_games_with_evolving_card_in_deck_from_cursed_toad;Játtsz ki {0} fejlődő kártyát az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_win_x_games_with_master_mirror;Nyerj {0} mérkőzést úgy, hogy a <b>Tükörmester</b> a paklidban van!
+quest_ouroboros_win_x_games_with_most_cards_from_master_mirror_pop;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Tükörmester és A hatalom ára kiegészítő kártyát tartalmaz!
+quest_ouroboros_win_x_games_with_only_cards_from_master_mirror_pop_starter_base;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Tükörmester és A hatalom ára kiegészítő kártyáit tartalmazza!
+quest_ouroboros_win_x_games_with_stratagem_equipped;Nyerj {0} mérkőzést Fortély alkalmazásával (bármi, kivéve a Taktikai előny)
 quest_play_x_aristocrat_cards;Játssz ki {0} Arisztokrata megjelölésű kártyát
 quest_play_x_bounty_keyword_cards;Játssz ki {0} Vérdíj megjelölésű kártyát
 quest_play_x_zeal cards;Játssz ki {0} Hév képességű kártyát!
@@ -6990,7 +6990,7 @@ shop_data_abandoned_gameboard_desc;<sprite="PopupIcons" name="Board"> Abandoned 
 shop_data_abandoned_gameboard_title;Elhagyatott laboratórium tábla
 shop_data_abyssal_anchor_cardback_desc;<sprite="PopupIcons" name="CardBack"> Mélységi horgony kártya hátlap\n\nWeigh the anchor against the souls of vanquished mariners.
 shop_data_abyssal_anchor_cardback_title;Mélységi horgony kártya hátlap
-shop_data_air_bundle_desc;<sprite="PopupIcons" name="Skin"> Queen of the Wind Skin (Scoia'tael)\n\n<sprite="PopupIcons" name="Board"> Dandelion Meadow Board\n\nWalk in the footsteps of the great Francesca Findabair through her courts: the meadows of Dol Blathanna.
+shop_data_air_bundle_desc;<sprite="PopupIcons" name="Skin"> Queen of the Wind Skin (Mókus)\n\n<sprite="PopupIcons" name="Board"> Dandelion Meadow Board\n\nWalk in the footsteps of the great Francesca Findabair through her courts: the meadows of Dol Blathanna.
 shop_data_air_bundle_title;Air Bundle
 shop_data_air_pack_desc;<sprite="PopupIcons" name="Avatar"> Djinn Avatar\n\n<sprite="PopupIcons" name="Border"> Animated Air Border\n\n<sprite="PopupIcons" name="Title"> "The Djinn" titulus\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nThe firmament shakes with the fluttering of a thousand birds fleeing an ominous squall...
 shop_data_air_pack_title;Air Pack
@@ -7112,7 +7112,7 @@ shop_data_earth_pack_desc;<sprite="PopupIcons" name="Border"> Animated Earth Bor
 shop_data_earth_pack_title;Föld csomag
 shop_data_eclipse_bundle_desc;<sprite="PopupIcons" name="Board"> Eclipse Board\n\n<sprite="PopupIcons" name="Coin"> Eclipse Coin\n\nBeware those born of the eclipse, for their souls are enveloped in shadow.
 shop_data_eclipse_bundle_title;Napfogyatkozás Bundle
-shop_data_eithne_silver_eyed_skin_desc;<sprite="PopupIcons" name="Skin"> Silver-Eyed Skin (Scoia'tael)\n\nLead your fellow dryads on a warpath, and take the fight to all things human!
+shop_data_eithne_silver_eyed_skin_desc;<sprite="PopupIcons" name="Skin"> Silver-Eyed Skin (Mókus)\n\nLead your fellow dryads on a warpath, and take the fight to all things human!
 shop_data_eithne_silver_eyed_skin_title;Silver-Eyed Eithné Skin
 shop_data_ep_coming_soon;New expansion coming soon
 shop_data_ep_preorder_now;PRE-ORDER NOW IN SHOP
@@ -7156,11 +7156,11 @@ shop_data_ep3_60_premium_keg_title;Vas Ítélet prémium hordó x60
 shop_data_ep3_60_standard_keg_title;Vas Ítélet hordó x60
 shop_data_ep3_7_premium_keg_title;Vas Ítélet prémium hordó x7
 shop_data_ep3_7_standard_keg_title;Vas Ítélet hordó x7
-shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin"> Zerrikániai kinézet (Northern Realms)\n\nAs a king, you must make sure you are recognized as one, no matter where you travel.
+shop_data_ep3_alt_leader_skin_bundle_desc;<sprite="PopupIcons" name="Skin"> Zerrikániai kinézet (Északi Királyságok)\n\nAs a king, you must make sure you are recognized as one, no matter where you travel.
 shop_data_ep3_alt_leader_skin_bundle_title;V. Zerrikániai Radovid kinézet
 shop_data_ep3_premium_keg_desc;Ha kinyitod, ez a hordó 5 prémium kártyát ad neked a Vas Ítélet szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_ep3_standard_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked a Vas Ítélet szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
-shop_data_ep4_1_standard_keg_title;Ofir Kereskedői hordó
+shop_data_ep4_1_standard_keg_title;Ofir kereskedői hordó
 shop_data_ep4_15_premium_keg_title;Ofir kereskedői prémium hordó x15
 shop_data_ep4_15_standard_keg_title;Ofir kereskedői hordó x15
 shop_data_ep4_2_premium_keg_title;Ofir kereskedői prémium hordó x2
@@ -7191,7 +7191,7 @@ shop_data_ep5_premium_preorder_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 p
 shop_data_ep5_premium_preorder_title;Gaunter O'Dimm Pre-order csomag
 shop_data_ep5_preorder_desc;<sprite="PopupIcons" name="Keg"> 10 Tükörmester hordó\n\n<sprite="PopupIcons" name="CardBack"> Tükörmester evolving cardback - equippable immediately after purchase!\n\nPrepare for a brand new expansion with 10 kegs featuring cards from the upcoming release, and get a unique evolving animated cardback which changes its appearance every round!\n\nNote: The contents of this pack are also available as part of the Tükörmester Pre-order Combo discount offer. Kegs will be ready to open once the Tükörmester kiegészítő releases on June 30th, 2020.
 shop_data_ep5_preorder_title;Cursed Mirror Pre-order csomag
-shop_data_ep5_temptation_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 40 Premium Master Mirror Kegs\n\n<sprite="PopupIcons" name="PremiumCard"> Premium Master Mirror Card\n\nTreat yourself to a taste of life everlasting. Just make sure to keep your appetite in check.
+shop_data_ep5_temptation_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 40 Premium Tükörmester Kegs\n\n<sprite="PopupIcons" name="PremiumCard"> Premium Tükörmester Card\n\nTreat yourself to a taste of life everlasting. Just make sure to keep your appetite in check.
 shop_data_ep5_temptation_pack_title;Temptation csomag
 shop_data_ep5_twisted_board_desc;<sprite="PopupIcons" name="Board"> Eltorzult világ játéktábla\n\nDare you enter the sinister realm of Tükörmester and battle your enemies under his everlasting gaze?
 shop_data_ep5_twisted_board_title;Eltorzult világ játéktábla
@@ -7290,7 +7290,7 @@ shop_data_ep8_premium_keg_desc;Ha kinyitod ezt a hordót, 5 lapot ad az Elátkoz
 shop_data_ep8_premium_keg_title;Elátkozott Varangy prémium hordó
 shop_data_eredin_snowman_skin_desc;<sprite="PopupIcons" name="Skin"> Eredin Hóember kinézet\n\nEgyet se félj, ha Eredint látod, amint a sötétben ólálkodik. Az Aen Elle Zord Vadászokként ismert lovasságának egykori parancsnoka, és rengeteg, a gyermekek fenyítésére szolgáló tanmese gonosza most már csak egy hóember! Szóval nincs mitől félni, ugyanis képtelen támadni, hiszen mozdulni sem tud. Legfeljebb csak olvadozni!
 shop_data_eredin_snowman_skin_title;Eredin Hóember kinézet
-shop_data_eternal_tree_evolving_cardback_desc;<sprite="PopupIcons" name="CardBack"> Örökfa fejlődő kártya hátlap\n\nThink of your pact with Master Mirror as the sapling of a tree that will never wither.
+shop_data_eternal_tree_evolving_cardback_desc;<sprite="PopupIcons" name="CardBack"> Örökfa fejlődő kártya hátlap\n\nThink of your pact with Tükörmester as the sapling of a tree that will never wither.
 shop_data_eternal_tree_evolving_cardback_title;Örökfa fejlődő kártya hátlap
 shop_data_event_cosmetics_category_name;Díszítések
 shop_data_event_kegs_category_name;Zúzós hordók
@@ -7301,7 +7301,7 @@ shop_data_festival_bundle_desc;<sprite="PopupIcons" name="Border"> Festival Bord
 shop_data_festival_bundle_title;Festival Bundle
 shop_data_fiery_judgment_cardback_desc;<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\nUnleash your battle fury with a fiery blaze with this special version of the Vas Ítélet cardback!
 shop_data_fiery_judgment_cardback_title;Fiery Judgment kártya hátlap
-shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Ardent Orator Skin (Syndicate)\n\n<sprite="PopupIcons" name="Board"> Inferno Board\n\nWhen the earth splits open beneath your feet, and molten hot death begins to seep out, it may be a good time to make peace with the Eternal Fire.
+shop_data_fire_bundle_desc;<sprite="PopupIcons" name="Skin"> Ardent Orator Skin (Szindikátus)\n\n<sprite="PopupIcons" name="Board"> Inferno Board\n\nWhen the earth splits open beneath your feet, and molten hot death begins to seep out, it may be a good time to make peace with the Eternal Fire.
 shop_data_fire_bundle_title;Fire Bundle
 shop_data_first_bundles_promo_title;Invaders / Északi Királyságok / Mahakam Bundles
 shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="Card"> All Premium cards from the Forgotten Treasures expansion\n\n<sprite="PopupIcons" name="Board"> Elhagyatott laboratórium játéktábla\n\n Seek and seize these forgotten treasures to grow your collection to the tops!
@@ -7343,7 +7343,7 @@ shop_data_iris&olgierd_event_pack_title;Iris és Olgierd csomag
 shop_data_iris&olgierd_title;Iris és Olgierd Bundle
 shop_data_jester_cardback_gaea_desc;<sprite="PopupIcons" name="CardBack"> Aranyköpés kártya hátlap\n\nWhat, turnin' green already? But we haven't even gotten to the clamps yet!
 shop_data_jester_cardback_gaea_title;Aranyköpés kártya hátlap
-shop_data_kaleidoscope_bundle_desc;<sprite="PopupIcons" name="Skin"> Láthatatlan Ős Dark Blood kinézet\n\n <sprite="PopupIcons" name="CardBack"> Alternative Bíbor Átok kártya hátlap\n\n<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\n<sprite="PopupIcons" name="CardBack"> Undying Fire kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Zerrikanian Radovid kinézet\n\n<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\n<sprite="PopupIcons" name="CardBack"> Merchants of Ofir kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Wraith skin\n\nReinforce your ornaments collection with these rare items! Returning to the store and available for a limited-time!
+shop_data_kaleidoscope_bundle_desc;<sprite="PopupIcons" name="Skin"> Láthatatlan Ős Dark Blood kinézet\n\n <sprite="PopupIcons" name="CardBack"> Alternative Bíbor Átok kártya hátlap\n\n<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\n<sprite="PopupIcons" name="CardBack"> Undying Fire kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Zerrikanian Radovid kinézet\n\n<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\n<sprite="PopupIcons" name="CardBack"> Ofir kereskedői kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Wraith skin\n\nReinforce your ornaments collection with these rare items! Returning to the store and available for a limited-time!
 shop_data_kaleidoscope_bundle_title;Kaleidoscope Bundle
 shop_data_katakan_sketch_bundle_desc;<sprite="PopupIcons" name="Avatar"> Katakán vázlata avatár\n\n<sprite="PopupIcons" name="CardBack"> Katakan's Anatomy kártya hátlap\n\n<sprite="PopupIcons" name="Title"> "Monster Researcher" titulus\n\nKnown as embodiment of human fear, these deadly monsters lurk in the dark. Watch out for moving shadows, maybe there's one waiting to attack right behind you!
 shop_data_katakan_sketch_bundle_title;Katakán vázlata Bundle
@@ -7395,7 +7395,7 @@ shop_data_lunar_rat_bundle_desc;<sprite="PopupIcons" name="CardBack"> Lunar Rat 
 shop_data_lunar_rat_bundle_title;Lunar Rat Bundle
 shop_data_lunar_tiger_bundle_desc;<sprite="PopupIcons" name="Board"> Lunar Tiger Board\n\n<sprite="PopupIcons" name="CardBack"> Lunar Tiger Cardback\n\nSmall kitty keeping house safe from unhappy, but big kitty keeping town safe from unlucky!
 shop_data_lunar_tiger_bundle_title;Lunar Tiger Bundle
-shop_data_lyria_bundle_desc;<sprite="PopupIcons" name="Skin> Ally of Lyria Skin (Northern Realms)\n\n<sprite="PopupIcons" name="Board"> Lyria Board\n\n<sprite="PopupIcons" name="Avatar"> Caldwell Avatar\n\nAhh, Lyria. Surely not worth losing your own head over—but a thousand others, well...
+shop_data_lyria_bundle_desc;<sprite="PopupIcons" name="Skin> Ally of Lyria Skin (Északi Királyságok)\n\n<sprite="PopupIcons" name="Board"> Lyria Board\n\n<sprite="PopupIcons" name="Avatar"> Caldwell Avatar\n\nAhh, Lyria. Surely not worth losing your own head over—but a thousand others, well...
 shop_data_lyria_bundle_title;Lyria Bundle
 shop_data_magic_cardback_2020_desc;<sprite="PopupIcons" name="CardBack"> A mágia szezonja kártya hátlap\n\nThis cardback was first introduced as an unlockable item during the A mágia szezonja in the A vérpatkány éve.
 shop_data_magic_cardback_2020_title;Magic kártya hátlap (2020)
@@ -7407,8 +7407,8 @@ shop_data_mahakam_cardback_desc;Show your affinity for the frozen region of Maha
 shop_data_mahakam_cardback_title;Mahakam kártya hátlap
 shop_data_mahakam_seasonal_bundle_desc;<sprite="PopupIcons" name="Avatar"> Garth Rockstew Avatar\n\n<sprite="PopupIcons" name="Border"> Elder-in-Chief Border\n\n<sprite="PopupIcons" name="Title"> "of Mahakam" titulus\n\nThis bundle contains díszítéseket first introduced as unlockable items during the Mahakam szezonja in the A Vadkan éve - along with a new special bonus item!
 shop_data_mahakam_seasonal_bundle_title;Mahakam Bundle
-shop_data_master_mirror_skin_desc;<sprite="PopupIcons" name="Skin"> Master Mirror Skin\n\nImmortality. Invincibility. Wealth immeasurable. All this for a meager little pact. Will you accept his offer?
-shop_data_master_mirror_skin_title;Master Mirror Gaunter O'Dimm Skin
+shop_data_master_mirror_skin_desc;<sprite="PopupIcons" name="Skin"> Tükörmester Skin\n\nImmortality. Invincibility. Wealth immeasurable. All this for a meager little pact. Will you accept his offer?
+shop_data_master_mirror_skin_title;Tükörmester Gaunter O'Dimm Skin
 shop_data_masters_cardback_pack_desc;<sprite="PopupIcons" name="CardBack"> Masters kártya hátlap 2022\n\nCongratulations for unlocking Masters kártya hátlap 2022!\n\nYou will be able to open this pack when the expansion launches, after updating to the latest version of the game.
 shop_data_masters_cardback_pack_title;Masters kártya hátlap 2022
 shop_data_masters_cardback_season2_desc;<sprite="PopupIcons" name="CardBack">Világbajnokok Season 2 kártya hátlap\n\nCelebrate GWENT Masters Season 2 with this special kártya hátlap connected to all four elements from previous Opens.
@@ -7600,7 +7600,7 @@ shop_data_shupe_event_wreath_desc;<sprite="PopupIcons" name="Trinket"> Rózsafü
 shop_data_shupe_event_wreath_title;Shupe rózsafüzére
 shop_data_shupe_fan_desc;<sprite="PopupIcons" name="Trinket"> Nyuszifülek csecsebecse (Shupe)\n<sprite="PopupIcons" name="Trinket"> Four-Leaf Hat (Shupe)\n<sprite="PopupIcons" name="Trinket"> Bag of Presents csecsebecse (Shupe)\n<sprite="PopupIcons" name="Trinket"> Festive Antlers csecsebecse (Shupe)\n<sprite="PopupIcons" name="Trinket"> Pumpkin Head csecsebecse (Shupe)\n<sprite="PopupIcons" name="Trinket"> Quiver of Love csecsebecse (Shupe)\n<sprite="PopupIcons" name="Trinket"> Bat Wings csecsebecse (Shupe)\n<sprite="PopupIcons" name="Trinket"> Lovely Wings csecsebecse (Shupe)\n<sprite="PopupIcons" name="Avatar"> Bunny Shupe avatár\n<sprite="PopupIcons" name="Avatar"> Pumpkin Head Avatar\nShupe always preparing somethings for every occasions!
 shop_data_shupe_fan_title;Shupe's Ultimate csecsebecse Bundle
-shop_data_shupe_ghost_skin_desc_sale;<sprite="PopupIcons" name="Skin"> Cleaver's Ghost skin (Syndicate) \n\nTo fight Monsters (or other factions of GWENT for that matter!), sometimes you need to become a monster yourself! Come back from the dead and fight eternal battles in the name of the Syndicate as this ghastly version of Cleaver!\n\nCleaver's Ghost skin will be up for -30% sale during the Saovine Event!
+shop_data_shupe_ghost_skin_desc_sale;<sprite="PopupIcons" name="Skin"> Cleaver's Ghost skin (Szindikátus) \n\nTo fight Monsters (or other factions of GWENT for that matter!), sometimes you need to become a monster yourself! Come back from the dead and fight eternal battles in the name of the Syndicate as this ghastly version of Cleaver!\n\nCleaver's Ghost skin will be up for -30% sale during the Saovine Event!
 shop_data_shupe_graveyard_aura_desc;<sprite="PopupIcons" name="Trinket"> Temetői aura (Shupe)\n\nOooh, Shupe spookified. Excite!
 shop_data_shupe_graveyard_aura_title;Shupe's Temetői aura
 shop_data_shupe_leafhat_trinket_desc;<sprite="PopupIcons" name="Trinket"> Four-Leaf Hat Trinket\n\nCan't spelling clover without love! Oooh, this meaning Shupe get lucky?
@@ -7641,7 +7641,7 @@ shop_data_skellige_keg_7_title;Skellige hordó x7
 shop_data_skellige_keg_7_title_gaea;Hulladék x18, Skellige hordó x7
 shop_data_skellige_keg_desc;Ha kinyitod, ez a hordó ad neked 5 Skellige frakcióhoz tartozó kártyát bármelyik szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_skellige_keg_title;Skellige hordó
-shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> Love Goddess Skin (Scoia'tael)\n\nMake flowers blossom and hearts swell in the presence of Dana Méadbh, mother of love and life.
+shop_data_skin_dana_love_desc;<sprite="PopupIcons" name="Skin"> Love Goddess Skin (Mókus)\n\nMake flowers blossom and hearts swell in the presence of Dana Méadbh, mother of love and life.
 shop_data_skin_dana_love_title;Love Goddess Dana Méadbh Skin
 shop_data_special_premium_keg_desc;Only available for purchase with scraps. Once opened, this special keg will grant you 5 <b>Premium</b> cards from any set, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_special_premium_keg_title;Special Premium hordó
@@ -10848,7 +10848,7 @@ vanity_soundtrack_90000_title;Frakció zenei téma
 vanity_soundtrack_90007_title;Vesztes Szörnyek zenei téma
 vanity_soundtrack_90008_title;Vesztes Nilfgaard zenei téma
 vanity_soundtrack_90009_title;Vesztes Északi Királyságok zenei téma
-vanity_soundtrack_90010_title;Vesztes Scoia'tael zenei téma
+vanity_soundtrack_90010_title;Vesztes Mókus zenei téma
 vanity_soundtrack_90011_title;Vesztes Skellige zenei téma
 vanity_soundtrack_90012_title;Vesztes Szindikátus zenei téma
 vanity_soundtrack_90013_title;Felnevelés
