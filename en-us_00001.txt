@@ -1094,7 +1094,7 @@ achievement_52006_desc;Készíts egy aréna paklit csak Speciális kártyák fel
 achievement_52006_title;Valami különleges
 achievement_52007_desc;Készíts egy aréna paklit, ami csak Bíbor Átok kártyákat tartalmaz!
 achievement_52007_title;Ritualista
-achievement_52008_desc;Készíts egy aréna paklit, ami csak a Novigrad kiegészítő kártyáit tartalmazza!
+achievement_52008_desc;Készíts egy aréna paklit, ami csak a Novigrád kiegészítő kártyáit tartalmazza!
 achievement_52008_title;Városi
 achievement_52011_desc;Játssz 4 Draft mérkőzést!
 achievement_52011_title;Vissza az alapokhoz
@@ -3282,7 +3282,7 @@ db_filter_tooltip_expansion_ep7;Kártyák, melyek A hatalom ára szett részei.
 db_filter_tooltip_expansion_ep8;Kártyák, melyek Az elátkozott varangy éve szett részei.
 db_filter_tooltip_expansion_ep9;Kártyák, melyek az Uroborosz szett részei
 db_filter_tooltip_expansion_homecoming;Kártyák az alap szettből.
-db_filter_tooltip_expansion_novigrad;Kártyák a Novigrad szettből.
+db_filter_tooltip_expansion_novigrad;Kártyák a Novigrád szettből.
 db_filter_tooltip_expansion_tb;Kártyák a Trónbitorló szettből. Megjegyzés: Ezek kártyák prémium verziói csak a Tronbitorló kampánya során szerezhetőek meg.
 db_filter_tooltip_expansion_unmillable;Kártyák a kezdő szettből. Megjegyzés: Ezen kártyák alap verziói mindenki számára mindig elérhetőek, és nem lehet bedarálni, vagy átváltoztatni őket. A prémium verziókat külön kell legyártani.
 db_filter_tooltip_faction;Frakció
@@ -3481,7 +3481,7 @@ filter_expansion_ep8;Elátkozott varangy
 filter_expansion_ep9;Uroborosz
 filter_expansion_homecoming;Alap szett
 filter_expansion_label;Kártya szett
-filter_expansion_novigrad;Novigrad
+filter_expansion_novigrad;Novigrád
 filter_expansion_tb;Trónbitorló
 filter_expansion_unmillable;Kezdő szett
 filter_faction_all;Összes
@@ -4606,7 +4606,7 @@ interface_profile_leaderboard_label_name;NÉV
 interface_profile_leaderboard_label_wins;GY
 interface_profile_master_mirror_progress_filter;Tükörmester haladás
 interface_profile_merchants_of_ofir_progress_filter;Ofir kereskedői haladás
-interface_profile_novigrad_progress_filter;Novigrad haladás
+interface_profile_novigrad_progress_filter;Novigrád haladás
 interface_profile_ouroboros_level_autumn;Őszi ciklus szint
 interface_profile_ouroboros_level_spring;Tavaszi ciklus szint
 interface_profile_ouroboros_level_summer;Nyári ciklus szint
@@ -4799,7 +4799,7 @@ liveops_data_ep7_premium_keg_title;A hatalom ára prémium hordó
 liveops_data_mahakam_bundle_title_last_chance_color;A Fehér Királynő Bundle
 liveops_data_shop_bundle_season_of_cat_desc;<sprite="PopupIcons" name="CardBack">Cat kártya hátlap\n\n <sprite="PopupIcons" name="Avatar">3 seasonal avatars: Ciri, Kiyan, and Werecat\n\n <sprite="PopupIcons" name="Border">4 seasonal borders: Hiúz, Metinnai párduc, Nilfgaardi oroszlán, and Macska nagymester\n\n <sprite="PopupIcons" name="Title">Bonus title: "Pugnacious Cat"\n\n This special bundle contains díszítéseket obtainable in GWENT during the Macskák szezonja, along with a special bonus item!
 liveops_mainmenu_standard_rules_archive;Available from {0} till {1}
-liveops_shop_ultimate_starter_pack_v3_desc;<sprite="PopupIcons" name="Keg"> 4 x alap prémium hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x alap hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Bíbor Átok hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Novigrad hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Ofir kereskedői hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Tükörmester hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x A vaják útja hordó \n\n<sprite="PopupIcons" name="Keg"> 4 x A hatalom ára hordó \n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.
+liveops_shop_ultimate_starter_pack_v3_desc;<sprite="PopupIcons" name="Keg"> 4 x alap prémium hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x alap hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Bíbor Átok hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Novigrád hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Ofir kereskedői hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x Tükörmester hordó\n\n<sprite="PopupIcons" name="Keg"> 4 x A vaják útja hordó \n\n<sprite="PopupIcons" name="Keg"> 4 x A hatalom ára hordó \n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.
 loading_combat;Betöltés
 loading_invite_desc;Betöltés, kérlek várj…
 loading_invite_title;Betöltés
@@ -5611,41 +5611,41 @@ proceed_to_thronebreaker_xbox_shop_description;You are about to leave Gwent: The
 profile_error_message;Profile data could not be loaded.
 profile_signed_out_description;Az aktuális profil kijelentkezett!
 quest_ouroboros_boost_units_with_cards_from_merchants_ofir;Játssz ki {0} Erősítés képességű kártyát az Ofir kereskedői kiegészítőből!
-quest_ouroboros_boost_units_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, a Novigrad, vagy az Ofir kereskedői kiegészítőből!
+quest_ouroboros_boost_units_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, a Novigrád, vagy az Ofir kereskedői kiegészítőből!
 quest_ouroboros_boost_x_units_with_cards_from_cc;Erősíts {0} egységet a Bíbor Átok kártyáit használva!
-quest_ouroboros_boost_x_units_with_cards_from_cc_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy Bíbor Átok kártyáit használva!
+quest_ouroboros_boost_x_units_with_cards_from_cc_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló, Novigrád, vagy Bíbor Átok kártyáit használva!
 quest_ouroboros_boost_x_units_with_cards_from_cursed_toad;Játssz ki {0} Erősítés képességű kártyát az Elátkozott Varangy kiegészítőből!
-quest_ouroboros_boost_x_units_with_cards_from_cursed_toad_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, Elátkozott Varangy kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_cursed_toad_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrád, Elátkozott Varangy kiegészítőből!
 quest_ouroboros_boost_x_units_with_cards_from_iron;Játssz ki {0} Erősítés képességű kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_boost_x_units_with_cards_from_iron_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, vagy a Vas Ítélet kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_iron_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrád, vagy a Vas Ítélet kiegészítőből!
 quest_ouroboros_boost_x_units_with_cards_from_master_mirror;Játssz ki {0} Erősítés képességű kártyát a Tükörmester kiegészítőből!
-quest_ouroboros_boost_x_units_with_cards_from_master_mirror_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_master_mirror_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrád, vagy a Tükörmester kiegészítőből!
 quest_ouroboros_boost_x_units_with_cards_from_pop;Játssz ki {0} Erősítés képességű kártyát A hatalom ára kiegészítőből!
-quest_ouroboros_boost_x_units_with_cards_from_pop_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_boost_x_units_with_cards_from_pop_starter_base_tb_novigrad;Játssz ki {0} Erősítés képességű kártyát a kezdő szettből, alap szettből, Trónbitorló szettből, Novigrád, vagy A hatalom ára kiegészítőből!
 quest_ouroboros_boost_x_units_with_cards_from_wotw;Erősíts {0} egységet A Vaják útja kártyáit használva!
-quest_ouroboros_boost_x_units_with_cards_from_wotw_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy A Vaják útja kártyáit használva!
+quest_ouroboros_boost_x_units_with_cards_from_wotw_starter_base_tb_novigrad;Erősíts {0} egységet a kezdő szett, alap szett, Trónbitorló szett, Novigrád, vagy A Vaják útja kártyáit használva!
 quest_ouroboros_damage_units_x_times_with_cards_from_cc;Sebezz egységeket {0} alkalommal a Bíbor Átok kártyáit használva!
-quest_ouroboros_damage_units_x_times_with_cards_from_cc_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy a Bíbor Átok kártyáit használva!
+quest_ouroboros_damage_units_x_times_with_cards_from_cc_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrád, vagy a Bíbor Átok kártyáit használva!
 quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad;Játssz ki {0} Sebző képességű kártyát az Elátkozott Varangy kiegészítőből!
-quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_cursed_toad_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrád, vagy az Elátkozott Varangy kiegészítőből!
 quest_ouroboros_damage_units_x_times_with_cards_from_iron;Játssz ki {0} Sebző képességű kártyát a Vas Ítélet kiegészítőből!
-quest_ouroboros_damage_units_x_times_with_cards_from_iron_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy a Vas Ítélet kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_iron_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrád, vagy a Vas Ítélet kiegészítőből!
 quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror;Játssz ki {0} Sebző képességű kártyát a Tükörmester kiegészítőből!
-quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror_starter_bse_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy a Tükörmester kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_master_mirror_starter_bse_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrád, vagy a Tükörmester kiegészítőből!
 quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir;Játssz ki {0} Sebző képességű kártyát az Ofir kereskedői kiegészítőből!
-quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy az Ofir kereskedői kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_merchants_ofir_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrád, vagy az Ofir kereskedői kiegészítőből!
 quest_ouroboros_damage_units_x_times_with_cards_from_pop;Játssz ki {0} Sebző képességű kártyát A hatalom ára kiegészítőből!
-quest_ouroboros_damage_units_x_times_with_cards_from_pop_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_damage_units_x_times_with_cards_from_pop_starter_base_tb_novigrad;Játssz ki {0} Sebző képességű kártyát a kezdő szett, alap szett, Trónbitorló szett, Novigrád, vagy A hatalom ára kiegészítőből!
 quest_ouroboros_damage_units_x_times_with_cards_from_wotw;Sebezz egységeket {0} alkalommal A Vaják útja kártyáit használva!
-quest_ouroboros_damage_units_x_times_with_cards_from_wotw_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrad, vagy A Vaják útja kártyáit használva!
+quest_ouroboros_damage_units_x_times_with_cards_from_wotw_starter_base_tb_novigrad;Sebezz egységeket {0} alkalommal a kezdő szett, alap szett, Trónbitorló, Novigrád, vagy A Vaják útja kártyáit használva!
 quest_ouroboros_destroy_banish_x_units_with_bounty;Semmisíts, vagy Száműzz {0} olyan egységet, melyen Vérdíj van!
 quest_ouroboros_evolve_cards_from_master_mirror_x_times;Játssz ki {0} fejlődő kártyát a Tükörmester kiegészítőből!
-quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Adj egységeknek Pajzsot {0} alkalommal az alap szett, Novigrad, vagy a Bíbor Átok kártyái felhasználásával!
+quest_ouroboros_gain_shiel_x_times_on_cards_from_base_novigrad_cc;Adj egységeknek Pajzsot {0} alkalommal az alap szett, Novigrád, vagy a Bíbor Átok kártyái felhasználásával!
 quest_ouroboros_give_armor_x_times_with_cards_from_iron;Adj Páncélt {0} alkalommal a Vas Ítélet kiegészítő kártyái felhasználásával!
 quest_ouroboros_give_bleeding_x_times_with_cards_from_cc;Okozz {0} alkalommal Vérzést a Bíbor Átok kártyái felhasználásával!
 quest_ouroboros_give_poison_x_times_with_cards_from_cc;Mérgezz meg egységeket {0} alkalommal a Bíbor Átok kártyái felhasználásával!
-quest_ouroboros_give_vitality_to_units_with_cards_from_cursed_toad_starter_base_novigrad;Játssz ki {0} Vitalitás képességű kártyát a kezdő szett, alap szett, Novigrad, vagy az Elátkozott Varangy kiegészítőből!
-quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Játssz ki {0} Vitalitás képességű kártyát a kezdő szett, alap szett, Novigrad, vagy Bíbor Átok kártyái közül!
+quest_ouroboros_give_vitality_to_units_with_cards_from_cursed_toad_starter_base_novigrad;Játssz ki {0} Vitalitás képességű kártyát a kezdő szett, alap szett, Novigrád, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_give_vitality_to_x_units_with_cards_from_starter_base_novigrad_cc;Játssz ki {0} Vitalitás képességű kártyát a kezdő szett, alap szett, Novigrád, vagy Bíbor Átok kártyái közül!
 quest_ouroboros_infuse_x_cards;Játssz ki {0} Felruházás képességű kártyát!
 quest_ouroboros_place_bounty_x_times;Játssz ki {0} Vérdíj képességű kártyát!
 quest_ouroboros_play_x_aristocrats_merchants_ofir;Játssz ki {0} Arisztokratát az Ofir kereskedői kiegészítőből!
@@ -5654,7 +5654,7 @@ quest_ouroboros_play_x_cards_from_cc_wotw_won_match;Nyerj, miután kijátszottá
 quest_ouroboros_play_x_cards_from_iron_uroboros;Játssz ki {0} kártyát a Vas Ítélet, vagy az Uroborosz kiegészítőből!
 quest_ouroboros_play_x_cards_from_master_mirror_pop;Játssz ki {0} kártyát a Tükörmester, vagy A hatalom ára kiegészítőből!
 quest_ouroboros_play_x_cards_from_merchants_ofir_cursed_toad;Játssz ki {0} kártyát az Ofir kereskedői, vagy az Elátkozott Varangy kiegészítőből!
-quest_ouroboros_play_x_cards_from_novigrad;Játssz ki {0} kártyát a Novigrad kártyái közül!
+quest_ouroboros_play_x_cards_from_novigrad;Játssz ki {0} kártyát a Novigrád kártyái közül!
 quest_ouroboros_play_x_cards_from_starter_base;Játssz ki {0} kártyát a kezdő szett, vagy az alap szett kártyái közül!
 quest_ouroboros_play_x_cards_from_starter_base_tb;Játssz ki {0} kártyát a kezdő szett, alap szett, vagy a Trónbitorló kártyái közül!
 quest_ouroboros_play_x_cards_with_armor_from_iron;Játssz ki {0} Páncél kulcsszóval rendelkező kártyát a Vas Ítélet kiegészítőből!
@@ -5738,17 +5738,17 @@ quest_ouroboros_spawn_x_cards_from_master_mirror;Játssz ki {0} Teremt kulcsszav
 quest_ouroboros_spawn_x_cards_from_pop;Játssz ki {0} Teremt kulcsszavú kártyát A hatalom ára kiegészítőből!
 quest_ouroboros_spawn_x_cards_from_wotw;Játssz ki {0} Teremt kulcsszavú kártyát A Vaják útja kártyái közül!
 quest_ouroboros_spawn_x_cards_merchants_ofir;Játssz ki {0} Teremt kulcsszavú kártyát az Ofir kereskedői kiegészítőből!
-quest_ouroboros_summon_x_cards_from_cursed_toad_starter_base_novigrad;Játssz ki {0} Megidéz kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrad, vagy az Elátkozott Varangy kiegészítőből!
-quest_ouroboros_summon_x_cards_from_starter_base_novigrad_pop;Játssz ki {0} Megidéz kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_summon_x_cards_from_cursed_toad_starter_base_novigrad;Játssz ki {0} Megidéz kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrád, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_summon_x_cards_from_starter_base_novigrad_pop;Játssz ki {0} Megidéz kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrád, vagy A hatalom ára kiegészítőből!
 quest_ouroboros_summon_x_cards_from_starter_base_wotw;Idézz meg {0} kártyát a kezdő szett, alap szett, vagy A Vaják útja kártyái közül!
 quest_ouroboros_trigger_adrenaline_x_times;Aktiváld az Adrenalint {0} alkalommal!
 quest_ouroboros_trigger_barricade_x_times;Játssz ki {0} Barikád kulcsszavú kártyát!
-quest_ouroboros_trigger_bonded_x_times_with_cards_from_starter_base_novigraf_pop;Játssz ki {0} Kötelék kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrad, vagy A hatalom ára kiegészítőből!
+quest_ouroboros_trigger_bonded_x_times_with_cards_from_starter_base_novigraf_pop;Játssz ki {0} Kötelék kulcsszavú kártyát a kezdő szettből, alap szettből, a Novigrád, vagy A hatalom ára kiegészítőből!
 quest_ouroboros_trigger_deathblow_x_times_cards_from_base_cc;Aktiváld a Halálos csapás képességet {0} alkalommal az alap szett, vagy a Bíbor Átok kártyái felhasználásával!
 quest_ouroboros_trigger_deathblow_x_times_with_cards_from_base_master_mirror;Játssz ki {0} Halálos csapás kulcsszavú kártyát az alap szettből, vagy a Tükörmester kiegészítőből!
 quest_ouroboros_trigger_deathwish_for_units_from_merchants_ofir;Játssz ki {0} Halálvágy kulcsszavú kártyát az Ofir kereskedői kiegészítőből!
 quest_ouroboros_trigger_deathwish_x_times_for_units_from_cursed_toad;Játssz ki {0} Halálvágy kulcsszavú kártyát az Elátkozott Varangy kiegészítőből!
-quest_ouroboros_trigger_fee_x_times_for_cards_from_base_novigrad_cursed_toad;Játssz ki {0} Tiszteletdíj kulcsszavú kártyát az alap szettből, a Novigrad, vagy az Elátkozott Varangy kiegészítőből!
+quest_ouroboros_trigger_fee_x_times_for_cards_from_base_novigrad_cursed_toad;Játssz ki {0} Tiszteletdíj kulcsszavú kártyát az alap szettből, a Novigrád, vagy az Elátkozott Varangy kiegészítőből!
 quest_ouroboros_use_order_x_times_for_cards_from_cc_tb;Használj Parancs képességű kártyákat a Trónbitorló, vagy Bíbor Átok kártyái közül {0} alkalommal!
 quest_ouroboros_use_order_x_times_for_cards_from_cursed_toad_tb;Játssz ki {0} Parancs kulcsszavú kártyát a Trónbitorló szettből, vagy az Elátkozott Varangy kiegészítőből!
 quest_ouroboros_use_order_x_times_for_cards_from_merchants_ofir_tb;Játssz ki {0} Parancs kulcsszavú kártyát a Trónbitorló szettből, vagy az Ofir kereskedői kiegészítőből!
@@ -5758,11 +5758,11 @@ quest_ouroboros_use_order_x_times_for_cards_from_tb_wotw;Használd a Parancs ké
 quest_ouroboros_win_x_game_most_cards_from_cc_wotw;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Bíbor Átok, vagy A Vaják útja kártyát tartalmaz!
 quest_ouroboros_win_x_game_most_cards_from_iron_uroboros;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Vas Ítélet, vagy Uroboros kártyát tartalmaz!
 quest_ouroboros_win_x_game_most_cards_from_merchants_offir_cursed_toad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Ofir kereskedői, vagy az Elátkozott Varangy kiegészítő kártyát tartalmazza!
-quest_ouroboros_win_x_game_most_cards_from_novigrad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Novigrad kártyát tartalmaz!
+quest_ouroboros_win_x_game_most_cards_from_novigrad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid legalább 13 Novigrád kártyát tartalmaz!
 quest_ouroboros_win_x_game_only_cards_from_starter_base_cc_wotw;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Bíbor Átok és A Vaják útja kártyáit tartalmazza!
 quest_ouroboros_win_x_game_only_cards_from_starter_base_iron_uroboros;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Vas Ítélet és az Uroborosz kártyáit tartalmazza!
 quest_ouroboros_win_x_game_only_cards_from_starter_base_merchants_offir_cursed_toad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, Ofir kereskedői és az Elátkozott Varangy kiegészítő kártyáit tartalmazza!
-quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, vagy Novigrad kártyáit tartalmazza!
+quest_ouroboros_win_x_game_only_cards_from_starter_base_novigrad;Nyerj {0} mérkőzést úgy, hogy a kezdő paklid csak a kezdő szett, alap szett, vagy Novigrád kártyáit tartalmazza!
 quest_ouroboros_win_x_game_syanna_dettleaff_in_deck;Nyerj {0} mérkőzést úgy, hogy Syanna, vagy Dettlaff a paklidban van!
 quest_ouroboros_win_x_games_with_evolving_card_from_master_mirror;Nyerj {0} mérkőzést miközben kifejlődik egy Tükörmester kiegészítős kártyád!
 quest_ouroboros_win_x_games_with_evolving_card_in_deck_from_cursed_toad;Játtsz ki {0} fejlődő kártyát az Elátkozott Varangy kiegészítőből!
@@ -7122,28 +7122,28 @@ shop_data_ep1_cardback_pack_title;Lilac Moon Cardback
 shop_data_ep1_skin_pack_desc;<sprite="PopupIcons" name="Skin"> Sötét vér páncél kinézet\n\nLáthatatlan Ős is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.
 shop_data_ep1_skin_pack_desc_sale;Láthatatlan Ős is back in black! Embrace the dark power of the ancient higher vampire with this elegant set of armor, along with special visual effects and animations.\n\nThis skin can be equipped only for Monster Faction and will be up for -30% sale during the Saovine Event!
 shop_data_ep1_skin_pack_title;Sötét vér páncél kinézet
-shop_data_ep2_1_premium_keg_title;Novigrad prémium hordó
-shop_data_ep2_15_premium_keg_title;Novigrad prémium hordó x15
-shop_data_ep2_15_standard_keg_title;Novigrad hordó x15
-shop_data_ep2_2_premium_keg_title;Novigrad prémium hordó x2
-shop_data_ep2_2_standard_keg_title;Novigrad hordó x2
-shop_data_ep2_40_premium_keg_title;Novigrad prémium hordó x40
-shop_data_ep2_40_standard_keg_title;Novigrad hordó x40
-shop_data_ep2_60_premium_keg_title;Novigrad prémium hordó x60
-shop_data_ep2_60_standard_keg_title;Novigrad hordó x60
-shop_data_ep2_7_premium_keg_title;Novigrad prémium hordó x7
-shop_data_ep2_7_standard_keg_title;Novigrad hordó x7
-shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\nWhen night falls, the Gangs of Novigrad come out and rule the streets! Battle it out with friends and foes on the Novigrad by Night gameboard!
-shop_data_ep2_alt_board_title;Novigrad by Night Board
-shop_data_ep2_alt_cardback_desc;<sprite="PopupIcons" name="CardBack"> Undying Fire Animated Cardback\n\nAs long as corruption dwells in our hearts, the spirit of Novigrad lives on.
-shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Undying Fire Cardback\n\nThe fire still burns bright in Novigrad! Get this alternative version of the premium Novigrad Cardback, originally available as part of the Novigrad pre-order packs.\nThis Cardback will be up for -30% off during the Lunar New Year sales.
+shop_data_ep2_1_premium_keg_title;Novigrád prémium hordó
+shop_data_ep2_15_premium_keg_title;Novigrád prémium hordó x15
+shop_data_ep2_15_standard_keg_title;Novigrád hordó x15
+shop_data_ep2_2_premium_keg_title;Novigrád prémium hordó x2
+shop_data_ep2_2_standard_keg_title;Novigrád hordó x2
+shop_data_ep2_40_premium_keg_title;Novigrád prémium hordó x40
+shop_data_ep2_40_standard_keg_title;Novigrád hordó x40
+shop_data_ep2_60_premium_keg_title;Novigrád prémium hordó x60
+shop_data_ep2_60_standard_keg_title;Novigrád hordó x60
+shop_data_ep2_7_premium_keg_title;Novigrád prémium hordó x7
+shop_data_ep2_7_standard_keg_title;Novigrád hordó x7
+shop_data_ep2_alt_board_desc;<sprite="PopupIcons" name="Board"> Novigrád by Night Board\n\nWhen night falls, the Gangs of Novigrád come out and rule the streets! Battle it out with friends and foes on the Novigrád by Night gameboard!
+shop_data_ep2_alt_board_title;Novigrád by Night Board
+shop_data_ep2_alt_cardback_desc;<sprite="PopupIcons" name="CardBack"> Undying Fire Animated Cardback\n\nAs long as corruption dwells in our hearts, the spirit of Novigrád lives on.
+shop_data_ep2_alt_cardback_desc_sale;<sprite="PopupIcons" name="CardBack"> Undying Fire Cardback\n\nThe fire still burns bright in Novigrád! Get this alternative version of the premium Novigrád Cardback, originally available as part of the Novigrád pre-order packs.\nThis Cardback will be up for -30% off during the Lunar New Year sales.
 shop_data_ep2_alt_cardback_title;Undying Fire Cardback
-shop_data_ep2_pack_desc;<sprite="PopupIcons" name="Keg"> 15 Standard Novigrad Kegs\n\n <sprite="PopupIcons" name="CardBack"> Eternal Fire Animated Cardback\n\nThe Eternal Fire's light gleams across the golden Crowns of Novigrad.
-shop_data_ep2_pack_title;Novigrad csomag
-shop_data_ep2_premium_keg_desc;Ha kinyitod, ez a hordó 5 prémium kártyát ad neked a Novigrad szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
-shop_data_ep2_premium_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 20 Premium Novigrad Kegs\n\n <sprite="PopupIcons" name="CardBack"> Spectral Fire Animated Cardback\n\nThe Syndicate's true colors are revealed at night, when nothing but coin is sacred.
-shop_data_ep2_premium_pack_title;Novigrad prémium csomag
-shop_data_ep2_standard_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked a Novigrad szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep2_pack_desc;<sprite="PopupIcons" name="Keg"> 15 Standard Novigrád Kegs\n\n <sprite="PopupIcons" name="CardBack"> Eternal Fire Animated Cardback\n\nThe Eternal Fire's light gleams across the golden Crowns of Novigrád.
+shop_data_ep2_pack_title;Novigrád csomag
+shop_data_ep2_premium_keg_desc;Ha kinyitod, ez a hordó 5 prémium kártyát ad neked a Novigrád szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
+shop_data_ep2_premium_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> 20 Premium Novigrád Kegs\n\n <sprite="PopupIcons" name="CardBack"> Spectral Fire Animated Cardback\n\nThe Syndicate's true colors are revealed at night, when nothing but coin is sacred.
+shop_data_ep2_premium_pack_title;Novigrád prémium csomag
+shop_data_ep2_standard_keg_desc;Ha kinyitod, ez a hordó 5 kártyát ad neked a Novigrád szettből, ebből 4 legalább átlagos ritkaságú, az 5. (3-ból választva) legalább ritka lesz.
 shop_data_ep3_1_premium_keg_title;Vas Ítélet prémium hordó
 shop_data_ep3_1_standard_keg_title;Vas Ítélet hordó
 shop_data_ep3_15_premium_keg_title;Vas Ítélet prémium hordó x15
@@ -7343,7 +7343,7 @@ shop_data_iris&olgierd_event_pack_title;Iris és Olgierd csomag
 shop_data_iris&olgierd_title;Iris és Olgierd Bundle
 shop_data_jester_cardback_gaea_desc;<sprite="PopupIcons" name="CardBack"> Aranyköpés kártya hátlap\n\nWhat, turnin' green already? But we haven't even gotten to the clamps yet!
 shop_data_jester_cardback_gaea_title;Aranyköpés kártya hátlap
-shop_data_kaleidoscope_bundle_desc;<sprite="PopupIcons" name="Skin"> Láthatatlan Ős Dark Blood kinézet\n\n <sprite="PopupIcons" name="CardBack"> Alternative Bíbor Átok kártya hátlap\n\n<sprite="PopupIcons" name="Board"> Novigrad by Night Board\n\n<sprite="PopupIcons" name="CardBack"> Undying Fire kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Zerrikanian Radovid kinézet\n\n<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\n<sprite="PopupIcons" name="CardBack"> Ofir kereskedői kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Wraith skin\n\nReinforce your ornaments collection with these rare items! Returning to the store and available for a limited-time!
+shop_data_kaleidoscope_bundle_desc;<sprite="PopupIcons" name="Skin"> Láthatatlan Ős Dark Blood kinézet\n\n <sprite="PopupIcons" name="CardBack"> Alternative Bíbor Átok kártya hátlap\n\n<sprite="PopupIcons" name="Board"> Novigrád by Night Board\n\n<sprite="PopupIcons" name="CardBack"> Undying Fire kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Zerrikanian Radovid kinézet\n\n<sprite="PopupIcons" name="CardBack"> Fiery Judgment kártya hátlap\n\n<sprite="PopupIcons" name="CardBack"> Ofir kereskedői kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Wraith skin\n\nReinforce your ornaments collection with these rare items! Returning to the store and available for a limited-time!
 shop_data_kaleidoscope_bundle_title;Kaleidoscope Bundle
 shop_data_katakan_sketch_bundle_desc;<sprite="PopupIcons" name="Avatar"> Katakán vázlata avatár\n\n<sprite="PopupIcons" name="CardBack"> Katakan's Anatomy kártya hátlap\n\n<sprite="PopupIcons" name="Title"> "Monster Researcher" titulus\n\nKnown as embodiment of human fear, these deadly monsters lurk in the dark. Watch out for moving shadows, maybe there's one waiting to attack right behind you!
 shop_data_katakan_sketch_bundle_title;Katakán vázlata Bundle
@@ -7371,7 +7371,7 @@ shop_data_love_event_pavetta&urcheon_desc;<sprite="PopupIcons" name="Avatar"> Pa
 shop_data_love_event_pavetta&urcheon_title;Pavetta és Urcheon Bundle
 shop_data_love_event_philippa&dijkstra_desc;<sprite="PopupIcons" name="Border"> Nagykanál keret\n\n<sprite="PopupIcons" name="Avatar"> Kiskanál avatár\n\n<sprite="PopupIcons" name="Title"> "Nagykanál" titulus\n\n<sprite="PopupIcons" name="Title"> "Kiskanál" titulus\n\nLust for power begins, as usual, with lust.
 shop_data_love_event_philippa&dijkstra_title;Philippa és Dijkstra Bundle
-shop_data_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Festival of Love Board\n\nCelebrate the Festival of Love with the swindlers and cutthroats of Novigrad!
+shop_data_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Festival of Love Board\n\nCelebrate the Festival of Love with the swindlers and cutthroats of Novigrád!
 shop_data_love_festival_gameboard_title;Festival of Love Board
 shop_data_love_season_bundle_desc;<sprite="PopupIcons" name="CardBack"> Love kártya hátlap\n\n<sprite="PopupIcons" name="Avatar"> 3 seasonal avatars: Priscilla Avatar, Kökörcsin Avatar, Succubus Avatar\n\n<sprite="PopupIcons" name="Border"> 4 seasonal borders: Secret Admirer Border, Sweet Talker Border, Casanova Border, Crimson Avenger Border\n\n<sprite="PopupIcons" name="Title"> Bonus title: True Romantic\n\nThis special bundle contains díszítéseket obtainable in GWENT during the A szerelem szezonja, along with a special bonus item!
 shop_data_love_season_bundle_title;A szerelem szezonja Bundle
@@ -7492,7 +7492,7 @@ shop_data_originsdeluxe_desc;Több száz évvel azelőtt játszódik, hogy Geral
 shop_data_originsdeluxe_title;Deluxe kiadás
 shop_data_overgrown_bundle_desc;<sprite="PopupIcons" name="Skin"> Green Cricket skin (Szörnyek)\n\n<sprite="PopupIcons" name="Board"> Forgotten board\n\nNature has taken over! Ain't it pretty?\n\nThis Bundle was introduced to support GWENT Open 2 during the A vérpatkány éve.
 shop_data_overgrown_bundle_title;Overgrown Bundle (GWENT Open 2)
-shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Vágyvirág Champion Border\n\n<sprite="PopupIcons" name="Avatar"> Amrynn Avatar\n\n<sprite="PopupIcons" name="Avatar"> Narcissa Avatar\n\n<sprite="PopupIcons" name="Avatar"> Viola Avatar\n\n<sprite="PopupIcons" name="Title"> “Passiflora Champion” titulus\n\nCome indulge in what Novigrad is most well known for! And no, we don't mean commerce or witch hunts.
+shop_data_passiflora_bundle_desc;<sprite="PopupIcons" name="Border"> Vágyvirág Champion Border\n\n<sprite="PopupIcons" name="Avatar"> Amrynn Avatar\n\n<sprite="PopupIcons" name="Avatar"> Narcissa Avatar\n\n<sprite="PopupIcons" name="Avatar"> Viola Avatar\n\n<sprite="PopupIcons" name="Title"> “Passiflora Champion” titulus\n\nCome indulge in what Novigrád is most well known for! And no, we don't mean commerce or witch hunts.
 shop_data_passiflora_bundle_title;Vágyvirág Bundle
 shop_data_power_blend_bundle_desc;<sprite="PopupIcons" name="CardBack"> Jester kártya hátlap\n\n<sprite="PopupIcons" name="Skin"> Gaunter O'Dimm kinézet\n\n<sprite="PopupIcons" name="CardBack"> Sötétfa cardbacks\n\n<sprite="PopupIcons" name="Board"> Once Upon a Pyre játéktábla\n\n<sprite="PopupIcons" name="Coin"> Pyre Coin\n\n<sprite="PopupIcons" name="Skin"> Octavia Hale kinézet\n\n<sprite="PopupIcons" name="CardBack"> A vaják útja Expansion, All Faction kártya hátlaps\n\nRise to fame and power with this powerful bundle!
 shop_data_power_blend_bundle_title;Power Blend Bundle
@@ -7714,7 +7714,7 @@ shop_data_ultimate_premium_kegs_40_title;Alap prémium hordó x40
 shop_data_ultimate_premium_kegs_60_title;Alap prémium hordó x60
 shop_data_ultimate_premium_kegs_7_title;Alap prémium hordó x7
 shop_data_ultimate_premium_kegs_desc;Ha kinyitod, ez a hordó ad neked 5 prémium kártyát bármelyik szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
-shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 alap hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Bíbor Átok hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Novigrad hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Ofir kereskedői hordó\n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.\n
+shop_data_ultimate_starter_pack_desc;<sprite="PopupIcons" name="Keg"> 7 alap hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Bíbor Átok hordó\n\n <sprite="PopupIcons" name="Keg"> 7 Novigrád hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 7 Ofir kereskedői hordó\n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.\n
 shop_data_urcheon_event_pack_desc;<sprite="PopupIcons" name="PremiumKeg"> Alap prémium hordó\n\n<sprite="PopupIcons" name="Card"> Erlenwald Süne\n\n<sprite="PopupIcons" name="Title"> "Erlenwaldi" titulus\n\nSuffer the bristles and mockeries of fate, as you battle your way towards true love's kiss.
 shop_data_urcheon_event_pack_title;Erlenwald Süne csomag
 shop_data_usurper_emperor_skin_desc;<sprite="PopupIcons" name="Skin"> Emperor Skin (Nilfgaard)\n\nTake matters into your own hands, and claim your rightful place on the throne of Nilfgaard.
@@ -7842,7 +7842,7 @@ shop_leaders_syndicate_desc;Time to have a bloody good fun!\n\nGet 2 new Szindik
 shop_leaders_syndicate_title;Thugs csomag
 shop_love_cardback_desc;Fall in love!\n\nThis cardback was first introduced as an unlockable item during the A szerelem szezonja in the A Vadkan éve.
 shop_love_cardback_title;Szerelem kártya hátlap
-shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Szerelem fesztivál játéktábla\n\nCelebrate the Festival of Love with the swindlers and cut-throats of Novigrad!
+shop_love_festival_gameboard_desc;<sprite="PopupIcons" name="Board"> Szerelem fesztivál játéktábla\n\nCelebrate the Festival of Love with the swindlers and cut-throats of Novigrád!
 shop_love_festival_gameboard_title;Szerelem fesztivál játéktábla
 shop_lubberkin_bundle_desc;<sprite="PopupIcons" name="Border"> Fráterka keret\n\n<sprite="PopupIcons" name="Avatar"> Fráterka avatár\n\n<sprite="PopupIcons" name="Title"> "Fráterka" titulus\n\nGive it a name and a home, and treat it like you would your living child. In the end, your love for it will be warmly rewarded.
 shop_lubberkin_bundle_title;Fráterka Bundle
@@ -7906,7 +7906,7 @@ shop_shupe_moss_skin_title;Mohás Shupe kinézet
 shop_shupe_shupe_event_avatar_desc;<sprite="PopupIcons" name="Avatar"> Kőgyűjtő Shupe avatár\n\nKövek, kövek!
 shop_shupe_shupe_event_avatar_title;Ingyenes Shupe avatár!
 shop_tutorial_complete;Oktatás teljesítve!
-shop_ultimate_starter_pack_v6_desc;<sprite="PopupIcons" name="Keg"> 5 x alap szett Keg\n\n<sprite="PopupIcons" name="Keg"> 5 x Bíbor Átok hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Novigrad hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Ofir kereskedői hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Tükörmester hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x A vaják útja hordó \n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.
+shop_ultimate_starter_pack_v6_desc;<sprite="PopupIcons" name="Keg"> 5 x alap szett Keg\n\n<sprite="PopupIcons" name="Keg"> 5 x Bíbor Átok hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Novigrád hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Vas Ítélet hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Ofir kereskedői hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x Tükörmester hordó\n\n<sprite="PopupIcons" name="Keg"> 5 x A vaják útja hordó \n\nThis pack allows you to quickly grow your collection and build a mighty deck of your own to charge into battle with.
 shop_unicorn_and_the_stern_pack_desc;You want peace? You gotta fight for it till you get it!\n\nGet 2 new Északi Királyságok Legendás cards, V. Radovid király and Henselt király, as well as 6 other cards supporting Északi Királyságok archetype.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">1 V. Radovid király Premium Card\n<sprite="PopupIcons" name="Card">1 Henselt király Premium Card\n<sprite="PopupIcons" name="Card">1 Foltest's Pride Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">1 Hubert Rejk Premium Card (Epikus) \n<sprite="PopupIcons" name="Card">2 Battering Ram Premium Cards (Ritka)\n<sprite="PopupIcons" name="Card">2 Reinforced Ballista Premium Cards(Ritka)
 shop_unicorn_and_the_stern_pack_title;Unicorn and the Stern csomag
 shop_unity_and_precision_pack_desc;We kneel before no one, we are the victorious ones!\n\nGet 2 new Mókusok Legendás cards, Milva: Sharpshooter and Saskia: Commander, as well as 6 other premium cards supporting Mókusok archetype.\n\nThis pack contains:\n<sprite="PopupIcons" name="Card">1 Milva: Sharpshooter Premium Card\n<sprite="PopupIcons" name="Card">1 Saskia: Commander Premium Card\n<sprite="PopupIcons" name="Card">1 Malena Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">1 Ciaran aep Easnillen Premium Card (Epikus)\n<sprite="PopupIcons" name="Card">2 Dryad Matron Premium Cards (Ritka)\n<sprite="PopupIcons" name="Card">2 Cat Witcher Premium Cards (Ritka)
@@ -8576,7 +8576,7 @@ ui_cardback_group_37_title;The Witcher 3
 ui_cardback_group_38_title;Uroborosz éve
 ui_cardback_group_4_title;Bíbor Átok
 ui_cardback_group_44_title;A dagály emelkedése
-ui_cardback_group_5_title;Novigrad
+ui_cardback_group_5_title;Novigrád
 ui_cardback_group_6_title;Vas Ítélet
 ui_cardback_group_7_title;Trónbitorló
 ui_cardback_group_8_title;GWENT partnerek
