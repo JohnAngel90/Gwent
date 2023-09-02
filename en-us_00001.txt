@@ -4081,7 +4081,7 @@ input_deck_create_select_leader;Kiválaszt
 input_deck_editing_confirmation_accept;Save
 input_deck_editing_confirmation_cancel;Go Back
 input_deck_editing_confirmation_edit_deck_name;Név szerkesztése
-input_deck_editing_confirmation_quit_without_save;Quit without saving
+input_deck_editing_confirmation_quit_without_save;Exit without saving
 input_deck_editing_edit_name;Név szerkesztése
 input_deck_editing_transaction_drag_end;Placeholder
 input_deck_editing_transaction_drag_update;Placeholder
@@ -4526,6 +4526,7 @@ interface_challenge_winter_2022_reward_title_0_4;"Főisten, mi? És honnan tudja
 interface_challenge_winter_2022_reward_title_0_5;*vijjogás!*
 interface_challenge_winter_2022_rules_completed;Nagyon jó! A felajánlásod kielégítő. Leveszem rólad az átkot... egyelőre.
 interface_challenge_winter_2022_title;A mohó istenség
+interface_countdown_days_hours_minutes;{0}n {1}ó: {2}p
 interface_current_fmmr;Current fMMR Score
 interface_daily_quest_new_quest;Új küldetés:
 interface_daily_quest_time;{0}ó : {1}p : {2}mp

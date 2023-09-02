@@ -1053,7 +1053,7 @@
 200112_fluff;A legendák szerint a végzetükbe csábítják a matrózokat az elbűvölő dalaikkal. Ami valószínűbb, a matrózokat egyéb gazdag bájaikkal csábítják el.
 200112_name;Szirén
 200112_tooltip;<keyword=order>Parancs</keyword>: <keyword=consume>Bekebelez</keyword> egy szövetséges egységet.\n<keyword=deathwish>Halálvágy</keyword>: Erősíti a szomszédos egységeket {boost} ponttal.
-200114_fluff;Egyesek szerint a likantrópia fertőző: ha megharap egy vérfarkas, te is azzá válsz. A vajákok természetesen tudják, hogy ez badarság. Csak egy erőteljes átok hatására érhető el ez a hatás.
+200114_fluff;A legerősebb átokkal bírókat még az ezüst és az alkímia tüzes érintése sem riasztja el.
 200114_name;Vérfarkas alfahím
 200114_tooltip;<keyword=immune>Immunitás</keyword>.\n<keyword=thrive>Boldogulás</keyword>.
 200115_fluff;Orgyilkos, az egyik legnépszerűbb hivatás a birodalmi udvarban... az írnok és a kurtizán után.
@@ -1260,7 +1260,7 @@
 201578_fluff;Elment az eszed? El akarsz hajózni Skelligére? Azok a barbárok darabokra fognak szedni!
 201578_name;An Craite martalóc
 201578_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): Szétoszt {Damage} pont sebzést véletlenszerűen az ellenségek között.
-201579_fluff;Mi volt előbb, a tyúk, vagy a tojás? Ennek a talánynak egy főnix vonatkozásában nem sok értelme lenne.
+201579_fluff;Mi volt előbb, a főnix, vagy a tojás?
 201579_name;Főnix
 201579_tooltip;<keyword=deploy>Lehelyezés</keyword>: Kap ({Vitality}) <keyword=vitality>Vitalitást</keyword>.\nA forduló elején, amíg a temetődben van, <keyword=banish>Száműzi</keyword> magát, majd <keyword=spawn>Teremt</keyword> egy <b>Főnix fiókát</b> egy véletlenszerű sorodra.
 201580_fluff;Miért egy olyan apróság, mint a születés dönti el, hogy ki uralkodik rajtunk?
@@ -1362,7 +1362,7 @@
 201626_fluff;Zireael hatalmas erőt képvisel, amit a lány nem tud irányítani. A lány veszélyes magára is, meg másra is. Amíg meg nem tanulja irányítani, el kellene őt különíteni.
 201626_name;Ciri: Nova
 201626_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha a kezdő paklidban nincs olyan kártya, melynek ellátási költsége {provision} vagy több, <keyword=resilient>Rugalmasságot</keyword>, <keyword=shield>Pajzsot</keyword> és <keyword=veil>Leplet</keyword> kap.
-201627_fluff;A többi troll mindig is egy kicsit furcsának tartotta. Elvégre, ki az az épelméjű, aki a színes papírdarabokat a kövek elé helyezi?
+201627_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Hisz mely másik troll látna sziklákat a papírdarabkákban?
 201627_name;Shupe szabadnapja
 201627_tooltip;Ha a kezdő paklidban nincs duplikált lap, küldd el Shupe-ot egy kalandra!
 201628_fluff;Tiltott? Igen. Eltüntetett? Közel sem.
@@ -1467,58 +1467,58 @@
 201710_fluff;Mekkora dózis okoz halált? Akármekkora.
 201710_name;Gigaskorpió főzet: Kiterjedés
 201710_tooltip;Szétoszt {damage} sebzést véletlenszerűen egy adott ellenséges soron lévő egységek között.
-201725_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201725_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne portálnak egy földben lévő lyukat?
 201725_name;Shupe: Mágus
 201725_tooltip;Küldd Shupe-ot a Ban Ard Akadémiára fiúkért!
-201726_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201726_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne portálnak egy földben lévő lyukat?
 201726_name;Shupe: Mágus
 201726_tooltip;<keyword=deploy>Lehelyezés</keyword>: Átalakítja a jobb szélső kártyát mindkét játékos kezében egy véletlenszerű speciális kártyára.
-201727_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201727_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne portálnak egy földben lévő lyukat?
 201727_name;Shupe: Mágus
 201727_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgass egy véletlenszerű egységet a szemközti sorra!
-201728_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201728_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne portálnak egy földben lévő lyukat?
 201728_name;Shupe: Mágus
 201728_tooltip;<keyword=deploy>Lehelyezés</keyword>: Véletlenszerű hatást <keyword=spawn>Teremt</keyword> minden sorra, {counter} kör erejéig.
-201729_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201729_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne portálnak egy földben lévő lyukat?
 201729_name;Shupe: Mágus
 201729_tooltip;<keyword=deploy>Lehelyezés</keyword>: Szétoszt véletlenszerűen {Damage} pont sebzést a csatatéren lévő többi egység között.
-201730_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201730_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne portálnak egy földben lévő lyukat?
 201730_name;Shupe: Mágus
 201730_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=spawn>Teremt</keyword> egy véletlenszerű egységet egy véletlenszerű sorra a csatatér mindkét oldalán.
-201731_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201731_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne nyílpuska vesszőnek a botot?
 201731_name;Shupe: Vadász
 201731_tooltip;Küldd el Shupe-ot Dol Blathanna erdejébe!
-201732_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201732_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne nyílpuska vesszőnek a botot?
 201732_name;Shupe: Vadász
 201732_tooltip;<keyword=deploy>Lehelyezés</keyword>: Kijátszik egy véletlenszerű kártyát a paklidból.
-201733_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201733_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne nyílpuska vesszőnek a botot?
 201733_name;Shupe: Vadász
 201733_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz {MaxTargets} véletlenszerű ellenséges egységnek.
-201734_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201734_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne nyílpuska vesszőnek a botot?
 201734_name;Shupe: Vadász
 201734_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisít egy ellenséges műalkotást.
-201735_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201735_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne nyílpuska vesszőnek a botot?
 201735_name;Shupe: Vadász
 201735_tooltip;<keyword=deploy>Lehelyezés</keyword>: Megsemmisít egy véletlenszerű ellenséges egységet.
-201736_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201736_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne nyílpuska vesszőnek a botot?
 201736_name;Shupe: Vadász
 201736_tooltip;<keyword=deploy>Lehelyezés</keyword>: Egy véletlenszerű hatást <keyword=spawn>Teremt</keyword> egy ellenséges sorra, {counter} körre.
-201737_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201737_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne a vörös bíborosokat viverneknek?
 201737_name;Shupe: Lovag
 201737_tooltip;Küldd el Shupe-ot a Császári Udvar Katonai Akadémiára!
-201738_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201738_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne a vörös bíborosokat viverneknek?
 201738_name;Shupe: Lovag
 201738_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Damage} pont sebzést okoz egy ellenséges egységnek.
-201739_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201739_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne a vörös bíborosokat viverneknek?
 201739_name;Shupe: Lovag
 201739_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=lock>Zárol</keyword> egy egységet.
-201740_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201740_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne a vörös bíborosokat viverneknek?
 201740_name;Shupe: Lovag
 201740_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősít egy véletlenszerű egységet a kezedben.
-201741_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201741_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne a vörös bíborosokat viverneknek?
 201741_name;Shupe: Lovag
 201741_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=resilient>Rugalmasságot</keyword> kap.
-201742_fluff;A többi troll mindig is különcnek tartotta. Végtére is, ki az a józan gondolkodású, aki jobban szereti a színes papírdarabkákat a köveknél?
+201742_fluff;Shupe-ot mindig is úgy ismerték, mint akinek nagy a képzelőereje. Mely másik troll nézne a vörös bíborosokat viverneknek?
 201742_name;Shupe: Lovag
 201742_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti egy szövetséges egységedet.
 201743_fluff;A gyerekei örökölték a szépségét.
@@ -1635,7 +1635,7 @@
 202113_fluff;A kivételezés egyenes út az emberek vérének kiontásához. Az összes Mókusnak meg kell halnia! Hagyni kell, hogy az istenek kiválogassák a magukét!
 202113_name;Fekete Rayla
 202113_tooltip;<keyword=order>Parancs</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy egységnek.\n<keyword=inspired>Inspirált</keyword>: Helyette {Damage2} pontot sebez.\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}.
-202114_fluff;Mi volt előbb, a tyúk, vagy a tojás? Ha figyelembe vesszük, hogy a talányban ez egy főnix, a kérdés már értelmét is vesztette.
+202114_fluff;A csirke a főnixhez képest kifejezetten primitív állat.
 202114_name;Főnix fióka
 202114_tooltip;<keyword=doomed>Kárhozott</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Átváltozik, és <b>Főnix</b> lesz belőle.
 202115_fluff;A király egyszer elküldött egy küldöttet Eldainhez… a határozott tanácsom ellenére. Másnap megtalálták a küldöttet, a szemeit kivájták, a fehér zászlójának a nyelét pedig ledugták a torkán.
@@ -3633,7 +3633,7 @@
 202993_fluff;Ha egyszer már a képmás a fán van, még a legerényesebb lelkek is megmagyarázhatatlanul vonzódást fognak érezni a tartománya felé.
 202993_name;Véres Úrnő
 202993_tooltip;<keyword=sabbath>Boszorkányszombat</keyword>: A köröd végén <keyword=spawn>Teremt</keyword> egy <b>Gernichora gyümölcsét</b> ezen kártya mindkét oldalára és átváltoztatja magát <b>Gernichorára</b> az ereje megváltoztatása nélkül.
-202994_fluff;Ha egyszer már a képmás a fán van, még a legerényesebb lelkek is megmagyarázhatatlanul vonzódást fognak érezni a tartománya felé.
+202994_fluff;Ysgith-ben a hálókat Gernichora vére szövi.
 202994_name;Gernichora
 202994_tooltip;A köröd végén átváltoztatja magát <b>Véres Úrnőre</b> az ereje megváltoztatása nélkül.\n<keyword=sabbath>Boszorkányszombat</keyword>: Helyette, a köröd végén {boost} ponttal erősíti magát minden szövetséges <b>Gernichora gyümölcse</b> után.
 202995_fluff;Aki kapja, marja.
