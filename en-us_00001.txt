@@ -11555,7 +11555,7 @@ voting_feature_title;Balansz Bizottság
 voting_finished_popup_description;Jelenleg kiszámoljuk az eredményeket és előkészítjük a javítást.\n\nAddig is, mit szólnál egy kör GWENT-hez?
 voting_finished_popup_title;A szavazás lezárult!
 voting_increase;Növelés (+1)
-voting_info_description;Havonta egyszer alkalmad lesz szavazni, hogy megváltoztasd az erejét, vagy az ellátási költségét a kártyáknak és a vezetői képességeknek.\n\nVoting consists of placing three cards and leader abilities into each of four brackets (Power Increase, Power Decrease, Provisions Increase, and Provisions Decrease), and then, once satisfied, submitting your votes.\n\nIn order to vote, you must be at least Prestige {0}, and have either finished {1} Ranked games in the current season, or reached Rank {2}.\n\nThe update will commence as soon as voting closes, and the top votes in each bracket (that are above the required threshold) will be implemented.
+voting_info_description;Havonta egyszer alkalmad lesz szavazni, hogy megváltoztasd az erejét, vagy az ellátási költségét a kártyáknak és a vezetői képességeknek.\n\nVoting consists of placing three cards and leader abilities into each of four brackets (erő növelése, erő csökkentése, ellátási költség növelése és ellátási költség csökkentése), and then, once satisfied, submitting your votes.\n\nIn order to vote, you must be at least Prestige {0}, and have either finished {1} Ranked games in the current season, or reached Rank {2}.\n\nThe update will commence as soon as voting closes, and the top votes in each bracket (that are above the required threshold) will be implemented.
 voting_info_title;Balansz Bizottság
 voting_main_menu_begins_in;Kezdés:
 voting_main_menu_ends_in;Zárás:
