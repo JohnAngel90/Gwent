@@ -746,7 +746,7 @@
 152402_tooltip;<keyword=deploy>Lehelyezés</keyword>: Véletlenszerűen szétoszt annyi sebzést az ellenséges soron, ahány egység található azon.
 152403_fluff;„Ejj, ez túl nagy egy hosszúszárnyú bálnának. Az egy barázdásbálna.” „Egy barázdásbálna? Ilyen kis orral? Azok a füvek elvették az eszedet!”
 152403_name;Delírium
-152403_tooltip;<keyword=echo>Visszhang</keyword>.\nVálassz egy véletlenszerű bronz skelligei Bestia és egy véletlenszerű bronz skelligei Ember közül, melyek nem a kezdő paklid részéi, majd <keyword=spawn>Teremtsd</keyword> és játszsd ki az egyiket, majd <keyword=spawn>Teremtsd</keyword> a másikat a temetődbe!\nAmikor <keyword=doomed>Kárhozott</keyword>, helyette arany kártyák közül választhatsz.
+152403_tooltip;<keyword=echo>Visszhang</keyword>.\nVálassz egy véletlenszerű bronz skelligei Bestia és egy véletlenszerű bronz skelligei Ember közül, melyek nem a kezdő paklid részéi, majd <keyword=spawn>Teremtsd</keyword> és játszd ki az egyiket, majd <keyword=spawn>Teremtsd</keyword> a másikat a temetődbe!\nAmikor <keyword=doomed>Kárhozott</keyword>, helyette arany kártyák közül választhatsz.
 152405_fluff;Medvevadászatra megyünk! Elkapjuk azt a... EZ A VALAMI HATALMAS! FUTÁS!
 152405_name;Idős medve
 152405_tooltip;Nincs képessége.
@@ -4337,11 +4337,11 @@
 203275_tooltip;<keyword=deploy>Lehelyezés</keyword>: Ha az ellenfeled nem passzolt és a keze sincs tele, <keyword=create>Létrehoz</keyword> egy olyan legendás egységet a frakciódból, ami nem a kezdő paklid része, hozzáadja az ellenfeled kezéhez, a nem választott kártyákat meg az ellenfeled paklijának az aljára helyezi, majd <keyword=create>Létrehoz</keyword> egy olyan legendás egységet az ellenfeled frakciójából, ami nem a kezdő paklijának a része, ezt hozzáadja a kezedhez, a nem választott kártyákat meg a paklid aljára helyezi.
 203276_fluff;Dupla gond!
 203276_name;Rosa és Edna var Attre
-203276_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> egy bronz egységet az ellenfeled frakciójából, majd <keyword=spawn>Teremti</keyword> azt a szemközti sorra és <keyword=spying>Kémledést</keyword> ad neki.\n<keyword=order>Parancs</keyword>: Sebez egy ellenséges egységet {Damage2} ponttal. Növekszik az érték {Damage} ponttal minden kezdő paklidban lévő Arisztokrata után.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy alap másolatot a megsemmisített egységből.
+203276_tooltip;<keyword=deploy>Lehelyezés</keyword>: <keyword=create>Létrehoz</keyword> egy bronz egységet az ellenfeled frakciójából, majd <keyword=spawn>Teremti</keyword> azt a szemközti sorra és <keyword=spying>Kémkedést</keyword> ad neki.\n<keyword=order>Parancs</keyword>: Sebez egy ellenséges egységet {Damage2} ponttal. Növekszik az érték {Damage} ponttal minden kezdő paklidban lévő Arisztokrata után.\n<keyword=deathblow>Halálos csapás</keyword>: <keyword=spawn>Teremt</keyword> és kijátszik egy alap másolatot a megsemmisített egységből.
 203277_fluff;A végzet órájában Freya, a mindenség anyja megjelent Otkell előtt annak hajóján, és megadta neki az eszközt, hogy lecsillapítsa a tomboló vihart, hisz ő már tudta, hogy Otkellnek, ahogy a testvéreinek is, van egy nagyobb történetük, amit ell kell mesélniük.
 203277_name;Otkell
-203277_tooltip;<keyword=deploy>Lehelyezés</keyword>: Sebzi magát {power}-ig, majd kijátssza az összes <b>Freya áldása</b> kártyádat a temetődből. Tedd őket <keyword=doomed>Kárhozozzá</keyword>!\nA játék elején növeld az alaperejét minden, a kezdő paklidban lévő Alkímia kártya után!
-203278_fluff;Legendák. Az összes díszítést és túlzást csak azok szövik bele, akik nem voltak a közelben, hogy szemtanúi legyenek ezen hétköznapi dolgoknak. Heulyn, az elődök anyja a fiait sosem sárkányokkal és viharokkal nevelte, hanem házimunkával és felelőséggel.
+203277_tooltip;<keyword=deploy>Lehelyezés</keyword>: Sebzi magát {power}-ig, majd kijátssza az összes <b>Freya áldása</b> kártyádat a temetődből. Tedd őket <keyword=doomed>Kárhozottá</keyword>!\nA játék elején növeld az alaperejét minden, a kezdő paklidban lévő Alkímia kártya után!
+203278_fluff;Legendák. Az összes díszítést és túlzást csak azok szövik bele, akik nem voltak a közelben, hogy szemtanúi legyenek ezen hétköznapi dolgoknak. Heulyn, az elődök anyja a fiait sosem sárkányokkal és viharokkal nevelte, hanem házimunkával és felelősséggel.
 203278_name;Heulyn
 203278_tooltip;<keyword=deploy>Lehelyezés</keyword>: Erősít minden szövetséges Embert {boost} ponttal.\nKezdd a játékot {count} véletlenszerű skelligei bronz Emberrel a temetődben!
 203279_fluff;Az út a Karbon-hegyhez egy napon acéllal lesz kikövezve.
