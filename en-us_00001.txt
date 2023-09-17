@@ -7936,7 +7936,7 @@ shop_lunar_cardback_title;Lunar kártyahátlap
 shop_one_click_payment_description;Purchase using credit card ending in {0}
 shop_open_preorder_pack_desc;You will be able to open this pack when the expansion launches, after updating to the latest version of the game.
 shop_open_preorder_pack_title;Unable to open
-shop_ornaments_category_1;Kártya hátlapok
+shop_ornaments_category_1;Kártyahátlapok
 shop_ornaments_category_2;Vezető kinézetek
 shop_ornaments_category_3;Keretek
 shop_ornaments_category_4;Bundles
