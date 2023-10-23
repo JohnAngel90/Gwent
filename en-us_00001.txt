@@ -5724,8 +5724,8 @@ quest_ouroboros_play_x_cards_with_zeal_from_starter_base_master_mirror;Játssz k
 quest_ouroboros_play_x_crime_cards;Játssz ki {0} Gaztett kártyát!
 quest_ouroboros_play_x_cultist_cc;Játssz ki {0} Kultistát a Bíbor Átok kártyái közül!
 quest_ouroboros_play_x_cultist_won_match_cc;Nyerj, miután kijátszottál {0} Kultistát a Bíbor Átok kártyái közül!
-quest_ouroboros_play_x_cursed_cards_from_starter_base_cursed_toad;Játssz ki {0} Átkozott kártyát a kezdő szett, alap szett, vagy az Elátkozott Varangy káryái közül!
-quest_ouroboros_play_x_doomed_cards_from_starter_base_cursed_toad;Játssz ki {0} Kárhozott kulcsszavú kártyát a kezdő szett, alap szett, vagy az Elátkozott Varangy káryái közül!
+quest_ouroboros_play_x_cursed_cards_from_starter_base_cursed_toad;Játssz ki {0} Átkozott kártyát a kezdő szett, alap szett, vagy az Elátkozott Varangy kártyái közül!
+quest_ouroboros_play_x_doomed_cards_from_starter_base_cursed_toad;Játssz ki {0} Kárhozott kulcsszavú kártyát a kezdő szett, alap szett, vagy az Elátkozott Varangy kártyái közül!
 quest_ouroboros_play_x_doomed_cards_starter_base_merchants_ofir;Játssz ki {0} Kárhozott kulcsszavú kártyát a kezdő szett, alap szett, vagy az Ofir kereskedői kártyái közül!
 quest_ouroboros_play_x_doomed_from_starter_base_master_mirror;Játssz ki {0} Kárhozott kulcsszavú kártyát a kezdő szett, alap szett, vagy a Tükörmester kártyái közül!
 quest_ouroboros_play_x_dwarf_bs_ep3;Játssz ki {0} Törpöt az alap szett, Vas Ítélet, vagy az Uroborosz kártyái közül!
@@ -6873,7 +6873,7 @@ saovine_event_popup_body;Obtain <sprite="PopupIcons" name="Blood_Drop">Vércsepp
 saovine_event_popup_dates;Október 26-tól november 9-ig
 saovine_event_popup_intro;Obtain <sprite="PopupIcons" name="Blood_Drop">Vércseppek:
 saovine_event_popup_shop;Használd őket a boltban, hogy feloldj egyedi díszítéseket!
-scoia_fluff_description;Egykoron a Kontinest elfek, törpök, és gnómok uralták, ahogy a legtöbben ismerték őket, az Ősi Fajok. Azonban, az emberek azóta elhagyatott hegyvonulatokba és sűrű erdőkbe űzték őket. Az utolsó kis megmaradt földjeiket elvették tőlük, így az éhség és a betegségek tizedelték őket. Néhány elf és törp azonban más halál után nézett – a kezeik nem üresek, inkább emberi vértől nedvesek. Mókusfarok van tűzve a fejfedőikre és a övükre, az utak szélén kószálnak, és alig várják, hogy megölhessenek bármilyen dh'oine-t, aki keresztezi az útjukat. A Mókusok nem arathatnak hosszan tartó győzelmet az elnyomóik felett, ezt ők is tudják. Mégis, ez nem töri meg a lelkesedésüket, az ellenállásra való hajlamuk sosem volt még ennél erősebb. Végtére is, nincs mit veszteniük.
+scoia_fluff_description;Egykoron a Kontinenst elfek, törpök, és gnómok uralták, ahogy a legtöbben ismerték őket, az Ősi Fajok. Azonban, az emberek azóta elhagyatott hegyvonulatokba és sűrű erdőkbe űzték őket. Az utolsó kis megmaradt földjeiket elvették tőlük, így az éhség és a betegségek tizedelték őket. Néhány elf és törp azonban más halál után nézett – a kezeik nem üresek, inkább emberi vértől nedvesek. Mókusfarok van tűzve a fejfedőikre és a övükre, az utak szélén kószálnak, és alig várják, hogy megölhessenek bármilyen dh'oine-t, aki keresztezi az útjukat. A Mókusok nem arathatnak hosszan tartó győzelmet az elnyomóik felett, ezt ők is tudják. Mégis, ez nem töri meg a lelkesedésüket, az ellenállásra való hajlamuk sosem volt még ennél erősebb. Végtére is, nincs mit veszteniük.
 scoia_fluff_title;Mókusok
 scoia_preset_deck_name;Mókusok kezdőpakli
 season_april_title;Áprilisi szezon
@@ -7078,7 +7078,7 @@ shop_data_abyssal_anchor_cardback_title;Mélységi horgony kártyahátlap
 shop_data_air_bundle_desc;<sprite="PopupIcons" name="Skin"> Queen of the Wind Skin (Mókus)\n\n<sprite="PopupIcons" name="Board"> Dandelion Meadow Board\n\nWalk in the footsteps of the great Francesca Findabair through her courts: the meadows of Dol Blathanna.
 shop_data_air_bundle_title;Air Bundle
 shop_data_air_pack_desc;<sprite="PopupIcons" name="Avatar"> Djinn Avatar\n\n<sprite="PopupIcons" name="Border"> Animated Air Border\n\n<sprite="PopupIcons" name="Title"> "The Djinn" titulus\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nThe firmament shakes with the fluttering of a thousand birds fleeing an ominous squall...
-shop_data_air_pack_title;Levegő csomagj
+shop_data_air_pack_title;Levegő csomag
 shop_data_alba_commander_skin_desc;<sprite="PopupIcons" name="Skin"> Alba Commander\n\nFirst we ride out, then we engage them in glorious battle, and then we win!
 shop_data_alba_commander_skin_title;Alba Commander Skin
 shop_data_all_things_nasty_bundle_desc;<sprite="PopupIcons" name="Skin"> Harpy Skin (Monsters)\n\n<sprite="PopupIcons" name="Avatar"> Glustyworp Avatar\n\n<sprite="PopupIcons" name="Avatar"> Alghoul Avatar\n\n<sprite="PopupIcons" name="Avatar"> Water Hag Avatar\n\n<sprite="PopupIcons" name="Avatar"> Wyvern Avatar\n\nIf you're looking for a slow and horrific death, look no further!
@@ -7178,7 +7178,7 @@ shop_data_ciri_flower_desc;Celebrate the last breath of the summer season with a
 shop_data_ciri_flower_title;Ingyen virág a hajba!
 shop_data_ciri_ofiri_saber_trinket_desc;<sprite="PopupIcons" name="Trinket"> Ofiri Saber Trinket (Ciri)\n\nSwish! Slash! Whirl!
 shop_data_ciri_ofiri_saber_trinket_title;Ciri's Ofiri Saber
-shop_data_claw_and_dagger_pack_desc;<sprite="PopupIcons" name="Board"> Borsodi testvérek aukciós háza játéktábla\n\n<sprite="PopupIcons" name="PremiumCard"> Az összes Karom és Tőr prémium kártya\n\nVedd el, ami jogszerint téged illett! Türelemmel és kitartással, karommal és tőrrel.
+shop_data_claw_and_dagger_pack_desc;<sprite="PopupIcons" name="Board"> Borsodi testvérek aukciós háza játéktábla\n\n<sprite="PopupIcons" name="PremiumCard"> Az összes Karom és Tőr prémium kártya\n\nVedd el, ami jog szerint téged illett! Türelemmel és kitartással, karommal és tőrrel.
 shop_data_claw_and_dagger_pack_title;Karom és Tőr csomag
 shop_data_cleaver_ghost_skin_desc;<sprite="PopupIcons" name="Skin"> Phantom Skin (Syndicate)\n\nLet your rage spill over into the afterlife. There are still too many scores left to be settled.
 shop_data_cleaver_ghost_skin_title;Phantom Cleaver Skin
@@ -11265,7 +11265,7 @@ vanity_title_21056_title;Bábmester
 vanity_title_21057_title;Mágia tanonca
 vanity_title_21058_title;Viharszülte
 vanity_title_21059_title;Látnok
-vanity_title_21060_title;Igazságtevõ
+vanity_title_21060_title;Igazságtevő
 vanity_title_21061_title;Arisztokrata
 vanity_title_21062_title;Vámpír
 vanity_title_21063_title;Szangvinikus
@@ -11681,7 +11681,7 @@ vanity_title_28333_title;Rosszindulatú
 vanity_title_28334_title;Átkozott
 vanity_title_28335_title;Szentségtelen
 vanity_title_28336_title;MHoldsárkány
-vanity_title_28337_title;Dícsőséges
+vanity_title_28337_title;Dicsőséges
 vanity_title_28338_title;Jókötésű
 vanity_title_28339_title;Megfontolt
 vanity_title_28340_title;Mágneses

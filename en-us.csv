@@ -533,7 +533,7 @@
 142203_tooltip;<keyword=Deploy>Lehelyezés</keyword>: Sebez egy ellenséges egységet az ezen a soron lévő elf egységek számával.
 142204_fluff;Szívesen megölnélek közelről, és a szemedbe bámulnék, de te bűzlesz, ember.
 142204_name;Toruviel
-142204_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy kiválasztott ellenséges sor szélső egységeinek.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage2} pont sebzést okoz minden egységnek egy ellenséges soron.\nHa irányítasz <b>Elf mesterlövészt</b>, kombináld helyette mind a kát képességet.
+142204_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): {Damage} pont sebzést okoz egy kiválasztott ellenséges sor szélső egységeinek.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): {Damage2} pont sebzést okoz minden egységnek egy ellenséges soron.\nHa irányítasz <b>Elf mesterlövészt</b>, kombináld helyette mind a két képességet.
 142205_fluff;A legszörnyűbb dolgok, amiket láttam? a Catriona pestist, Vengerberg lerombolását, és a rohamát a Vrihedd dragonyosoknak.
 142205_name;Vrihedd dragonyosok
 142205_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgass egy egységet a másik sorra! Ha az egy ellenség, sebezd azt {Damage} ponttal. Ha az szövetséges, erősítsd azt {Boost} ponttal.
