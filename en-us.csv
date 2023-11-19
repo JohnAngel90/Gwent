@@ -4563,20 +4563,20 @@ card_token_shield;<b><#600101>Pajzs:</color></b> Állapot, amely blokkolja az eg
 card_token_spying;<b><#600101>Kémkedés:</color></b> Állapot extra képesség nélkül. Használhatja más kártya, vagy képesség.
 card_token_veil;<b><#600101>Lepel:</color></b> Állapot, amely megakadályozza, hogy az egység újabb állapotot szerezhessen.
 card_token_vitality;<b><#600101>Vitalitás:</color></b> Állapot, amely erősíti ezt az egységet eggyel a köre végén. Megjegyzés: A Vitalitás körei halmozhatóak; 1 kör Vitalitás semlegesít 1 kör Vérzést.
-keyword_adrenaline;<#600101>Adrenalin:</color> Aktiválódik ez a képesség, ha a meghatározott számú, vagy kevesebb kártya maradt a kezedben. Az Adrenalin képességű kártyák kiemeltek, amikor a hatásuk erősebb.
-keyword_ambush;<#600101>Cselvetés:</color> Fejjel lefelé kerül le, majd felfordul, ha a kártyán található kritérium teljesült.
-keyword_armor;<#600101>Páncél:</color> Védi az egységet a sebesüléstől. Ez az érték nem számít bele az egység erejébe, sem a pontjaidba.
+keyword_adrenaline;<#600101>Adrenalin:</color> A képességnek csak annyi a feltétele, hogy egy meghatározott számú kártya legyen a kezedben. Az Adrenalin képességű kártyák kiemeltek, amikor a hatásuk erősebb.
+keyword_ambush;<#600101>Cselvetés:</color> A képesség feltétele egy képpel lefelé fordított kártyánál. A kártya felfordul, ha a feltétel teljesült.
+keyword_armor;<#600101>Páncél:</color> Megakadályoz egy nem vérzést okozó sebzést, és csökkenti a sebesülés mértékét.
 keyword_assimilate;<#600101>Hasonulás:</color> Erősítsd magadat eggyel - vagy a meghatározott ponttal - minden alkalommal, amikor olyan kártyát játszol ki, amely nem a kezdőpaklid része!
 keyword_aura;<#600101>Aura:</color> Passzív képesség, amely hatástalan, ha az egység megsemmisült, vagy Zárolt.
-keyword_banish;<#600101>Száműzés:</color> Távolítsd el a játékból! Megjegyzés: Nem számít megsemmisültnek.
+keyword_banish;<#600101>Száműzés:</color> Eltávolítja a megcélzott kártyát a játékból.
 keyword_banish_in_graveyard;<#600101>Kárhozott:</color> Egységek: Távolítsd el a játékból, ha a tábláról a temetőbe kerülne!\nSpeciális kártyák: Távolítsd el a játékból, miután aktiválódott a kártya hatása!
-keyword_barricade;<#600101>Barikád:</color> Használd a képességét, ha az egységnek van Páncélja!
-keyword_berserk;<#600101>Dühöngő:</color> Használd a képességét, ha az ereje egyenlő, vagy alacsonyabb, mint a meghatározott érték!
-keyword_bleeding;<#600101>Vérzés:</color> Állapot, amely sebzi ezt az egységet eggyel a köre végén. Megjegyzés: A Vérzés körei halmozhatóak, 1 kör Vérzés semlegesít 1 kör Vitalitást. A Vérzés nem veszi figyelembe a páncélt.
+keyword_barricade;<#600101>Barikád:</color> A képesség használatához az egységnek rendelkeznie kell Páncéllal!
+keyword_berserk;<#600101>Dühöngő:</color> A képesség használatához az egységnek nem lehet nagyobb az ereje a meghatározott értéknél!
+keyword_bleeding;<#600101>Vérzés:</color> A tulajdonosának körének végén, az ezen hatás alatt álló egység 1 pont sérülést szenved a Páncélt figyelmen kívül hagyva, majd a Vérzés időtartama csökken 1 értéket. A Vérzés és a Vitalitás kioltja egymást.
 keyword_blood_moon;<#600101>Vérhold:</color> A tulajdonosa körének kezdetén, egy ezen a soron lévő véletlenszerű egységnek 2 kör Vérzést okoz. Ha ez az egység már Vérzés alatt áll, helyette sebzi kettővel.
-keyword_bloodthirst;<#600101>Vérszomj:</color> Meghatározott számú sebesült ellenség szükséges a képesség aktiválásához.
-keyword_bond;<#600101>Kötelék:</color> Használd ezen képességét, ha a kártya egy másik példányát már irányítod!
-keyword_bonded;<#600101>Kötelék:</color> Használd ezen képességét, ha a kártya egy másik példányát már irányítod!
+keyword_bloodthirst;<#600101>Vérszomj:</color> Nem kevesebb, mint a meghatározott számú sebesült ellenség szükséges a képesség aktiválásához.
+keyword_bond;<#600101>Kötelék:</color> A képesség aktiválásához szükség van ezen egység egy másik pépdányára is az irányításod alatt.
+keyword_bonded;<#600101>Kötelék:</color> A képesség aktiválásához szükség van ezen egység egy másik pépdányára is az irányításod alatt.
 keyword_boon;<#600101>Áldás:</color> Pozitív, sorra kifejtett hatás. Lecserélődhet más sorra kifejtett hatások végett, a forduló végéig tart.
 keyword_boost;<#600101>Erősítés:</color> Növeli az egység aktuális erejét.
 keyword_boosted;<#600101>Erősített:</color> Az Erősített egység aktuális ereje nagyobb, mint az alapereje.
@@ -4587,45 +4587,45 @@ keyword_charge;<#600101>Töltet:</color> Alkalmak száma, ahányszor a Parancs k
 keyword_charm;<#600101>Bájolás:</color> Mozgasd az ellenséget a szemközti sorba!
 keyword_clash;<#600101>Összecsapás:</color> Az egységek egyszerre sebzik egymást saját erejükkel.
 keyword_clone;<#600101>Klón:</color> Egy kártya pontos másolata, annak erejével és képességeivel.
-keyword_coin;<#600101>Érme:</color> A Novigradi alvilág fizetőeszköze a Tiszteletdíj és az Elismerés képességekhez. Maximum 9 Érméd lehet. Az Érme számlálód a felére csökken (lefelé kerekítve), amikor átkerül a következő fordulóra.
+keyword_coin;<#600101>Érme:</color> Szindikátus specifikus erőforrás, melyből maximum 9 lehet. Az Érmék száma a felére csökken (lefelé kerekítve), amikor átkerül a következő fordulóra.
 keyword_collateral;<#600101>Fedezet:</color> Ha nem rendelkezel elég Koronával, okozz sérülést ennek az egységet annyival, ahány Korona hiányzik a képesség aktiválásához!
 keyword_conceal;<#600101>Álcázás:</color> Fordíts át egy képpel felfelé lévő kártyát a kezedben!
-keyword_conspiracy;<#600101>Konspiráció:</color> Aktiválódik ez a képesség, ha a célpont egység Kémkedés állapota alatt áll.
+keyword_conspiracy;<#600101>Konspiráció:</color> A képesség aktiválásához a célpont egységnek Kémkedés állapotában kell lennie.
 keyword_consume;<#600101>Bekebelezés:</color> Semmisíts meg egy egységet, majd növeld az erődet annak erejével! Ha a célpont a temetőben volt, akkor az Száműzésre kerül.
 keyword_cooldown;<#600101>Lehiggadás:</color> Azon körök száma, amíg a Parancs, vagy a Tiszteletdíj újra használható nem lesz.
 keyword_counter;<#600101>Számláló:</color> Csökkentsd a Számláló értékét, ha a feltételek teljesülnek! Állítsd vissza a Számlálót, ha az egység elhagyja a táblát!
 keyword_cover;ignorál
 keyword_craven;<#600101>Gyáva:</color> Aktiválódik ez a képesség, ha az ellenfél elveszíti az aktuális fordulót.
 keyword_create;<#600101>Létrehoz:</color> Teremt egyet a megadott paraméterek szerinti, három véletlenszerűen kiválasztott kártyából.
-keyword_crew;<#600101>Legénység:</color> Aktiváld a képességét, ha az egység két Katona között van!
+keyword_crew;<#600101>Legénység:</color> A képesség aktiválásához az egységnek két Katona között kell lennie!
 keyword_crewed;Ignorált.
 keyword_crown;<#600101>Korona:</color> A Novigradi fizetőeszköz, ami a Tiszteletdíj és az Elismerés kifizetésére szolgál. Maximum 9 Koronád lehet. A Korona számlálód a felére csökken (lefelé kerekítve) amikor átkerül a következő fordulóra.
 keyword_damage;<#600101>Sebzés:</color> Csökkenti az egység aktuális erejét.
 keyword_damaged;<#600101>Sebzett:</color> A Sebzett egység aktuális ereje kisebb, mint az alapereje.
 keyword_deadlock;<#600101>Holtpont:</color> Aktiválódik ez a képesség, ha egyik fél sem passzolt.
-keyword_deathblow;<#600101>Halálos csapás:</color> Aktiválódik ez a képesség, ha ez a kártya elpusztítja az egységet.
-keyword_deathwish;<#600101>Halálvágy:</color> Aktiválódik ez a képesség, ha az egység megsemmisül és a csatatérről a temetőbe kerül. Megjegyzés: A Száműzés alatt álló egységek nem kerülnek a temetőbe.
-keyword_defender;<#600101>Védelmező:</color> Állapot, mely hatására az ellenfél nem célozhat meg más kártyát ebben a sorban.
+keyword_deathblow;<#600101>Halálos csapás:</color> A képesség aktiválásához ennek a kártyának el kell pusztítania a megcélzott egységet.
+keyword_deathwish;<#600101>Halálvágy:</color> A képesség aktiválásához ennek az egységnek meg kell semmisülnie.
+keyword_defender;<#600101>Védelmező:</color> Ha van ilyen állapottal rendelkező egység a sorban, a többi egység ezen a soron nem lehet célpontja az ellenfélnek.
 keyword_demote;<#600101>Lefokoz:</color> Alakíts át egy arany kártyát ezüstre (vagy bronzra, ha eredetileg is az volt)!
-keyword_deploy;<#600101>Lehelyezés:</color> Aktiválódik ez a képesség, amikor kijátszod ezt a kártyát.
+keyword_deploy;<#600101>Lehelyezés:</color> A képesség aktiválásához kijátszható kártyára van szükség. A Teremtett vagy Idézett kártya nem számít kijátszottnak!
 keyword_destroy;<#600101>Megsemmisít:</color> Mozgasd a kártyát a temetőbe!
-keyword_devotion;<#600101>Áhítat:</color> Aktiválódik ez a képesség, ha a kezdőpaklidban nincs semleges kártya.
-keyword_discard;<#600101>Eldobás:</color> Mozgasd a kártyát a kezedből a temetőbe! Megjegyzés: Az így kikerült kártya képessége nem aktiválódik.
+keyword_devotion;<#600101>Áhítat:</color> A képesség aktiválásának feltétele, hogy ne legyen a kezdőpaklidban semleges kártya.
+keyword_discard;<#600101>Eldobás:</color> Mozgasd a kártyát a kezedből a temetőbe! Az Eldobás képessége nem aktiválódik amikor manuálisan játszol ki kártyát a kezedből a temetődbe.
 keyword_disloyal;<#600101>Áruló:</color> Ez a kártya a csatatér ellentétes oldalára kerül kijátszásra, majd Kémkedést kap.
-keyword_dominance;<#600101>Dominancia:</color> Aktiválódik ez a képesség, ha a tiéd a legerősebb egység a csatatéren.
-keyword_doomed;<#600101>Kárhozott:</color> Állapot, amely eltávolítja a kártyát a játékból, miután az elhagyja a csatateret.
+keyword_dominance;<#600101>Dominancia:</color> A képesség aktiválásának feltétele, hogy tiéd legyen a legerősebb egység a játékban. Egyenlőség esetén is aktiválódik.
+keyword_doomed;<#600101>Kárhozott:</color> Amikor egy ezen állapottal rendelkező kártya elhagyja a csatateret, Száműzésre kerül.
 keyword_dragons_dream;<#600101>Sárkányálom:</color> A tulajdonosa körének kezdetén, ha az időzítő lejár, sebez minden egységet ebben a sorban hárommal.
 keyword_drain;<b><#600101>Csapolás:</color></b> A sebzés figyelmen kívül hadja a célpont páncélját, majd erősíti magát a sebzés értékével.
 keyword_draw;<#600101>Húzás:</color> Vedd a kezedbe a paklid legfelső lapját!
 keyword_duel;<#600101>Párbaj:</color> Az egységek a megmaradt erejükkel sebzik egymást, amíg az egyikük meg nem semmisül.
-keyword_echo;<#600101>Visszhang:</color> A forduló elején, mozgasd ezt a kártyát a temetőből a tulajdonosának paklija tetejére, majd tedd Kárhozottá!
+keyword_echo;<#600101>Visszhang:</color> A forduló elején - még a lapcsere előtt - ha ez a kártya a temetődbe van, átkerül a paklid tetejére, majd Kárhozottá válik.
 keyword_enemy;<#600101>Ellenség:</color> Azon egység, amelyik a tábla túlsó oldalán található.
-keyword_exposed;<#600101>Védtelen:</color> Aktiválódik ez a képesség, ha az egység elveszti a Páncélját.
+keyword_exposed;<#600101>Védtelen:</color> A képesség aktiválásához az egységnek el kell veszíteni a Páncélját.
 keyword_fatigue;<#600101>Egyszeri:</color> Ennek a kártyának a képessége csak egyszer használható a játék során.
-keyword_fee;<#600101>Tiszteletdíj:</color> Aktiváld ezt a képességet a meghatározott mennyiségű Érme elköltésével!
-keyword_flanking;<b><#600101>Oldalszárny:</color></b> Ha ez az egység csak egy kártya mellett van: A Közelharci sorodon a kör végi képességét kétszer aktiválja; A Távolsági sorodon kap 1 Páncélt a köröd végén.
-keyword_fog;<#600101>Köd:</color> A tulajdonosa körének kezdetén, sebzi a legkisebb erejű egységet ebben a sorban kettővel.
-keyword_formation;<#600101>Formáció:</color> Ha a közelharci sorra játszod ki, akkor Hév képességet kap, ha a távolsági sorra, akkor erősíti magát eggyel.
+keyword_fee;<#600101>Tiszteletdíj:</color> Manuálisan aktiválható képesség, amihez a meghatározzot mennyiségű Érme elköltése szükséges. A képesség többször is aktiválható.
+keyword_flanking;<#600101>Oldalszárny:</color> Ha ezen kártya mellett csak egy szomszédos kártya található a Közelharci sorban, a kör végi képessége kétszer aktiválódik. Ha ez a Távolsági sorban valósul meg, akkor kap 1 Páncélt a tulajdonoságan körének végén.
+keyword_fog;<#600101>Köd:</color> A tulajdonoságan körének kezdetén, sebzi a leggyengébb egységet a sorban 2 ponttal.
+keyword_formation;<#600101>Formáció:</color> Ha ezen egység a Közelharci sorra van kijátszva, Hévet kap. Ha a Távolsági sorra, erősödik 1 ponttal.
 keyword_friendly;<#600101>Szövetséges:</color> Azon egység, amelyik a te térfeleden található.
 keyword_frost;<#600101>Fagy:</color> A tulajdonosa körének kezdetén, sebzi a legnagyobb erejű egységet ebben a sorban kettővel.
 keyword_gamble;<#600101>Szerencsejáték:</color> Kockáztass és nyerj!
@@ -4634,79 +4634,79 @@ keyword_gold;<#600101>Immunitás:</color> Állapot, amely miatt ez a kártya kö
 keyword_grace;<#600101>Kegyelem:</color> Az első alkalommal, amikor ezen egység ereje nagyobb, vagy egyenlő, mint a meghatározott érték, aktiválódik a képesség. Ha a feltétel már a csatatérre való érkezéskor teljesült, azonnal aktiválja a képességet.
 keyword_harmony;<#600101>Harmónia:</color> Erősítsd magad eggyel, vagy a meghatározott ponttal, ha kijátszol egy nem Semleges egységet, amelynek az elsődleges kategóriája eltér az összes többi egységedétől.
 keyword_hazard;<#600101>Vész:</color> Negatív, sorra kifejtett állapot. Lecserélődhet más, sorra kifejtett állapotok végett, a forduló végéig tart.
-keyword_heal;<#600101>Gyógyítás:</color> Ha az egység jelenlegi ereje alacsonyabb, mint az alapereje, állítsd vissza az erejét alapra, vagy a meghatározott ponttal gyógyítsd!
+keyword_heal;<#600101>Gyógyítás:</color> Ha az egység jelenlegi ereje alacsonyabb, mint az alapereje, állítsd vissza a teljes alaperejét, vagy a meghatározott ponttal gyógyítsd! A gyógyítás nem számít erősítésnek.
 keyword_highest;<#600101>Legnagyobb:</color> Legnagyobb erő, döntetlen esetén a véletlen dönt.
-keyword_hoard;<#600101>Halmozás:</color> Aktiválódik ez a képesség, ha rendelkezésedre áll a megfelelő mennyiségű Érme, vagy annál több.
+keyword_hoard;<#600101>Halmozás:</color> A képesség feltétele, hogy a rendelkezésedre álljon minimum a megfelelő mennyiségű Érme.
 keyword_idle;<#600101>Lustálkodás:</color> Azon körök száma, amíg az egységnek a táblán kell lennie, mielőtt a képességét használni tudná.
 keyword_immobile;Nem mozoghat.
-keyword_immune;<#600101>Immunitás:</color> Állapot, amely miatt ez a kártya közvetlenül nem célozható.
+keyword_immune;<#600101>Immunitás:</color> Az ezen állapottal rendelkező kártya manuálisan nem célozható, amíg a csatatéren van.
 keyword_infused;<#600101>Felruházott:</color> Állapot, ami hatást, vagy kategóriát ad egy kártyának. Az állapot eltávolítása leveszi a kapott hatást, vagy kategóriát is. A Zárolás semlegesíti a Felruházott képességet.
-keyword_initiative;<#600101>Kezdeményezés:</color> Aktiválódik ez a képesség, ha még nem használtad a Parancs, a Tiszteletdíj, vagy a Rugó képességét ebben a körben.
-keyword_insanity;<#600101>Elmebaj:</color> Ha nem rendelkezel elég Érmével, okozz sérülést az egységnek a Tiszteletdíj értékével, figyelmem kívül hagyva a Páncél értékét, hogy aktiváld a Tiszteletdíj képességét!\nMegjegyzés: Az Elmebaj nem használható, ha az megsemmisítené az egységet, csak akkor aktiválódik, ha a sérülés meg is történik.
-keyword_inspired;<#600101>Inspirált:</color> Aktiválódik ez a képesség, ha az egység aktuális ereje nagyobb, mint az alapereje.
+keyword_initiative;<#600101>Kezdeményezés:</color> Ez a képesség csak akkor használható, ha ebben a körben még nem használtad a Parancs, vagy a Tiszteletdíj képességeket.
+keyword_insanity;<#600101>Elmebaj:</color> Ha nincs elég Érméd, sebezd ezt az egységet a Tiszteletdíj mértékével - a Páncélt figyelmen kívül hagyva -, hogy aktiváld a Tiszteletdíj képességét! Az Elmebaj csak akkor működik, ha a sebzést ki lehet osztani. Nem aktiválódik, ha az egység megsemmisülne általa.
+keyword_inspired;<#600101>Inspirált:</color> A képesség feltétele akkor teljesül, ha ezen egység aktuális ereje nagyobb, mint az alapereje.
 keyword_intimidate;<#600101>Fenyegetés:</color> Növeld az erődet eggyel, vagy a meghatározott ponttal, amikor Gaztett kártyát játszol ki!
 keyword_leadership;<#600101>Hadvezetés:</color> Aktiválódik ez a képesség, amikor valamelyik Vezér kártya kijátszásra került (de mielőtt a Vezér képessége aktiválódik).
 keyword_lineage;<b><#600101>Eredet</color></b>: A játék elején erősíti magát a kezdőpaklidban lévő Sárkányok számával.
-keyword_lock;<#600101>Zárol:</color> Állapot, amely meggátolja az egység képességeinek használatát.
+keyword_lock;<#600101>Zárol:</color> Az ezen állapot alatt álló egység képességei nem használhatóak. Az állapotokra nincs hatással.
 keyword_lowest;<#600101>Legkisebb:</color> Legkisebb erő, döntetlen esetén a véletlen dönt.
 keyword_mayhem;<#600101>Rendbontás:</color> Növeld az erődet eggyel, vagy a meghatározott ponttal, amikor Gaztett kártyát játszol ki!
-keyword_melee;<#600101>Közelharci:</color> Ez a képesség csak akkor használható, ha ez a kártya a közelharci sorban található.
-keyword_might;<#600101>Hatalom:</color> Aktiválódik ez a képességet, ha mind a két sorodon van egy legalább 10-es erejű egységed.
+keyword_melee;<#600101>Közelharci:</color> A képesség feltétele, hogy a kártya a közelharci sorra legyen kijátszva, vagy lehelyezve.
+keyword_might;<#600101>Hatalom:</color> A képesség feltétele, hogy mind a két sorodon legyen egy legalább 10-es erejű egységed.
 keyword_mulligan;<#600101>Második esély:</color> Keverj vissza egy kártyát a kezedből a paklidba, majd húzz egy új kártyát a paklid tetejéről!
 keyword_muster;<#600101>Sorakozó:</color> Automatikusan kijátszásra kerül a pakliból.
 keyword_non_decoyable;<#600101>Makacs:</color> Nem mozoghat vissza a kézbe.
-keyword_order;<#600101>Parancs:</color> Képesség, amelyet a játékos manuálisan aktivál. A Parancs képességű kártyák a lehelyezést követő körtől kezdve aktiválhatóak.
+keyword_order;<#600101>Parancs:</color> Manuálisan aktiválható képesség. A Parancs képességek nem használhatóak abban a körben, amikor a kártya lekerült a csatatérre.
 keyword_overstrain;<#600101>Erőfeszítés:</color> Végrehajt egy meghatározott akciót azokon a kártyákon, amelyek az előző képesség hatása alatt álltak.
 keyword_pair;<#600101>Páros:</color> Aktiválódik ez a képesség, ha ezen egység két példánya is a táblán van.
 keyword_patience;<#600101>Türelem:</color> A köröd végén, ha a Parancs hatása nincs érvényesítve, megnöveli a kártya meghatározott értékét eggyel a játék hátralévő részére.
-keyword_poison;<#600101>Méreg:</color> Állapot. Ha ez az egység megszerzi a második Méreg állapotot is, akkor megsemmisül.
-keyword_predator;<#600101>Ragadozó:</color> Ez a képesség csak olyan egységeket célozhat, melyeknek ereje kisebb, mint a sajátja.
+keyword_poison;<#600101>Méreg:</color> Ha ezen állapottal rendelkező egység másodjára is megszerzi ezt, akkor elpusztul.
+keyword_predator;<#600101>Ragadozó:</color> A képesség feltéteke, hogy a célpontnak kisebb legyen az ereje, mint a sajátja.
 keyword_profit;<#600101>Haszon:</color> Meghatározott mennyiségű Érmét kapsz, ha ezt a kártyát kijátszod. Maximum 9 Érméd lehet.
 keyword_promote;<#600101>Előléptetés:</color> Alakítsd át a kártyát Arannyá a forduló végéig!
-keyword_purify;<#600101>Tisztítás:</color> Minden állapotot eltávolít.
+keyword_purify;<#600101>Tisztítás:</color> Minden állapotot eltávolít a célpontról.
 keyword_rain;<#600101>Eső:</color> A tulajdonosa körének kezdetén, sebez 2 véletlenszerű egységet ebben a sorban 1 ponttal.
-keyword_ranged;<#600101>Távolsági:</color> Ez a képesség csak akkor használható, ha ez a kártya a távolsági sorban található.
+keyword_ranged;<#600101>Távolsági:</color> A képesség feltétele, hogy a kártya a távolsági sorra legyen kijátszva, vagy lehelyezve.
 keyword_reach;<#600101>Távolság:</color> A távolság a sorban, amit célozni tudsz.
 keyword_regress;<#600101>Hátrálás:</color> Állítsd vissza a kártyát az eredeti állapotába!
 keyword_regressing;<#600101>Hanyatló:</color> Ha ez az egység lekerül a tábláról, az alapereje visszaáll a gyűjteményben lévő értékre. Nem hat rá a Zárolt állapot.
 keyword_reset;<#600101>Alaphelyzet:</color> Visszaállítja az egység alaperejét.
-keyword_resilient;<#600101>Rugalmasság:</color> Állapot, amely engedi az egységnek, hogy a csatatéren maradjon a forduló végén, majd az állapot eltűnik.\nMegjegyzés: Az Erősítés és a Páncél nem kerül át a következő fordulóra.
+keyword_resilient;<#600101>Rugalmasság:</color> Az ezzel az állapottal rendelkező egység a csatatéren marad a következő fordulóra. Ez az állapot, az erősítéssel és a páncéllal együtt eltávolításra kerül a következő forduló elején.
 keyword_resistant;<#600101>Ellenálló:</color> Az Ellenálló egységekre nincs hatással a Vész kártyák hatásai.
 keyword_restrained;Nem célozhat Főnököket.
 keyword_resupply;<#600101>Utánpótlás:</color> Amikor Hadviselés kártyát játszol ki, csökkenti ezen kártya Lehiggadását eggyel.
 keyword_resurrect;<#600101>Feltámasztás:</color> Játszd ki a temetődből!
 keyword_retaliation;<#600101>Visszatámadás:</color> Aktiválódik ez a képesség, amikor ez az egység megsebesül, de nem kerül a temetőbe.
-keyword_reveal;<#600101>Felfed:</color> Mutasd meg a kártyát mindkét játékosnak, majd rakd vissza a kezedbe/paklidba!
+keyword_reveal;<#600101>Felfed:</color> Mutasd meg a kártyát mindkét játékosnak, majd rakd vissza a pakliba!
 keyword_revealed;<#600101>Felfedett:</color> Olyan kártya a kézben, ami már át lett fordítva.
 keyword_revenge;<#600101>Bosszú:</color> Aktiválódik ez a képesség, ha ez a kártya a tábláról a temetőbe kerül az ellenfél köre alatt.
 keyword_round_end;<#600101>Forduló vége:</color> Aktiválódik ez a képesség, ha a forduló véget ért.
-keyword_rupture;<#600101>Megszakadás:</color> A tulajdonosának körének végén, sebzi ezen egységet a saját alaperejével, majd leszedi róla ezt a hatást.
-keyword_sabbath;<#600101>Boszorkányszombat:</color> Aktiválódik ez a képesség, ha legalább az egyik sorod értéke 25, vagy több.
+keyword_rupture;<#600101>Megszakadás:</color> A tulajdonoságan körének végén, az ezen állapottal rendelkező egység a saját alaperejének megfelelő sebzést szenved el, majd az állapot eltávolításra kerül.
+keyword_sabbath;<#600101>Boszorkányszombat:</color> A képesség feltétele, hogy legalább az egyik sorod értéke 25, vagy több legyen.
 keyword_seize;<#600101>Elfogás:</color> Mozgasd az ellenséges egységet a szemközti sorra, és adj neki Kémkedést! Ha már Kémkedik, távolítsd azt el róla!
-keyword_shield;<#600101>Pajzs:</color> Állapot, amely blokkolja az egységet ért következő támadást.
+keyword_shield;<#600101>Pajzs:</color> Ha egy ezen állapottal rendelkező egységet sebzés érné, az hatástalan lesz és ez az állapot eltávolításra kerül.
 keyword_solitary;<#600101>Magányos:</color> Aktiválódik ez a képesség, ha csak egy példány van ebből a kártyából a táblán.
 keyword_spawn;<#600101>Teremt:</color> Kártyát ad a játékhoz.
 keyword_spend;<#600101>Költekezés:</color> Megfelelő számú Korona kell ahhoz, hogy aktiváld ezt a képességet.
-keyword_spring;<#600101>Rugó:</color> Manuálisan aktivál egy lefordított kártyát. A Rugó automatikusan beindítja a Csapdát, ha egy műtárgy mellett van. A Rugó képességű kártyák felfordulnak használat után.
-keyword_spying;<#600101>Kémkedés:</color> Állapot extra képesség nélkül. Használhatja más kártya, vagy képesség.
+keyword_spring;<#600101>Rugó:</color> Manuálisan aktiválható képesség egy lefordított kártyán. A kártya felfordul a hatására.
+keyword_spying;<#600101>Kémkedés:</color> Ezt az állapotot automatikusan megkapják az Áruló egységek. Engedélyezi a Konspiráció képességet.
 keyword_storm;<#600101>Vihar:</color> A tulajdonosa körének kezdetén, sebez minden egységet ebben a sorban 1 ponttal.
 keyword_strengthen;<#600101>Erősített:</color> Növeli az alaperejét az egységnek.
 keyword_stubborn;<#600101>Makacs:</color> Nem játszható ki újra, nem mozoghat vissza a kézbe.
-keyword_summon;<#600101>Megidéz:</color> Automatikusan a csatatérre mozog (nem elgondolás alapján).
+keyword_summon;<#600101>Megidéz:</color> A célpont egységet egy meghatározott helyről a csatatérre mozgatja.
 keyword_swap;<#600101>Csere:</color> A köröd során tegyél egy kártyát a kezedből a paklidba, majd húzz helyette másikat!
 keyword_symbiosis;<#600101>Szimbiózis:</color> Amikor egy Természet kártyát játszol ki, teremt egy <b>Kóborló entet</b> egy véletlenszerű sorodra, és az erejét annyira állítja, ahány Szimbiózissal rendelkezel.
 keyword_thrive;<b><#600101>Boldogulás:</color></b> Növeld az egység erejét eggyel, vagy a meghatározott értékkel, ha nála erősebb szövegségest játszol ki!
 keyword_timer;<#600101>Időzítő:</color> A köröd vége előtt csökkentsd a Számlálót eggyel! Amikor a Számláló eléri a nullát, aktiváld a képességet!
 keyword_token;<#600101>Token:</color> Olyan egység, amely eltávolításra kerül a játékból a forduló végén.
 keyword_transform;<#600101>Átalakítás:</color> Egy másik kártya lesz belőle.
-keyword_tribute;<#600101>Elismerés:</color> Lehelyezésnél választhatod, hogy elköltöd a megszabott mennyiségű Érmét ahhoz, hogy aktiváld ezt a képességét.
+keyword_tribute;<#600101>Elismerés:</color> Lehelyezésnél választhatod, hogy elköltöd a megszabott számú Érmét ahhoz, hogy aktiváld ezt a képességét.
 keyword_trio;<#600101>Trió:</color> Pontosan 3, nem Zárolt példány van belőle a sorban.
 keyword_truce;<#600101>Fegyverszünet:</color> Ha egyik játékos sem passzolt.
 keyword_turn_end;<#600101>Kör vége:</color> A köröd végén aktiválódik ez a képesség.
 keyword_turn_start;<#600101>Kör kezdése:</color> A köröd elején aktiválódik ez a képesség.
 keyword_veil;<#600101>Lepel:</color> Állapot, amely megakadályozza, hogy az egység újabb állapotot szerezhessen.
 keyword_veteran;<#600101>Veterán:</color> A 2. és 3. fordulóban növeli ezen egység alaperejét eggyel.
-keyword_vice;<#600101>Vétek:</color> Aktiválódik ez a képesség, miután elköltötted a meghatározott mennyiségű Érmét, majd alaphelyzetbe állítja a saját számlálóját.
-keyword_vitality;<#600101>Vitalitás:</color> Állapot, amely erősíti ezt az egységet eggyel a köre végén. Megjegyzés: A Vitalitás körei halmozhatóak; 1 kör Vitalitás semlegesít 1 kör Vérzést.
+keyword_vice;<#600101>Vétek:</color> A képesség használatához egy meghatározott számú Érmét kell elköltened. A Vétek képességét többször is használhatod.
+keyword_vitality;<#600101>Vitalitás:</color> A tulajdonosa körének végén, az ezen állapottal rendelkező egység kap 1 pont erősítést és a Vitalitás teljes értéke csökken 1 pontot. A Vitalitás és a Vérzés kioltják egymást.
 keyword_weaken;<#600101>Gyengített:</color> Csökkentsd az alaperejét az egységnek! Ha 1 alá csökken az ereje, távolítsd el a játékból! Nem aktiválja a Halálvágy képességet.
 keyword_zeal;<#600101>Hév:</color> A Parancs képesség használható már abban a körben is, amint le lett helyezve a kártya.
