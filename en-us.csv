@@ -4622,9 +4622,9 @@ keyword_echo;<#600101>Visszhang:</color> A forduló elején - még a lapcsere el
 keyword_enemy;<#600101>Ellenség:</color> Azon egység, amelyik a tábla túlsó oldalán található.
 keyword_exposed;<#600101>Védtelen:</color> A képesség aktiválásához az egységnek el kell veszíteni a Páncélját.
 keyword_fatigue;<#600101>Egyszeri:</color> Ennek a kártyának a képessége csak egyszer használható a játék során.
-keyword_fee;<#600101>Tiszteletdíj:</color> Manuálisan aktiválható képesség, amihez a meghatározzot mennyiségű Érme elköltése szükséges. A képesség többször is aktiválható.
-keyword_flanking;<#600101>Oldalszárny:</color> Ha ezen kártya mellett csak egy szomszédos kártya található a Közelharci sorban, a kör végi képessége kétszer aktiválódik. Ha ez a Távolsági sorban valósul meg, akkor kap 1 Páncélt a tulajdonoságan körének végén.
-keyword_fog;<#600101>Köd:</color> A tulajdonoságan körének kezdetén, sebzi a leggyengébb egységet a sorban 2 ponttal.
+keyword_fee;<#600101>Tiszteletdíj:</color> Manuálisan aktiválható képesség, amihez a meghatározott mennyiségű Érme elköltése szükséges. A képesség többször is aktiválható.
+keyword_flanking;<#600101>Oldalszárny:</color> Ha ezen kártya mellett csak egy szomszédos kártya található a Közelharci sorban, a kör végi képessége kétszer aktiválódik. Ha ez a Távolsági sorban valósul meg, akkor a tulajdonos körének végén kap 1 Páncélt.
+keyword_fog;<#600101>Köd:</color> A tulajdonos körének kezdetén, sebzi a leggyengébb egységet a sorban 2 ponttal.
 keyword_formation;<#600101>Formáció:</color> Ha ezen egység a Közelharci sorra van kijátszva, Hévet kap. Ha a Távolsági sorra, erősödik 1 ponttal.
 keyword_friendly;<#600101>Szövetséges:</color> Azon egység, amelyik a te térfeleden található.
 keyword_frost;<#600101>Fagy:</color> A tulajdonosa körének kezdetén, sebzi a legnagyobb erejű egységet ebben a sorban kettővel.
@@ -4680,7 +4680,7 @@ keyword_reveal;<#600101>Felfed:</color> Mutasd meg a kártyát mindkét játéko
 keyword_revealed;<#600101>Felfedett:</color> Olyan kártya a kézben, ami már át lett fordítva.
 keyword_revenge;<#600101>Bosszú:</color> Aktiválódik ez a képesség, ha ez a kártya a tábláról a temetőbe kerül az ellenfél köre alatt.
 keyword_round_end;<#600101>Forduló vége:</color> Aktiválódik ez a képesség, ha a forduló véget ért.
-keyword_rupture;<#600101>Megszakadás:</color> A tulajdonoságan körének végén, az ezen állapottal rendelkező egység a saját alaperejének megfelelő sebzést szenved el, majd az állapot eltávolításra kerül.
+keyword_rupture;<#600101>Megszakadás:</color> A tulajdonos körének végén, az ezen állapottal rendelkező egység a saját alaperejének megfelelő sebzést szenved el, majd az állapot eltávolításra kerül.
 keyword_sabbath;<#600101>Boszorkányszombat:</color> A képesség feltétele, hogy legalább az egyik sorod értéke 25, vagy több legyen.
 keyword_seize;<#600101>Elfogás:</color> Mozgasd az ellenséges egységet a szemközti sorra, és adj neki Kémkedést! Ha már Kémkedik, távolítsd azt el róla!
 keyword_shield;<#600101>Pajzs:</color> Ha egy ezen állapottal rendelkező egységet sebzés érné, az hatástalan lesz és ez az állapot eltávolításra kerül.

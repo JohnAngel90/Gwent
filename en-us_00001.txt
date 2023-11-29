@@ -2620,7 +2620,7 @@ arena_event_desc_scoia;Ősi fajok háborúja\n\nAz emberek megjelenése előtt a
 arena_event_desc_silver;Óriások csatája\n\nHívd az óriások erejét! Ezen esemény alatt, csak a 11+-os ellátási költségű kártyák használhatóak.
 arena_event_desc_skellige;Klán viadal\n\nA skelligeiek harciassága legendás. Csak Skellige kártyái használhatóak ezen kihívás alatt!
 arena_event_desc_swap;Váltány\n\nFordítsd az ellenfeled erejét az előnyödre! Ebben a kihívásban játssz az ellenfeled paklijával a sajátod helyett!
-arena_event_desc_syndicate;Szindikátus!\n\nGaunter kedveli a kétes alakokat, a szervezett bunözést és a csínytevéseket. Ebben a kihívásban a kártyakészlet a Szindikátus frakció kártyáira korlátozódik.
+arena_event_desc_syndicate;Szindikátus!\n\nGaunter kedveli a kétes alakokat, a szervezett bűnözést és a csínytevéseket. Ebben a kihívásban a kártyakészlet a Szindikátus frakció kártyáira korlátozódik.
 arena_event_desc_viper;Vipera szezon\n\nEbben a módban szezonális mérkőzéseket játszhatsz az általános pakliépítés szabályai nélkül.
 arena_event_four_kind;Négy egyforma\n\nA közönséges csőcselék betört az arénába! Ebben a kihívásban csak a 4 ellátási költségű kártyák játszanak.
 arena_event_mode_classic_title;ALAPÉRTELMEZETT
@@ -2652,7 +2652,7 @@ arena_panel_encounter_info_wins;Győzelmek
 arena_panel_exit;Kilépés
 arena_panel_intro_requirements_title;Belépési díj
 arena_panel_intro_requirements_title_after_closing;Új Draft mód jön hamarosan!
-arena_panel_intro_rules_text;Minél több ellenfelet győzől le, annál nagyobb lesz a jutalom! Az Aréna véget ér 3 bukás, vagy 9 győzelem után. Az Aréna hamarosan bezárja kapuit. A részletekért látogatasd meg a playgwent.com oldal újdonságok részét.
+arena_panel_intro_rules_text;Minél több ellenfelet győzől le, annál nagyobb lesz a jutalom! Az Aréna véget ér 3 bukás, vagy 9 győzelem után. Az Aréna hamarosan bezárja kapuit. A részletekért látogasd meg a playgwent.com oldal újdonságok részét.
 arena_panel_intro_rules_text_after_closing;Az aréna mód bezárja kapuit október 13-án. A zárás után kapsz 150 ércet minden fel nem használt Tükör Szilánk után, plusz további jutalmakat a befejezetlen aréna sorozat után. A részletekért látogasd meg a playgwent.com oldalát!
 arena_panel_intro_rules_text_before_closing;Minél több ellenfeled győzöl le, annál nagyobb lesz a jutalom!\nAz aréna sorozat véget ér 3 bukás, vagy 9 győzelem után.\nAz aréna hamarosan véget ér™. A részletekért látogasd meg a playgwent.com oldalát!
 arena_panel_intro_rules_title;A paktum szabályai (hamarosan vége)
@@ -2861,7 +2861,7 @@ battle_for_bridge_on_yaruga;Csata Yaruga hídjáért
 battle_has_begun;A csata elkezdődött! Itt az ideje a csínytevésnek és a zsákmányolásnak!
 battle_results_rewards_timeout_description;Nem sikerült megjeleníteni a jutalmakat a mérkőzés összegzésénél. Ne feledd, hogy ettől függetlenül a haladásod és a jutalmaid elszámolásra kerülnek!
 battle_results_rewards_timeout_title;Jutalom megjelenítési hibája
-bearly_balanced_seasonal_mode_desc;A paklid lecserélődik 16, különböző erő értéku <b>Idős medvére</b>. A vezető képessége nem elérhető.
+bearly_balanced_seasonal_mode_desc;A paklid lecserélődik 16, különböző erő értékű <b>Idős medvére</b>. A vezető képessége nem elérhető.
 bearly_balanced_seasonal_mode_title;Medve uralom
 beginner_loading_screen_hint_1;A kezedben lévő kártyák megmaradnak a következő fordulóra is.
 beginner_loading_screen_hint_10;Skellige harcosai előnyt kovácsolnak mind saját, mind ellenfelük sérülésiből!
@@ -3184,7 +3184,7 @@ challenges_back;Vissza
 challenges_select;Kiválaszt
 challenges_title;Kihívások
 change_favourite_card;Kártya cseréje
-changes_to_eula_desc;A GWENTfinity projekt bevezetésével bemutatjuk az új végfelhasználói licenzszerződést, ami 2024 január 1-i hatállyal lesz érvényben.
+changes_to_eula_desc;A GWENTfinity projekt bevezetésével bemutatjuk az új végfelhasználói licencszerződést, ami 2024 január 1-i hatállyal lesz érvényben.
 changes_to_eula_subtitle;Felhasználói feltétel megnézése
 changes_to_eula_title;Az EULA változásai
 character_cards;Placeholder
@@ -7190,7 +7190,7 @@ shop_data_blizzard_rarog_desc;<sprite="PopupIcons" name="Cardback"> Blizzard Rar
 shop_data_blizzard_rarog_title;Blizzard Rarog kártyahátlap
 shop_data_blood_drunk_bundle_desc;<sprite="PopupIcons" name="CardBack"> Blood Pact Cardback\n\n<sprite="PopupIcons" name="Border"> Bloodwine Border\n\n<sprite="PopupIcons" name="Avatar"> Blood Vision Avatar\n\n<sprite="PopupIcons" name="Avatar"> Thirsty Maiden Avatar\n\n<sprite="PopupIcons" name="Avatar"> Blood Rogue Avatar\n\n<sprite="PopupIcons" name="Title"> "Blood-drunk" Title\n\nThe apparition thirsts. It eyes your throat with the same eagerness you pour your wine...
 shop_data_blood_drunk_bundle_title;Blood-drunk Bundle
-shop_data_blood_moon_pack_desc;Whether you side with the monster invasion or choose to resist, the Blood Moon csomag will help you better prepare for battles that lie ahead. The pack contains: \n\n <sprite="PopupIcons" name="CCKeg">  100 Bíbor Átok hordó\n\n <sprite="PopupIcons" name="Powder">  1000 meteoritpor\n\n <sprite="PopupIcons" name="Ticket">  10 Tükör Szilánks \n\n This offer is available until Április 30, 2019 and can be purchased an unlimited number of times.
+shop_data_blood_moon_pack_desc;Whether you side with the monster invasion or choose to resist, the Blood Moon csomag will help you better prepare for battles that lie ahead. The pack contains: \n\n <sprite="PopupIcons" name="CCKeg">  100 Bíbor Átok hordó\n\n <sprite="PopupIcons" name="Powder">  1000 meteoritpor\n\n <sprite="PopupIcons" name="Ticket">  10 Tükör Szilánk \n\n This offer is available until Április 30, 2019 and can be purchased an unlimited number of times.
 shop_data_blood_moon_pack_title;Blood Moon csomag
 shop_data_blood_pact_cardback_desc;<sprite="PopupIcons" name="CardBack"> Blood Pact Cardback\n\nWhat ties us more than blood, hmm? Promises? Debts? Rope?
 shop_data_blood_pact_cardback_title;Blood Pact Cardback
