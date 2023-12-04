@@ -1229,7 +1229,7 @@
 200529_tooltip;<keyword=deploy>Lehelyezés</keyword>: {Boost} ponttal erősíti magát.\nAmikor Katonát játszol ki, <keyword=summon>Megidézi</keyword> magát a temetődből egy véletlenszerű sorodra.
 200530_fluff;Ennek a sörnek biztos zöldnek kell lennie…?
 200530_name;Romlott sör
-200530_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Sebez egy ellenséges egységet {Damage} ponttal és <keyword=infused>Felruházza</keyword> ezzel: "{tainted}".
+200530_tooltip;<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Sebez egy ellenséges egységet {Damage} ponttal és <keyword=infused>Felruházza</keyword> ezzel: "{tainted}".\n<keyword=charge>Töltet</keyword>: {Charges}
 200532_fluff;Boros, a legendás Fuchs klán alapítója meghalt, miután túlzásba vitte az ivászatot. Elájult, miközben elérte az arany gyűrűjét, ami beleesett egy patakba.
 200532_name;Ősök söre
 200532_tooltip;<keyword=resilient>Rugalmasság</keyword>.\n<keyword=zeal>Hév</keyword>. <keyword=order>Parancs</keyword>: Erősít egy egységet {Boost} ponttal és <keyword=infused>Felruházza</keyword> ezzel: "{ale}".\n<keyword=cooldown>Lehiggadás</keyword>: {Cooldown}
@@ -1448,7 +1448,7 @@
 201696_tooltip;<keyword=deploy>Lehelyezés</keyword>: Mozgass egy egységet a másik sorra!\n<keyword=order>Parancs</keyword>: Adj egy szövetséges egységnek 2 <keyword=armor>Páncélt</keyword>!
 201697_fluff;A vámpírok mind egyetértenek abban, hogy ennek a főzetnek a használata sportszerűtlenség.
 201697_name;Fekete Vér
-201697_tooltip;A következő alkalommal, amikor az ellenség erősítést kap, semmisítsd meg azt az egységet ezzel a kártyával együtt!
+201697_tooltip;Amikor az ellenség erősítést kap, semmisítsd meg azt az egységet ezzel a kártyával együtt!
 201698_fluff;Néhány nekrofág annyira megkedveli az emberi hús ízét, hogy többé nem érik be a kiásott holttestekkel...
 201698_name;Ozzrel
 201698_tooltip;<keyword=deploy>Lehelyezés</keyword> (<keyword=melee>Közelharci</keyword>): <keyword=consume>Bekebelez</keyword> egy egységet az ellenfeled temetőjéből.\n<keyword=deploy>Lehelyezés</keyword> (<keyword=ranged>Távolsági</keyword>): <keyword=consume>Bekebelez</keyword> egy egységet a saját temetődből.
