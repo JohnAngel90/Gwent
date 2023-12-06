@@ -389,63 +389,63 @@ achievement_10693_desc;Játssz 30 mérkőzést, amely alatt kijátszol legalább
 achievement_10693_title;Harckész
 achievement_11000_desc;Nyerj {0} mérkőzést a Szörnyekkel az aktív kihívás alatt!
 achievement_11000_new_desc;Nyerj {0} mérkőzést a Szörnyekkel az aktív kihívás alatt!
-achievement_11001_desc;Teljesíts 3 küldetés, miközben a Szörnyeket támogatod a kihívás esemény alatt!
+achievement_11001_desc;Teljesíts 3 küldetést, miközben a Szörnyeket támogatod a kihívás esemény alatt!
 achievement_11001_title;Minion
-achievement_11002_desc;Teljesíts 5 küldetés, miközben a Szörnyeket támogatod a kihívás esemény alatt!
+achievement_11002_desc;Teljesíts 5 küldetést, miközben a Szörnyeket támogatod a kihívás esemény alatt!
 achievement_11002_title;Tanonc
-achievement_11003_desc;Teljesíts 10 küldetés, miközben a Szörnyeket támogatod a kihívás esemény alatt!
+achievement_11003_desc;Teljesíts 10 küldetést, miközben a Szörnyeket támogatod a kihívás esemény alatt!
 achievement_11003_title;Akolitus
-achievement_11004_desc;Teljesíts 15 küldetés, miközben a Szörnyeket támogatod a kihívás esemény alatt!
+achievement_11004_desc;Teljesíts 15 küldetést, miközben a Szörnyeket támogatod a kihívás esemény alatt!
 achievement_11004_title;Besúgó
-achievement_11005_desc;Teljesíts 25 küldetés, miközben a Szörnyeket támogatod a kihívás esemény alatt!
+achievement_11005_desc;Teljesíts 25 küldetést, miközben a Szörnyeket támogatod a kihívás esemény alatt!
 achievement_11005_title;Óriás
 achievement_11010_desc;Nyerj {0} mérkőzést Skelligével az aktív kihívás alatt!
 achievement_11010_new_desc;Nyerj {0} mérkőzést Skelligével az aktív kihívás alatt!
-achievement_11011_desc;Teljesíts 3 küldetés, miközben Skelligét támogatod a kihívás esemény alatt!
+achievement_11011_desc;Teljesíts 3 küldetést, miközben Skelligét támogatod a kihívás esemény alatt!
 achievement_11011_title;Rabló
-achievement_11012_desc;Teljesíts 5 küldetés, miközben Skelligét támogatod a kihívás esemény alatt!
+achievement_11012_desc;Teljesíts 5 küldetést, miközben Skelligét támogatod a kihívás esemény alatt!
 achievement_11012_title;Számkivetett
-achievement_11013_desc;Teljesíts 10 küldetés, miközben Skelligét támogatod a kihívás esemény alatt!
+achievement_11013_desc;Teljesíts 10 küldetést, miközben Skelligét támogatod a kihívás esemény alatt!
 achievement_11013_title;Fosztogató
-achievement_11014_desc;Teljesíts 15 küldetés, miközben Skelligét támogatod a kihívás esemény alatt!
+achievement_11014_desc;Teljesíts 15 küldetést, miközben Skelligét támogatod a kihívás esemény alatt!
 achievement_11014_title;Elsőtiszt
-achievement_11015_desc;Teljesíts 25 küldetés, miközben Skelligét támogatod a kihívás esemény alatt!
+achievement_11015_desc;Teljesíts 25 küldetést, miközben Skelligét támogatod a kihívás esemény alatt!
 achievement_11015_title;Kalóz kapitány
 achievement_11020_desc;Nyerj {0} mérkőzést az Északi Királyságokkal az aktív kihívás alatt!
 achievement_11020_new_desc;Nyerj {0} mérkőzést az Északi Királyságokkal az aktív kihívás alatt!
-achievement_11021_desc;Teljesíts 3 küldetés, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
+achievement_11021_desc;Teljesíts 3 küldetést, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
 achievement_11021_title;Regruta
-achievement_11022_desc;Teljesíts 5 küldetés, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
+achievement_11022_desc;Teljesíts 5 küldetést, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
 achievement_11022_title;Hadnagy
-achievement_11023_desc;Teljesíts 10 küldetés, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
+achievement_11023_desc;Teljesíts 10 küldetést, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
 achievement_11023_title;Lojalista
-achievement_11024_desc;Teljesíts 15 küldetés, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
+achievement_11024_desc;Teljesíts 15 küldetést, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
 achievement_11024_title;Patrióta
-achievement_11025_desc;Teljesíts 25 küldetés, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
+achievement_11025_desc;Teljesíts 25 küldetést, miközben az Északi Királyságokat támogatod a kihívás esemény alatt!
 achievement_11025_title;A királyért és a hazáért!
 achievement_11030_desc;Nyerj {0} mérkőzést Nilfgaarddal az aktív kihívás alatt!
 achievement_11030_new_desc;Nyerj {0} mérkőzést Nilfgaarddal az aktív kihívás alatt!
-achievement_11031_desc;Teljesíts 3 küldetés, miközben Nilfgaardot támogatod a kihívás esemény alatt!
+achievement_11031_desc;Teljesíts 3 küldetést, miközben Nilfgaardot támogatod a kihívás esemény alatt!
 achievement_11031_title;Kép
-achievement_11032_desc;Teljesíts 5 küldetés, miközben Nilfgaardot támogatod a kihívás esemény alatt!
+achievement_11032_desc;Teljesíts 5 küldetést, miközben Nilfgaardot támogatod a kihívás esemény alatt!
 achievement_11032_title;Orgyilkos
-achievement_11033_desc;Teljesíts 10 küldetés, miközben Nilfgaardot támogatod a kihívás esemény alatt!
+achievement_11033_desc;Teljesíts 10 küldetést, miközben Nilfgaardot támogatod a kihívás esemény alatt!
 achievement_11033_title;Áruló
-achievement_11034_desc;Teljesíts 15 küldetés, miközben Nilfgaardot támogatod a kihívás esemény alatt!
+achievement_11034_desc;Teljesíts 15 küldetést, miközben Nilfgaardot támogatod a kihívás esemény alatt!
 achievement_11034_title;Kémmester
-achievement_11035_desc;Teljesíts 25 küldetés, miközben Nilfgaardot támogatod a kihívás esemény alatt!
+achievement_11035_desc;Teljesíts 25 küldetést, miközben Nilfgaardot támogatod a kihívás esemény alatt!
 achievement_11035_title;Császár akarata
 achievement_11040_desc;Nyerj {0} mérkőzést a Mókusokkal az aktív kihívás alatt!
 achievement_11040_new_desc;Nyerj {0} mérkőzést a Mókusokkal az aktív kihívás alatt!
-achievement_11041_desc;Teljesíts 3 küldetés, miközben a Mókusokat támogatod a kihívás esemény alatt!
+achievement_11041_desc;Teljesíts 3 küldetést, miközben a Mókusokat támogatod a kihívás esemény alatt!
 achievement_11041_title;Felkelő
-achievement_11042_desc;Teljesíts 5 küldetés, miközben a Mókusokat támogatod a kihívás esemény alatt!
+achievement_11042_desc;Teljesíts 5 küldetést, miközben a Mókusokat támogatod a kihívás esemény alatt!
 achievement_11042_title;Öldöklő
-achievement_11043_desc;Teljesíts 10 küldetés, miközben a Mókusokat támogatod a kihívás esemény alatt!
+achievement_11043_desc;Teljesíts 10 küldetést, miközben a Mókusokat támogatod a kihívás esemény alatt!
 achievement_11043_title;Forradalmár
-achievement_11044_desc;Teljesíts 15 küldetés, miközben a Mókusokat támogatod a kihívás esemény alatt!
+achievement_11044_desc;Teljesíts 15 küldetést, miközben a Mókusokat támogatod a kihívás esemény alatt!
 achievement_11044_title;Fanatikus
-achievement_11045_desc;Teljesíts 25 küldetés, miközben a Mókusokat támogatod a kihívás esemény alatt!
+achievement_11045_desc;Teljesíts 25 küldetést, miközben a Mókusokat támogatod a kihívás esemény alatt!
 achievement_11045_title;Különítmény vezetője
 achievement_11050_desc;Nyerj {0} mérkőzést a Szindikátussal az aktív kihívás alatt!
 achievement_11050_new_desc;Nyerj {0} mérkőzést a Szindikátussal az aktív kihívás alatt!
@@ -2463,7 +2463,7 @@ advance_loading_screen_hint_44;Az utazás során a 100. szint feletti szintlép�
 advance_loading_screen_hint_5;A nilfgaardiaiak tudják, hogyan fordítsák a saját erősségeidet ellened!
 advance_loading_screen_hint_6;Skellige harcosai előnyt kovácsolnak mind saját, mind ellenfelük sérülésiből!
 advance_loading_screen_hint_7;Vigyázz a Mókusok csapdáival és rajtaütés taktikájukkal!
-advance_loading_screen_hint_8;A Szindikátus a sötét űzelmeihez a saját speciális érméit használja.
+advance_loading_screen_hint_8;A Szindikátus a sötét üzelmeihez a saját speciális érméit használja.
 advance_loading_screen_hint_9;A Szindikátus érméit bármelyik frakció gyűjtheti.
 adventure_eula;GWENT: ZSIVÁNY MÁGUS VÉGFELHASZNÁLÓI LICENCSZERZŐDÉS\nUtoljára frissítve: 2024. január 1.\n\n\nÜdvözlet, mi vagyunk a CD PROJEKT RED! Köszönjük, hogy érdeklődsz a GWENT: Zsivány Mágus iránt! These are the legal rules (we’ll call them “Rules”) which we ask you to follow if you download, install or play the game.\n\nWe’ve also included some informal short summaries of each of these Rules (although remember that it’s the full version which is legally binding).\n\n1. ABOUT THESE RULES\nThese Rules are a legally binding contract between you and CD PROJEKT S.A, with its seat at ul. Jagiellonska 74; 03-301, Warsaw, Poland (we will further call ourselves “CD PROJEKT RED” as CD PROJEKT S.A. is the legal entity CD PROJEKT RED is part of) regarding your use of GWENT: Rogue Mage. IMPORTANT: please also read our CD PROJEKT RED User Agreement which sets out the basic legal rules for most of our games and services, including this game. Our Privacy Policy describes how we collect, use and protect any personal information gathered from users. These Rules also supplement any terms and conditions of any digital distribution platforms, which you might use to download and play GWENT: Rogue Mage.\n\nThis is a legal agreement between you, dear gamer, and us, i.e. CD PROJEKT RED, regarding GWENT: Rogue Mage. There is also another document called CD PROJEKT RED User Agreement that sets out the rules for our games and services. These rules will also apply to your use of GWENT: Rogue Mage, so please read them as well!\n\n2. WHAT YOU GET WITH THE GAME\nWe (meaning CD PROJEKT RED) give you the personal right (called a 'licence' legally) to download, install and play GWENT: Rogue Mage on your personal device as long as you follow these Rules. This licence is for your personal use only (so you can't give a sublicense to someone else) and doesn't give you ownership rights.\nAt all times we continue to own the entirety of GWENT: Rogue Mage, all in-game content, any updates or additional content for them, manuals or other materials about them and the intellectual property rights in them, including all copyright, trademarks, patents and legal things like that (all of this together we call the ‘Game’).\n\nWe grant you the right to play GWENT: Rogue Mage and we sincerely hope you will enjoy it. We spent quite some time developing this game, so let us add that it is our creation and remains our ownership. This will not limit you in having fun with it, will it? ;)\n\n3. WHAT YOU CAN'T DO WITH THE GAME\nPlease act reasonably and don’t do anything with the Game that is against the law, these Rules or CD PROJEKT RED User Agreement. A general list of what you should not do with any of our games and services may be found in the CD PROJEKT RED User Agreement.\n\nThere are some things that we are not okay with, though, such as decompiling the game – you will find more examples of things you should not do in our CD PROJEKT RED User Agreement.\n\n4. WHAT CONTENT YOU CAN CREATE\nPlease refer to our Fan Content Guidelines for information on when/how you can make community-generated content connected with the Game (e.g. fan art, websites, videos/streams/Let’s Plays, mods etc.) and how we treat such content when it comes to ownership and licensing.\n\nOur community is known for creating wonderful content inspired by our games, so we came up with Fan Content Guidelines to help show what’s OK and what isn’t in this regard. Spoiler alert- Let’s Plays and streams of GWENT: Rogue Mage are totally fine and yes, you can monetize them!\n\n5. OTHER LEGAL STUFF\nAs you see, this is a short document and we may amend these Rules over time. If so, we'll post an updated version up and make reasonable efforts to notify you, where possible. Once we change these Rules, it will become legally binding on you 30 days after we post it online. Please also remember that these Rules are supplemented by CD PROJEKT RED User Agreement (https://regulations.cdprojektred.com/user_agreement).\n\nThese Rules are here for a reason. As a result, if you break any of them or CD PROJEKT RED User Agreement, we reserve the right to cancel or suspend your access to the Game.\n\nWe are not huge fans of rules but if you go against those, you may lose access to GWENT: Rogue Mage (temporarily or permanently). We are sure that nothing bad will happen, but the legal folks said this point has to be made here. Last thing- we may update this document in the future, but in such case we will post an updated version.\n\n6. PLATFORM SPECIFIC TERMS\n6.1 Android\n\nThe following terms apply only to users playing GWENT: Rogue Mage on Android devices they own or control:\n\na) You acknowledge that these Rules are concluded between you and CD PROJEKT RED, and not with Google LLC, Google Ireland Limited, Google Commerce Limited or Google Asia Pacific Pte. Limited (“Google”). CD PROJEKT RED, not Google, is solely responsible for GWENT: Rogue Mage and the content thereof.\n\nb) Your use of GWENT: Rogue Mage will be subject to the terms of these Rules, which grants you a non-transferable, limited license to use GWENT: Rogue Mage on Android devices. In addition, your use of GWENT: Rogue Mage will also be subject to usage rules set forth by Google in the Google Play Terms of Service.\n\nIf you play GWENT: Rogue Mage on Android, your use of GWENT: Rogue Mage will be subject to additional terms and conditions.\n\n6.2 APPLE iOS.\nThe following terms apply only to users playing GWENT: Rogue Mage on iOS devices they own or control:\n\na) You acknowledge that this Agreement is concluded between you and CD PROJEKT RED, and not with Apple Inc., (“Apple”). CD PROJEKT RED, not Apple, is solely responsible for GWENT: Rogue Mage and the content thereof.\n\nb) Your use of GWENT: Rogue Mage will be subject to the terms of this Agreement, which grants you a non-transferable, limited license to use GWENT: Rogue Mage on Apple-branded products you own or control, and as permitted by the Usage Rules set forth in the App Store Terms of Service.\n\nc) You acknowledge that Apple is not responsible for providing any maintenance and support services regarding GWENT: Rogue Mage.\n\nd) You acknowledge and agree that CD PROJEKT RED, and not Apple, is responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed.\nIn case you are entitled to a warranty under laws applicable in your jurisdiction, then in the event of any failure of GWENT: Rogue Mage to conform to such warranty, you may notify Apple, and Apple will refund the purchase price, if any, paid by you to Apple for GWENT: Rogue Mage. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to GWENT: Rogue Mage, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be sole responsibility of CD PROJEKT RED. Please note, however, that to the extent permitted by law CD PROJEKT RED has disclaimed or limited warranties in accordance with provisions of Section 12 of CD PROJEKT RED User Agreement (https://regulations.cdprojektred.com/user_agreement) “Warranties and Liability Regarding CD PROJEKT RED Games and Services”, \n\ne) You acknowledge that CD PROJEKT RED, not Apple, is responsible for addressing your or any third party claims relating to GWENT: Rogue Mage or your possession and/or use of GWENT: Rogue Mage, including, but not limited to: (i) product liability claims; (ii) any claim that the GWENT: Rogue Mage fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.\n\nf) You acknowledge that, in the event of any third pa+H4rty claim that GWENT: Rogue Mage or your possession and use of GWENT: Rogue Mage infringes that third that third party’s intellectual property rights, CD PROJEKT RED, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property claims.\n\ng) You acknowledge that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.\n\nh) You acknowledge and agree that Apple and Apple subsidiaries, are third party beneficiaries of this Agreement, and that, upon your acceptance of the terms and conditions of the Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third party beneficiary thereof.\nIf you play GWENT: Rogue Mage on iOS, your use of GWENT: Rogue Mage will be subject to additional terms and conditions.\nIn particular you confirm that Apple is not a party to this Agreement and is not responsible for GWENT: Rogue Mage, however, Apple is entitled to enforce this Agreement.
 age_restriction_description;A felhasználói fiókodban megadott életkor nem felel meg a játék használatához!
@@ -8772,7 +8772,7 @@ shop_data_northern_realms_evolving_faction_pack_desc;<sprite="PopupIcons" name="
 shop_data_now_available_ promo_desc;Már elérhető!
 shop_data_orianna_pack_desc;<sprite="PopupIcons" name="Card"> Orianna\n\n<sprite="PopupIcons" name="Title"> "Unsettling" Title\n\n<sprite="PopupIcons" name="PremiumKeg"> 1 Ultimate Premium Keg\n\nOrianna, especially at her kindest and most gentle, draws out the deepest, most primal dread in those who trust their instincts.
 shop_data_orianna_pack_title;Orianna Pack
-shop_data_origins_desc;Több száz évvel azelőtt játszódik, hogy Geralt és a többi vaják a Kontinenset járták volna volna. A Zsivány mágus az első egyjátékos kiegészítő a GWENT: A vaják kártyajátékhoz. Kombinálja a legjobb elemeit a roguelike típusú, pakliépítő, és stratégiai játékoknak, a GWENT egyedi kártya csatáival.
+shop_data_origins_desc;Több száz évvel azelőtt játszódik, hogy Geralt és a többi vaják a Kontinenset járták volna volna. A Zsivány mágus az első egyjátékos kiegészítő a GWENT: A vaják kártyajátékhoz. Kombinálja a roguelike típusú, pakliépítő, és stratégiai játékok legjobb elemeit, a GWENT egyedi kártya csatáival.
 shop_data_origins_title;Alap kiadás
 shop_data_originsdeluxe_desc;Több száz évvel azelőtt játszódik, hogy Geralt és a többi vaják a Kontinenset járták volna volna. A Zsivány mágus az első egyjátékos kiegészítő a GWENT: A vaják kártyajátékhoz. Kombinálja a legjobb elemeit a roguelike típusú, pakliépítő, és stratégiai játékoknak, a GWENT egyedi kártya csatáival.\n\n<b> Deluxe kiadás bónuszai:</b> \n- The Official Soundtrack\n- 3 alternative looks for Alzur to use in your playthrough\n\nBy purchasing Deluxe Edition you will also receive goodies in <b>GWENT: The Witcher Card Game:</b> \n<sprite="PopupIcons" name="Board"> Yamurlak Board\n<sprite="PopupIcons" name="CardBack"> 4x Rogue Mage kártyahátlaps\n<sprite="PopupIcons" name="Title"> "First Witcher"ť titulus\n<sprite="PopupIcons" name="PremiumKeg"> 5x alap prémium hordó
 shop_data_originsdeluxe_title;Deluxe kiadás
@@ -10228,7 +10228,7 @@ ui_reward_book_love2028_info_desc;Csokoládé szívekre van szükség minden jut
 ui_reward_book_saovine2022_info_desc;Vércseppekre van szükség minden jutalom feloldásához!
 ui_reward_book_saovine2023_info_desc;Vércseppekre van szükség minden jutalom feloldásához!
 ui_reward_book_winter2021_info_desc;Pine Cones needed to unlock all rewards
-ui_rewards_download_failure_description;A játékban csatlakozási probléma lépett fel; a jutalom adatokat nem sikerült letölteni. Kérjük várjon pár percet és indítsa újra a játékot!
+ui_rewards_download_failure_description;A játékban csatlakozási probléma lépett fel; a jutalom adatokat nem sikerült letölteni. Kérjük várj pár percet és indítsd újra a játékot!
 ui_rivia_board_shop_desc;Play on this board and unlock these rewards
 ui_round_tutorial_main_title;ROUND AND CARDS IN GWENT
 ui_round_tutorial_match_won;GYŐZELEM
@@ -13009,7 +13009,7 @@ voting_timer_finished;Szavazás lezárva
 voting_timer_requirements;A szavazás követelményei nem teljesültek
 wait_for_game_result_description;Várakozás a játék eredményére...
 wait_for_game_result_title;Nehezen eldönthető játék eredmény
-waiting_for_friend_to_choose_deck_message;A másik játékos paklit választ, kérjük várjon.
+waiting_for_friend_to_choose_deck_message;A másik játékos paklit választ, kérjük várj.
 waiting_for_friend_to_choose_deck_title;Várakozás
 waiting_for_invite_accept_message;Meghívó elküldve, várakozás, hogy a barátod elfogadja.
 waiting_for_invite_accept_title;Várakozás
