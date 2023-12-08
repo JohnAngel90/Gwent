@@ -3373,7 +3373,7 @@ db_filter_tooltip_sort;Sort
 db_filter_tooltip_sort_ascending;Alacsony
 db_filter_tooltip_sort_descending;Magas
 db_filter_tooltip_tier;Szín
-db_filter_tooltip_type_artifact;A műalkotásoknak nincs erejük, de a csatatéren maradnak kijátszás után.
+db_filter_tooltip_type_artifact;A Műalkotásoknak nincs erejük, de a csatatéren maradnak kijátszás után.
 db_filter_tooltip_type_leader_ability;A vezető képességeid meghatározzák a frakciódat, ahogy az ellátási költség limitedet is a pakliépíted során. A játék során ezek a paklidtól függetlenül működnek.
 db_filter_tooltip_type_special;A speciális kártyák a temetőbe kerülnek miután kijátszották őket.
 db_filter_tooltip_type_stratagem;A fortély kártyája kizárólag az első fordulóban jelenik meg az oldaladon, ha te vagy a kezdőjátékos. Semmilyen más kártyával, vagy képességgel nem lép kölcsönhatásba. Száműzi magát, miután a képessége felhasználásra került.
@@ -5914,7 +5914,7 @@ login_voting_patches_loading_failed;Balansz Bizottság patch failed to load!
 login_wait;Kérjük várjon...
 logout_popup_desc;Switch profile
 logout_popup_title;Do you want to switch to a different profile?
-love_event_2023_popup_body;Megszerzett <sprite="PopupIcons" name="Chocolate">Csokoládé szív által:\nNapi bejelentkezések <sprite="PopupIcons" name="Chocolate">1, Utazás küldetések <sprite="PopupIcons" name="Chocolate">5, Napi küldetések <sprite="PopupIcons" name="Chocolate">5, Elküldött GG-k <sprite="PopupIcons" name="Chocolate">1, Győzelmek <sprite="PopupIcons" name="Chocolate">3
+love_event_2023_popup_body;Obtain <sprite="PopupIcons" name="Chocolate">Chocolate Hearts through:\nDaily Logins <sprite="PopupIcons" name="Chocolate">1, Journey Quests <sprite="PopupIcons" name="Chocolate">5, Daily Quests <sprite="PopupIcons" name="Chocolate">5, Wins <sprite="PopupIcons" name="Chocolate">3\n\nExchange Chocolate Hearts for awesome rewards! Go to the Event page in the Shop to see what vanities you can unlock!\nYou can also use them in the Reward Book and trade for additional resources!
 love_event_2023_popup_dates;Február 08-22.
 love_event_2023_popup_shop;Váltsd be a csokoládé szíveket nagyszerű jutalmakra! Menj az esemény oldalára a bolton belül, hogy meglásd, milyen díszítéseket tudsz feloldani!\nArra is használhatod, hogy a Jutalmak Könyvében más nyersanyagokra cseréld őket!
 lunar_sale_title;Itt a Holdújévi akció!
@@ -6953,7 +6953,7 @@ remote_push_greedy_god_event_reminder;Play & earn #locoKey exculsive rewards!
 remote_push_greedy_god_event_reminder_title;Don't Miss Out! ?
 remote_push_greedy_god_event_side_unlock;Complete quests to claim special time-limited rewards! ⭐
 remote_push_greedy_god_event_side_unlock_title;New Quests Unlocked for #locoKey ❄️
-remote_push_journey_4_birthday;Yen and Ciri special birthday event has begun! Join the celebration, claim your gift and unlock even more rewards!
+remote_push_journey_4_birthday;Yen and Ciri's special birthday event has begun! Join the celebration, claim your gift, and unlock even more rewards!
 remote_push_journey_4_end_1;Yennefer's Journey is over soon! Use Fast Travel and claim all remaining rewards!
 remote_push_journey_4_end_2;Yennefer's Journey is over soon! Last chance to purchase and unlock all rewards!
 remote_push_journey_5;New Journey is here - join Triss on the path and unlock exclusive rewards!
@@ -7919,7 +7919,7 @@ sacred_and_profane;Szent és Világi
 saovine_event_2022_popup_body;Obtain <sprite="PopupIcons" name="Pearls"> Pearls by:\n Daily Logins <sprite="PopupIcons" name="Pearls">x1, Journey Quests <sprite="PopupIcons" name="Pearls">x5, Daily Quests <sprite="PopupIcons" name="Pearls">x5, Wins <sprite="PopupIcons" name="Pearls">x3.\nUse them to unlock unique ornaments in the Jutalmak Könyve and follow the story of Geralt and Dandelion who are trying to solve a murder case on the Saovine Party!
 saovine_event_2022_popup_dates;27 "” 07 November
 saovine_event_2022_popup_title;Saovine ünnepe
-saovine_event_popup_body;Obtain  <sprite="PopupIcons" name="Blood_Drop">Vércseppek:\nNapi bejelentkezés <sprite="PopupIcons" name="Blood_Drop">1, Heti küldetések <sprite="PopupIcons" name="Blood_Drop">5, Napi küldetések <sprite="PopupIcons" name="Blood_Drop">5, Győzelmek <sprite="PopupIcons" name="Blood_Drop">3\n\nHasználd őket a boltban, hogy feloldj egyedi díszítéseket!
+saovine_event_popup_body;Obtain <sprite="PopupIcons" name="Blood_Drop">Blood Drops through:\nDaily Logins <sprite="PopupIcons" name="Blood_Drop">1, Weekly Quests <sprite="PopupIcons" name="Blood_Drop">5, Daily Quests <sprite="PopupIcons" name="Blood_Drop">5, Wins <sprite="PopupIcons" name="Blood_Drop">3\n\nExchange Blood Drops for awesome rewards! Go to the Event page in the Shop to see what vanities you can unlock!\nYou can also use them in the Reward Book and trade for additional resources!
 saovine_event_popup_dates;Október 26-tól november 9-ig
 saovine_event_popup_intro;Obtain <sprite="PopupIcons" name="Blood_Drop">Vércseppek:
 saovine_event_popup_shop;Használd őket a boltban, hogy feloldj egyedi díszítéseket!
@@ -8039,7 +8039,7 @@ shop_category_summer_cycle;Nyári ciklus
 shop_category_summer_season;Nyári szezon
 shop_category_winter_cycle;Téli ciklus
 shop_category_winter_season;Téli szezon
-shop_christmas_board_desc;<sprite="PopupIcons" name="Board"> Yule Board\n\nTake a deep breath and fill your soul with the aroma of freshly cut pine trees smelling of stars and snow and magic!
+shop_christmas_board_desc;<sprite="PopupIcons" name="Board"> Yule Board\n\nThe slashing of ice skates across a frozen lake. The spruce lit by candles beneath a starry night. The warm crackling from a familiar hearth. The snowscape gently blanketing the horizon...
 shop_christmas_board_title;Karácsonyi játéktábla
 shop_classic_combo_pack_desc;<sprite="PopupIcons" name="Skin">Young Bran kinézet \n\n<sprite="PopupIcons" name="Card">All premium cards from Blood and Many Legs csomag\n\n<sprite="PopupIcons" name="Card">All premium cards from Schemes and Order csomag\n\n<sprite="PopupIcons" name="Card">All premium cards from Questionable Morality csomag\n\n<sprite="PopupIcons" name="Card">All premium cards from Generation Gap csomag\n\n<sprite="PopupIcons" name="Card">All premium cards from Unity and Precision csomag\n\n<sprite="PopupIcons" name="Card">All premium cards from Unicorn and the Stern csomag
 shop_classic_combo_pack_title;Classic's Combo csomag
@@ -8176,7 +8176,7 @@ shop_data_bear_pit_bundle_desc;<sprite="PopupIcons" name="Skin"> Brown Bear Skin
 shop_data_bear_pit_bundle_title;Bear Pit Bundle
 shop_data_birthday_auras_desc;<sprite="PopupIcons" name="Trinket"> Birthday Lilies Aura (Yennefer)\n\n<sprite="PopupIcons" name="Trinket"> Birthday Lilies Aura (Ciri)\n\nIt's not too outrageous to ask to be showered with lily petals on your special day, is it? Well, maybe a little.
 shop_data_birthday_auras_title;Birthday Lilies Aura Bundle
-shop_data_birthday_celebratory_cardback_desc;<sprite="PopupIcons" name="CardBack"> Celebratory Cardback\n\n♪ ...happy birthday, Yen and Ciri, happy birthday to you! ♫\n\n\nNote: This cardback can only be acquired through gifting.
+shop_data_birthday_celebratory_cardback_desc;<sprite="PopupIcons" name="CardBack"> Celebratory Cardback\n\n♪ ...happy birthday, Yen and Ciri, happy birthday to you! ♪\n\n\nNote: This cardback can only be acquired through gifting.
 shop_data_birthday_celebratory_cardback_title;Celebratory Cardback
 shop_data_birthday_girls_bundle_desc;<sprite="PopupIcons" name="Avatar"> Swallow Avatar\n\n<sprite="PopupIcons" name="Avatar"> Raven Avatar\n\n<sprite="PopupIcons" name="Avatar"> Cat Medallion Avatar\n\n<sprite="PopupIcons" name="Title"> "Birthday Girl" titulus\n\nRemembering those that matter to us—that is the gift that keeps on giving.
 shop_data_birthday_girls_bundle_title;Birthday Girls Bundle
@@ -8184,7 +8184,7 @@ shop_data_black_sun_pack_desc;<sprite="PopupIcons" name="PremiumCard"> All Black
 shop_data_black_sun_pack_title;Fekete Nap csomag
 shop_data_blizzard_rarog_bundle_desc;<sprite="PopupIcons" name="CardBack"> Blizzard Rarog kártyahátlap\n\n<sprite="PopupIcons" name="Coin"> Frozen Rarog Coin\n\nIn the wise words of the rarog: stay cool!
 shop_data_blizzard_rarog_bundle_title;Blizzard Rarog Bundle
-shop_data_blizzard_rarog_desc;<sprite="PopupIcons" name="Cardback"> Blizzard Rarog kártyahátlap\n\nIn the wise words of the rarog: stay cool!
+shop_data_blizzard_rarog_desc;<sprite="PopupIcons" name="CardBack"> Blizzard Rarog Cardback\n\nIn the wise words of the rarog: stay cool!
 shop_data_blizzard_rarog_title;Blizzard Rarog kártyahátlap
 shop_data_blood_drunk_bundle_desc;<sprite="PopupIcons" name="CardBack"> Blood Pact Cardback\n\n<sprite="PopupIcons" name="Border"> Bloodwine Border\n\n<sprite="PopupIcons" name="Avatar"> Blood Vision Avatar\n\n<sprite="PopupIcons" name="Avatar"> Thirsty Maiden Avatar\n\n<sprite="PopupIcons" name="Avatar"> Blood Rogue Avatar\n\n<sprite="PopupIcons" name="Title"> "Blood-drunk" Title\n\nThe apparition thirsts. It eyes your throat with the same eagerness you pour your wine...
 shop_data_blood_drunk_bundle_title;Blood-drunk Bundle
@@ -8445,7 +8445,7 @@ shop_data_ep7_2_bundle_desc;<sprite="PopupIcons" name="CardBack"> Jester Cardbac
 shop_data_ep7_2_bundle_title;Thanedd-i puccs Bundle
 shop_data_ep7_2_keg_gaea_title;Hulladék x7, A hatalom ára hordó x2
 shop_data_ep7_2_keg_title;A hatalom ára hordó x2
-shop_data_ep7_2_pack_mega_pack_desc;<sprite="PopupIcons" name="Cardback"> Jester Cardback\n\n<sprite="PopupIcons" name="Avatar"> All Thanedd Coup faction Avatars\n\n<sprite="PopupIcons" name="PremiumCard"> All Thanedd Coup premium cards\n\nTo save magic from itself—a hopeless endeavor.
+shop_data_ep7_2_pack_mega_pack_desc;<sprite="PopupIcons" name="CardBack"> Jester Cardback\n\n<sprite="PopupIcons" name="Avatar"> All Thanedd Coup faction Avatars\n\n<sprite="PopupIcons" name="PremiumCard"> All Thanedd Coup premium cards\n\nTo save magic from itself—a hopeless endeavor.
 shop_data_ep7_2_pack_mega_pack_title;Thanedd-i puccs - Combo Pack
 shop_data_ep7_3_bundle_desc;<sprite="PopupIcons" name="Skin"> The Witchfinder Skin\n\n<sprite="PopupIcons" name="Avatar"> All Harvest of Sorrow faction Avatars\n\nThe only thing worse than witches and heretics are those that harbor them!
 shop_data_ep7_3_bundle_title;Harvest of Sorrow Bundle
@@ -8515,7 +8515,7 @@ shop_data_eredin_snowman_skin_title;Hóember Eredin kinézet
 shop_data_eternal_tree_evolving_cardback_desc;<sprite="PopupIcons" name="CardBack"> Örökfa fejlődő kártyahátlap\n\nThink of your pact with Tükörmester as the sapling of a tree that will never wither.
 shop_data_eternal_tree_evolving_cardback_title;Örökfa fejlődő kártyahátlap
 shop_data_event_cosmetics_category_name;Díszítések
-shop_data_event_kegs_category_name;Zúzós hordók
+shop_data_event_kegs_category_name;Zúzni való hordó
 shop_data_event_packs_category_name;Csomagok
 shop_data_expansion_pass_ep7_desc;True power can be yours...\n\nThis Expansion Pass will grant access to the following items, spread between each of the A hatalom ára releases:\n\n- 117 PREMIUM A hatalom ára cards, including 78 unique ones\n\n- 21 Themed díszítések - 18 avatars, a gameboard, a cardback, and a vezető kinézet\n\n- Bonus item: animált halotti máglya érme — unlockable immediately\n\nThis offer contains premium versions of all cards from the A hatalom ára set, with a selection of cards becoming available with the release of each of the three expansions. The same applies for all díszítést included in this offer — with the exception of the animált halotti máglya bonus item, which is available to use immediately.
 shop_data_expansion_pass_ep7_title;A hatalom ára - Expansion Pass
@@ -8532,9 +8532,10 @@ shop_data_forgotten_treasures_pack_desc;<sprite="PopupIcons" name="PremiumCard">
 shop_data_forgotten_treasures_pack_title;Forgotten Treasures csomag
 shop_data_freezing_cold_bundle_desc;<sprite="PopupIcons" name="Border"> Merry Siege Border\n\n<sprite="PopupIcons" name="Border"> Merry Ambush Border\n\n<sprite="PopupIcons" name="Border"> Merry Raid Border\n\n<sprite="PopupIcons" name="Avatar"> Little Red Bloody Hood Avatar\n\n<sprite="PopupIcons" name="Avatar"> Dana Mistletoe Avatar\n\n<sprite="PopupIcons" name="Avatar"> Jolly Gudmund Avatar\n\n<sprite="PopupIcons" name="Title"> "Winter Warfare Veteran" Title\n\n<sprite="PopupIcons" name="Title"> "Chilling Ambusher" Title\n\n<sprite="PopupIcons" name="Title"> "Northern Warrior" Title\n\nCelebrate life persevering through the harshest cold!
 shop_data_freezing_cold_bundle_title;Evergreen Yule Bundle
-shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Frozen skin (Northern Realms) \n\n<sprite="PopupIcons" name="Board"> Demavend's Pride board\n\nThere's a chill in the air, can you feel it?... \n\nThis Bundle was introduced to support GWENT Open 3 during the Year of the Wererat.
-shop_data_frozen_bundle_title;Frozen Bundle
+shop_data_frozen_bundle_desc;<sprite="PopupIcons" name="Skin"> Frozen Specter Skin (Northern Realms)\n\n<sprite="PopupIcons" name="Board"> Demavend's Pride Board\n\nYou can never know what will happen to you at sea. You might run into a glacier, or you might become the glacier.
+shop_data_frozen_bundle_title;Ice Bundle
 shop_data_full_moon_board_desc;<sprite="PopupIcons" name="Board"> Full Moon Board\n\nFor ages we've been told of the divinity of the Moon, its magical properties, its great beauty, its role in tales both romantic and tragic... but what if it's really just nothing more than a big rock in the sky?\n\nPurchasing this product will help support GWENT esports; 50% of the proceeds from this gameboard will directly boost the prize pool for the GWENT World Masters Season 5!
+shop_data_full_moon_board_no_esport_desc;<sprite="PopupIcons" name="Board"> Full Moon Board\n\nFor ages we've been told of the divinity of the Moon, its magical properties, its great beauty, its role in tales both romantic and tragic... but what if it's really just nothing more than a big rock in the sky?
 shop_data_full_moon_board_title;Full Moon Board
 shop_data_gang_bundle_desc;<sprite="PopupIcons" name="Border"> Trancsír Border\n\n<sprite="PopupIcons" name="Border"> Kurafi Kölyök Border\n\n<sprite="PopupIcons" name="Border"> Gudrun Bjornsdottir Border\n\n<sprite="PopupIcons" name="Border"> Koldusok királya Border\n\n<sprite="PopupIcons" name="Border"> Cyrus Hemmelfart Border\n\n<sprite="PopupIcons" name="Border"> Dijkstra Border\n\nShow the world where your true allegiance lies within the Szindikátus by equipping borders inspired by those fierce leaders.
 shop_data_gang_bundle_title;Szindikátus vezetők Bundle
@@ -8573,7 +8574,7 @@ shop_data_heroes_bundle_title;Heroes' Bundle
 shop_data_homecoming_pack_desc;This is a special offer to celebrate the full release of GWENT. It contains:\n\n    <sprite="PopupIcons" name="Card"> x1 Legendás Card\n\n    <sprite="PopupIcons" name="Keg"> x24 alap szett Kegs\n\n    <sprite="PopupIcons" name="Powder"> x500 meteoritpor\n\n    <sprite="PopupIcons" name="Ticket"> x5 Arena Tickets
 shop_data_homecoming_pack_promo_title;Homecoming csomag
 shop_data_homecoming_pack_title;Homecoming csomag
-shop_data_ice_pack_open3_desc;<sprite="PopupIcons" name="Border"> Animated Ice Border\n\n<sprite="PopupIcons" name="Avatar"> Frozen Avatar\n\n<sprite="PopupIcons" name="Title"> "Frozen" Title\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nBrrrrrrr, it's getting cold in here!\n\nThis pack was introduced to support GWENT Open 3 during the Year of the Wererat
+shop_data_ice_pack_open3_desc;<sprite="PopupIcons" name="Avatar"> Frozen Avatar\n\n<sprite="PopupIcons" name="Border"> Animated Ice Border\n\n<sprite="PopupIcons" name="Title"> "Frozen" Title\n\n<sprite="PopupIcons" name="Powder"> 400 Meteorite Powder\n\nFrost envelops the shores and lakes, imprisoning anything that falters on its journey...
 shop_data_ice_pack_open3_title;Jeges csomag
 shop_data_invaders_bundle_desc;<sprite="PopupIcons" name="Skin"> The White Flame Skin (Nilfgaard)\n\n<sprite="PopupIcons" name="Board"> After Battle Board\n\n<sprite="PopupIcons" name="Avatar"> Menno Coehoorn Avatar\n\nOnce we trample the Nordling armies into the dirt, we will erect new cities atop the remains.
 shop_data_invaders_bundle_title;Conquest Bundle
@@ -8803,7 +8804,7 @@ shop_data_prosperity_pack_2022_desc;<sprite="PopupIcons" name="PremiumKeg"> 25 A
 shop_data_prosperity_pack_title;Prosperity csomag
 shop_data_rabbit_bundle_desc;<sprite="PopupIcons" name="CardBack"> Rabbit kártyahátlap\n\n<sprite="PopupIcons" name="Avatar"> Rabbit Avatar\n\n<sprite="PopupIcons" name="Title"> Moon Rabbit titulus\n\nShupe wishing you lots of luck like lucky bunny. May your future brightly shine like flying lantern, and your pouch jingling with dreams of stuff to buy.
 shop_data_rabbit_bundle_title;Rabbit Bundle
-shop_data_rarog_bundle_desc;<sprite="PopupIcons" name="Cardback"> Winter Rarog kártyahátlap\n\n<sprite="PopupIcons" name="Coin"> Frozen Rarog Coin\n\n♪ ... and a raaaarog on some branches! ♫
+shop_data_rarog_bundle_desc;<sprite="PopupIcons" name="CardBack"> Winter Rarog Cardback\n\n<sprite="PopupIcons" name="Coin"> Frozen Rarog Coin\n\n♪ ... and a raaaarog on some branches! ♫
 shop_data_rarog_bundle_title;Winter Rarog Bundle
 shop_data_raven_and_swallow_cardback_desc;<sprite="PopupIcons" name="CardBack"> Raven and Swallow Cardback\n\nOne is rarely the same without the other.
 shop_data_raven_and_swallow_cardback_title;Raven and Swallow Cardback
@@ -8870,7 +8871,7 @@ shop_data_shupe_event_bandit_title;Poverty Bundle
 shop_data_shupe_event_booster_pack_desc;<sprite="PopupIcons" name="PowderNeg"> 30 meteoritpor\n\n<sprite="PopupIcons" name="ScrapsNeg"> 40 hulladék\n\n<sprite="PopupIcons" name="Ore"> 50 érc\n\nRossz nap, ember? No sad face. When Shupe sad, Shupe give Shupe present. Uman doing same.
 shop_data_shupe_event_booster_pack_title;Jó ajándékcsomag
 shop_data_shupe_event_economy_pack_desc;<sprite="PopupIcons" name="Keg"> Alap hordó x1\n\nPsst! You! Uman! See keg? Shupe cutting special deal. What inside? Shupe no say. You buy first, give smash-smash, and if liking, can get more!
-shop_data_shupe_event_economy_pack_title;Zúzni való hordók
+shop_data_shupe_event_economy_pack_title;Zúzni való hordó
 shop_data_shupe_event_harpy_desc;<sprite="PopupIcons" name="Skin"> Hárpia kinézet\n\nDon't even think about nabbing her egg!
 shop_data_shupe_event_harpy_title;Hárpia kinézet
 shop_data_shupe_event_mp_bundle_desc;<sprite="PopupIcons" name="Border"> Shupe, a kereső keret\n\n<sprite="PopupIcons" name="Avatar"> Shupe, a kereső avatár\n\n<sprite="PopupIcons" name="Title"> "Kereső" titulus\n\nOne day, Shupe tired and going to cave, but then Shupe seeing everywhere sparkly rocks! Not believing! Shupe wanting lots and lots and lots, so more sleepy-sleep.
@@ -8999,7 +9000,7 @@ shop_data_summer_pack_open_desc;<sprite="PopupIcons" name="Coin"> Nyári érme\n
 shop_data_summer_pack_open_title;Summer csomag (OPEN 3)
 shop_data_summer_shupe_bundle_desc;<sprite="PopupIcons" name="Border"> Nyári festő keret\n\n<sprite="PopupIcons" name="Avatar"> Shupe Avatar\n\n<sprite="PopupIcons" name="Title"> Nyári festő titulus\n\nAhh, Summer! Time of taking time to relaxing and paint stuff!
 shop_data_summer_shupe_bundle_title;Shupe Summer Bundle
-shop_data_svalblod_bear_skin_desc;<sprite="PopupIcons" name="Skin"> White Bear Skin\n\nEmbody the savagery of Svalblod, whose unrivalled fury makes the lives of his foes unbearable.
+shop_data_svalblod_bear_skin_desc;<sprite="PopupIcons" name="Skin"> White Bear Skin (Skellige)\n\nEmbody the savagery of Svalblod, whose unrivalled fury makes the lives of his foes unbearable.
 shop_data_svalblod_bear_skin_title;White Bear Svalblod Skin
 shop_data_syn_keg_desc;Ha kinyitod, ez a hordó ad neked 5 Szindikátus kártyát bármelyik szettből, ebből 4 minimum átlagos ritkaságú. Az 5. kártyát 3 közül választhatod ki, ez minimum ritka besorolású kártya lesz.
 shop_data_syn_keg_title;Szindikátus hordó
@@ -9317,7 +9318,7 @@ shupe_adventures_desc;Shupe visszatért a kalandjaiból. Látogass el az üzletb
 shupe_event_currency_name;Csillogó kövek
 shupe_event_desc_welcome_screen;Shupe visszatért a kalandjaiból. Látogass el az üzletbe, hogy meghallgasd kalandjait és szerezz néhány menő díszítést a további GWENT játékkal!
 shupe_event_name;Shupe kalandjai
-shupe_event_popup_body;Kapsz <sprite="PopupIcons" name="Rocks">Csillogó kövek:\nNapi bejelentkezés <sprite="PopupIcons" name="Rocks">1, Utazás küldetések <sprite="PopupIcons" name="Rocks">5, Napi küldetések <sprite="PopupIcons" name="Rocks">5, Győzelmek <sprite="PopupIcons" name="Rocks">3
+shupe_event_popup_body;Kapsz <sprite="PopupIcons" name="Rocks">Csillogó kövek:\nNapi bejelentkezés <sprite="PopupIcons" name="Rocks">1, Utazás küldetések <sprite="PopupIcons" name="Rocks">5, Napi küldetések <sprite="PopupIcons" name="Rocks">5, Győzelmek <sprite="PopupIcons" name="Rocks">3\n\nExchange Sparkly Rocks for awesome rewards! Go to the Event page in the Shop to see what vanities you can unlock!
 shupe_event_popup_dates;Május 12 — 26
 shupe_event_popup_intro;Kapsz <sprite="PopupIcons" name="Rocks">Csillogó kövekből:
 shupe_event_popup_shop;Használd őket a boltban, hogy feloldj egyedi csecsebecséket, melyeket Shupe gyűjtött össze!
@@ -13103,7 +13104,7 @@ welcome_to_gwent;Üdvözlünk a Gwent világában!
 welcome_to_shop;Üdvözlünk a boltban!
 welcome_to_sp_campaign;Egyszemélyes játékmód
 who_plays_by_rules;Ki játszik a szabályok szerint?
-winter_event_popup_body;Obtain <sprite="PopupIcons" name="Pine_Cones">Pine Cones through:\nNapi bejelentkezés <sprite="PopupIcons" name="Pine_Cones">1, Heti küldetések <sprite="PopupIcons" name="Pine_Cones">5, Napi küldetések <sprite="PopupIcons" name="Pine_Cones">5, Győzelmek <sprite="PopupIcons" name="Pine_Cones">3\n\nHasználd őket a boltban, hogy egyedi díszítéseket oldj fel!
+winter_event_popup_body;Obtain <sprite="PopupIcons" name="Pine_Cones">Pine Cones through:\nDaily Logins <sprite="PopupIcons" name="Pine_Cones">1, Weekly Quests <sprite="PopupIcons" name="Pine_Cones">5, Daily Quests <sprite="PopupIcons" name="Pine_Cones">5, Wins <sprite="PopupIcons" name="Pine_Cones">3\n\nExchange Pine Cones for awesome rewards! Go to the Event page in the Shop to see what vanities you can unlock!
 winter_event_popup_dates;December 6-tól 27-ig
 winter_event_popup_intro;Obtain <sprite="PopupIcons" name="Pine_Cones">Pine Cones through:
 winter_event_popup_shop;Használd őket a boltban, hogy feloldj egyedi díszítéseket!
