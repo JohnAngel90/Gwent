@@ -3374,7 +3374,7 @@ db_filter_tooltip_sort_ascending;Alacsony
 db_filter_tooltip_sort_descending;Magas
 db_filter_tooltip_tier;Szín
 db_filter_tooltip_type_artifact;A Műalkotásoknak nincs erejük, de a csatatéren maradnak kijátszás után.
-db_filter_tooltip_type_leader_ability;A vezető képességeid meghatározzák a frakciódat, ahogy az ellátási költség limitedet is a pakliépíted során. A játék során ezek a paklidtól függetlenül működnek.
+db_filter_tooltip_type_leader_ability;A vezető képességeid meghatározzák a frakciódat, ahogy az ellátási költség limitedet is a pakliépítésed során. A játék során ezek a paklidtól függetlenül működnek.
 db_filter_tooltip_type_special;A speciális kártyák a temetőbe kerülnek miután kijátszották őket.
 db_filter_tooltip_type_stratagem;A fortély kártyája kizárólag az első fordulóban jelenik meg az oldaladon, ha te vagy a kezdőjátékos. Semmilyen más kártyával, vagy képességgel nem lép kölcsönhatásba. Száműzi magát, miután a képessége felhasználásra került.
 db_filter_tooltip_type_unit;Az egységeknek van erejük és a csatatéren maradnak kijátszás után.

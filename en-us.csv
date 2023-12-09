@@ -4687,7 +4687,7 @@ keyword_shield;<#600101>Pajzs:</color> Ha egy ezen állapottal rendelkező egys�
 keyword_solitary;<#600101>Magányos:</color> Aktiválódik ez a képesség, ha csak egy példány van ebből a kártyából a táblán.
 keyword_spawn;<#600101>Teremt:</color> Kártyát ad a játékhoz.
 keyword_spend;<#600101>Költekezés:</color> Megfelelő számú Korona kell ahhoz, hogy aktiváld ezt a képességet.
-keyword_spring;<#600101>Rugó:</color> Manuálisan aktiválható egy lefordított Csapdán. A Rugó automatikusan aktiválja a Csapdát, ha az egy Műalkotás mellé lett kijátszva. A Rugóval rendelkező laok felfordulnak használat után.
+keyword_spring;<#600101>Rugó:</color> Manuálisan aktiválható egy lefordított Csapdán. A Rugó automatikusan aktiválja a Csapdát, ha az egy Műalkotás mellé lett kijátszva. A Rugóval rendelkező lapok felfordulnak használat után.
 keyword_spying;<#600101>Kémkedés:</color> Ezt az állapotot automatikusan megkapják az Áruló egységek. Engedélyezi a Konspiráció képességet.
 keyword_storm;<#600101>Vihar:</color> A tulajdonosa körének kezdetén, sebez minden egységet ebben a sorban 1 ponttal.
 keyword_strengthen;<#600101>Erősített:</color> Növeli az alaperejét az egységnek.
